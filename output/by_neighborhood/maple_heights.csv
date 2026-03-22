@@ -1,0 +1,619 @@
+house_id,neighborhood,price,square_feet,num_bedrooms,num_bathrooms,house_age,garage_spaces,lot_size_acres,has_pool,recently_renovated,energy_rating,location_score,school_rating,crime_rate,distance_downtown_miles,sale_date,days_on_market,buyer_id,buyer_budget,buyer_age_group,buyer_family_size,buyer_income_level,has_children,employment_type,buyer_preference,first_time_buyer
+H06570,Maple Heights,367417,1837,4,4,2,2,0.08,true,false,F,6,6,6,8,1/2/22,3,B06570,397249,35-44,3,medium,true,Dual income,Location & Schools,false
+H01771,Maple Heights,219745,1339,1,1,0,2,0.1,false,false,F,6,6,6,8,1/8/22,1,B01771,240418,45-54,1,low,false,Dual income,Space & Bedrooms,false
+H07554,Maple Heights,336786,1934,4,4,17,1,0.11,true,false,D,6,6,6,8,1/10/22,16,B07554,360878,35-44,2,medium,false,Full-time employed,Affordability,false
+H01490,Maple Heights,195140,1220,1,1,18,1,0.12,true,false,D,6,6,6,8,1/16/22,5,B01490,229143,25-34,1,low,false,Full-time employed,Investment,false
+H03285,Maple Heights,294302,2037,3,4,6,1,0.17,false,false,F,6,6,6,8,1/18/22,72,B03285,318767,55-64,2,medium,false,Self-employed,Affordability,false
+H00864,Maple Heights,264883,1681,2,2,11,1,0.15,true,false,F,6,6,6,8,1/20/22,1,B00864,308600,25-34,1,medium,false,Full-time employed,Affordability,false
+H07412,Maple Heights,233924,1360,2,2,2,2,0.16,false,false,F,6,6,6,8,1/20/22,19,B07412,270506,35-44,1,low,false,Self-employed,Space & Bedrooms,false
+H07353,Maple Heights,411791,2081,2,3,8,2,0.16,false,false,E,6,6,6,8,1/21/22,45,B07353,440666,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H00311,Maple Heights,120000,926,2,2,2,1,0.2,false,false,F,6,6,6,8,1/24/22,22,B00311,130000,25-34,1,low,false,Self-employed,Location & Schools,false
+H06482,Maple Heights,192149,1297,3,3,48,2,0.08,true,false,A,6,6,6,8,1/26/22,102,B06482,225875,35-44,2,low,false,Full-time employed,Space & Bedrooms,false
+H03901,Maple Heights,386968,2092,4,3,19,2,0.19,false,false,D,6,6,6,8,2/1/22,41,B03901,449953,45-54,3,medium,true,Full-time employed,Space & Bedrooms,false
+H07786,Maple Heights,140750,897,1,1,18,0,0.12,false,false,E,6,6,6,8,2/2/22,9,B07786,154985,55-64,1,low,false,Self-employed,Affordability,false
+H02732,Maple Heights,214985,957,1,1,14,1,0.14,true,false,E,6,6,6,8,2/7/22,75,B02732,238112,25-34,1,low,false,Self-employed,Location & Schools,false
+H05504,Maple Heights,214243,1377,2,2,16,1,0.15,true,false,F,6,6,6,8,2/11/22,9,B05504,247425,25-34,1,low,false,Full-time employed,Affordability,false
+H04299,Maple Heights,341452,2568,4,4,20,1,0.13,false,false,E,6,6,6,8,2/16/22,1,B04299,381584,35-44,2,medium,false,Full-time employed,Affordability,true
+H02795,Maple Heights,196169,901,2,2,19,1,0.21,true,true,D,6,6,6,8,2/16/22,3,B02795,211938,25-34,1,low,false,Full-time employed,Low Maintenance,false
+H01886,Maple Heights,304276,2189,4,4,27,2,0.21,false,false,C,6,6,6,8,2/17/22,11,B01886,334991,45-54,1,medium,false,Full-time employed,Space & Bedrooms,false
+H01353,Maple Heights,375193,2496,4,4,31,1,0.31,false,true,D,6,6,6,8,2/20/22,46,B01353,421258,55-64,3,medium,false,Dual income,Space & Bedrooms,false
+H04505,Maple Heights,213736,1368,3,3,20,0,0.1,false,false,D,6,6,6,8,2/23/22,30,B04505,228754,45-54,2,low,false,Self-employed,Modern & Updated,false
+H05256,Maple Heights,193442,800,2,2,0,2,0.15,true,false,F,6,6,6,8,2/25/22,4,B05256,218205,25-34,2,low,false,Full-time employed,Modern & Updated,false
+H05360,Maple Heights,150710,1357,3,3,3,1,0.13,false,false,F,6,6,6,8,2/27/22,3,B05360,161131,35-44,2,low,false,Dual income,Modern & Updated,false
+H06936,Maple Heights,412322,2386,4,4,16,1,0.15,false,true,F,6,6,6,8,3/1/22,74,B06936,485845,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H01714,Maple Heights,449850,2674,5,5,3,2,0.09,true,false,F,6,6,6,8,3/1/22,116,B01714,487047,35-44,4,medium,true,Full-time employed,Space & Bedrooms,false
+H07275,Maple Heights,377708,2896,4,5,7,2,0.15,true,false,F,6,6,6,8,3/3/22,2,B07275,441536,55-64,3,medium,false,Self-employed,Modern & Updated,false
+H07484,Maple Heights,390511,2506,3,3,16,2,0.09,false,false,C,6,6,6,8,3/4/22,52,B07484,415832,35-44,2,medium,false,Dual income,Location & Schools,false
+H01419,Maple Heights,246654,1643,3,3,37,1,0.16,false,true,C,6,6,6,8,3/6/22,9,B01419,265625,25-34,1,low,false,Full-time employed,Investment,false
+H01252,Maple Heights,208047,975,1,1,44,1,0.2,true,true,C,6,6,6,8,3/7/22,110,B01252,237608,35-44,1,low,false,Self-employed,Affordability,false
+H03091,Maple Heights,256534,1611,3,4,5,0,0.12,false,false,F,6,6,6,8,3/11/22,42,B03091,283249,35-44,3,medium,true,Self-employed,Affordability,false
+H00126,Maple Heights,405829,2780,4,4,14,1,0.16,false,false,F,6,6,6,8,3/13/22,68,B00126,456211,55-64,3,medium,true,Dual income,Affordability,false
+H07365,Maple Heights,468355,2954,5,5,9,2,0.09,true,false,F,6,6,6,8,3/14/22,19,B07365,523315,45-54,3,medium,true,Full-time employed,Investment,false
+H01584,Maple Heights,334724,2083,4,3,25,2,0.18,false,true,E,6,6,6,8,3/16/22,7,B01584,370840,35-44,2,medium,false,Full-time employed,Low Maintenance,false
+H00344,Maple Heights,463563,2982,6,5,33,1,0.1,false,true,D,6,6,6,8,3/17/22,23,B00344,522256,35-44,4,medium,true,Full-time employed,Location & Schools,false
+H06782,Maple Heights,247197,1251,2,2,27,0,0.25,true,false,C,6,6,6,8,3/17/22,41,B06782,265360,55-64,1,low,false,Full-time employed,Space & Bedrooms,true
+H06453,Maple Heights,120000,800,1,1,18,2,0.14,false,false,F,6,6,6,8,3/20/22,78,B06453,136897,35-44,1,low,false,Self-employed,Modern & Updated,true
+H02970,Maple Heights,397574,2629,5,5,3,2,0.13,false,false,F,6,6,6,8,3/20/22,8,B02970,426276,45-54,3,medium,true,Full-time employed,Space & Bedrooms,false
+H06081,Maple Heights,150529,1295,1,2,3,0,0.21,false,false,F,6,6,6,8,3/23/22,38,B06081,176384,45-54,1,low,false,Dual income,Space & Bedrooms,false
+H03317,Maple Heights,294806,2458,4,4,28,1,0.17,false,false,D,6,6,6,8,3/23/22,59,B03317,326918,35-44,1,medium,false,Dual income,Affordability,false
+H03154,Maple Heights,166576,1262,3,3,29,1,0.16,false,false,C,6,6,6,8,3/23/22,3,B03154,196188,25-34,1,low,false,Dual income,Low Maintenance,false
+H04965,Maple Heights,328923,1951,3,3,24,2,0.14,false,false,E,6,6,6,8,3/23/22,3,B04965,367397,65+,1,medium,false,Retired,Affordability,false
+H05713,Maple Heights,277787,1772,3,3,30,0,0.1,false,false,C,6,6,6,8,3/24/22,37,B05713,300653,45-54,1,medium,false,Self-employed,Affordability,false
+H07344,Maple Heights,248077,1437,3,2,27,1,0.17,true,false,D,6,6,6,8,3/24/22,32,B07344,261019,35-44,1,low,false,Full-time employed,Space & Bedrooms,false
+H01212,Maple Heights,232829,1443,2,2,33,1,0.17,true,false,C,6,6,6,8,3/27/22,130,B01212,249748,35-44,1,low,false,Full-time employed,Location & Schools,false
+H05758,Maple Heights,278842,1953,2,2,12,2,0.16,false,false,D,6,6,6,8,4/1/22,23,B05758,303129,45-54,1,medium,false,Full-time employed,Affordability,false
+H07643,Maple Heights,222359,1170,1,1,16,1,0.2,true,false,E,6,6,6,8,4/1/22,99,B07643,259338,55-64,1,low,false,Full-time employed,Investment,false
+H05585,Maple Heights,349240,1677,3,3,9,1,0.07,true,false,E,6,6,6,8,4/3/22,19,B05585,410578,55-64,1,medium,false,Full-time employed,Location & Schools,false
+H01480,Maple Heights,400652,2450,4,4,0,2,0.14,false,false,F,6,6,6,8,4/5/22,53,B01480,469741,25-34,1,medium,false,Dual income,Modern & Updated,false
+H02159,Maple Heights,248890,1249,2,2,1,0,0.21,true,false,F,6,6,6,8,4/5/22,53,B02159,261549,45-54,1,low,false,Full-time employed,Space & Bedrooms,false
+H03578,Maple Heights,442472,2924,4,5,39,2,0.08,false,false,B,6,6,6,8,4/8/22,22,B03578,471296,25-34,2,medium,false,Full-time employed,Investment,false
+H03281,Maple Heights,129469,800,1,2,39,0,0.19,true,false,B,6,6,6,8,4/14/22,75,B03281,139169,25-34,1,low,false,Dual income,Low Maintenance,false
+H05375,Maple Heights,347165,1771,2,3,7,1,0.17,false,false,D,6,6,6,8,4/17/22,31,B05375,406075,45-54,1,medium,false,Full-time employed,Location & Schools,false
+H01139,Maple Heights,358449,2960,5,5,59,2,0.14,false,false,A,6,6,6,8,4/18/22,51,B01139,416723,25-34,3,medium,true,Full-time employed,Affordability,true
+H06775,Maple Heights,379294,2032,3,3,6,1,0.09,false,false,E,6,6,6,8,4/18/22,47,B06775,440642,25-34,1,medium,false,Dual income,Affordability,false
+H05307,Maple Heights,138813,888,1,1,4,2,0.1,false,false,F,6,6,6,8,4/19/22,3,B05307,154966,35-44,1,low,false,Full-time employed,Affordability,false
+H00019,Maple Heights,428298,2598,4,4,2,1,0.21,true,false,E,6,6,6,8,4/19/22,32,B00019,466814,35-44,3,medium,true,Dual income,Space & Bedrooms,false
+H05282,Maple Heights,341089,2075,4,4,6,2,0.22,true,false,F,6,6,6,8,4/19/22,1,B05282,378751,35-44,2,medium,false,Full-time employed,Modern & Updated,false
+H02117,Maple Heights,198812,1386,1,1,5,1,0.09,false,false,E,6,6,6,8,4/20/22,48,B02117,225852,25-34,1,low,false,Full-time employed,Low Maintenance,false
+H01275,Maple Heights,222519,800,1,1,5,1,0.16,true,false,E,6,6,6,8,4/21/22,61,B01275,245067,25-34,1,low,false,Full-time employed,Affordability,false
+H03719,Maple Heights,473668,2810,5,5,1,2,0.09,true,false,F,6,6,6,8,4/28/22,6,B03719,556810,55-64,4,medium,true,Full-time employed,Affordability,false
+H02078,Maple Heights,366181,1916,3,4,0,2,0.12,false,false,F,6,6,6,8,5/2/22,36,B02078,412318,55-64,1,medium,false,Full-time employed,Affordability,false
+H05164,Maple Heights,281172,1664,4,4,8,0,0.15,false,false,F,6,6,6,8,5/4/22,44,B05164,302363,25-34,1,medium,false,Full-time employed,Investment,false
+H05880,Maple Heights,295531,1966,4,3,14,2,0.14,false,false,E,6,6,6,8,5/4/22,6,B05880,334491,55-64,3,medium,false,Dual income,Affordability,false
+H05242,Maple Heights,380576,2381,4,4,60,2,0.11,true,false,A,6,6,6,8,5/8/22,24,B05242,414659,45-54,2,medium,false,Full-time employed,Modern & Updated,true
+H02629,Maple Heights,246969,1510,3,3,15,1,0.15,true,false,E,6,6,6,8,5/8/22,18,B02629,282972,35-44,2,medium,false,Dual income,Space & Bedrooms,false
+H04193,Maple Heights,178540,1280,1,2,2,1,0.14,false,false,F,6,6,6,8,5/9/22,2,B04193,209855,55-64,1,low,false,Full-time employed,Affordability,false
+H07054,Maple Heights,201295,1669,3,2,24,1,0.09,false,false,D,6,6,6,8,5/14/22,11,B07054,228793,25-34,2,low,false,Full-time employed,Location & Schools,false
+H04719,Maple Heights,302571,2137,3,3,34,2,0.19,false,false,C,6,6,6,8,5/14/22,91,B04719,321274,45-54,1,medium,false,Self-employed,Location & Schools,false
+H04942,Maple Heights,269963,1914,4,4,40,1,0.17,false,true,E,6,6,6,8,5/17/22,47,B04942,315570,35-44,2,medium,false,Full-time employed,Affordability,false
+H07842,Maple Heights,177891,1729,4,3,35,2,0.29,false,false,D,6,6,6,8,5/18/22,38,B07842,193707,25-34,2,low,false,Full-time employed,Affordability,false
+H02724,Maple Heights,377748,2232,4,4,0,2,0.3,true,false,F,6,6,6,8,5/19/22,36,B02724,430523,35-44,3,medium,true,Full-time employed,Modern & Updated,false
+H05596,Maple Heights,231778,1949,3,3,19,1,0.12,false,false,D,6,6,6,8,5/19/22,64,B05596,261790,35-44,2,low,false,Full-time employed,Space & Bedrooms,false
+H05885,Maple Heights,292758,2038,4,4,12,2,0.29,false,false,E,6,6,6,8,5/20/22,152,B05885,342001,45-54,2,medium,false,Full-time employed,Location & Schools,false
+H05834,Maple Heights,359498,2055,3,3,0,1,0.11,false,false,F,6,6,6,8,5/23/22,4,B05834,415991,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H02319,Maple Heights,206470,1222,2,2,7,0,0.15,false,false,C,6,6,6,8,5/23/22,42,B02319,240382,55-64,2,low,false,Retired,Space & Bedrooms,false
+H06545,Maple Heights,443665,2993,6,5,6,1,0.25,false,false,E,6,6,6,8,5/24/22,28,B06545,510802,45-54,4,medium,true,Full-time employed,Location & Schools,false
+H02283,Maple Heights,295968,1579,2,2,3,1,0.2,false,false,F,6,6,6,8,5/25/22,8,B02283,319809,35-44,1,medium,false,Full-time employed,Modern & Updated,true
+H05993,Maple Heights,332728,2425,4,4,19,2,0.16,false,false,D,6,6,6,8,5/25/22,7,B05993,361381,35-44,2,medium,false,Self-employed,Location & Schools,false
+H01958,Maple Heights,355466,1942,3,3,0,2,0.17,false,false,E,6,6,6,8,5/25/22,6,B01958,380698,45-54,1,medium,false,Self-employed,Affordability,false
+H05222,Maple Heights,315104,1137,3,3,16,1,0.12,true,true,F,6,6,6,8,5/26/22,136,B05222,363155,25-34,1,medium,false,Full-time employed,Space & Bedrooms,true
+H01566,Maple Heights,432223,2310,4,4,30,1,0.11,true,true,D,6,6,6,8,5/26/22,1,B01566,500088,55-64,4,medium,true,Full-time employed,Space & Bedrooms,false
+H07684,Maple Heights,181785,1314,3,3,11,0,0.11,false,false,E,6,6,6,8,5/27/22,94,B07684,198795,25-34,1,low,false,Full-time employed,Investment,false
+H01208,Maple Heights,211995,1420,3,3,4,0,0.2,false,false,F,6,6,6,8,6/3/22,9,B01208,248706,35-44,1,low,false,Full-time employed,Modern & Updated,false
+H07836,Maple Heights,129796,1171,2,2,28,1,0.11,false,false,C,6,6,6,8,6/4/22,14,B07836,138379,45-54,1,low,false,Full-time employed,Affordability,false
+H05722,Maple Heights,351537,2547,4,4,5,1,0.15,true,false,F,6,6,6,8,6/5/22,7,B05722,400001,45-54,3,medium,true,Self-employed,Space & Bedrooms,false
+H03209,Maple Heights,120000,800,2,2,60,1,0.16,false,false,A,6,6,6,8,6/7/22,3,B03209,140407,35-44,2,low,false,Full-time employed,Location & Schools,true
+H05529,Maple Heights,215388,1385,3,3,10,1,0.08,false,false,D,6,6,6,8,6/9/22,56,B05529,251178,25-34,2,low,false,Full-time employed,Investment,false
+H05419,Maple Heights,276308,1614,3,3,21,0,0.2,true,false,E,6,6,6,8,6/9/22,2,B05419,321659,45-54,1,medium,false,Full-time employed,Investment,false
+H01984,Maple Heights,367375,2402,3,3,35,2,0.12,false,false,C,6,6,6,8,6/9/22,26,B01984,432322,45-54,1,medium,false,Retired,Location & Schools,false
+H07269,Maple Heights,303091,1559,3,4,8,1,0.15,true,false,D,6,6,6,8,6/14/22,45,B07269,331075,55-64,1,medium,false,Self-employed,Modern & Updated,false
+H02764,Maple Heights,232040,1510,3,3,60,2,0.11,false,true,C,6,6,6,8,6/20/22,25,B02764,250923,45-54,1,low,false,Dual income,Space & Bedrooms,false
+H07168,Maple Heights,340033,2067,3,3,9,2,0.13,false,true,F,6,6,6,8,6/20/22,1,B07168,389002,45-54,1,medium,false,Full-time employed,Location & Schools,true
+H05297,Maple Heights,184641,1358,3,3,34,1,0.17,true,true,C,6,6,6,8,6/22/22,50,B05297,205581,45-54,2,low,false,Full-time employed,Location & Schools,false
+H07323,Maple Heights,120000,1357,2,2,57,0,0.22,false,false,B,6,6,6,8,6/25/22,35,B07323,140915,25-34,1,low,false,Self-employed,Space & Bedrooms,false
+H05387,Maple Heights,213919,1552,3,3,6,1,0.17,false,false,F,6,6,6,8,6/26/22,13,B05387,229532,25-34,1,low,false,Full-time employed,Affordability,false
+H05890,Maple Heights,350487,2489,4,4,1,2,0.21,false,false,E,6,6,6,8,6/26/22,11,B05890,392890,25-34,1,medium,false,Full-time employed,Space & Bedrooms,true
+H03242,Maple Heights,175582,1373,2,3,19,0,0.16,false,false,D,6,6,6,8,6/27/22,20,B03242,202229,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
+H00096,Maple Heights,120000,885,1,1,60,1,0.21,false,false,A,6,6,6,8,6/27/22,41,B00096,130000,45-54,1,low,false,Retired,Location & Schools,false
+H02413,Maple Heights,341243,2513,4,4,25,2,0.14,false,false,D,6,6,6,8,6/27/22,2,B02413,401407,55-64,3,medium,false,Dual income,Space & Bedrooms,false
+H00416,Maple Heights,258079,1704,3,3,17,0,0.21,false,false,E,6,6,6,8,6/27/22,15,B00416,303828,45-54,2,medium,false,Self-employed,Space & Bedrooms,false
+H05682,Maple Heights,254361,1555,3,3,5,2,0.14,true,false,E,6,6,6,8,7/1/22,12,B05682,275170,25-34,1,low,false,Full-time employed,Affordability,false
+H00154,Maple Heights,155332,1077,1,2,15,0,0.15,true,false,F,6,6,6,8,7/1/22,2,B00154,170746,35-44,1,low,false,Full-time employed,Space & Bedrooms,false
+H05524,Maple Heights,339569,2318,4,4,11,1,0.15,false,false,D,6,6,6,8,7/1/22,9,B05524,369677,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H07319,Maple Heights,435993,2737,6,5,12,2,0.19,false,false,E,6,6,6,8,7/2/22,47,B07319,483392,45-54,3,medium,false,Full-time employed,Location & Schools,false
+H06302,Maple Heights,184822,1524,3,3,1,1,0.13,false,false,F,6,6,6,8,7/5/22,38,B06302,203204,25-34,1,low,false,Full-time employed,Affordability,true
+H03124,Maple Heights,293746,1775,2,2,13,1,0.25,false,false,F,6,6,6,8,7/5/22,3,B03124,314355,25-34,1,medium,false,Full-time employed,Affordability,false
+H02485,Maple Heights,333206,2187,3,3,60,1,0.23,true,true,B,6,6,6,8,7/10/22,6,B02485,372677,35-44,2,medium,false,Self-employed,Modern & Updated,false
+H03490,Maple Heights,322480,1988,4,3,6,1,0.15,false,false,C,6,6,6,8,7/13/22,52,B03490,356190,35-44,3,medium,true,Self-employed,Location & Schools,false
+H06587,Maple Heights,241783,1842,3,3,6,2,0.12,false,false,E,6,6,6,8,7/15/22,25,B06587,282147,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H02064,Maple Heights,302097,1999,4,4,30,1,0.18,true,false,B,6,6,6,8,7/17/22,11,B02064,338368,25-34,1,medium,false,Full-time employed,Modern & Updated,true
+H06821,Maple Heights,162516,1132,2,2,8,0,0.15,true,false,F,6,6,6,8,7/19/22,44,B06821,191393,25-34,1,low,false,Self-employed,Low Maintenance,false
+H07848,Maple Heights,330452,1888,3,4,40,2,0.17,true,true,C,6,6,6,8,7/19/22,42,B07848,350051,55-64,3,medium,false,Retired,Affordability,false
+H07480,Maple Heights,193407,1254,1,1,9,2,0.29,false,false,F,6,6,6,8,7/20/22,48,B07480,219794,35-44,1,low,false,Self-employed,Affordability,false
+H07781,Maple Heights,307384,1994,4,4,24,1,0.21,false,false,D,6,6,6,8,7/22/22,148,B07781,324720,25-34,1,medium,false,Full-time employed,Affordability,false
+H05893,Maple Heights,341222,2241,5,5,7,2,0.13,false,false,F,6,6,6,8,7/24/22,75,B05893,374446,35-44,2,medium,false,Full-time employed,Affordability,false
+H07985,Maple Heights,340739,2163,3,3,4,1,0.22,true,false,E,6,6,6,8,7/27/22,38,B07985,382295,25-34,2,medium,false,Full-time employed,Space & Bedrooms,true
+H05588,Maple Heights,207557,1274,2,2,16,1,0.17,true,false,E,6,6,6,8,7/28/22,6,B05588,242020,25-34,1,low,false,Full-time employed,Location & Schools,false
+H00287,Maple Heights,120000,1161,1,1,18,0,0.11,false,false,E,6,6,6,8,8/1/22,15,B00287,130000,25-34,1,low,false,Full-time employed,Investment,false
+H06805,Maple Heights,172741,800,2,1,5,2,0.12,false,false,F,6,6,6,8,8/3/22,40,B06805,201837,45-54,1,low,false,Full-time employed,Modern & Updated,false
+H02730,Maple Heights,267419,1597,3,3,29,2,0.16,true,true,E,6,6,6,8,8/8/22,180,B02730,301868,45-54,1,medium,false,Self-employed,Space & Bedrooms,false
+H05879,Maple Heights,211687,1760,2,2,5,0,0.15,false,false,F,6,6,6,8,8/9/22,2,B05879,231665,35-44,2,low,false,Self-employed,Affordability,false
+H05099,Maple Heights,238508,1651,3,3,11,0,0.2,false,false,E,6,6,6,8,8/11/22,63,B05099,275728,25-34,1,low,false,Full-time employed,Low Maintenance,false
+H02831,Maple Heights,306725,1925,3,3,51,2,0.19,false,true,C,6,6,6,8,8/11/22,15,B02831,348307,35-44,1,medium,false,Full-time employed,Location & Schools,false
+H02574,Maple Heights,218081,1533,2,2,30,1,0.14,false,false,C,6,6,6,8,8/12/22,145,B02574,230566,55-64,1,low,false,Dual income,Location & Schools,false
+H02424,Maple Heights,244535,1503,3,3,31,1,0.31,true,false,C,6,6,6,8,8/13/22,27,B02424,268162,35-44,3,low,true,Self-employed,Space & Bedrooms,false
+H05057,Maple Heights,154258,1297,2,2,2,0,0.13,false,false,F,6,6,6,8,8/14/22,40,B05057,176961,35-44,1,low,false,Dual income,Low Maintenance,false
+H07055,Maple Heights,269081,1405,3,3,4,1,0.14,false,false,F,6,6,6,8,8/18/22,17,B07055,283982,25-34,1,medium,false,Full-time employed,Low Maintenance,false
+H01737,Maple Heights,267164,1703,2,2,60,1,0.12,true,true,B,6,6,6,8,8/19/22,99,B01737,306849,45-54,1,medium,false,Self-employed,Modern & Updated,false
+H06358,Maple Heights,397377,2179,5,4,4,1,0.12,true,false,F,6,6,6,8,8/19/22,128,B06358,459421,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H03643,Maple Heights,294387,1628,4,4,4,1,0.17,false,false,F,6,6,6,8,8/20/22,49,B03643,314747,55-64,4,medium,false,Full-time employed,Affordability,false
+H03765,Maple Heights,189145,1572,3,3,0,1,0.11,false,false,F,6,6,6,8,8/21/22,43,B03765,200844,25-34,1,low,false,Full-time employed,Affordability,true
+H05866,Maple Heights,239539,1701,2,2,12,1,0.14,false,false,D,6,6,6,8,8/23/22,5,B05866,252745,45-54,2,low,false,Full-time employed,Space & Bedrooms,false
+H06486,Maple Heights,153810,800,1,2,41,1,0.13,true,true,D,6,6,6,8,8/24/22,180,B06486,179640,45-54,1,low,false,Full-time employed,Low Maintenance,false
+H03310,Maple Heights,323073,2192,3,3,36,2,0.14,false,true,D,6,6,6,8,8/25/22,87,B03310,346414,25-34,1,medium,false,Self-employed,Affordability,false
+H07038,Maple Heights,208458,1427,3,3,0,0,0.15,false,false,F,6,6,6,8,8/28/22,3,B07038,235745,35-44,2,low,false,Full-time employed,Location & Schools,false
+H00988,Maple Heights,279952,1749,3,3,16,1,0.21,false,false,D,6,6,6,8,9/1/22,8,B00988,305572,35-44,2,medium,false,Full-time employed,Affordability,false
+H01746,Maple Heights,238956,1279,1,1,9,1,0.17,true,false,D,6,6,6,8,9/2/22,10,B01746,267025,35-44,1,low,false,Self-employed,Modern & Updated,false
+H02007,Maple Heights,215136,1324,4,3,15,2,0.19,false,false,C,6,6,6,8,9/3/22,9,B02007,238447,25-34,2,low,false,Dual income,Low Maintenance,true
+H04482,Maple Heights,407542,2309,4,4,12,1,0.2,true,false,D,6,6,6,8,9/4/22,27,B04482,459729,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H01546,Maple Heights,253854,1807,4,3,5,1,0.15,false,false,F,6,6,6,8,9/6/22,36,B01546,295009,35-44,2,medium,false,Full-time employed,Location & Schools,true
+H02203,Maple Heights,130450,826,2,3,9,2,0.14,true,false,F,6,6,6,8,9/6/22,15,B02203,148880,45-54,1,low,false,Retired,Location & Schools,true
+H05615,Maple Heights,438207,2286,5,5,4,2,0.18,false,false,E,6,6,6,8,9/7/22,4,B05615,461722,35-44,3,medium,true,Full-time employed,Space & Bedrooms,false
+H00042,Maple Heights,269404,1647,3,3,9,1,0.08,false,false,E,6,6,6,8,9/10/22,6,B00042,292145,45-54,2,medium,false,Dual income,Location & Schools,false
+H06141,Maple Heights,178111,1332,3,3,12,1,0.14,false,false,E,6,6,6,8,9/11/22,32,B06141,193162,35-44,2,low,false,Self-employed,Low Maintenance,false
+H00579,Maple Heights,259559,1887,3,4,4,1,0.1,false,false,E,6,6,6,8,9/13/22,27,B00579,305144,35-44,2,medium,false,Full-time employed,Affordability,false
+H01705,Maple Heights,232581,1829,3,3,46,2,0.2,false,false,B,6,6,6,8,9/13/22,18,B01705,266240,35-44,2,low,false,Full-time employed,Affordability,false
+H05101,Maple Heights,149578,1325,2,2,60,2,0.12,true,false,A,6,6,6,8,9/13/22,32,B05101,159195,35-44,1,low,false,Full-time employed,Space & Bedrooms,false
+H00341,Maple Heights,192877,1179,1,1,30,0,0.11,true,true,D,6,6,6,8,9/13/22,4,B00341,209656,35-44,1,low,false,Dual income,Modern & Updated,false
+H01688,Maple Heights,334241,2154,3,3,12,2,0.11,true,false,E,6,6,6,8,9/16/22,44,B01688,382504,65+,1,medium,false,Full-time employed,Affordability,false
+H07347,Maple Heights,190016,863,2,2,7,1,0.12,false,false,D,6,6,6,8,9/16/22,1,B07347,223201,25-34,1,low,false,Full-time employed,Affordability,true
+H05822,Maple Heights,274099,1551,3,3,29,0,0.18,false,false,A,6,6,6,8,9/17/22,28,B05822,287805,35-44,2,medium,false,Full-time employed,Modern & Updated,false
+H03648,Maple Heights,402604,2644,5,5,12,1,0.22,false,false,F,6,6,6,8,9/17/22,141,B03648,436340,35-44,4,medium,true,Self-employed,Location & Schools,false
+H07894,Maple Heights,297546,1606,2,2,14,1,0.13,false,false,D,6,6,6,8,9/18/22,18,B07894,332983,35-44,1,medium,false,Self-employed,Affordability,false
+H07844,Maple Heights,141683,800,1,1,8,0,0.16,false,false,F,6,6,6,8,9/18/22,32,B07844,164958,55-64,1,low,false,Full-time employed,Space & Bedrooms,false
+H00805,Maple Heights,261681,800,1,1,28,2,0.11,true,true,D,6,6,6,8,9/23/22,89,B00805,276905,25-34,1,low,false,Full-time employed,Modern & Updated,false
+H06148,Maple Heights,258538,1684,3,3,10,1,0.12,false,false,E,6,6,6,8,9/23/22,3,B06148,272943,35-44,1,low,false,Full-time employed,Space & Bedrooms,false
+H07230,Maple Heights,345484,2351,4,4,16,1,0.23,true,false,E,6,6,6,8,9/23/22,15,B07230,376790,35-44,2,medium,false,Full-time employed,Affordability,false
+H03906,Maple Heights,125760,800,2,2,8,1,0.24,true,false,E,6,6,6,8,9/26/22,51,B03906,145636,25-34,1,low,false,Full-time employed,Modern & Updated,false
+H02264,Maple Heights,225142,1772,3,3,45,0,0.13,false,false,B,6,6,6,8,10/1/22,18,B02264,238013,25-34,1,low,false,Full-time employed,Space & Bedrooms,true
+H06953,Maple Heights,217606,1611,2,2,42,2,0.21,true,false,C,6,6,6,8,10/4/22,69,B06953,255613,55-64,2,low,false,Full-time employed,Space & Bedrooms,false
+H06385,Maple Heights,140221,800,1,1,1,1,0.18,false,false,F,6,6,6,8,10/6/22,23,B06385,151513,65+,1,low,false,Dual income,Location & Schools,false
+H02374,Maple Heights,331734,2373,4,5,2,1,0.1,false,false,E,6,6,6,8,10/8/22,28,B02374,361778,25-34,2,medium,false,Self-employed,Space & Bedrooms,false
+H03835,Maple Heights,125686,948,1,1,15,0,0.2,true,false,E,6,6,6,8,10/11/22,81,B03835,133128,25-34,1,low,false,Full-time employed,Modern & Updated,false
+H04955,Maple Heights,120000,800,1,1,51,0,0.18,true,false,B,6,6,6,8,10/15/22,127,B04955,141457,35-44,1,low,false,Self-employed,Location & Schools,false
+H02052,Maple Heights,359393,2283,3,3,30,1,0.19,false,true,D,6,6,6,8,10/15/22,143,B02052,387031,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H01915,Maple Heights,460127,2770,4,4,29,2,0.16,true,false,D,6,6,6,8,10/16/22,21,B01915,532643,45-54,3,medium,true,Self-employed,Location & Schools,false
+H04244,Maple Heights,326423,2064,5,4,18,2,0.11,false,false,E,6,6,6,8,10/16/22,131,B04244,348291,55-64,3,medium,false,Retired,Space & Bedrooms,false
+H02379,Maple Heights,164910,995,2,2,15,1,0.07,false,false,E,6,6,6,8,10/17/22,25,B02379,174318,55-64,1,low,false,Dual income,Affordability,false
+H06643,Maple Heights,225209,953,2,2,3,1,0.14,true,false,E,6,6,6,8,10/17/22,51,B06643,259425,25-34,1,low,false,Full-time employed,Investment,false
+H06662,Maple Heights,508668,2847,5,5,6,1,0.21,true,false,E,6,6,6,8,10/22/22,37,B06662,559339,45-54,4,medium,true,Full-time employed,Location & Schools,false
+H07483,Maple Heights,142960,1292,3,3,25,1,0.18,false,false,D,6,6,6,8,10/24/22,31,B07483,150741,55-64,2,low,false,Full-time employed,Affordability,true
+H07631,Maple Heights,266565,1247,3,3,4,0,0.13,false,false,F,6,6,6,8,11/1/22,4,B07631,292367,35-44,2,medium,false,Full-time employed,Affordability,false
+H03052,Maple Heights,280644,1874,3,3,15,1,0.24,false,false,E,6,6,6,8,11/2/22,41,B03052,326855,45-54,2,medium,false,Full-time employed,Affordability,true
+H03733,Maple Heights,134299,800,2,2,7,1,0.09,false,false,E,6,6,6,8,11/3/22,37,B03733,156162,35-44,2,low,false,Self-employed,Affordability,false
+H03451,Maple Heights,120000,1028,3,2,40,1,0.15,false,false,B,6,6,6,8,11/4/22,18,B03451,137487,35-44,3,low,true,Full-time employed,Space & Bedrooms,false
+H05740,Maple Heights,261991,1691,3,3,5,0,0.14,true,false,E,6,6,6,8,11/8/22,45,B05740,294262,65+,1,medium,false,Retired,Low Maintenance,false
+H06067,Maple Heights,381400,2263,3,3,12,1,0.14,true,false,D,6,6,6,8,11/19/22,3,B06067,438568,45-54,2,medium,false,Full-time employed,Space & Bedrooms,false
+H01451,Maple Heights,394108,2310,4,4,26,1,0.14,false,false,E,6,6,6,8,11/19/22,31,B01451,433105,45-54,3,medium,true,Dual income,Location & Schools,false
+H03345,Maple Heights,360005,2101,4,4,14,1,0.14,true,false,E,6,6,6,8,11/28/22,26,B03345,399164,65+,1,medium,false,Self-employed,Location & Schools,false
+H03434,Maple Heights,196014,1662,3,3,20,1,0.11,false,false,D,6,6,6,8,12/2/22,15,B03434,219922,35-44,2,low,false,Self-employed,Location & Schools,false
+H01433,Maple Heights,275494,1840,4,4,0,2,0.12,false,false,F,6,6,6,8,12/10/22,14,B01433,324499,35-44,3,medium,false,Full-time employed,Affordability,false
+H04695,Maple Heights,286875,1981,3,3,5,1,0.15,false,false,E,6,6,6,8,12/13/22,6,B04695,310768,55-64,4,medium,true,Dual income,Location & Schools,false
+H07084,Maple Heights,368864,1898,3,3,38,2,0.14,true,true,C,6,6,6,8,12/17/22,46,B07084,416610,45-54,2,medium,false,Dual income,Space & Bedrooms,false
+H02226,Maple Heights,388699,1904,3,3,5,1,0.17,true,false,E,6,6,6,8,12/17/22,15,B02226,448975,25-34,1,medium,false,Full-time employed,Affordability,false
+H00025,Maple Heights,260816,1408,2,2,27,1,0.13,true,false,C,6,6,6,8,12/18/22,2,B00025,294330,45-54,1,medium,false,Self-employed,Location & Schools,false
+H06808,Maple Heights,190942,1088,2,1,5,1,0.11,false,false,E,6,6,6,8,1/6/23,111,B06808,203341,25-34,1,low,false,Full-time employed,Affordability,false
+H07367,Maple Heights,332757,1782,3,3,6,1,0.17,true,false,F,6,6,6,8,1/6/23,7,B07367,352265,55-64,1,medium,false,Full-time employed,Location & Schools,false
+H01211,Maple Heights,282470,1907,3,3,5,1,0.11,false,false,E,6,6,6,8,1/6/23,3,B01211,299048,35-44,3,medium,false,Full-time employed,Location & Schools,false
+H01330,Maple Heights,213332,1179,2,2,0,1,0.23,true,false,F,6,6,6,8,1/6/23,6,B01330,236697,35-44,1,low,false,Full-time employed,Space & Bedrooms,false
+H03150,Maple Heights,256528,2042,4,4,40,2,0.15,false,false,B,6,6,6,8,1/8/23,41,B03150,291194,25-34,2,medium,false,Full-time employed,Modern & Updated,false
+H05316,Maple Heights,355939,2374,3,3,2,1,0.19,false,false,F,6,6,6,8,1/10/23,3,B05316,406729,25-34,2,medium,false,Self-employed,Space & Bedrooms,false
+H07232,Maple Heights,390423,2582,3,3,60,1,0.14,true,false,A,6,6,6,8,1/12/23,6,B07232,460470,25-34,1,medium,false,Self-employed,Affordability,false
+H04970,Maple Heights,155258,1420,3,3,19,2,0.16,false,false,D,6,6,6,8,1/13/23,14,B04970,172304,25-34,1,low,false,Self-employed,Affordability,false
+H01621,Maple Heights,120000,905,2,2,1,0,0.17,true,false,F,6,6,6,8,1/16/23,3,B01621,130000,35-44,2,low,false,Full-time employed,Space & Bedrooms,false
+H07362,Maple Heights,135610,800,1,1,1,1,0.15,false,false,D,6,6,6,8,1/20/23,6,B07362,156235,45-54,1,low,false,Full-time employed,Location & Schools,false
+H07294,Maple Heights,148295,1427,3,3,10,1,0.15,false,false,E,6,6,6,8,1/21/23,11,B07294,173461,25-34,1,low,false,Full-time employed,Low Maintenance,true
+H01758,Maple Heights,195510,1085,1,1,1,1,0.14,false,false,E,6,6,6,8,1/22/23,12,B01758,205804,55-64,3,low,true,Retired,Space & Bedrooms,false
+H02051,Maple Heights,345520,2051,4,3,11,1,0.13,false,false,E,6,6,6,8,1/22/23,18,B02051,369660,45-54,3,medium,true,Full-time employed,Location & Schools,true
+H06290,Maple Heights,463566,2716,4,4,41,2,0.19,true,true,D,6,6,6,8,1/23/23,11,B06290,513550,45-54,3,medium,false,Self-employed,Modern & Updated,false
+H02469,Maple Heights,216271,1504,2,3,60,1,0.1,true,false,A,6,6,6,8,1/25/23,54,B02469,234419,35-44,1,low,false,Self-employed,Space & Bedrooms,false
+H00483,Maple Heights,391027,2225,4,4,24,2,0.19,false,false,D,6,6,6,8,1/26/23,32,B00483,444073,25-34,1,medium,false,Dual income,Space & Bedrooms,false
+H05080,Maple Heights,307758,1741,3,3,4,1,0.08,true,false,F,6,6,6,8,1/28/23,26,B05080,356633,25-34,2,medium,false,Full-time employed,Affordability,false
+H03467,Maple Heights,473879,2238,3,4,1,1,0.1,true,false,D,6,6,6,8,2/1/23,55,B03467,508581,45-54,1,medium,false,Full-time employed,Investment,false
+H03047,Maple Heights,300872,2174,4,3,34,2,0.12,false,false,B,6,6,6,8,2/1/23,13,B03047,328321,45-54,4,medium,false,Self-employed,Affordability,false
+H00627,Maple Heights,178851,1714,2,2,25,0,0.16,false,true,D,6,6,6,8,2/4/23,69,B00627,192761,45-54,3,low,true,Self-employed,Space & Bedrooms,false
+H06015,Maple Heights,449256,3002,5,5,16,2,0.14,false,false,E,6,6,6,8,2/7/23,66,B06015,481435,35-44,5,medium,false,Dual income,Affordability,false
+H00862,Maple Heights,120000,849,3,3,45,0,0.11,false,false,B,6,6,6,8,2/7/23,23,B00862,136523,65+,1,low,false,Self-employed,Space & Bedrooms,false
+H00636,Maple Heights,126089,1447,2,2,0,0,0.17,false,false,E,6,6,6,8,2/12/23,35,B00636,140008,35-44,1,low,false,Full-time employed,Affordability,false
+H00916,Maple Heights,466118,2817,4,4,1,2,0.21,true,false,F,6,6,6,8,2/13/23,39,B00916,501211,25-34,1,medium,false,Full-time employed,Affordability,false
+H01346,Maple Heights,428877,3150,5,5,19,3,0.09,false,false,F,6,6,6,8,2/16/23,13,B01346,467015,25-34,2,medium,false,Dual income,Investment,false
+H01223,Maple Heights,225625,1710,3,3,8,1,0.06,true,false,E,6,6,6,8,2/17/23,28,B01223,259921,25-34,2,low,false,Full-time employed,Space & Bedrooms,false
+H07476,Maple Heights,198925,1392,2,2,10,1,0.14,false,false,F,6,6,6,8,2/17/23,20,B07476,212293,35-44,1,low,false,Self-employed,Location & Schools,false
+H06939,Maple Heights,120757,800,1,1,6,2,0.12,true,false,D,6,6,6,8,2/18/23,31,B06939,137852,25-34,1,low,false,Full-time employed,Affordability,false
+H07158,Maple Heights,262771,1723,3,3,0,1,0.12,false,false,F,6,6,6,8,2/19/23,48,B07158,300489,55-64,1,medium,false,Retired,Space & Bedrooms,false
+H01406,Maple Heights,290836,1727,2,2,18,0,0.21,false,true,F,6,6,6,8,2/19/23,2,B01406,318784,25-34,1,medium,false,Full-time employed,Location & Schools,false
+H06086,Maple Heights,202820,803,1,1,17,1,0.12,true,false,D,6,6,6,8,2/19/23,6,B06086,214038,55-64,1,low,false,Retired,Space & Bedrooms,false
+H05832,Maple Heights,255775,2010,3,3,23,2,0.09,true,false,D,6,6,6,8,2/19/23,38,B05832,288331,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H01768,Maple Heights,261447,1513,3,3,5,1,0.11,false,false,E,6,6,6,8,2/23/23,22,B01768,278896,55-64,1,low,false,Full-time employed,Modern & Updated,false
+H06251,Maple Heights,292631,2116,4,5,23,2,0.17,false,false,C,6,6,6,8,2/25/23,21,B06251,335356,35-44,2,medium,false,Dual income,Location & Schools,false
+H01397,Maple Heights,283847,2062,4,4,5,2,0.16,false,false,F,6,6,6,8,2/26/23,23,B01397,303141,25-34,3,medium,true,Full-time employed,Affordability,false
+H02010,Maple Heights,593572,3594,5,5,8,2,0.15,false,false,F,6,6,6,8,2/28/23,16,B02010,634202,55-64,1,high,false,Self-employed,Location & Schools,false
+H04537,Maple Heights,201390,1386,2,2,6,0,0.16,false,true,F,6,6,6,8,2/28/23,15,B04537,232390,55-64,2,low,false,Self-employed,Space & Bedrooms,false
+H03106,Maple Heights,304499,1469,3,3,4,1,0.16,true,false,E,6,6,6,8,3/1/23,19,B03106,342314,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H01065,Maple Heights,388511,2935,6,5,0,1,0.25,false,false,F,6,6,6,8,3/2/23,92,B01065,426369,25-34,2,medium,false,Full-time employed,Location & Schools,false
+H06058,Maple Heights,300584,1861,3,3,8,1,0.21,false,false,D,6,6,6,8,3/4/23,29,B06058,350807,45-54,2,medium,false,Self-employed,Modern & Updated,false
+H07745,Maple Heights,277831,1546,2,2,11,2,0.19,false,true,F,6,6,6,8,3/6/23,48,B07745,320819,35-44,1,medium,false,Dual income,Space & Bedrooms,false
+H00986,Maple Heights,383359,2472,5,5,22,2,0.15,false,false,D,6,6,6,8,3/9/23,43,B00986,404556,65+,2,medium,false,Self-employed,Space & Bedrooms,false
+H02584,Maple Heights,367106,2051,5,5,6,2,0.09,true,false,E,6,6,6,8,3/10/23,18,B02584,416505,35-44,4,medium,true,Self-employed,Location & Schools,false
+H00596,Maple Heights,130064,994,1,1,35,2,0.16,true,false,C,6,6,6,8,3/11/23,54,B00596,146015,45-54,1,low,false,Full-time employed,Location & Schools,true
+H03996,Maple Heights,294739,2830,5,5,60,1,0.11,false,false,B,6,6,6,8,3/14/23,52,B03996,313076,35-44,4,medium,false,Full-time employed,Space & Bedrooms,true
+H00424,Maple Heights,457123,2574,6,5,32,2,0.09,true,false,A,6,6,6,8,3/19/23,103,B00424,525477,35-44,4,medium,true,Full-time employed,Modern & Updated,false
+H01205,Maple Heights,376467,1899,3,3,5,1,0.1,false,true,E,6,6,6,8,3/22/23,27,B01205,440383,45-54,2,medium,false,Dual income,Affordability,false
+H00970,Maple Heights,264582,1920,3,3,29,2,0.12,true,false,C,6,6,6,8,3/22/23,24,B00970,311100,35-44,1,medium,false,Self-employed,Modern & Updated,false
+H07211,Maple Heights,171537,800,1,1,28,1,0.12,false,true,D,6,6,6,8,3/23/23,58,B07211,202171,55-64,1,low,false,Retired,Location & Schools,false
+H06705,Maple Heights,163037,1205,3,3,20,0,0.22,false,false,E,6,6,6,8,3/23/23,95,B06705,172375,35-44,2,low,false,Full-time employed,Affordability,false
+H07628,Maple Heights,310295,1728,3,3,2,2,0.14,true,false,F,6,6,6,8,3/25/23,47,B07628,337992,35-44,3,medium,true,Dual income,Location & Schools,false
+H03670,Maple Heights,393465,2236,3,3,5,2,0.12,false,true,F,6,6,6,8,3/27/23,24,B03670,419723,35-44,1,medium,false,Self-employed,Space & Bedrooms,false
+H02487,Maple Heights,318453,2221,3,3,44,1,0.1,false,false,A,6,6,6,8,3/28/23,74,B02487,347818,25-34,1,medium,false,Dual income,Space & Bedrooms,false
+H05217,Maple Heights,468953,2333,3,3,3,2,0.21,true,false,D,6,6,6,8,3/28/23,31,B05217,543212,45-54,2,medium,false,Dual income,Affordability,false
+H06970,Maple Heights,214665,1636,3,3,28,1,0.09,false,false,C,6,6,6,8,4/2/23,13,B06970,235007,35-44,2,low,false,Dual income,Modern & Updated,false
+H02981,Maple Heights,191859,1186,2,2,0,0,0.11,false,false,E,6,6,6,8,4/3/23,15,B02981,219525,35-44,1,low,false,Full-time employed,Investment,false
+H05022,Maple Heights,337966,2850,4,4,9,2,0.1,false,false,E,6,6,6,8,4/5/23,21,B05022,386949,25-34,2,medium,false,Full-time employed,Location & Schools,false
+H01842,Maple Heights,208731,1443,2,2,23,2,0.18,false,false,D,6,6,6,8,4/6/23,63,B01842,240988,35-44,1,low,false,Full-time employed,Modern & Updated,false
+H04096,Maple Heights,446946,2779,5,5,14,1,0.15,false,false,E,6,6,6,8,4/7/23,119,B04096,476680,35-44,4,medium,true,Full-time employed,Space & Bedrooms,false
+H04266,Maple Heights,380638,2206,3,3,10,1,0.13,false,false,E,6,6,6,8,4/7/23,18,B04266,437000,35-44,1,medium,false,Dual income,Modern & Updated,false
+H02694,Maple Heights,220438,1829,3,3,6,2,0.18,false,false,F,6,6,6,8,4/8/23,90,B02694,245100,55-64,2,low,false,Retired,Affordability,false
+H02364,Maple Heights,373100,2344,4,4,36,2,0.21,false,true,D,6,6,6,8,4/10/23,1,B02364,393366,55-64,3,medium,false,Full-time employed,Space & Bedrooms,false
+H03161,Maple Heights,201940,1694,2,2,2,1,0.19,false,false,E,6,6,6,8,4/12/23,14,B03161,224706,25-34,1,low,false,Full-time employed,Low Maintenance,false
+H07754,Maple Heights,412745,2401,3,3,10,2,0.22,true,false,E,6,6,6,8,4/12/23,10,B07754,452608,35-44,2,medium,false,Dual income,Location & Schools,false
+H07083,Maple Heights,120000,800,1,1,30,0,0.15,true,false,C,6,6,6,8,4/13/23,24,B07083,130000,25-34,1,low,false,Full-time employed,Affordability,false
+H04376,Maple Heights,250310,1880,3,3,25,2,0.16,false,false,D,6,6,6,8,4/14/23,18,B04376,266569,45-54,2,low,false,Dual income,Affordability,true
+H07641,Maple Heights,145727,800,1,1,4,0,0.17,false,false,E,6,6,6,8,4/14/23,16,B07641,163628,35-44,1,low,false,Full-time employed,Space & Bedrooms,false
+H04199,Maple Heights,455619,2808,5,4,14,2,0.12,true,false,D,6,6,6,8,4/16/23,57,B04199,503531,55-64,4,medium,true,Full-time employed,Low Maintenance,false
+H00234,Maple Heights,389702,2317,3,4,25,2,0.12,false,true,E,6,6,6,8,4/16/23,180,B00234,424799,45-54,3,medium,true,Full-time employed,Low Maintenance,false
+H06306,Maple Heights,355216,2300,4,4,17,2,0.2,false,false,E,6,6,6,8,4/18/23,87,B06306,407615,35-44,3,medium,true,Full-time employed,Location & Schools,false
+H03736,Maple Heights,217236,1547,3,3,56,2,0.13,true,false,B,6,6,6,8,4/22/23,16,B03736,238188,25-34,2,low,false,Full-time employed,Location & Schools,false
+H06422,Maple Heights,328081,1724,2,2,12,1,0.2,false,false,D,6,6,6,8,4/23/23,54,B06422,373791,35-44,2,medium,false,Dual income,Affordability,false
+H06891,Maple Heights,269240,1407,3,3,23,1,0.12,true,true,F,6,6,6,8,4/24/23,23,B06891,317525,35-44,1,medium,false,Dual income,Space & Bedrooms,false
+H07176,Maple Heights,120000,1082,2,2,60,1,0.18,false,false,A,6,6,6,8,4/26/23,2,B07176,132346,25-34,1,low,false,Full-time employed,Location & Schools,false
+H01256,Maple Heights,250775,1749,4,4,58,0,0.13,true,false,A,6,6,6,8,4/27/23,14,B01256,279408,35-44,2,low,false,Full-time employed,Affordability,false
+H03812,Maple Heights,280917,1820,4,4,26,2,0.15,false,false,D,6,6,6,8,4/28/23,45,B03812,297121,35-44,2,medium,false,Full-time employed,Location & Schools,false
+H06364,Maple Heights,234487,1327,3,3,9,1,0.13,false,false,E,6,6,6,8,5/2/23,55,B06364,267178,35-44,1,low,false,Full-time employed,Modern & Updated,false
+H00830,Maple Heights,312765,1634,2,2,19,1,0.18,false,true,D,6,6,6,8,5/2/23,1,B00830,360198,25-34,1,medium,false,Full-time employed,Affordability,false
+H03522,Maple Heights,320400,1447,2,3,9,1,0.16,false,false,E,6,6,6,8,5/2/23,17,B03522,372974,45-54,1,medium,false,Full-time employed,Affordability,false
+H05697,Maple Heights,208737,1691,4,3,44,1,0.17,false,false,A,6,6,6,8,5/4/23,76,B05697,222210,35-44,3,low,true,Full-time employed,Location & Schools,true
+H03301,Maple Heights,261162,1889,2,3,3,2,0.14,false,false,E,6,6,6,8,5/6/23,52,B03301,303922,25-34,1,medium,false,Full-time employed,Affordability,false
+H07411,Maple Heights,399083,2303,4,4,4,2,0.09,true,false,F,6,6,6,8,5/6/23,105,B07411,426784,35-44,2,medium,false,Dual income,Location & Schools,true
+H01858,Maple Heights,183546,1241,2,2,3,0,0.17,true,false,F,6,6,6,8,5/7/23,4,B01858,203930,25-34,1,low,false,Full-time employed,Affordability,false
+H00495,Maple Heights,362607,2806,5,5,17,1,0.14,false,false,E,6,6,6,8,5/7/23,52,B00495,397252,35-44,3,medium,true,Self-employed,Low Maintenance,false
+H01988,Maple Heights,120000,800,2,2,17,0,0.27,false,false,E,6,6,6,8,5/8/23,21,B01988,132856,35-44,1,low,false,Self-employed,Investment,false
+H04077,Maple Heights,261770,1643,3,3,38,0,0.24,true,false,B,6,6,6,8,5/12/23,74,B04077,300476,45-54,2,medium,false,Full-time employed,Affordability,false
+H05305,Maple Heights,200079,1213,1,1,1,1,0.12,true,false,F,6,6,6,8,5/14/23,47,B05305,212869,25-34,1,low,false,Self-employed,Space & Bedrooms,true
+H02899,Maple Heights,444239,2891,5,5,2,1,0.16,false,false,F,6,6,6,8,5/17/23,1,B02899,489083,45-54,5,medium,false,Full-time employed,Modern & Updated,false
+H07998,Maple Heights,530450,3399,6,5,8,2,0.15,true,false,F,6,6,6,8,5/18/23,10,B07998,594151,55-64,4,medium,true,Retired,Modern & Updated,true
+H04368,Maple Heights,207192,1351,2,3,4,0,0.15,false,false,E,6,6,6,8,5/18/23,33,B04368,223578,25-34,1,low,false,Dual income,Space & Bedrooms,false
+H05329,Maple Heights,444784,2775,5,5,7,2,0.22,false,false,F,6,6,6,8,5/19/23,13,B05329,471859,35-44,2,medium,false,Self-employed,Modern & Updated,false
+H03827,Maple Heights,303414,1872,3,2,30,1,0.13,true,false,B,6,6,6,8,5/20/23,56,B03827,335874,65+,1,medium,false,Retired,Modern & Updated,false
+H03820,Maple Heights,223815,1430,2,3,12,2,0.11,true,false,D,6,6,6,8,5/24/23,27,B03820,240187,25-34,1,low,false,Full-time employed,Low Maintenance,false
+H02258,Maple Heights,398450,2550,4,4,23,2,0.17,false,true,E,6,6,6,8,5/24/23,8,B02258,447436,45-54,2,medium,false,Full-time employed,Space & Bedrooms,false
+H02459,Maple Heights,392232,2420,4,4,39,2,0.16,true,true,C,6,6,6,8,5/25/23,26,B02459,461595,35-44,3,medium,true,Full-time employed,Affordability,true
+H01258,Maple Heights,275378,1614,3,3,3,0,0.23,false,false,F,6,6,6,8,5/27/23,21,B01258,290429,45-54,1,medium,false,Dual income,Modern & Updated,false
+H06329,Maple Heights,410372,3071,6,5,16,2,0.25,false,true,E,6,6,6,8,5/27/23,29,B06329,454576,45-54,5,medium,false,Retired,Space & Bedrooms,false
+H04274,Maple Heights,349470,2054,3,3,3,1,0.08,false,false,E,6,6,6,8,5/28/23,158,B04274,367605,45-54,2,medium,false,Full-time employed,Space & Bedrooms,false
+H03980,Maple Heights,271989,1717,3,3,39,0,0.1,true,false,A,6,6,6,8,6/1/23,42,B03980,296231,65+,1,medium,false,Self-employed,Low Maintenance,false
+H03037,Maple Heights,298218,1782,3,3,15,1,0.18,false,false,D,6,6,6,8,6/2/23,40,B03037,321551,65+,1,medium,false,Retired,Location & Schools,false
+H02384,Maple Heights,381306,1982,3,3,8,1,0.18,true,true,F,6,6,6,8,6/4/23,3,B02384,448131,25-34,2,medium,false,Full-time employed,Location & Schools,false
+H02689,Maple Heights,428005,2848,6,5,36,2,0.11,false,false,D,6,6,6,8,6/6/23,47,B02689,457591,25-34,2,medium,false,Self-employed,Space & Bedrooms,false
+H00835,Maple Heights,272456,1316,2,2,14,1,0.09,false,false,E,6,6,6,8,6/7/23,63,B00835,306195,35-44,2,medium,false,Self-employed,Affordability,false
+H07556,Maple Heights,213919,1478,4,3,5,1,0.11,true,false,E,6,6,6,8,6/8/23,38,B07556,250626,25-34,2,low,false,Full-time employed,Location & Schools,false
+H04761,Maple Heights,120000,800,1,1,19,1,0.21,true,false,F,6,6,6,8,6/8/23,67,B04761,135102,55-64,1,low,false,Full-time employed,Location & Schools,false
+H01950,Maple Heights,210387,1041,1,1,1,1,0.14,false,false,F,6,6,6,8,6/11/23,12,B01950,243345,25-34,1,low,false,Full-time employed,Affordability,false
+H07425,Maple Heights,321599,2142,4,4,0,1,0.17,false,false,F,6,6,6,8,6/11/23,5,B07425,359382,35-44,4,medium,true,Self-employed,Location & Schools,false
+H06043,Maple Heights,157593,1134,2,2,30,2,0.21,false,false,B,6,6,6,8,6/11/23,26,B06043,169051,45-54,1,low,false,Dual income,Space & Bedrooms,false
+H05124,Maple Heights,206222,1508,3,3,34,1,0.1,false,false,C,6,6,6,8,6/11/23,19,B05124,220195,35-44,2,low,false,Full-time employed,Affordability,false
+H03278,Maple Heights,294862,1529,2,2,15,2,0.16,false,false,E,6,6,6,8,6/11/23,1,B03278,310245,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H02774,Maple Heights,391610,2809,5,5,12,1,0.15,false,false,E,6,6,6,8,6/13/23,82,B02774,414301,55-64,5,medium,true,Retired,Low Maintenance,false
+H00925,Maple Heights,203676,1720,3,2,17,0,0.17,false,false,E,6,6,6,8,6/13/23,12,B00925,224289,35-44,4,low,false,Self-employed,Investment,true
+H03788,Maple Heights,494722,2784,5,5,35,2,0.1,true,false,B,6,6,6,8,6/15/23,9,B03788,525127,35-44,3,medium,true,Dual income,Modern & Updated,false
+H06211,Maple Heights,257583,1519,3,3,11,0,0.14,false,false,D,6,6,6,8,6/16/23,35,B06211,297572,45-54,1,medium,false,Full-time employed,Affordability,false
+H03644,Maple Heights,199189,800,1,1,4,1,0.14,true,false,E,6,6,6,8,6/20/23,20,B03644,216154,25-34,1,low,false,Self-employed,Affordability,true
+H01138,Maple Heights,309357,2188,5,4,20,2,0.08,false,false,D,6,6,6,8,6/22/23,6,B01138,348631,55-64,3,medium,true,Full-time employed,Affordability,false
+H07302,Maple Heights,424864,2676,4,4,3,2,0.15,false,false,E,6,6,6,8,6/25/23,88,B07302,497133,25-34,2,medium,false,Full-time employed,Location & Schools,false
+H00739,Maple Heights,373308,2281,4,4,0,1,0.22,false,false,F,6,6,6,8,6/25/23,33,B00739,408879,55-64,2,medium,false,Retired,Location & Schools,false
+H06895,Maple Heights,458846,2675,3,3,19,2,0.14,false,false,D,6,6,6,8,6/26/23,74,B06895,532050,45-54,3,medium,false,Full-time employed,Location & Schools,false
+H03530,Maple Heights,202523,1206,2,2,15,0,0.1,false,true,E,6,6,6,8,6/28/23,46,B03530,213412,45-54,2,low,false,Full-time employed,Affordability,false
+H01238,Maple Heights,167177,1548,3,3,8,0,0.18,false,false,D,6,6,6,8,7/6/23,17,B01238,186145,35-44,3,low,true,Self-employed,Location & Schools,false
+H00606,Maple Heights,270665,1516,3,3,47,0,0.19,false,true,D,6,6,6,8,7/7/23,6,B00606,310252,25-34,2,medium,false,Dual income,Affordability,false
+H02197,Maple Heights,136585,800,2,1,3,1,0.14,true,false,F,6,6,6,8,7/7/23,13,B02197,158790,35-44,1,low,false,Full-time employed,Location & Schools,false
+H05861,Maple Heights,248370,1920,4,4,31,1,0.1,true,false,C,6,6,6,8,7/7/23,1,B05861,276421,65+,1,low,false,Retired,Low Maintenance,false
+H07348,Maple Heights,305201,2174,4,4,28,2,0.12,false,false,D,6,6,6,8,7/12/23,14,B07348,334235,25-34,2,medium,false,Full-time employed,Low Maintenance,false
+H01630,Maple Heights,399060,2675,4,4,23,2,0.29,false,false,E,6,6,6,8,7/13/23,15,B01630,443308,25-34,1,medium,false,Self-employed,Location & Schools,false
+H04333,Maple Heights,321765,1971,3,3,7,2,0.2,false,false,E,6,6,6,8,7/14/23,21,B04333,366303,35-44,2,medium,false,Full-time employed,Affordability,false
+H02779,Maple Heights,249726,1686,3,3,2,1,0.12,false,false,F,6,6,6,8,7/14/23,25,B02779,266443,25-34,2,low,false,Full-time employed,Space & Bedrooms,false
+H05907,Maple Heights,470249,2642,3,4,5,1,0.1,false,true,F,6,6,6,8,7/15/23,5,B05907,516764,35-44,3,medium,false,Full-time employed,Location & Schools,false
+H05425,Maple Heights,305836,2119,4,4,44,1,0.23,false,true,D,6,6,6,8,7/15/23,8,B05425,323928,45-54,1,medium,false,Full-time employed,Space & Bedrooms,false
+H07390,Maple Heights,267907,1291,3,3,1,1,0.16,true,false,E,6,6,6,8,7/15/23,52,B07390,300362,55-64,1,medium,false,Self-employed,Space & Bedrooms,false
+H03666,Maple Heights,312476,1753,3,3,5,0,0.11,false,false,F,6,6,6,8,7/16/23,120,B03666,362512,25-34,1,medium,false,Full-time employed,Low Maintenance,false
+H01660,Maple Heights,475033,2873,5,5,11,1,0.09,false,false,D,6,6,6,8,7/17/23,30,B01660,519473,25-34,1,medium,false,Dual income,Affordability,false
+H04043,Maple Heights,318409,2179,3,3,11,2,0.13,false,false,E,6,6,6,8,7/18/23,8,B04043,374673,25-34,1,medium,false,Full-time employed,Affordability,false
+H03166,Maple Heights,124899,800,1,1,2,1,0.1,false,false,F,6,6,6,8,7/19/23,23,B03166,138726,25-34,1,low,false,Full-time employed,Location & Schools,false
+H04218,Maple Heights,504161,3199,6,5,60,3,0.15,true,false,A,6,6,6,8,7/19/23,9,B04218,567924,35-44,4,medium,true,Dual income,Location & Schools,false
+H00858,Maple Heights,237114,1485,3,3,1,1,0.15,true,false,E,6,6,6,8,7/19/23,39,B00858,271005,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
+H05759,Maple Heights,309585,1367,3,3,7,2,0.13,false,false,F,6,6,6,8,7/20/23,10,B05759,365300,35-44,3,medium,false,Dual income,Affordability,false
+H06718,Maple Heights,236142,1587,3,3,12,1,0.23,false,false,E,6,6,6,8,7/22/23,3,B06718,266405,25-34,2,low,false,Full-time employed,Affordability,false
+H06056,Maple Heights,286485,1791,4,3,25,1,0.16,true,false,E,6,6,6,8,7/24/23,1,B06056,301781,35-44,2,medium,false,Dual income,Low Maintenance,false
+H05609,Maple Heights,238443,1932,3,3,8,1,0.1,true,false,F,6,6,6,8,7/26/23,19,B05609,260931,25-34,1,low,false,Dual income,Modern & Updated,false
+H01989,Maple Heights,167274,1699,2,2,39,0,0.14,false,false,C,6,6,6,8,7/27/23,2,B01989,177476,25-34,1,low,false,Full-time employed,Location & Schools,false
+H02817,Maple Heights,255843,1703,3,3,16,2,0.17,false,false,E,6,6,6,8,7/27/23,3,B02817,298358,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H01939,Maple Heights,241227,1904,4,3,21,2,0.16,false,false,C,6,6,6,8,7/28/23,14,B01939,273886,65+,1,low,false,Self-employed,Location & Schools,false
+H07910,Maple Heights,483199,2922,5,5,21,1,0.11,true,false,D,6,6,6,8,8/1/23,34,B07910,557589,25-34,2,medium,false,Full-time employed,Affordability,false
+H07728,Maple Heights,367765,2769,5,4,23,2,0.11,false,false,F,6,6,6,8,8/3/23,1,B07728,413269,55-64,2,medium,false,Full-time employed,Affordability,true
+H07882,Maple Heights,222695,1346,2,2,14,1,0.08,true,false,E,6,6,6,8,8/6/23,4,B07882,241105,35-44,1,low,false,Dual income,Affordability,true
+H03479,Maple Heights,241088,1448,2,2,6,1,0.1,false,false,F,6,6,6,8,8/7/23,129,B03479,281898,45-54,1,medium,false,Self-employed,Modern & Updated,false
+H01355,Maple Heights,452068,2793,4,4,33,1,0.12,false,false,D,6,6,6,8,8/10/23,105,B01355,526508,35-44,4,medium,true,Full-time employed,Location & Schools,false
+H05249,Maple Heights,455943,2612,5,4,14,2,0.18,true,false,F,6,6,6,8,8/10/23,19,B05249,489910,55-64,2,medium,false,Self-employed,Space & Bedrooms,false
+H04902,Maple Heights,245449,1677,3,2,11,0,0.13,false,false,F,6,6,6,8,8/11/23,94,B04902,262427,35-44,2,low,false,Self-employed,Affordability,false
+H05175,Maple Heights,370280,2556,5,5,1,1,0.13,false,false,E,6,6,6,8,8/13/23,14,B05175,433434,35-44,2,medium,false,Full-time employed,Location & Schools,true
+H04934,Maple Heights,272455,1883,4,3,13,1,0.17,false,false,F,6,6,6,8,8/14/23,16,B04934,296756,35-44,2,medium,false,Full-time employed,Location & Schools,false
+H04976,Maple Heights,265529,1767,2,3,8,1,0.15,true,false,E,6,6,6,8,8/14/23,64,B04976,292489,35-44,1,medium,false,Full-time employed,Location & Schools,false
+H05994,Maple Heights,365103,2623,4,4,19,1,0.11,false,false,E,6,6,6,8,8/17/23,11,B05994,405072,45-54,2,medium,false,Full-time employed,Location & Schools,false
+H05886,Maple Heights,189557,1470,3,3,10,0,0.21,false,false,E,6,6,6,8,8/20/23,58,B05886,220773,35-44,1,low,false,Full-time employed,Affordability,false
+H01390,Maple Heights,254221,1354,1,2,16,1,0.13,true,false,F,6,6,6,8,8/21/23,180,B01390,299801,35-44,1,medium,false,Full-time employed,Location & Schools,true
+H07132,Maple Heights,281766,2036,2,2,51,1,0.18,false,true,D,6,6,6,8,8/21/23,85,B07132,325562,45-54,2,medium,false,Full-time employed,Modern & Updated,false
+H01268,Maple Heights,120000,1363,2,3,60,1,0.09,false,false,A,6,6,6,8,8/23/23,87,B01268,139286,45-54,1,low,false,Self-employed,Space & Bedrooms,false
+H01358,Maple Heights,171410,1189,2,2,18,1,0.18,false,false,C,6,6,6,8,8/23/23,38,B01358,192952,45-54,2,low,false,Self-employed,Location & Schools,true
+H06166,Maple Heights,293577,2046,3,3,8,2,0.17,false,false,E,6,6,6,8,8/28/23,46,B06166,310641,65+,1,medium,false,Retired,Low Maintenance,false
+H06724,Maple Heights,382792,2482,4,4,0,1,0.17,false,false,F,6,6,6,8,8/28/23,94,B06724,435216,35-44,3,medium,true,Full-time employed,Space & Bedrooms,false
+H04307,Maple Heights,425442,2531,5,5,16,2,0.23,true,false,E,6,6,6,8,9/1/23,65,B04307,460083,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H03595,Maple Heights,291935,1458,3,3,55,0,0.08,true,true,B,6,6,6,8,9/3/23,1,B03595,319172,65+,1,medium,false,Self-employed,Low Maintenance,false
+H01315,Maple Heights,300852,1870,3,3,40,1,0.15,false,false,B,6,6,6,8,9/3/23,1,B01315,331020,35-44,2,medium,false,Self-employed,Low Maintenance,false
+H03587,Maple Heights,371463,1934,2,3,16,2,0.18,false,true,E,6,6,6,8,9/4/23,5,B03587,436338,45-54,1,medium,false,Self-employed,Location & Schools,false
+H03508,Maple Heights,231373,1620,3,3,2,0,0.13,false,false,F,6,6,6,8,9/6/23,40,B03508,269528,55-64,2,low,false,Full-time employed,Investment,false
+H00922,Maple Heights,600828,3880,6,5,25,3,0.08,false,false,D,6,6,6,8,9/11/23,5,B00922,682421,45-54,4,high,true,Full-time employed,Space & Bedrooms,false
+H03759,Maple Heights,315269,1855,3,3,0,2,0.1,true,false,F,6,6,6,8,9/12/23,9,B03759,334693,25-34,1,medium,false,Dual income,Space & Bedrooms,false
+H06288,Maple Heights,358082,2103,4,4,19,2,0.12,true,false,E,6,6,6,8,9/14/23,9,B06288,414419,35-44,2,medium,false,Self-employed,Location & Schools,true
+H06365,Maple Heights,358804,1852,3,3,7,1,0.14,true,false,E,6,6,6,8,9/14/23,25,B06365,412686,45-54,1,medium,false,Full-time employed,Modern & Updated,true
+H05118,Maple Heights,384416,2332,3,3,2,1,0.12,false,false,E,6,6,6,8,9/15/23,2,B05118,444830,35-44,2,medium,false,Full-time employed,Location & Schools,false
+H04735,Maple Heights,205481,1682,3,3,5,2,0.19,false,false,E,6,6,6,8,9/16/23,33,B04735,237666,25-34,1,low,false,Full-time employed,Location & Schools,false
+H00098,Maple Heights,151115,800,1,1,5,0,0.15,false,false,E,6,6,6,8,9/22/23,24,B00098,163411,25-34,1,low,false,Full-time employed,Location & Schools,false
+H05820,Maple Heights,269483,1706,3,3,1,1,0.13,false,false,F,6,6,6,8,9/23/23,14,B05820,296316,45-54,2,medium,false,Full-time employed,Affordability,false
+H07793,Maple Heights,277784,1692,4,4,10,1,0.21,true,false,E,6,6,6,8,9/23/23,15,B07793,308464,35-44,4,medium,true,Full-time employed,Space & Bedrooms,true
+H02086,Maple Heights,243895,2011,3,3,60,2,0.18,false,false,A,6,6,6,8,9/25/23,52,B02086,285716,35-44,1,medium,false,Full-time employed,Location & Schools,false
+H02954,Maple Heights,212558,1436,3,3,5,2,0.23,false,false,E,6,6,6,8,9/25/23,20,B02954,246947,55-64,2,low,false,Full-time employed,Affordability,false
+H02546,Maple Heights,297273,1842,3,3,14,2,0.13,true,false,D,6,6,6,8,9/27/23,1,B02546,344716,35-44,3,medium,false,Dual income,Affordability,false
+H04451,Maple Heights,120000,800,1,1,24,1,0.27,false,false,D,6,6,6,8,9/27/23,14,B04451,132766,35-44,2,low,false,Full-time employed,Affordability,false
+H05610,Maple Heights,133749,865,1,1,42,1,0.18,false,false,A,6,6,6,8,9/28/23,96,B05610,149289,25-34,1,low,false,Full-time employed,Affordability,false
+H02865,Maple Heights,120000,907,1,1,34,2,0.13,true,false,D,6,6,6,8,9/28/23,26,B02865,135786,35-44,1,low,false,Full-time employed,Modern & Updated,false
+H04093,Maple Heights,329398,2247,3,3,2,1,0.12,false,false,F,6,6,6,8,10/1/23,5,B04093,378806,35-44,1,medium,false,Full-time employed,Affordability,false
+H06303,Maple Heights,313813,2343,4,4,16,1,0.13,false,false,D,6,6,6,8,10/1/23,26,B06303,358169,25-34,2,medium,false,Dual income,Location & Schools,false
+H04046,Maple Heights,471601,2710,6,5,10,1,0.16,true,false,D,6,6,6,8,10/2/23,29,B04046,519818,25-34,3,medium,false,Full-time employed,Modern & Updated,false
+H02809,Maple Heights,473980,3016,5,5,25,3,0.22,false,false,B,6,6,6,8,10/6/23,3,B02809,544938,45-54,4,medium,true,Full-time employed,Location & Schools,false
+H07620,Maple Heights,309109,1980,4,3,50,1,0.18,true,true,B,6,6,6,8,10/9/23,72,B07620,351687,45-54,2,medium,false,Full-time employed,Location & Schools,false
+H04653,Maple Heights,220316,1304,2,2,26,2,0.12,false,true,D,6,6,6,8,10/10/23,71,B04653,232864,35-44,1,low,false,Dual income,Space & Bedrooms,false
+H07714,Maple Heights,276949,1716,3,3,5,1,0.15,false,false,F,6,6,6,8,10/11/23,37,B07714,324650,25-34,1,medium,false,Self-employed,Affordability,false
+H05073,Maple Heights,132783,1005,3,2,34,1,0.13,true,false,D,6,6,6,8,10/12/23,5,B05073,152105,35-44,1,low,false,Full-time employed,Affordability,false
+H01764,Maple Heights,321840,1821,3,3,34,1,0.23,false,true,E,6,6,6,8,10/12/23,26,B01764,344644,65+,1,medium,false,Full-time employed,Modern & Updated,false
+H07236,Maple Heights,330219,2287,4,4,0,2,0.12,false,false,F,6,6,6,8,10/13/23,10,B07236,352902,35-44,3,medium,true,Full-time employed,Location & Schools,false
+H04229,Maple Heights,479007,2807,5,5,7,2,0.1,false,false,E,6,6,6,8,10/14/23,27,B04229,548982,35-44,3,medium,true,Dual income,Affordability,false
+H07825,Maple Heights,285429,1859,3,3,9,1,0.17,false,false,F,6,6,6,8,10/17/23,1,B07825,310269,25-34,3,medium,false,Full-time employed,Affordability,false
+H07895,Maple Heights,317423,1853,4,3,2,1,0.18,true,false,F,6,6,6,8,10/21/23,22,B07895,367007,45-54,1,medium,false,Full-time employed,Modern & Updated,false
+H00655,Maple Heights,337830,1824,3,3,28,1,0.1,false,false,C,6,6,6,8,10/22/23,55,B00655,398358,55-64,1,medium,false,Self-employed,Location & Schools,false
+H01431,Maple Heights,202886,1485,3,3,18,1,0.15,false,false,D,6,6,6,8,10/22/23,121,B01431,227983,25-34,2,low,false,Full-time employed,Affordability,false
+H05441,Maple Heights,259093,1686,2,2,14,1,0.13,false,false,F,6,6,6,8,10/24/23,9,B05441,293536,25-34,1,medium,false,Self-employed,Affordability,false
+H06976,Maple Heights,217010,1595,3,3,2,0,0.24,false,false,F,6,6,6,8,10/24/23,13,B06976,234050,25-34,1,low,false,Full-time employed,Affordability,false
+H02289,Maple Heights,419343,2749,4,4,40,2,0.17,true,true,B,6,6,6,8,10/27/23,45,B02289,461623,35-44,2,medium,false,Self-employed,Affordability,false
+H06756,Maple Heights,169903,1022,1,1,8,0,0.14,true,false,F,6,6,6,8,10/27/23,29,B06756,179554,25-34,1,low,false,Full-time employed,Investment,true
+H07126,Maple Heights,199808,1041,1,2,18,1,0.12,true,false,E,6,6,6,8,11/1/23,14,B07126,226002,25-34,1,low,false,Full-time employed,Location & Schools,false
+H06876,Maple Heights,440981,3112,5,5,7,3,0.14,false,false,E,6,6,6,8,11/1/23,2,B06876,479188,35-44,4,medium,true,Dual income,Investment,false
+H06640,Maple Heights,373956,2026,4,3,13,2,0.23,false,false,F,6,6,6,8,11/6/23,19,B06640,428080,45-54,2,medium,false,Self-employed,Space & Bedrooms,false
+H06397,Maple Heights,120000,817,2,2,30,1,0.12,true,false,D,6,6,6,8,11/8/23,9,B06397,130000,25-34,1,low,false,Full-time employed,Affordability,false
+H02877,Maple Heights,120000,1061,2,2,31,0,0.26,false,false,C,6,6,6,8,11/9/23,7,B02877,138984,25-34,1,low,false,Full-time employed,Affordability,false
+H05587,Maple Heights,277661,1637,3,3,16,0,0.11,true,false,E,6,6,6,8,11/12/23,52,B05587,307839,25-34,1,medium,false,Dual income,Modern & Updated,false
+H02337,Maple Heights,403872,2106,3,3,4,2,0.11,false,false,D,6,6,6,8,11/17/23,10,B02337,448745,25-34,2,medium,false,Full-time employed,Location & Schools,false
+H01342,Maple Heights,327067,1765,3,3,15,0,0.16,true,false,C,6,6,6,8,11/17/23,19,B01342,376471,25-34,1,medium,false,Full-time employed,Location & Schools,false
+H07240,Maple Heights,269500,2032,3,4,37,1,0.17,false,false,B,6,6,6,8,11/21/23,41,B07240,286251,45-54,1,medium,false,Full-time employed,Affordability,true
+H01664,Maple Heights,251378,1446,3,3,20,0,0.21,false,false,E,6,6,6,8,11/21/23,17,B01664,292876,35-44,2,medium,false,Full-time employed,Modern & Updated,false
+H01734,Maple Heights,508654,3110,6,5,11,2,0.13,false,false,E,6,6,6,8,11/22/23,40,B01734,585248,35-44,5,medium,true,Full-time employed,Investment,false
+H02362,Maple Heights,444901,2891,5,5,1,1,0.23,false,false,F,6,6,6,8,11/25/23,12,B02362,474565,65+,1,medium,false,Retired,Low Maintenance,true
+H02260,Maple Heights,374632,2242,3,3,10,1,0.29,false,false,E,6,6,6,8,11/27/23,27,B02260,429162,35-44,2,medium,false,Full-time employed,Low Maintenance,false
+H05299,Maple Heights,145138,800,1,2,19,2,0.21,true,false,E,6,6,6,8,12/11/23,1,B05299,166267,35-44,1,low,false,Dual income,Space & Bedrooms,true
+H03022,Maple Heights,120000,800,2,2,53,0,0.12,false,false,C,6,6,6,8,12/15/23,45,B03022,140675,25-34,1,low,false,Full-time employed,Low Maintenance,false
+H03565,Maple Heights,379053,1978,2,2,3,2,0.15,true,false,E,6,6,6,8,12/16/23,34,B03565,434711,55-64,2,medium,false,Dual income,Location & Schools,false
+H04931,Maple Heights,259373,1890,3,3,13,1,0.09,false,false,E,6,6,6,8,12/18/23,13,B04931,297609,55-64,1,medium,false,Retired,Affordability,false
+H00453,Maple Heights,126511,800,2,2,49,1,0.16,false,true,B,6,6,6,8,12/19/23,20,B00453,133362,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
+H06900,Maple Heights,411117,2753,4,4,2,1,0.16,true,false,E,6,6,6,8,12/20/23,76,B06900,437013,35-44,2,medium,false,Dual income,Affordability,false
+H00700,Maple Heights,123669,800,1,1,23,2,0.17,false,false,E,6,6,6,8,1/6/24,17,B00700,139681,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
+H04324,Maple Heights,159237,1565,2,2,12,0,0.17,false,false,E,6,6,6,8,1/8/24,27,B04324,187525,25-34,1,low,false,Full-time employed,Investment,false
+H07068,Maple Heights,222331,1653,4,3,38,0,0.15,false,true,E,6,6,6,8,1/10/24,1,B07068,258943,65+,1,low,false,Retired,Space & Bedrooms,true
+H02518,Maple Heights,293932,1941,4,4,4,1,0.15,false,false,F,6,6,6,8,1/10/24,8,B02518,329928,45-54,2,medium,false,Self-employed,Space & Bedrooms,false
+H06731,Maple Heights,291604,1873,4,4,11,1,0.19,false,false,E,6,6,6,8,1/11/24,9,B06731,324396,35-44,3,medium,true,Dual income,Location & Schools,false
+H01444,Maple Heights,192088,1209,3,3,32,2,0.13,true,false,B,6,6,6,8,1/13/24,114,B01444,213265,35-44,2,low,false,Full-time employed,Investment,false
+H06884,Maple Heights,537955,3419,6,5,41,2,0.07,false,false,B,6,6,6,8,1/14/24,15,B06884,585181,35-44,4,medium,true,Full-time employed,Location & Schools,false
+H00583,Maple Heights,203757,1882,3,3,52,1,0.13,false,false,B,6,6,6,8,1/14/24,25,B00583,223670,25-34,1,low,false,Full-time employed,Location & Schools,true
+H03894,Maple Heights,332796,2144,3,3,8,1,0.09,true,false,F,6,6,6,8,1/16/24,65,B03894,378721,25-34,1,medium,false,Full-time employed,Affordability,false
+H01076,Maple Heights,362764,2174,4,4,33,2,0.19,true,false,C,6,6,6,8,1/16/24,4,B01076,402172,25-34,1,medium,false,Full-time employed,Low Maintenance,false
+H00040,Maple Heights,222016,1682,4,4,7,0,0.16,false,false,E,6,6,6,8,1/17/24,26,B00040,249081,55-64,3,low,true,Retired,Space & Bedrooms,true
+H00363,Maple Heights,244727,1270,3,2,7,1,0.11,false,false,F,6,6,6,8,1/17/24,18,B00363,288498,45-54,1,medium,false,Full-time employed,Location & Schools,false
+H04752,Maple Heights,333008,1760,3,3,3,1,0.16,true,false,D,6,6,6,8,1/22/24,47,B04752,365438,45-54,2,medium,false,Full-time employed,Affordability,false
+H07988,Maple Heights,433841,2629,6,5,2,2,0.14,false,false,F,6,6,6,8,1/28/24,2,B07988,466174,45-54,4,medium,true,Dual income,Low Maintenance,false
+H05965,Maple Heights,322408,1348,1,1,0,1,0.19,true,false,E,6,6,6,8,2/2/24,15,B05965,363701,45-54,1,medium,false,Dual income,Affordability,false
+H06933,Maple Heights,428823,2650,5,5,13,1,0.1,true,false,E,6,6,6,8,2/2/24,150,B06933,504203,35-44,3,medium,false,Full-time employed,Space & Bedrooms,false
+H04595,Maple Heights,121813,800,2,2,7,1,0.14,false,false,E,6,6,6,8,2/3/24,25,B04595,131097,25-34,1,low,false,Full-time employed,Modern & Updated,false
+H07719,Maple Heights,277547,1543,2,2,0,1,0.18,false,true,F,6,6,6,8,2/4/24,85,B07719,302489,45-54,2,medium,false,Self-employed,Location & Schools,false
+H07149,Maple Heights,378509,2319,3,3,16,2,0.21,true,false,E,6,6,6,8,2/4/24,6,B07149,422084,65+,1,medium,false,Retired,Low Maintenance,true
+H01026,Maple Heights,386334,2037,2,2,13,2,0.18,true,false,E,6,6,6,8,2/6/24,7,B01026,410964,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H04927,Maple Heights,240714,1582,3,2,1,1,0.2,false,false,F,6,6,6,8,2/9/24,44,B04927,256090,25-34,1,low,false,Dual income,Modern & Updated,false
+H07135,Maple Heights,120000,800,1,1,14,0,0.13,false,false,D,6,6,6,8,2/12/24,11,B07135,137903,35-44,1,low,false,Dual income,Space & Bedrooms,false
+H04497,Maple Heights,249982,1789,2,2,3,1,0.11,false,false,E,6,6,6,8,2/12/24,3,B04497,289868,45-54,1,medium,false,Self-employed,Space & Bedrooms,false
+H01570,Maple Heights,561776,3053,5,5,2,2,0.13,true,false,E,6,6,6,8,2/13/24,29,B01570,594429,25-34,3,medium,true,Full-time employed,Low Maintenance,false
+H01525,Maple Heights,332278,1719,2,3,26,1,0.07,true,false,D,6,6,6,8,2/18/24,7,B01525,365986,35-44,2,medium,false,Dual income,Location & Schools,false
+H05408,Maple Heights,260803,1692,3,3,9,1,0.18,true,false,D,6,6,6,8,2/18/24,51,B05408,289421,55-64,1,medium,false,Self-employed,Location & Schools,false
+H06074,Maple Heights,298311,1801,3,3,3,1,0.18,false,false,E,6,6,6,8,2/25/24,1,B06074,337858,35-44,2,medium,false,Self-employed,Affordability,false
+H01010,Maple Heights,197967,1245,2,2,0,1,0.1,false,false,F,6,6,6,8,2/28/24,88,B01010,212782,65+,1,low,false,Retired,Affordability,false
+H07050,Maple Heights,318694,2076,2,2,4,1,0.23,true,false,F,6,6,6,8,3/1/24,62,B07050,345873,35-44,2,medium,false,Full-time employed,Affordability,true
+H07035,Maple Heights,244459,1629,3,3,1,1,0.15,false,false,E,6,6,6,8,3/2/24,16,B07035,271383,45-54,1,low,false,Self-employed,Affordability,false
+H07856,Maple Heights,403015,2264,5,5,16,1,0.1,false,false,D,6,6,6,8,3/2/24,18,B07856,427810,25-34,3,medium,false,Full-time employed,Location & Schools,false
+H02598,Maple Heights,378408,2183,5,4,21,2,0.12,true,false,D,6,6,6,8,3/3/24,58,B02598,413274,55-64,4,medium,false,Self-employed,Space & Bedrooms,false
+H03548,Maple Heights,312104,2226,3,3,11,1,0.17,false,false,F,6,6,6,8,3/3/24,47,B03548,336291,25-34,1,medium,false,Full-time employed,Location & Schools,false
+H01589,Maple Heights,316010,1873,4,4,6,1,0.11,true,false,F,6,6,6,8,3/4/24,17,B01589,335998,35-44,3,medium,false,Self-employed,Affordability,false
+H04206,Maple Heights,120000,800,1,2,6,0,0.14,true,false,F,6,6,6,8,3/5/24,31,B04206,131497,25-34,1,low,false,Full-time employed,Affordability,false
+H02410,Maple Heights,192027,1452,2,2,30,0,0.27,true,false,C,6,6,6,8,3/7/24,32,B02410,204880,35-44,2,low,false,Full-time employed,Affordability,false
+H01000,Maple Heights,183024,1409,3,2,36,1,0.12,false,false,B,6,6,6,8,3/10/24,54,B01000,198313,45-54,2,low,false,Full-time employed,Affordability,false
+H04613,Maple Heights,212143,1215,2,3,17,1,0.11,false,false,D,6,6,6,8,3/11/24,44,B04613,243850,25-34,1,low,false,Full-time employed,Affordability,false
+H01778,Maple Heights,431785,2667,4,5,29,2,0.21,false,false,C,6,6,6,8,3/12/24,61,B01778,496023,25-34,2,medium,false,Full-time employed,Affordability,false
+H01978,Maple Heights,399305,2532,5,5,6,2,0.11,false,false,E,6,6,6,8,3/12/24,8,B01978,449163,25-34,3,medium,true,Dual income,Affordability,false
+H04555,Maple Heights,355929,1977,2,3,14,2,0.11,true,false,E,6,6,6,8,3/13/24,32,B04555,409592,35-44,1,medium,false,Self-employed,Modern & Updated,false
+H06815,Maple Heights,462754,2946,5,5,22,2,0.11,true,false,C,6,6,6,8,3/20/24,1,B06815,503456,55-64,2,medium,false,Retired,Space & Bedrooms,false
+H04706,Maple Heights,246238,1258,3,2,13,1,0.11,false,false,E,6,6,6,8,3/22/24,58,B04706,269253,25-34,2,low,false,Full-time employed,Space & Bedrooms,false
+H00456,Maple Heights,332610,2094,3,3,0,1,0.12,true,false,F,6,6,6,8,3/27/24,6,B00456,391692,35-44,2,medium,false,Full-time employed,Affordability,false
+H02149,Maple Heights,153810,800,2,2,21,2,0.19,false,false,D,6,6,6,8,4/1/24,3,B02149,166682,55-64,1,low,false,Dual income,Location & Schools,false
+H00526,Maple Heights,278868,1751,4,3,4,0,0.12,false,true,F,6,6,6,8,4/2/24,4,B00526,297407,35-44,3,medium,true,Self-employed,Investment,false
+H05096,Maple Heights,198539,1213,2,1,3,0,0.13,false,false,F,6,6,6,8,4/4/24,37,B05096,213601,25-34,1,low,false,Dual income,Affordability,false
+H05510,Maple Heights,120000,909,3,3,11,0,0.19,false,false,E,6,6,6,8,4/5/24,2,B05510,134137,35-44,1,low,false,Full-time employed,Investment,false
+H00692,Maple Heights,369824,2490,4,4,1,2,0.15,false,false,F,6,6,6,8,4/5/24,6,B00692,406498,35-44,4,medium,true,Dual income,Location & Schools,false
+H00650,Maple Heights,372421,2556,4,4,12,2,0.18,false,false,E,6,6,6,8,4/5/24,10,B00650,409798,35-44,4,medium,true,Full-time employed,Space & Bedrooms,false
+H02445,Maple Heights,256583,1692,4,3,24,1,0.14,true,false,D,6,6,6,8,4/7/24,6,B02445,282838,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H03995,Maple Heights,121763,800,1,1,11,0,0.3,false,false,E,6,6,6,8,4/8/24,22,B03995,139701,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
+H02623,Maple Heights,166700,999,2,2,16,2,0.13,false,true,F,6,6,6,8,4/8/24,42,B02623,191259,25-34,2,low,false,Full-time employed,Space & Bedrooms,false
+H05079,Maple Heights,373695,2085,4,4,8,2,0.17,false,false,E,6,6,6,8,4/8/24,34,B05079,395390,35-44,3,medium,true,Full-time employed,Space & Bedrooms,false
+H07898,Maple Heights,207723,1632,2,2,26,1,0.11,false,false,C,6,6,6,8,4/10/24,43,B07898,222964,65+,1,low,false,Self-employed,Modern & Updated,true
+H01947,Maple Heights,590418,4056,6,5,40,2,0.11,false,true,D,6,6,6,8,4/14/24,13,B01947,685602,35-44,4,high,true,Full-time employed,Space & Bedrooms,false
+H06795,Maple Heights,374473,2819,4,4,60,1,0.12,false,true,B,6,6,6,8,4/16/24,1,B06795,404444,55-64,2,medium,false,Full-time employed,Space & Bedrooms,false
+H04341,Maple Heights,433041,2487,4,5,39,1,0.16,true,true,C,6,6,6,8,4/18/24,2,B04341,459508,55-64,3,medium,true,Self-employed,Location & Schools,false
+H03267,Maple Heights,484408,3226,5,5,3,2,0.17,false,false,E,6,6,6,8,4/18/24,34,B03267,528314,25-34,2,medium,false,Full-time employed,Affordability,false
+H03636,Maple Heights,280582,2343,4,4,46,1,0.09,true,false,A,6,6,6,8,4/19/24,8,B03636,310479,35-44,2,medium,false,Full-time employed,Low Maintenance,false
+H00458,Maple Heights,291125,1867,3,3,29,2,0.17,false,true,E,6,6,6,8,4/22/24,22,B00458,312514,35-44,2,medium,false,Full-time employed,Modern & Updated,false
+H01132,Maple Heights,131434,1131,2,1,6,2,0.16,false,false,F,6,6,6,8,4/24/24,95,B01132,140034,35-44,1,low,false,Dual income,Affordability,false
+H02057,Maple Heights,189159,1376,2,2,21,0,0.15,false,false,E,6,6,6,8,4/25/24,35,B02057,203647,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
+H01843,Maple Heights,343420,2497,5,5,29,1,0.2,true,false,D,6,6,6,8,4/25/24,78,B01843,393985,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H01928,Maple Heights,421551,2259,4,4,0,1,0.09,true,false,F,6,6,6,8,4/26/24,22,B01928,443480,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H06107,Maple Heights,171698,1191,3,3,20,0,0.25,false,false,C,6,6,6,8,4/27/24,48,B06107,190815,25-34,1,low,false,Dual income,Affordability,false
+H03647,Maple Heights,293567,1625,2,2,3,1,0.23,false,false,E,6,6,6,8,4/27/24,12,B03647,332139,35-44,2,medium,false,Dual income,Affordability,false
+H03558,Maple Heights,496725,3156,6,5,6,2,0.12,true,false,E,6,6,6,8,4/28/24,78,B03558,540582,55-64,4,medium,false,Self-employed,Space & Bedrooms,false
+H02776,Maple Heights,176039,974,2,2,10,1,0.19,false,false,F,6,6,6,8,5/1/24,36,B02776,193821,35-44,1,low,false,Dual income,Affordability,false
+H06362,Maple Heights,260187,1533,2,2,5,2,0.16,false,false,F,6,6,6,8,5/2/24,9,B06362,299520,35-44,1,medium,false,Self-employed,Location & Schools,false
+H00789,Maple Heights,203468,1435,2,2,60,1,0.07,false,false,A,6,6,6,8,5/3/24,16,B00789,226678,65+,1,low,false,Retired,Location & Schools,false
+H06778,Maple Heights,300647,2123,3,3,31,1,0.17,true,false,C,6,6,6,8,5/4/24,44,B06778,318831,45-54,2,medium,false,Dual income,Location & Schools,false
+H00427,Maple Heights,190981,1049,2,2,12,0,0.1,false,false,F,6,6,6,8,5/4/24,64,B00427,206164,45-54,1,low,false,Retired,Modern & Updated,true
+H03988,Maple Heights,240702,1249,3,3,4,2,0.25,true,false,F,6,6,6,8,5/4/24,51,B03988,279071,25-34,1,low,false,Full-time employed,Space & Bedrooms,true
+H02165,Maple Heights,308749,2170,4,4,18,2,0.2,false,false,C,6,6,6,8,5/6/24,9,B02165,328666,35-44,4,medium,false,Dual income,Affordability,false
+H05067,Maple Heights,120000,883,3,3,8,0,0.14,false,false,E,6,6,6,8,5/6/24,52,B05067,130000,25-34,1,low,false,Self-employed,Affordability,false
+H05250,Maple Heights,281211,1698,3,3,2,0,0.19,false,false,F,6,6,6,8,5/9/24,54,B05250,302661,35-44,1,medium,false,Full-time employed,Affordability,false
+H02661,Maple Heights,245362,1934,2,2,12,1,0.25,false,false,E,6,6,6,8,5/10/24,4,B02661,273270,65+,1,low,false,Retired,Low Maintenance,false
+H05398,Maple Heights,120000,800,1,1,10,0,0.14,false,false,F,6,6,6,8,5/11/24,22,B05398,130000,25-34,1,low,false,Self-employed,Space & Bedrooms,false
+H07969,Maple Heights,215676,1636,2,2,20,1,0.13,true,false,D,6,6,6,8,5/11/24,26,B07969,242276,55-64,1,low,false,Retired,Modern & Updated,false
+H05055,Maple Heights,201075,1796,4,4,49,2,0.18,false,false,A,6,6,6,8,5/11/24,94,B05055,212841,35-44,4,low,true,Self-employed,Space & Bedrooms,false
+H07192,Maple Heights,312371,1705,4,3,5,0,0.11,true,false,E,6,6,6,8,5/12/24,28,B07192,351070,45-54,2,medium,false,Retired,Affordability,false
+H06550,Maple Heights,457363,2954,5,5,1,1,0.12,false,false,E,6,6,6,8,5/12/24,129,B06550,515776,25-34,3,medium,true,Full-time employed,Investment,false
+H05483,Maple Heights,155147,987,1,1,47,1,0.21,true,false,B,6,6,6,8,5/13/24,57,B05483,181211,35-44,1,low,false,Dual income,Space & Bedrooms,true
+H02130,Maple Heights,219709,1706,4,3,10,1,0.17,false,false,F,6,6,6,8,5/13/24,77,B02130,256295,25-34,1,low,false,Full-time employed,Affordability,false
+H07461,Maple Heights,217500,1515,2,2,10,1,0.15,false,false,D,6,6,6,8,5/16/24,25,B07461,247715,35-44,1,low,false,Self-employed,Investment,false
+H02513,Maple Heights,342943,1972,3,3,9,1,0.09,false,true,F,6,6,6,8,5/16/24,17,B02513,368768,35-44,2,medium,false,Dual income,Affordability,false
+H05208,Maple Heights,439899,2481,4,4,11,1,0.13,true,false,E,6,6,6,8,5/17/24,14,B05208,482976,35-44,2,medium,false,Dual income,Modern & Updated,false
+H00581,Maple Heights,198561,1264,3,3,24,0,0.13,false,false,C,6,6,6,8,5/19/24,9,B00581,230399,25-34,1,low,false,Full-time employed,Space & Bedrooms,true
+H03104,Maple Heights,526994,2987,5,5,24,1,0.13,true,false,E,6,6,6,8,5/20/24,3,B03104,607958,35-44,2,medium,false,Full-time employed,Modern & Updated,true
+H00491,Maple Heights,386962,2365,4,4,18,2,0.18,true,false,E,6,6,6,8,5/21/24,44,B00491,431036,45-54,2,medium,false,Full-time employed,Location & Schools,false
+H00247,Maple Heights,285051,2026,4,4,13,1,0.12,false,false,F,6,6,6,8,5/21/24,17,B00247,307160,35-44,2,medium,false,Dual income,Affordability,false
+H01280,Maple Heights,388028,2213,4,4,15,2,0.2,true,false,F,6,6,6,8,5/26/24,31,B01280,448467,55-64,1,medium,false,Dual income,Space & Bedrooms,false
+H02876,Maple Heights,342049,1397,1,1,12,1,0.11,true,true,E,6,6,6,8,5/27/24,68,B02876,389272,25-34,1,medium,false,Full-time employed,Modern & Updated,true
+H05373,Maple Heights,169779,800,1,1,24,2,0.11,false,false,E,6,6,6,8,5/28/24,48,B05373,193057,25-34,1,low,false,Full-time employed,Affordability,true
+H03352,Maple Heights,499674,2792,4,4,7,1,0.16,false,false,E,6,6,6,8,6/5/24,50,B03352,541004,35-44,2,medium,false,Full-time employed,Affordability,false
+H04759,Maple Heights,130210,956,2,2,36,1,0.16,false,false,A,6,6,6,8,6/6/24,9,B04759,145569,25-34,1,low,false,Self-employed,Modern & Updated,true
+H07171,Maple Heights,187628,800,1,1,13,2,0.1,false,true,F,6,6,6,8,6/6/24,8,B07171,203800,25-34,1,low,false,Dual income,Space & Bedrooms,false
+H04173,Maple Heights,321776,2006,4,4,26,1,0.14,false,true,F,6,6,6,8,6/6/24,45,B04173,365636,25-34,2,medium,false,Full-time employed,Affordability,false
+H02145,Maple Heights,346144,2212,4,4,2,1,0.21,true,false,F,6,6,6,8,6/6/24,23,B02145,365393,35-44,3,medium,true,Self-employed,Location & Schools,false
+H07487,Maple Heights,270791,2316,4,3,42,2,0.13,false,false,B,6,6,6,8,6/7/24,65,B07487,310169,45-54,2,medium,false,Full-time employed,Affordability,false
+H05117,Maple Heights,307945,1554,3,3,42,2,0.16,false,true,C,6,6,6,8,6/8/24,26,B05117,328587,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H00741,Maple Heights,357623,2073,2,3,8,1,0.14,true,false,F,6,6,6,8,6/8/24,12,B00741,403146,25-34,1,medium,false,Full-time employed,Location & Schools,false
+H00832,Maple Heights,249654,1827,3,3,25,1,0.19,false,false,D,6,6,6,8,6/8/24,15,B00832,284109,35-44,2,medium,false,Full-time employed,Affordability,false
+H07940,Maple Heights,291419,1637,3,3,1,0,0.18,true,false,F,6,6,6,8,6/9/24,38,B07940,310126,25-34,1,medium,false,Full-time employed,Affordability,false
+H07855,Maple Heights,448954,3079,4,5,15,3,0.15,false,false,E,6,6,6,8,6/10/24,60,B07855,524932,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H06804,Maple Heights,120000,800,2,2,46,2,0.12,false,false,B,6,6,6,8,6/10/24,76,B06804,131961,55-64,1,low,false,Retired,Modern & Updated,false
+H05540,Maple Heights,123308,1096,2,2,11,2,0.1,false,false,D,6,6,6,8,6/10/24,14,B05540,135066,55-64,2,low,false,Retired,Space & Bedrooms,false
+H05895,Maple Heights,214712,1312,2,2,22,1,0.12,true,false,D,6,6,6,8,6/12/24,24,B05895,241733,35-44,1,low,false,Dual income,Space & Bedrooms,false
+H05349,Maple Heights,432056,2773,5,5,9,2,0.08,false,false,D,6,6,6,8,6/13/24,1,B05349,503284,35-44,4,medium,false,Full-time employed,Space & Bedrooms,false
+H02919,Maple Heights,261062,1954,4,3,28,1,0.13,false,false,C,6,6,6,8,6/16/24,38,B02919,287202,35-44,3,medium,false,Dual income,Space & Bedrooms,false
+H04789,Maple Heights,362112,2093,3,3,36,1,0.13,true,true,D,6,6,6,8,6/16/24,24,B04789,405584,45-54,4,medium,true,Full-time employed,Space & Bedrooms,false
+H04526,Maple Heights,271546,1951,3,3,6,1,0.18,false,false,E,6,6,6,8,6/16/24,52,B04526,302520,35-44,2,medium,false,Full-time employed,Location & Schools,false
+H03100,Maple Heights,271694,1492,2,2,0,2,0.14,false,false,F,6,6,6,8,6/19/24,9,B03100,289754,35-44,1,medium,false,Full-time employed,Location & Schools,false
+H00624,Maple Heights,120000,861,1,1,9,0,0.21,false,false,E,6,6,6,8,6/20/24,41,B00624,130000,35-44,1,low,false,Self-employed,Low Maintenance,false
+H06425,Maple Heights,375985,2314,5,4,0,2,0.15,false,false,F,6,6,6,8,6/20/24,13,B06425,436230,35-44,4,medium,true,Full-time employed,Space & Bedrooms,false
+H01502,Maple Heights,309492,1890,3,3,2,2,0.09,false,false,E,6,6,6,8,6/23/24,22,B01502,348492,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H04712,Maple Heights,260301,1231,1,1,5,0,0.16,true,false,F,6,6,6,8,6/24/24,26,B04712,305032,35-44,1,medium,false,Full-time employed,Affordability,false
+H07432,Maple Heights,151458,867,2,2,5,0,0.08,false,false,F,6,6,6,8,6/26/24,180,B07432,168982,45-54,1,low,false,Full-time employed,Modern & Updated,false
+H00539,Maple Heights,275848,1327,2,2,1,2,0.22,true,false,F,6,6,6,8,6/26/24,91,B00539,324409,25-34,2,medium,false,Self-employed,Space & Bedrooms,false
+H06448,Maple Heights,240086,1468,3,3,20,2,0.2,false,false,E,6,6,6,8,7/2/24,3,B06448,279839,35-44,2,low,false,Full-time employed,Affordability,false
+H05864,Maple Heights,345049,2210,3,3,7,1,0.18,false,false,E,6,6,6,8,7/2/24,58,B05864,404964,45-54,2,medium,false,Full-time employed,Space & Bedrooms,false
+H05495,Maple Heights,152509,800,1,1,24,1,0.1,false,true,F,6,6,6,8,7/2/24,24,B05495,174541,25-34,1,low,false,Self-employed,Space & Bedrooms,false
+H06987,Maple Heights,265953,1309,2,2,17,2,0.32,true,false,E,6,6,6,8,7/3/24,57,B06987,311408,45-54,3,medium,true,Self-employed,Affordability,false
+H05999,Maple Heights,296564,1914,3,3,4,2,0.15,true,false,F,6,6,6,8,7/5/24,2,B05999,329913,25-34,1,medium,false,Full-time employed,Affordability,false
+H02757,Maple Heights,120000,800,1,1,14,0,0.16,true,false,E,6,6,6,8,7/6/24,56,B02757,137144,45-54,1,low,false,Full-time employed,Space & Bedrooms,false
+H01059,Maple Heights,237175,1243,1,1,3,2,0.18,true,false,F,6,6,6,8,7/6/24,42,B01059,255162,55-64,2,low,false,Self-employed,Location & Schools,false
+H05047,Maple Heights,448548,2701,4,3,52,1,0.17,true,false,B,6,6,6,8,7/8/24,6,B05047,522095,25-34,1,medium,false,Full-time employed,Affordability,true
+H01374,Maple Heights,179879,1255,2,2,5,1,0.1,false,false,E,6,6,6,8,7/9/24,36,B01374,189309,35-44,1,low,false,Full-time employed,Affordability,false
+H01264,Maple Heights,187946,800,2,2,18,1,0.18,true,false,E,6,6,6,8,7/10/24,38,B01264,209086,65+,1,low,false,Retired,Location & Schools,false
+H03828,Maple Heights,156431,978,2,2,53,1,0.26,true,true,A,6,6,6,8,7/10/24,1,B03828,181236,55-64,1,low,false,Self-employed,Location & Schools,false
+H03382,Maple Heights,175930,1232,1,2,52,1,0.25,false,true,A,6,6,6,8,7/11/24,13,B03382,202007,25-34,1,low,false,Dual income,Affordability,false
+H02313,Maple Heights,244732,1751,4,4,60,0,0.1,true,false,A,6,6,6,8,7/11/24,31,B02313,264064,25-34,1,low,false,Full-time employed,Location & Schools,false
+H05275,Maple Heights,199258,1394,3,3,16,1,0.1,false,false,D,6,6,6,8,7/13/24,32,B05275,232006,55-64,2,low,false,Dual income,Modern & Updated,false
+H00143,Maple Heights,320773,2293,4,5,13,1,0.13,false,false,F,6,6,6,8,7/15/24,80,B00143,376656,45-54,2,medium,false,Self-employed,Affordability,false
+H06591,Maple Heights,120000,855,2,2,60,1,0.18,true,false,A,6,6,6,8,7/17/24,43,B06591,130767,35-44,1,low,false,Full-time employed,Location & Schools,false
+H00090,Maple Heights,302004,1757,4,3,0,1,0.12,false,false,F,6,6,6,8,7/17/24,165,B00090,332294,55-64,2,medium,false,Full-time employed,Space & Bedrooms,false
+H07452,Maple Heights,241433,1821,3,3,11,2,0.17,false,false,D,6,6,6,8,7/18/24,8,B07452,283048,35-44,3,medium,true,Dual income,Space & Bedrooms,false
+H05580,Maple Heights,264011,1533,3,3,11,1,0.08,true,false,F,6,6,6,8,7/19/24,4,B05580,281755,65+,1,medium,false,Retired,Location & Schools,true
+H05002,Maple Heights,120000,800,1,1,28,1,0.19,true,false,D,6,6,6,8,7/20/24,4,B05002,141499,25-34,1,low,false,Dual income,Investment,false
+H02393,Maple Heights,241380,1736,3,3,12,2,0.15,false,false,F,6,6,6,8,7/22/24,19,B02393,259289,35-44,2,low,false,Full-time employed,Affordability,false
+H06399,Maple Heights,352969,1634,3,3,21,2,0.14,true,true,F,6,6,6,8,7/25/24,116,B06399,408075,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H00568,Maple Heights,123262,860,2,2,60,0,0.22,true,true,B,6,6,6,8,7/25/24,14,B00568,144144,35-44,1,low,false,Full-time employed,Affordability,false
+H03560,Maple Heights,393707,2081,3,3,2,2,0.25,false,false,F,6,6,6,8,7/25/24,72,B03560,427565,35-44,2,medium,false,Dual income,Investment,false
+H02650,Maple Heights,149918,936,1,1,41,1,0.15,true,true,D,6,6,6,8,7/25/24,6,B02650,171219,25-34,1,low,false,Full-time employed,Location & Schools,false
+H07026,Maple Heights,469267,2629,4,4,37,2,0.15,false,true,B,6,6,6,8,7/25/24,45,B07026,517861,25-34,2,medium,false,Self-employed,Space & Bedrooms,false
+H07381,Maple Heights,238533,1286,2,2,10,1,0.2,false,false,D,6,6,6,8,7/26/24,3,B07381,259817,35-44,1,low,false,Full-time employed,Affordability,false
+H02033,Maple Heights,414530,2461,5,5,7,1,0.16,false,false,D,6,6,6,8,7/27/24,24,B02033,484008,25-34,2,medium,false,Full-time employed,Modern & Updated,false
+H03155,Maple Heights,376094,2291,3,3,18,1,0.15,false,false,D,6,6,6,8,8/2/24,89,B03155,413957,35-44,2,medium,false,Dual income,Location & Schools,false
+H04258,Maple Heights,464204,2687,5,5,24,2,0.13,false,false,C,6,6,6,8,8/3/24,2,B04258,516023,45-54,4,medium,true,Full-time employed,Location & Schools,false
+H02196,Maple Heights,413185,2582,5,5,10,2,0.18,true,false,F,6,6,6,8,8/6/24,17,B02196,473475,55-64,5,medium,true,Self-employed,Space & Bedrooms,false
+H06539,Maple Heights,120000,1186,2,2,55,0,0.09,true,true,B,6,6,6,8,8/6/24,15,B06539,138347,45-54,1,low,false,Full-time employed,Space & Bedrooms,true
+H02496,Maple Heights,338597,2370,4,4,8,1,0.26,false,false,E,6,6,6,8,8/7/24,80,B02496,356520,45-54,3,medium,true,Self-employed,Space & Bedrooms,true
+H01086,Maple Heights,300371,1973,4,3,25,2,0.12,false,false,C,6,6,6,8,8/10/24,23,B01086,316722,45-54,2,medium,false,Dual income,Low Maintenance,false
+H03581,Maple Heights,164110,944,2,2,21,2,0.15,true,false,D,6,6,6,8,8/12/24,39,B03581,173581,35-44,2,low,false,Full-time employed,Affordability,false
+H06952,Maple Heights,149474,1472,2,2,10,0,0.21,false,false,E,6,6,6,8,8/13/24,20,B06952,168714,25-34,1,low,false,Full-time employed,Modern & Updated,true
+H05171,Maple Heights,125662,969,1,2,7,1,0.1,false,false,F,6,6,6,8,8/16/24,19,B05171,133349,35-44,1,low,false,Dual income,Modern & Updated,false
+H01702,Maple Heights,304203,2246,3,4,19,1,0.17,false,true,E,6,6,6,8,8/16/24,8,B01702,341354,45-54,1,medium,false,Full-time employed,Affordability,false
+H07964,Maple Heights,317898,1501,2,2,50,0,0.12,true,false,A,6,6,6,8,8/17/24,123,B07964,344223,65+,1,medium,false,Retired,Low Maintenance,false
+H06623,Maple Heights,286807,2062,4,4,3,2,0.13,true,false,F,6,6,6,8,8/18/24,68,B06623,303979,55-64,2,medium,false,Self-employed,Affordability,false
+H07072,Maple Heights,215571,1804,4,3,28,2,0.22,false,false,D,6,6,6,8,8/20/24,16,B07072,226381,55-64,2,low,false,Retired,Modern & Updated,true
+H04102,Maple Heights,202383,1769,3,3,42,0,0.2,false,false,C,6,6,6,8,8/20/24,51,B04102,235490,25-34,1,low,false,Self-employed,Location & Schools,false
+H06848,Maple Heights,211880,1448,2,2,1,1,0.18,false,false,F,6,6,6,8,8/21/24,56,B06848,226975,25-34,1,low,false,Full-time employed,Low Maintenance,false
+H03633,Maple Heights,336167,1800,3,3,2,1,0.25,true,false,F,6,6,6,8,8/24/24,57,B03633,388461,25-34,2,medium,false,Full-time employed,Affordability,false
+H06416,Maple Heights,133535,800,1,1,17,0,0.16,false,false,E,6,6,6,8,8/24/24,4,B06416,148712,55-64,1,low,false,Self-employed,Space & Bedrooms,false
+H00713,Maple Heights,205206,1549,3,3,26,0,0.21,false,false,C,6,6,6,8,8/25/24,15,B00713,232408,35-44,2,low,false,Dual income,Affordability,false
+H07814,Maple Heights,337538,2022,3,3,2,2,0.24,false,false,E,6,6,6,8,9/4/24,4,B07814,396059,65+,1,medium,false,Retired,Low Maintenance,false
+H04416,Maple Heights,344094,2269,3,3,4,1,0.12,false,false,F,6,6,6,8,9/6/24,64,B04416,377590,55-64,3,medium,true,Full-time employed,Location & Schools,false
+H01761,Maple Heights,130257,800,2,2,1,1,0.32,false,false,F,6,6,6,8,9/6/24,53,B01761,139084,35-44,1,low,false,Dual income,Affordability,false
+H05627,Maple Heights,224996,1344,3,2,32,2,0.23,false,false,E,6,6,6,8,9/7/24,22,B05627,242762,25-34,1,low,false,Full-time employed,Low Maintenance,false
+H02457,Maple Heights,313855,1871,3,3,4,1,0.17,false,false,D,6,6,6,8,9/7/24,79,B02457,346868,65+,1,medium,false,Retired,Low Maintenance,false
+H07415,Maple Heights,383523,2403,4,4,7,2,0.1,false,false,F,6,6,6,8,9/7/24,1,B07415,419810,35-44,3,medium,true,Full-time employed,Location & Schools,false
+H03768,Maple Heights,217582,1520,2,2,6,1,0.16,false,false,F,6,6,6,8,9/9/24,9,B03768,246032,45-54,1,low,false,Full-time employed,Location & Schools,true
+H03580,Maple Heights,213258,1595,3,3,17,1,0.16,false,false,E,6,6,6,8,9/13/24,12,B03580,240913,35-44,2,low,false,Full-time employed,Affordability,false
+H04971,Maple Heights,306889,1271,3,2,5,1,0.09,true,true,E,6,6,6,8,9/13/24,18,B04971,324504,35-44,2,medium,false,Full-time employed,Modern & Updated,true
+H00339,Maple Heights,193758,1012,3,2,15,1,0.21,true,false,E,6,6,6,8,9/16/24,5,B00339,206192,25-34,1,low,false,Full-time employed,Affordability,false
+H02829,Maple Heights,438588,2589,4,5,33,2,0.15,false,false,C,6,6,6,8,9/16/24,111,B02829,497604,25-34,2,medium,false,Full-time employed,Affordability,false
+H06988,Maple Heights,387627,2031,4,4,42,2,0.14,false,true,D,6,6,6,8,9/17/24,56,B06988,437543,35-44,3,medium,true,Full-time employed,Low Maintenance,false
+H04935,Maple Heights,120000,866,1,1,13,2,0.16,false,false,D,6,6,6,8,9/22/24,20,B04935,139079,65+,1,low,false,Retired,Modern & Updated,false
+H07260,Maple Heights,365907,1875,4,4,4,2,0.09,true,false,E,6,6,6,8,9/28/24,13,B07260,408087,35-44,3,medium,true,Self-employed,Space & Bedrooms,false
+H03807,Maple Heights,223507,1707,3,3,14,2,0.11,false,false,F,6,6,6,8,10/2/24,106,B03807,247951,45-54,1,low,false,Full-time employed,Affordability,false
+H00342,Maple Heights,162984,1304,2,2,3,1,0.1,false,false,F,6,6,6,8,10/5/24,20,B00342,185579,55-64,2,low,false,Full-time employed,Affordability,false
+H00979,Maple Heights,164861,1233,2,1,4,1,0.21,false,false,F,6,6,6,8,10/6/24,16,B00979,181221,25-34,1,low,false,Self-employed,Space & Bedrooms,false
+H05010,Maple Heights,169318,1030,1,1,23,2,0.18,false,false,D,6,6,6,8,10/6/24,12,B05010,197353,25-34,1,low,false,Self-employed,Modern & Updated,true
+H02508,Maple Heights,379981,2281,3,3,13,2,0.17,false,false,F,6,6,6,8,10/9/24,31,B02508,430273,55-64,2,medium,false,Self-employed,Modern & Updated,true
+H05159,Maple Heights,283995,2160,3,4,46,2,0.13,false,false,A,6,6,6,8,10/10/24,78,B05159,321484,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H06503,Maple Heights,128485,1106,1,2,29,1,0.14,true,false,D,6,6,6,8,10/12/24,3,B06503,136282,35-44,1,low,false,Full-time employed,Space & Bedrooms,false
+H01377,Maple Heights,243826,1283,2,2,1,1,0.14,true,false,F,6,6,6,8,10/12/24,42,B01377,266265,35-44,1,low,false,Full-time employed,Modern & Updated,false
+H06063,Maple Heights,371230,2269,3,3,17,2,0.11,true,false,D,6,6,6,8,10/17/24,98,B06063,426846,65+,1,medium,false,Retired,Investment,false
+H06910,Maple Heights,266655,1785,2,3,8,1,0.14,false,false,D,6,6,6,8,10/22/24,2,B06910,298082,45-54,1,medium,false,Full-time employed,Space & Bedrooms,false
+H06745,Maple Heights,397597,2573,4,4,17,2,0.26,false,false,F,6,6,6,8,10/25/24,3,B06745,464972,35-44,4,medium,true,Self-employed,Location & Schools,false
+H07298,Maple Heights,342481,1972,2,2,5,2,0.09,false,false,F,6,6,6,8,10/25/24,61,B07298,393598,65+,1,medium,false,Full-time employed,Low Maintenance,false
+H07616,Maple Heights,120000,800,1,1,18,0,0.12,false,false,D,6,6,6,8,10/26/24,1,B07616,137063,45-54,1,low,false,Full-time employed,Affordability,true
+H03843,Maple Heights,364685,1913,5,4,5,1,0.15,false,false,D,6,6,6,8,10/28/24,33,B03843,395919,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H06339,Maple Heights,123006,800,1,1,11,1,0.11,false,false,E,6,6,6,8,11/6/24,22,B06339,134392,25-34,1,low,false,Full-time employed,Low Maintenance,false
+H06057,Maple Heights,153410,1381,3,3,9,0,0.16,true,false,F,6,6,6,8,11/8/24,52,B06057,174198,65+,1,low,false,Retired,Space & Bedrooms,false
+H04882,Maple Heights,209100,1494,3,2,2,1,0.16,false,false,F,6,6,6,8,11/13/24,159,B04882,232505,65+,1,low,false,Self-employed,Low Maintenance,false
+H00809,Maple Heights,205724,1094,3,3,6,2,0.11,true,false,E,6,6,6,8,11/14/24,22,B00809,221279,55-64,1,low,false,Retired,Investment,false
+H05285,Maple Heights,315094,1347,2,2,2,1,0.14,false,true,F,6,6,6,8,11/16/24,15,B05285,352074,45-54,1,medium,false,Full-time employed,Affordability,false
+H04476,Maple Heights,210292,1550,3,3,7,1,0.13,false,false,E,6,6,6,8,11/17/24,39,B04476,224333,55-64,3,low,true,Full-time employed,Space & Bedrooms,false
+H02147,Maple Heights,155227,1225,2,2,48,2,0.12,false,false,A,6,6,6,8,11/17/24,28,B02147,164386,25-34,1,low,false,Full-time employed,Location & Schools,false
+H04663,Maple Heights,344746,1956,4,4,5,2,0.13,true,false,E,6,6,6,8,11/21/24,42,B04663,381827,35-44,3,medium,true,Dual income,Location & Schools,false
+H01498,Maple Heights,120000,800,2,2,0,0,0.21,false,false,F,6,6,6,8,11/24/24,180,B01498,131210,55-64,2,low,false,Self-employed,Affordability,false
+H01983,Maple Heights,217304,1077,2,2,32,1,0.12,true,false,D,6,6,6,8,12/2/24,14,B01983,255806,35-44,1,low,false,Full-time employed,Location & Schools,false
+H06489,Maple Heights,344982,2065,3,2,4,2,0.19,false,false,F,6,6,6,8,12/2/24,24,B06489,373620,45-54,2,medium,false,Self-employed,Space & Bedrooms,false
+H02649,Maple Heights,313763,1921,4,4,0,2,0.25,true,false,E,6,6,6,8,12/3/24,15,B02649,366367,45-54,2,medium,false,Retired,Location & Schools,true
+H01783,Maple Heights,182261,800,1,1,60,2,0.22,true,false,A,6,6,6,8,12/5/24,41,B01783,195876,35-44,1,low,false,Full-time employed,Location & Schools,false
+H07659,Maple Heights,261672,1306,2,2,0,1,0.16,false,false,F,6,6,6,8,12/6/24,9,B07659,277086,25-34,1,low,false,Full-time employed,Affordability,false
+H02083,Maple Heights,377813,1843,3,3,15,2,0.18,true,false,E,6,6,6,8,12/11/24,7,B02083,438667,35-44,2,medium,false,Self-employed,Location & Schools,false
+H00905,Maple Heights,336032,1951,4,4,0,2,0.15,false,false,F,6,6,6,8,12/11/24,18,B00905,353058,55-64,3,medium,true,Retired,Location & Schools,false
+H02273,Maple Heights,297836,1661,2,2,7,1,0.21,false,false,D,6,6,6,8,12/14/24,2,B02273,348917,45-54,1,medium,false,Full-time employed,Modern & Updated,false
+H04512,Maple Heights,293594,1906,3,3,3,2,0.12,true,false,F,6,6,6,8,12/24/24,13,B04512,328279,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H00398,Maple Heights,305148,1199,1,1,11,1,0.14,true,false,E,6,6,6,8,12/24/24,29,B00398,346852,35-44,1,medium,false,Dual income,Location & Schools,true
+H05268,Maple Heights,215785,1300,2,2,4,1,0.15,false,false,F,6,6,6,8,12/24/24,30,B05268,249646,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
+H04433,Maple Heights,120000,1090,1,1,10,1,0.17,true,false,F,6,6,6,8,12/26/24,40,B04433,131338,25-34,1,low,false,Full-time employed,Space & Bedrooms,false

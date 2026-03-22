@@ -1,0 +1,1224 @@
+house_id,neighborhood,price,square_feet,num_bedrooms,num_bathrooms,house_age,garage_spaces,lot_size_acres,has_pool,recently_renovated,energy_rating,location_score,school_rating,crime_rate,distance_downtown_miles,sale_date,days_on_market,buyer_id,buyer_budget,buyer_age_group,buyer_family_size,buyer_income_level,has_children,employment_type,buyer_preference,first_time_buyer
+H03858,Suburban Park,686552,3445,6,5,1,3,0.21,false,false,F,8,9,3,10,1/2/22,30,B03858,742793,45-54,4,high,true,Full-time employed,Location & Schools,false
+H07522,Suburban Park,740672,3032,5,5,0,2,0.2,false,true,F,8,9,3,10,1/3/22,25,B07522,791248,35-44,4,high,true,Full-time employed,Space & Bedrooms,false
+H01540,Suburban Park,497083,1940,3,3,14,2,0.24,true,false,E,8,9,3,10,1/6/22,5,B01540,529095,35-44,2,medium,false,Dual income,Affordability,false
+H07000,Suburban Park,510979,2408,4,3,6,1,0.34,false,false,D,8,9,3,10,1/7/22,66,B07000,564361,25-34,1,medium,false,Dual income,Affordability,false
+H03427,Suburban Park,473012,1927,3,3,2,1,0.32,false,false,E,8,9,3,10,1/7/22,1,B03427,509464,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H00994,Suburban Park,367161,1966,3,3,0,1,0.37,false,false,F,8,9,3,10,1/8/22,41,B00994,388866,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H05830,Suburban Park,694032,2630,5,5,6,2,0.23,false,false,D,8,9,3,10,1/9/22,35,B05830,796983,35-44,3,high,true,Dual income,Affordability,false
+H04207,Suburban Park,563868,2792,4,4,4,2,0.23,false,false,F,8,9,3,10,1/11/22,11,B04207,635787,35-44,2,high,false,Self-employed,Location & Schools,false
+H07975,Suburban Park,625491,2896,4,4,4,1,0.33,false,false,D,8,9,3,10,1/13/22,54,B07975,713850,45-54,3,high,true,Self-employed,Location & Schools,false
+H01788,Suburban Park,453453,1874,2,3,1,2,0.26,true,false,F,8,9,3,10,1/13/22,9,B01788,524720,55-64,1,medium,false,Dual income,Affordability,true
+H06270,Suburban Park,603395,2588,4,4,4,1,0.57,true,false,F,8,9,3,10,1/13/22,17,B06270,694274,45-54,3,high,true,Dual income,Location & Schools,false
+H03243,Suburban Park,784415,3623,5,5,9,3,0.21,false,false,E,8,9,3,10,1/14/22,15,B03243,849095,55-64,3,high,true,Dual income,Location & Schools,false
+H01880,Suburban Park,600980,2616,5,5,6,1,0.23,true,false,F,8,9,3,10,1/14/22,3,B01880,669378,65+,2,high,false,Retired,Location & Schools,false
+H03969,Suburban Park,529037,2013,3,3,6,1,0.19,true,false,F,8,9,3,10,1/16/22,17,B03969,595843,35-44,3,medium,true,Dual income,Space & Bedrooms,false
+H06964,Suburban Park,716150,3367,6,5,1,2,0.41,true,false,F,8,9,3,10,1/16/22,85,B06964,841283,55-64,2,high,false,Self-employed,Investment,false
+H04877,Suburban Park,485059,2018,4,4,14,1,0.17,true,false,D,8,9,3,10,1/19/22,51,B04877,539575,25-34,2,medium,false,Full-time employed,Affordability,true
+H02178,Suburban Park,243872,1124,2,2,14,2,0.21,false,false,F,8,9,3,10,1/20/22,106,B02178,267716,25-34,1,low,false,Dual income,Affordability,false
+H07664,Suburban Park,469313,2189,4,4,6,2,0.3,false,false,E,8,9,3,10,1/20/22,47,B07664,528982,65+,2,medium,false,Retired,Low Maintenance,false
+H01946,Suburban Park,423031,1984,3,3,12,2,0.23,false,false,F,8,9,3,10,1/23/22,15,B01946,455018,45-54,3,medium,false,Self-employed,Affordability,false
+H04876,Suburban Park,639243,3192,6,5,17,2,0.17,false,false,D,8,9,3,10,1/25/22,67,B04876,750549,45-54,5,high,true,Full-time employed,Location & Schools,true
+H07115,Suburban Park,239266,800,1,1,0,1,0.38,false,false,F,8,9,3,10,1/26/22,64,B07115,274311,55-64,1,low,false,Full-time employed,Affordability,false
+H04737,Suburban Park,560046,2495,4,4,5,2,0.24,false,false,F,8,9,3,10,1/26/22,37,B04737,589736,45-54,2,medium,false,Full-time employed,Affordability,false
+H05127,Suburban Park,545989,2272,3,3,1,2,0.25,false,false,F,8,9,3,10,1/26/22,1,B05127,592878,45-54,2,medium,false,Full-time employed,Space & Bedrooms,false
+H04524,Suburban Park,443197,2094,3,3,7,1,0.31,true,false,E,8,9,3,10,1/27/22,120,B04524,521854,55-64,2,medium,false,Retired,Space & Bedrooms,true
+H02934,Suburban Park,350659,1156,2,2,12,1,0.41,true,false,D,8,9,3,10,1/28/22,16,B02934,386752,35-44,2,medium,false,Full-time employed,Low Maintenance,false
+H06019,Suburban Park,671513,2911,4,4,2,2,0.4,false,false,D,8,9,3,10,2/3/22,14,B06019,734899,35-44,3,high,true,Full-time employed,Location & Schools,false
+H02823,Suburban Park,680401,2895,4,5,6,1,0.52,true,false,E,8,9,3,10,2/4/22,14,B02823,736512,35-44,2,high,false,Full-time employed,Affordability,false
+H03686,Suburban Park,222675,800,1,1,2,1,0.4,false,false,D,8,9,3,10,2/5/22,8,B03686,256640,35-44,1,low,false,Full-time employed,Modern & Updated,false
+H05771,Suburban Park,575927,2613,4,4,23,1,0.44,true,true,F,8,9,3,10,2/6/22,99,B05771,677672,35-44,1,high,false,Self-employed,Location & Schools,false
+H03400,Suburban Park,534177,2751,5,5,6,2,0.3,false,false,F,8,9,3,10,2/7/22,23,B03400,613693,45-54,3,medium,true,Full-time employed,Affordability,true
+H07025,Suburban Park,191551,800,1,1,1,1,0.28,false,false,E,8,9,3,10,2/9/22,5,B07025,205382,65+,1,low,false,Retired,Low Maintenance,false
+H03800,Suburban Park,591906,2528,4,4,4,1,0.39,true,false,F,8,9,3,10,2/10/22,48,B03800,645374,45-54,4,high,true,Full-time employed,Space & Bedrooms,false
+H02515,Suburban Park,444542,2103,3,3,8,2,0.38,false,false,E,8,9,3,10,2/11/22,39,B02515,507999,35-44,1,medium,false,Full-time employed,Location & Schools,false
+H01509,Suburban Park,655604,2869,4,4,10,2,0.26,false,false,F,8,9,3,10,2/12/22,5,B01509,699947,35-44,2,high,false,Dual income,Modern & Updated,true
+H07565,Suburban Park,599625,2998,6,5,4,1,0.29,false,false,F,8,9,3,10,2/13/22,14,B07565,702004,35-44,3,high,true,Dual income,Space & Bedrooms,false
+H05523,Suburban Park,291593,1332,2,2,9,1,0.33,false,false,F,8,9,3,10,2/13/22,7,B05523,324905,35-44,1,medium,false,Full-time employed,Affordability,false
+H05386,Suburban Park,261805,800,1,1,0,1,0.43,true,false,F,8,9,3,10,2/13/22,25,B05386,290541,35-44,1,medium,false,Full-time employed,Location & Schools,false
+H01965,Suburban Park,614625,3105,5,5,1,2,0.4,true,false,F,8,9,3,10,2/14/22,80,B01965,646690,45-54,2,high,false,Full-time employed,Location & Schools,false
+H04835,Suburban Park,288818,1476,2,2,5,0,0.32,false,false,F,8,9,3,10,2/15/22,36,B04835,332875,45-54,1,medium,false,Full-time employed,Affordability,false
+H05757,Suburban Park,547688,2335,5,4,18,1,0.22,true,false,E,8,9,3,10,2/16/22,60,B05757,642843,45-54,4,high,true,Full-time employed,Affordability,false
+H00804,Suburban Park,413530,1995,4,4,4,1,0.32,false,false,F,8,9,3,10,2/17/22,86,B00804,487824,35-44,2,medium,false,Dual income,Space & Bedrooms,false
+H06904,Suburban Park,305135,1148,2,2,19,2,0.37,false,true,F,8,9,3,10,2/18/22,50,B06904,332693,35-44,2,medium,false,Full-time employed,Modern & Updated,true
+H06790,Suburban Park,477024,2485,4,4,17,2,0.51,false,false,D,8,9,3,10,2/19/22,40,B06790,527963,45-54,4,medium,true,Self-employed,Investment,false
+H00021,Suburban Park,424767,1994,4,4,11,2,0.24,false,false,E,8,9,3,10,2/20/22,4,B00021,492531,45-54,2,medium,false,Dual income,Investment,false
+H04267,Suburban Park,390562,1911,3,3,7,1,0.43,false,false,F,8,9,3,10,2/20/22,16,B04267,448097,45-54,2,medium,false,Self-employed,Investment,false
+H04188,Suburban Park,357311,1645,2,2,8,1,0.1,false,false,E,8,9,3,10,2/21/22,7,B04188,391839,55-64,2,medium,false,Dual income,Space & Bedrooms,false
+H05887,Suburban Park,259342,1051,1,1,16,0,0.48,true,false,D,8,9,3,10,2/22/22,33,B05887,301781,35-44,1,medium,false,Self-employed,Space & Bedrooms,false
+H01114,Suburban Park,226943,800,2,1,0,1,0.22,false,false,F,8,9,3,10,2/23/22,10,B01114,245165,25-34,1,low,false,Full-time employed,Location & Schools,false
+H02243,Suburban Park,555436,2401,3,3,5,2,0.28,false,false,F,8,9,3,10,2/24/22,23,B02243,637112,55-64,1,high,false,Full-time employed,Low Maintenance,false
+H05650,Suburban Park,180553,800,2,2,0,0,0.24,false,false,F,8,9,3,10,2/24/22,6,B05650,208067,25-34,1,low,false,Full-time employed,Location & Schools,false
+H05243,Suburban Park,590931,2515,5,4,6,1,0.22,true,true,F,8,9,3,10,2/24/22,14,B05243,647550,35-44,3,high,true,Dual income,Location & Schools,false
+H06333,Suburban Park,509297,2368,5,5,4,1,0.21,false,false,F,8,9,3,10,2/25/22,150,B06333,582193,55-64,2,medium,false,Retired,Space & Bedrooms,false
+H02167,Suburban Park,328573,1250,2,2,2,0,0.24,false,false,E,8,9,3,10,2/28/22,23,B02167,376584,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H04088,Suburban Park,528152,2871,5,5,7,1,0.45,false,false,F,8,9,3,10,2/28/22,10,B04088,582718,25-34,2,medium,false,Full-time employed,Modern & Updated,true
+H06871,Suburban Park,393587,1815,3,3,2,2,0.38,true,false,F,8,9,3,10,3/1/22,11,B06871,462886,35-44,2,medium,false,Self-employed,Affordability,false
+H02763,Suburban Park,623712,2760,4,4,3,2,0.27,true,false,F,8,9,3,10,3/1/22,13,B02763,670298,35-44,3,high,true,Full-time employed,Low Maintenance,false
+H07363,Suburban Park,614655,2764,4,4,13,1,0.3,false,false,D,8,9,3,10,3/1/22,70,B07363,701128,45-54,2,high,false,Dual income,Space & Bedrooms,true
+H02455,Suburban Park,402609,1895,4,4,7,2,0.29,true,false,F,8,9,3,10,3/3/22,1,B02455,435001,35-44,3,medium,false,Full-time employed,Location & Schools,true
+H01507,Suburban Park,833334,3832,6,5,4,3,0.36,false,false,E,8,9,3,10,3/3/22,2,B01507,889684,35-44,4,high,false,Self-employed,Location & Schools,false
+H04501,Suburban Park,584357,2609,4,4,19,2,0.35,true,true,F,8,9,3,10,3/4/22,2,B04501,662643,35-44,3,high,false,Full-time employed,Space & Bedrooms,false
+H02947,Suburban Park,732128,3552,5,5,2,2,0.5,false,false,F,8,9,3,10,3/4/22,11,B02947,833118,55-64,3,high,false,Dual income,Location & Schools,false
+H07947,Suburban Park,524194,2788,4,4,18,2,0.19,false,false,D,8,9,3,10,3/4/22,40,B07947,570104,55-64,2,medium,false,Retired,Location & Schools,false
+H07638,Suburban Park,610204,2568,4,4,4,2,0.2,true,false,F,8,9,3,10,3/5/22,52,B07638,643042,55-64,2,high,false,Dual income,Affordability,false
+H02464,Suburban Park,404038,1933,3,3,5,2,0.5,false,false,F,8,9,3,10,3/5/22,13,B02464,436773,55-64,2,medium,false,Retired,Investment,false
+H00750,Suburban Park,601924,2708,5,5,7,1,0.31,true,false,E,8,9,3,10,3/6/22,51,B00750,707136,45-54,5,high,true,Retired,Low Maintenance,false
+H05320,Suburban Park,708875,3548,6,5,17,2,0.2,false,false,D,8,9,3,10,3/6/22,29,B05320,778897,35-44,4,high,false,Full-time employed,Location & Schools,false
+H03064,Suburban Park,259627,985,1,1,4,1,0.34,true,false,F,8,9,3,10,3/7/22,6,B03064,297595,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H06133,Suburban Park,374065,1642,3,3,2,1,0.42,false,false,F,8,9,3,10,3/8/22,78,B06133,432057,45-54,1,medium,false,Self-employed,Low Maintenance,false
+H04111,Suburban Park,392998,1375,3,3,5,1,0.45,true,false,E,8,9,3,10,3/8/22,5,B04111,449922,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H02463,Suburban Park,458956,2288,4,4,26,2,0.29,false,false,E,8,9,3,10,3/11/22,104,B02463,530972,25-34,2,medium,false,Self-employed,Modern & Updated,true
+H06531,Suburban Park,459853,2200,4,4,8,1,0.64,false,false,F,8,9,3,10,3/11/22,34,B06531,503882,45-54,3,medium,true,Full-time employed,Investment,false
+H04356,Suburban Park,328993,1542,3,3,4,1,0.3,false,false,F,8,9,3,10,3/11/22,18,B04356,360431,55-64,3,medium,true,Self-employed,Affordability,false
+H02767,Suburban Park,775641,3699,6,5,8,3,0.37,true,false,E,8,9,3,10,3/11/22,10,B02767,835554,45-54,4,high,true,Full-time employed,Location & Schools,false
+H00780,Suburban Park,764720,3474,6,5,6,2,0.36,true,false,E,8,9,3,10,3/12/22,25,B00780,817006,55-64,2,high,false,Full-time employed,Space & Bedrooms,false
+H06434,Suburban Park,444314,2179,4,4,49,2,0.2,false,false,B,8,9,3,10,3/12/22,1,B06434,492871,25-34,2,medium,false,Full-time employed,Affordability,false
+H04717,Suburban Park,263872,1139,1,1,40,1,0.68,true,false,B,8,9,3,10,3/12/22,16,B04717,308547,45-54,1,medium,false,Full-time employed,Modern & Updated,false
+H03297,Suburban Park,636316,2863,4,4,2,2,0.26,true,false,F,8,9,3,10,3/13/22,28,B03297,733539,45-54,2,high,false,Self-employed,Space & Bedrooms,false
+H00850,Suburban Park,636260,3018,5,5,21,2,0.3,false,false,D,8,9,3,10,3/13/22,62,B00850,692319,45-54,4,high,true,Self-employed,Space & Bedrooms,false
+H06322,Suburban Park,439879,2306,3,4,16,1,0.36,false,false,E,8,9,3,10,3/15/22,34,B06322,510014,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H07214,Suburban Park,278888,972,2,2,5,0,0.17,false,false,F,8,9,3,10,3/15/22,4,B07214,322298,35-44,1,medium,false,Dual income,Space & Bedrooms,false
+H02303,Suburban Park,596596,2902,6,5,3,2,0.53,false,false,F,8,9,3,10,3/17/22,43,B02303,664105,35-44,4,high,true,Self-employed,Location & Schools,false
+H02631,Suburban Park,481078,2366,3,4,20,2,0.3,false,true,F,8,9,3,10,3/18/22,12,B02631,539138,55-64,3,medium,true,Self-employed,Space & Bedrooms,true
+H04358,Suburban Park,296268,1278,2,2,19,1,0.5,false,true,E,8,9,3,10,3/18/22,6,B04358,324352,55-64,3,medium,false,Full-time employed,Space & Bedrooms,true
+H02948,Suburban Park,233460,827,2,2,11,0,0.34,true,false,E,8,9,3,10,3/20/22,18,B02948,268545,25-34,1,low,false,Full-time employed,Affordability,false
+H00686,Suburban Park,845133,4242,6,5,1,3,0.18,false,false,F,8,9,3,10,3/20/22,20,B00686,987855,65+,1,high,false,Full-time employed,Modern & Updated,false
+H03201,Suburban Park,593332,2505,5,5,8,1,0.66,false,false,F,8,9,3,10,3/20/22,68,B03201,644765,65+,2,high,false,Retired,Modern & Updated,true
+H06677,Suburban Park,635370,2822,5,5,16,2,0.26,true,false,E,8,9,3,10,3/21/22,136,B06677,676826,55-64,4,high,true,Full-time employed,Location & Schools,false
+H03907,Suburban Park,543291,2355,4,4,1,2,0.46,false,false,F,8,9,3,10,3/23/22,44,B03907,598839,35-44,2,medium,false,Self-employed,Affordability,false
+H02441,Suburban Park,590374,2465,4,4,7,2,0.23,false,false,D,8,9,3,10,3/23/22,40,B02441,630094,45-54,3,high,true,Full-time employed,Location & Schools,false
+H00194,Suburban Park,581286,2692,3,3,12,2,0.17,true,false,D,8,9,3,10,3/24/22,39,B00194,676611,55-64,2,high,false,Dual income,Location & Schools,false
+H03240,Suburban Park,404628,1826,3,3,12,2,0.25,false,false,D,8,9,3,10,3/26/22,48,B03240,468880,35-44,2,medium,false,Full-time employed,Investment,false
+H00950,Suburban Park,297591,1678,3,3,54,0,0.35,false,false,A,8,9,3,10,3/26/22,13,B00950,337296,45-54,2,medium,false,Self-employed,Affordability,false
+H05954,Suburban Park,448547,1703,2,2,20,1,0.26,true,true,F,8,9,3,10,3/26/22,13,B05954,526751,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H00403,Suburban Park,410472,2120,3,4,3,1,0.18,false,false,F,8,9,3,10,3/27/22,76,B00403,432399,45-54,2,medium,false,Full-time employed,Location & Schools,false
+H07676,Suburban Park,529448,2648,4,4,20,1,0.39,false,false,D,8,9,3,10,3/27/22,1,B07676,594093,35-44,2,medium,false,Self-employed,Affordability,true
+H07938,Suburban Park,580387,2406,3,4,15,2,0.25,true,false,E,8,9,3,10,4/1/22,9,B07938,680459,45-54,2,high,false,Full-time employed,Modern & Updated,false
+H07683,Suburban Park,613802,2733,6,5,9,1,0.38,false,false,F,8,9,3,10,4/2/22,10,B07683,661131,35-44,4,high,false,Dual income,Space & Bedrooms,false
+H06192,Suburban Park,250754,1045,2,2,1,0,0.18,false,false,E,8,9,3,10,4/3/22,178,B06192,265212,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
+H06701,Suburban Park,265515,886,1,2,1,2,0.16,true,false,F,8,9,3,10,4/4/22,5,B06701,299038,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H05619,Suburban Park,582924,2994,4,5,18,1,0.37,false,false,D,8,9,3,10,4/5/22,11,B05619,627091,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H04015,Suburban Park,775217,3455,6,5,11,2,0.29,false,false,C,8,9,3,10,4/5/22,57,B04015,861623,55-64,4,high,false,Dual income,Low Maintenance,false
+H02738,Suburban Park,508611,2339,4,4,16,2,0.32,false,false,E,8,9,3,10,4/5/22,26,B02738,586109,35-44,2,medium,false,Full-time employed,Location & Schools,false
+H03164,Suburban Park,253207,1213,1,1,6,1,0.28,false,false,E,8,9,3,10,4/6/22,9,B03164,292249,35-44,1,medium,false,Dual income,Location & Schools,false
+H07965,Suburban Park,614258,2850,4,4,38,1,0.26,false,true,C,8,9,3,10,4/6/22,63,B07965,721887,45-54,1,high,false,Full-time employed,Space & Bedrooms,false
+H02769,Suburban Park,709709,3183,6,5,1,2,0.27,false,false,F,8,9,3,10,4/6/22,13,B02769,759278,45-54,3,high,true,Full-time employed,Location & Schools,false
+H07791,Suburban Park,234918,994,1,2,29,1,0.38,false,false,D,8,9,3,10,4/7/22,108,B07791,259477,45-54,1,low,false,Retired,Investment,false
+H02586,Suburban Park,432795,2230,4,4,15,1,0.3,true,false,E,8,9,3,10,4/7/22,180,B02586,491319,45-54,2,medium,false,Full-time employed,Modern & Updated,false
+H00130,Suburban Park,261847,800,1,1,0,1,0.2,true,true,F,8,9,3,10,4/8/22,60,B00130,292629,35-44,1,medium,false,Full-time employed,Affordability,false
+H01932,Suburban Park,382443,1821,3,3,13,1,0.19,false,false,F,8,9,3,10,4/9/22,123,B01932,443850,25-34,2,medium,false,Full-time employed,Affordability,false
+H04740,Suburban Park,316917,1319,1,1,1,1,0.23,false,false,E,8,9,3,10,4/9/22,31,B04740,342204,55-64,1,medium,false,Dual income,Modern & Updated,false
+H06349,Suburban Park,802416,3579,6,5,6,2,0.36,false,false,E,8,9,3,10,4/9/22,63,B06349,928102,45-54,3,high,false,Dual income,Space & Bedrooms,false
+H04628,Suburban Park,418238,2157,3,3,10,2,0.29,false,false,D,8,9,3,10,4/10/22,24,B04628,445947,45-54,2,medium,false,Self-employed,Affordability,false
+H02329,Suburban Park,265665,1142,2,2,1,1,0.11,false,false,F,8,9,3,10,4/11/22,8,B02329,302936,45-54,2,medium,false,Full-time employed,Affordability,false
+H05426,Suburban Park,773724,3576,6,5,13,2,0.24,true,false,D,8,9,3,10,4/12/22,103,B05426,871448,35-44,4,high,true,Full-time employed,Location & Schools,false
+H04522,Suburban Park,559018,2684,6,5,2,1,0.18,false,false,E,8,9,3,10,4/12/22,10,B04522,609185,25-34,2,medium,false,Full-time employed,Location & Schools,false
+H07193,Suburban Park,500505,2600,4,4,8,1,0.75,true,false,F,8,9,3,10,4/12/22,1,B07193,561868,45-54,3,medium,true,Full-time employed,Affordability,false
+H02495,Suburban Park,434398,1880,2,2,6,2,0.42,false,false,E,8,9,3,10,4/12/22,18,B02495,468831,25-34,1,medium,false,Full-time employed,Low Maintenance,false
+H02497,Suburban Park,741488,3485,6,5,4,2,0.45,true,false,F,8,9,3,10,4/12/22,65,B02497,855726,25-34,3,high,true,Full-time employed,Space & Bedrooms,false
+H05354,Suburban Park,332848,1721,3,3,41,1,0.28,false,false,B,8,9,3,10,4/14/22,14,B05354,389402,35-44,1,medium,false,Dual income,Affordability,false
+H05649,Suburban Park,768554,3501,5,5,8,3,0.41,false,false,E,8,9,3,10,4/14/22,20,B05649,834469,55-64,3,high,false,Full-time employed,Location & Schools,false
+H04571,Suburban Park,681458,2971,5,5,1,1,0.24,true,false,F,8,9,3,10,4/15/22,89,B04571,774359,45-54,3,high,true,Full-time employed,Investment,false
+H05063,Suburban Park,469135,2141,3,3,4,1,0.3,false,false,F,8,9,3,10,4/15/22,33,B05063,521637,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H06571,Suburban Park,569186,2556,5,5,2,1,0.22,false,false,F,8,9,3,10,4/15/22,11,B06571,613939,25-34,3,medium,false,Full-time employed,Location & Schools,false
+H05137,Suburban Park,647244,2683,4,4,1,2,0.41,false,false,E,8,9,3,10,4/15/22,1,B05137,684637,45-54,3,high,true,Full-time employed,Location & Schools,false
+H01087,Suburban Park,564628,2744,5,5,0,1,0.31,false,false,F,8,9,3,10,4/16/22,5,B01087,649783,35-44,4,high,true,Dual income,Space & Bedrooms,false
+H03909,Suburban Park,463028,2064,2,2,8,1,0.37,false,false,E,8,9,3,10,4/16/22,58,B03909,491144,45-54,1,medium,false,Full-time employed,Affordability,false
+H00299,Suburban Park,274409,1177,3,3,3,2,0.19,false,false,D,8,9,3,10,4/17/22,31,B00299,298403,35-44,1,medium,false,Dual income,Space & Bedrooms,false
+H03366,Suburban Park,484994,1999,4,4,0,2,0.45,true,false,F,8,9,3,10,4/17/22,20,B03366,556661,45-54,2,medium,false,Dual income,Space & Bedrooms,false
+H02680,Suburban Park,714196,3587,6,5,14,3,0.25,false,false,D,8,9,3,10,4/17/22,35,B02680,798305,45-54,3,high,true,Full-time employed,Space & Bedrooms,false
+H06833,Suburban Park,514030,2208,4,4,10,2,0.26,true,false,C,8,9,3,10,4/18/22,95,B06833,540238,65+,1,medium,false,Retired,Low Maintenance,false
+H04869,Suburban Park,712787,3157,5,5,5,3,0.45,true,false,E,8,9,3,10,4/18/22,11,B04869,797060,45-54,4,high,false,Self-employed,Space & Bedrooms,false
+H01363,Suburban Park,710202,3156,6,5,9,3,0.25,false,true,F,8,9,3,10,4/18/22,1,B01363,790444,35-44,4,high,true,Dual income,Location & Schools,false
+H04134,Suburban Park,547399,2509,4,4,15,2,0.3,true,false,E,8,9,3,10,4/18/22,5,B04134,586820,45-54,2,medium,false,Full-time employed,Modern & Updated,false
+H03011,Suburban Park,745840,3324,6,5,1,2,0.27,false,false,F,8,9,3,10,4/19/22,13,B03011,852239,45-54,3,high,true,Dual income,Space & Bedrooms,false
+H02580,Suburban Park,354959,2010,3,4,25,2,0.28,false,false,D,8,9,3,10,4/20/22,8,B02580,378206,25-34,1,medium,false,Self-employed,Affordability,false
+H01934,Suburban Park,685390,3061,4,5,2,3,0.43,true,false,F,8,9,3,10,4/21/22,72,B01934,745390,35-44,4,high,false,Self-employed,Location & Schools,false
+H05637,Suburban Park,441497,1765,3,3,6,1,0.3,false,false,F,8,9,3,10,4/23/22,62,B05637,485216,25-34,1,medium,false,Dual income,Affordability,false
+H07650,Suburban Park,555264,2662,5,5,9,2,0.47,false,false,F,8,9,3,10,4/25/22,1,B07650,629841,35-44,4,medium,false,Full-time employed,Affordability,false
+H04697,Suburban Park,699980,3063,5,5,9,2,0.22,false,false,C,8,9,3,10,4/25/22,57,B04697,752299,35-44,3,high,true,Full-time employed,Location & Schools,true
+H01833,Suburban Park,160791,959,1,2,22,1,0.2,false,false,E,8,9,3,10,4/26/22,1,B01833,185529,25-34,1,low,false,Self-employed,Affordability,false
+H06957,Suburban Park,486019,2781,4,4,11,1,0.22,false,false,F,8,9,3,10,4/27/22,126,B06957,566292,35-44,4,medium,false,Self-employed,Space & Bedrooms,true
+H06602,Suburban Park,623113,2807,4,4,0,2,0.22,true,false,F,8,9,3,10,4/27/22,7,B06602,700183,35-44,1,high,false,Full-time employed,Affordability,false
+H01751,Suburban Park,429333,1962,2,2,6,2,0.21,false,false,D,8,9,3,10,4/28/22,37,B01751,470895,55-64,3,medium,false,Retired,Affordability,false
+H07391,Suburban Park,840584,3978,6,5,1,2,0.29,false,false,F,8,9,3,10,5/1/22,39,B07391,921890,65+,2,high,false,Retired,Location & Schools,false
+H01550,Suburban Park,407857,2067,3,3,7,2,0.3,false,false,F,8,9,3,10,5/1/22,69,B01550,450234,25-34,1,medium,false,Self-employed,Location & Schools,false
+H03550,Suburban Park,490789,2204,3,3,18,1,0.16,true,false,D,8,9,3,10,5/1/22,17,B03550,554707,55-64,3,medium,false,Full-time employed,Location & Schools,false
+H02717,Suburban Park,457096,2170,4,4,1,1,0.71,true,false,F,8,9,3,10,5/2/22,32,B02717,537655,35-44,1,medium,false,Self-employed,Location & Schools,false
+H06930,Suburban Park,509029,2500,4,4,2,1,0.21,false,false,E,8,9,3,10,5/2/22,9,B06930,547658,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H07790,Suburban Park,500054,2100,3,4,1,1,0.35,true,false,F,8,9,3,10,5/2/22,34,B07790,549858,25-34,2,medium,false,Full-time employed,Modern & Updated,false
+H04661,Suburban Park,399318,1668,3,2,14,2,0.38,true,false,D,8,9,3,10,5/2/22,58,B04661,439809,55-64,2,medium,false,Dual income,Affordability,false
+H03057,Suburban Park,400229,1988,4,3,6,1,0.31,false,false,E,8,9,3,10,5/3/22,38,B03057,468176,35-44,3,medium,true,Self-employed,Location & Schools,true
+H00230,Suburban Park,549161,2763,5,5,1,1,0.24,false,false,F,8,9,3,10,5/4/22,78,B00230,616961,25-34,2,medium,false,Self-employed,Modern & Updated,false
+H07287,Suburban Park,387286,1708,3,3,1,1,0.4,false,false,F,8,9,3,10,5/5/22,26,B07287,446271,25-34,1,medium,false,Full-time employed,Affordability,false
+H06342,Suburban Park,646640,3297,6,5,6,2,0.58,false,false,F,8,9,3,10,5/5/22,80,B06342,682374,35-44,4,high,true,Dual income,Location & Schools,false
+H05149,Suburban Park,498709,1819,3,3,3,2,0.22,true,false,E,8,9,3,10,5/5/22,1,B05149,560706,65+,1,medium,false,Dual income,Low Maintenance,false
+H00288,Suburban Park,584157,2590,4,4,5,2,0.38,false,false,F,8,9,3,10,5/5/22,68,B00288,681544,35-44,1,high,false,Full-time employed,Space & Bedrooms,false
+H05664,Suburban Park,499159,2388,5,5,19,2,0.23,false,false,D,8,9,3,10,5/6/22,17,B05664,579328,35-44,3,medium,false,Full-time employed,Affordability,false
+H04334,Suburban Park,354519,1335,2,2,2,2,0.21,true,false,F,8,9,3,10,5/6/22,2,B04334,413396,25-34,1,medium,false,Dual income,Space & Bedrooms,true
+H04910,Suburban Park,550675,2272,4,4,1,1,0.24,true,false,F,8,9,3,10,5/7/22,28,B04910,631082,55-64,4,high,false,Retired,Modern & Updated,false
+H01823,Suburban Park,408627,2044,4,4,59,1,0.21,true,false,A,8,9,3,10,5/9/22,7,B01823,441089,65+,1,medium,false,Dual income,Location & Schools,false
+H01901,Suburban Park,448381,1856,3,3,8,2,0.22,false,true,F,8,9,3,10,5/9/22,5,B01901,489984,45-54,2,medium,false,Retired,Investment,false
+H05203,Suburban Park,891369,4035,6,5,6,3,0.18,true,false,E,8,9,3,10,5/12/22,33,B05203,990600,45-54,5,high,true,Self-employed,Space & Bedrooms,false
+H00201,Suburban Park,648609,2744,5,5,8,1,0.2,true,false,F,8,9,3,10,5/12/22,45,B00201,758223,45-54,3,high,true,Retired,Space & Bedrooms,false
+H07015,Suburban Park,882137,4461,6,5,1,3,0.22,false,false,E,8,9,3,10,5/12/22,26,B07015,1006909,25-34,2,high,false,Full-time employed,Investment,false
+H00484,Suburban Park,467178,1964,4,4,6,1,0.51,false,false,E,8,9,3,10,5/13/22,11,B00484,507833,45-54,2,medium,false,Full-time employed,Space & Bedrooms,false
+H00698,Suburban Park,608237,2708,4,5,27,1,0.32,true,false,C,8,9,3,10,5/14/22,58,B00698,664145,45-54,3,high,true,Full-time employed,Space & Bedrooms,false
+H06564,Suburban Park,550918,2610,3,4,1,1,0.47,false,false,F,8,9,3,10,5/14/22,4,B06564,588937,35-44,2,medium,false,Full-time employed,Location & Schools,false
+H01317,Suburban Park,263014,1156,3,2,1,0,0.47,false,false,F,8,9,3,10,5/14/22,17,B01317,279352,25-34,1,low,false,Full-time employed,Low Maintenance,false
+H04548,Suburban Park,336297,1774,3,3,27,0,0.18,false,false,D,8,9,3,10,5/15/22,2,B04548,359048,55-64,1,medium,false,Full-time employed,Location & Schools,false
+H07901,Suburban Park,313167,1142,2,2,3,1,0.46,true,false,E,8,9,3,10,5/15/22,35,B07901,340343,55-64,1,medium,false,Full-time employed,Space & Bedrooms,false
+H01293,Suburban Park,784854,3658,6,5,22,3,0.28,true,false,D,8,9,3,10,5/15/22,19,B01293,900513,45-54,2,high,false,Dual income,Investment,false
+H02406,Suburban Park,597592,2717,4,4,16,2,0.33,true,false,D,8,9,3,10,5/16/22,80,B02406,678730,45-54,2,high,false,Self-employed,Modern & Updated,false
+H00748,Suburban Park,289474,1301,2,2,3,1,0.41,false,false,E,8,9,3,10,5/16/22,49,B00748,321351,35-44,1,medium,false,Full-time employed,Space & Bedrooms,true
+H01931,Suburban Park,157050,800,2,2,28,0,0.25,true,false,D,8,9,3,10,5/16/22,28,B01931,170142,65+,1,low,false,Dual income,Location & Schools,false
+H07703,Suburban Park,1012091,4500,6,5,3,2,0.36,true,false,F,8,9,3,10,5/16/22,25,B07703,1133134,45-54,5,high,false,Dual income,Investment,false
+H07577,Suburban Park,496484,2620,4,4,19,1,0.26,false,false,E,8,9,3,10,5/16/22,1,B07577,524144,35-44,2,medium,false,Full-time employed,Space & Bedrooms,true
+H06708,Suburban Park,469142,2035,5,4,11,2,0.31,true,false,D,8,9,3,10,5/18/22,47,B06708,537107,25-34,3,medium,true,Full-time employed,Low Maintenance,false
+H00028,Suburban Park,593732,2447,4,4,0,1,0.27,false,true,F,8,9,3,10,5/18/22,64,B00028,663963,25-34,1,high,false,Self-employed,Low Maintenance,false
+H07534,Suburban Park,809734,3828,6,5,5,2,0.24,false,false,F,8,9,3,10,5/18/22,99,B07534,863818,35-44,4,high,true,Full-time employed,Location & Schools,false
+H01116,Suburban Park,278566,1520,2,3,8,0,0.21,false,false,F,8,9,3,10,5/20/22,61,B01116,317642,35-44,4,medium,false,Full-time employed,Modern & Updated,false
+H06758,Suburban Park,577707,2725,4,4,8,2,0.27,false,false,F,8,9,3,10,5/20/22,17,B06758,639160,35-44,3,high,true,Self-employed,Affordability,false
+H07780,Suburban Park,865124,4007,6,5,4,2,0.15,false,false,F,8,9,3,10,5/21/22,2,B07780,935655,55-64,4,high,false,Full-time employed,Space & Bedrooms,false
+H05466,Suburban Park,289722,1404,4,4,1,0,0.36,false,false,F,8,9,3,10,5/21/22,7,B05466,319580,45-54,2,medium,false,Full-time employed,Modern & Updated,false
+H05032,Suburban Park,690112,3344,5,5,6,3,0.17,false,false,F,8,9,3,10,5/21/22,3,B05032,809185,55-64,3,high,true,Self-employed,Space & Bedrooms,false
+H00634,Suburban Park,582485,2782,4,4,11,2,0.28,true,false,F,8,9,3,10,5/21/22,43,B00634,638600,25-34,1,high,false,Full-time employed,Space & Bedrooms,false
+H06323,Suburban Park,176778,800,1,1,2,1,0.42,false,false,E,8,9,3,10,5/23/22,12,B06323,199229,35-44,1,low,false,Full-time employed,Affordability,false
+H00793,Suburban Park,625927,2958,5,4,6,2,0.21,false,false,D,8,9,3,10,5/23/22,29,B00793,659593,55-64,3,high,true,Self-employed,Location & Schools,false
+H04658,Suburban Park,525943,2467,4,5,7,1,0.27,false,false,F,8,9,3,10,5/23/22,30,B04658,602752,35-44,5,medium,true,Dual income,Modern & Updated,false
+H04160,Suburban Park,312249,1449,2,2,7,2,0.22,false,false,F,8,9,3,10,5/23/22,43,B04160,345565,25-34,1,medium,false,Full-time employed,Location & Schools,false
+H03793,Suburban Park,516375,2243,4,4,2,1,0.33,true,false,F,8,9,3,10,5/24/22,47,B03793,574467,45-54,3,medium,true,Retired,Affordability,false
+H00356,Suburban Park,772201,3739,6,5,18,3,0.48,true,false,F,8,9,3,10,5/24/22,33,B00356,811411,45-54,2,high,false,Self-employed,Space & Bedrooms,true
+H01046,Suburban Park,326198,1179,3,2,3,0,0.29,true,false,F,8,9,3,10,5/24/22,5,B01046,375822,45-54,3,medium,true,Full-time employed,Location & Schools,false
+H00758,Suburban Park,642678,2969,4,4,2,2,0.16,true,false,F,8,9,3,10,5/24/22,89,B00758,737950,35-44,3,high,false,Full-time employed,Location & Schools,false
+H02696,Suburban Park,793939,3786,6,5,3,3,0.21,false,false,F,8,9,3,10,5/25/22,11,B02696,881776,45-54,3,high,false,Self-employed,Location & Schools,false
+H04861,Suburban Park,125389,800,1,1,10,0,0.15,false,false,E,8,9,3,10,5/26/22,68,B04861,144293,35-44,1,low,false,Dual income,Affordability,false
+H03186,Suburban Park,731139,3430,6,5,54,2,0.77,true,false,C,8,9,3,10,5/27/22,23,B03186,862512,25-34,3,high,false,Dual income,Investment,false
+H05522,Suburban Park,754532,3468,6,5,1,2,0.26,false,false,E,8,9,3,10,6/1/22,24,B05522,850703,55-64,4,high,true,Self-employed,Space & Bedrooms,false
+H04074,Suburban Park,627322,2868,4,4,25,1,0.25,true,false,D,8,9,3,10,6/1/22,24,B04074,725151,55-64,2,high,false,Full-time employed,Space & Bedrooms,false
+H05915,Suburban Park,428641,2010,4,4,0,2,0.28,false,false,F,8,9,3,10,6/2/22,20,B05915,489598,25-34,2,medium,false,Full-time employed,Modern & Updated,false
+H06695,Suburban Park,481976,2275,5,5,1,2,0.28,false,false,E,8,9,3,10,6/2/22,4,B06695,520879,45-54,5,medium,true,Full-time employed,Space & Bedrooms,false
+H06624,Suburban Park,507915,2311,4,4,9,2,0.31,false,false,E,8,9,3,10,6/2/22,1,B06624,572824,25-34,3,medium,true,Full-time employed,Location & Schools,false
+H01115,Suburban Park,574478,3055,5,5,27,2,0.36,false,false,C,8,9,3,10,6/3/22,52,B01115,603389,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H07441,Suburban Park,364732,1683,4,4,5,0,0.45,true,false,F,8,9,3,10,6/3/22,7,B07441,417440,35-44,2,medium,false,Dual income,Affordability,false
+H07410,Suburban Park,297425,1393,3,2,29,1,0.47,false,true,E,8,9,3,10,6/5/22,58,B07410,322326,35-44,1,medium,false,Full-time employed,Low Maintenance,false
+H05737,Suburban Park,751283,3919,6,5,23,2,0.22,false,false,D,8,9,3,10,6/5/22,48,B05737,869308,55-64,5,high,true,Self-employed,Location & Schools,false
+H02775,Suburban Park,454663,2042,4,4,0,1,0.48,false,false,F,8,9,3,10,6/6/22,35,B02775,492651,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H06354,Suburban Park,833913,3810,5,5,2,2,0.43,true,false,E,8,9,3,10,6/6/22,75,B06354,963611,45-54,3,high,true,Dual income,Modern & Updated,false
+H04423,Suburban Park,615215,2925,5,5,13,2,0.36,true,false,F,8,9,3,10,6/6/22,96,B04423,666982,45-54,4,high,true,Full-time employed,Space & Bedrooms,false
+H05900,Suburban Park,798438,3868,6,5,7,2,0.36,false,false,F,8,9,3,10,6/7/22,17,B05900,889642,35-44,5,high,true,Full-time employed,Location & Schools,false
+H07883,Suburban Park,542470,2628,4,4,10,2,0.32,false,false,E,8,9,3,10,6/7/22,5,B07883,628469,25-34,2,medium,false,Self-employed,Space & Bedrooms,false
+H04484,Suburban Park,735737,3177,6,5,2,2,0.72,false,false,F,8,9,3,10,6/9/22,1,B04484,849583,45-54,4,high,true,Full-time employed,Space & Bedrooms,false
+H01623,Suburban Park,468337,2058,4,4,9,1,0.62,false,false,F,8,9,3,10,6/9/22,52,B01623,519413,35-44,3,medium,false,Self-employed,Location & Schools,false
+H00915,Suburban Park,479847,1810,2,3,14,2,0.22,true,false,E,8,9,3,10,6/9/22,4,B00915,514625,35-44,1,medium,false,Dual income,Space & Bedrooms,false
+H00794,Suburban Park,204294,800,2,2,5,1,0.19,false,true,F,8,9,3,10,6/9/22,6,B00794,223629,35-44,1,low,false,Full-time employed,Affordability,false
+H05365,Suburban Park,695618,3110,6,5,7,3,0.29,true,false,D,8,9,3,10,6/9/22,1,B05365,755517,35-44,3,high,true,Self-employed,Space & Bedrooms,false
+H01002,Suburban Park,559648,2654,4,4,3,1,0.43,false,false,F,8,9,3,10,6/11/22,53,B01002,647516,25-34,2,high,false,Full-time employed,Space & Bedrooms,false
+H03428,Suburban Park,611494,2698,4,4,15,1,0.22,false,false,D,8,9,3,10,6/12/22,3,B03428,658076,45-54,3,high,true,Full-time employed,Investment,false
+H02557,Suburban Park,224308,893,1,1,28,0,0.49,true,true,D,8,9,3,10,6/13/22,119,B02557,249376,35-44,1,low,false,Dual income,Affordability,false
+H05227,Suburban Park,527429,2887,4,5,12,2,0.27,false,false,F,8,9,3,10,6/14/22,54,B05227,574632,55-64,1,medium,false,Full-time employed,Space & Bedrooms,false
+H00275,Suburban Park,406661,1794,3,3,1,2,0.4,false,false,F,8,9,3,10,6/14/22,11,B00275,467046,35-44,1,medium,false,Self-employed,Location & Schools,false
+H02236,Suburban Park,827434,3885,6,5,28,3,0.38,false,false,C,8,9,3,10,6/14/22,39,B02236,940165,45-54,4,high,true,Dual income,Space & Bedrooms,false
+H01501,Suburban Park,370100,1624,3,3,11,1,0.35,false,false,E,8,9,3,10,6/15/22,15,B01501,390052,25-34,2,medium,false,Full-time employed,Location & Schools,false
+H02122,Suburban Park,365185,1558,3,3,4,1,0.6,false,false,F,8,9,3,10,6/15/22,39,B02122,386830,45-54,3,medium,true,Dual income,Location & Schools,false
+H03556,Suburban Park,394295,1997,4,4,8,1,0.15,false,false,D,8,9,3,10,6/15/22,43,B03556,416683,35-44,3,medium,false,Full-time employed,Location & Schools,false
+H02142,Suburban Park,363536,1157,2,2,5,1,0.45,true,false,E,8,9,3,10,6/15/22,3,B02142,405832,45-54,2,medium,false,Full-time employed,Space & Bedrooms,false
+H02866,Suburban Park,370539,1440,2,2,9,1,0.26,true,false,E,8,9,3,10,6/16/22,11,B02866,416905,45-54,1,medium,false,Full-time employed,Affordability,false
+H07526,Suburban Park,515214,2068,3,3,14,1,0.26,true,false,D,8,9,3,10,6/16/22,5,B07526,606024,25-34,1,medium,false,Full-time employed,Low Maintenance,false
+H00414,Suburban Park,580378,2764,3,4,10,1,0.32,false,false,E,8,9,3,10,6/16/22,79,B00414,615358,35-44,2,medium,false,Dual income,Affordability,false
+H04101,Suburban Park,725176,3433,5,5,7,3,0.59,false,false,E,8,9,3,10,6/18/22,54,B04101,779846,35-44,3,high,true,Dual income,Modern & Updated,false
+H00693,Suburban Park,384346,1774,3,3,7,0,0.2,false,false,E,8,9,3,10,6/18/22,62,B00693,426525,45-54,3,medium,false,Self-employed,Affordability,true
+H02798,Suburban Park,428926,1893,3,3,4,2,0.5,true,false,F,8,9,3,10,6/19/22,68,B02798,458243,25-34,1,medium,false,Full-time employed,Location & Schools,false
+H01692,Suburban Park,662542,3169,5,5,14,3,0.46,false,false,F,8,9,3,10,6/19/22,2,B01692,736427,55-64,4,high,false,Dual income,Location & Schools,false
+H02199,Suburban Park,938797,4500,6,5,1,2,0.35,false,false,E,8,9,3,10,6/20/22,116,B02199,996436,45-54,2,high,false,Full-time employed,Low Maintenance,false
+H01929,Suburban Park,456977,2352,3,3,51,2,0.34,false,false,A,8,9,3,10,6/21/22,52,B01929,491032,45-54,2,medium,false,Dual income,Modern & Updated,true
+H01683,Suburban Park,554015,2562,4,4,0,1,0.12,true,false,F,8,9,3,10,6/21/22,174,B01683,604816,55-64,3,medium,false,Self-employed,Affordability,false
+H04228,Suburban Park,497877,2374,3,3,4,1,0.4,true,false,F,8,9,3,10,6/21/22,26,B04228,524109,45-54,1,medium,false,Self-employed,Space & Bedrooms,false
+H07077,Suburban Park,802843,3597,6,5,10,2,0.22,true,false,F,8,9,3,10,6/22/22,1,B07077,877887,35-44,5,high,false,Self-employed,Location & Schools,false
+H03933,Suburban Park,319282,995,2,2,12,2,0.31,true,false,E,8,9,3,10,6/22/22,10,B03933,361039,45-54,1,medium,false,Self-employed,Modern & Updated,false
+H03126,Suburban Park,411219,1791,4,4,7,1,0.25,false,false,E,8,9,3,10,6/23/22,63,B03126,459144,45-54,2,medium,false,Full-time employed,Low Maintenance,false
+H07846,Suburban Park,928635,4500,6,5,2,2,0.5,true,false,F,8,9,3,10,6/24/22,25,B07846,1017488,25-34,3,high,true,Dual income,Affordability,false
+H05920,Suburban Park,430686,2190,4,4,7,1,0.19,false,false,F,8,9,3,10,6/24/22,15,B05920,484446,25-34,2,medium,false,Full-time employed,Affordability,false
+H04073,Suburban Park,475601,2476,5,5,18,1,0.51,false,false,D,8,9,3,10,6/24/22,9,B04073,543009,45-54,3,medium,false,Full-time employed,Low Maintenance,true
+H04249,Suburban Park,388069,1721,3,3,3,1,0.51,true,false,F,8,9,3,10,6/25/22,44,B04249,448302,35-44,3,medium,true,Self-employed,Low Maintenance,false
+H01432,Suburban Park,582389,2348,4,4,0,1,0.43,true,true,F,8,9,3,10,6/26/22,29,B01432,655334,45-54,2,high,false,Full-time employed,Space & Bedrooms,false
+H05499,Suburban Park,482372,2346,5,5,4,2,0.24,false,false,E,8,9,3,10,7/1/22,73,B05499,534785,35-44,3,medium,false,Self-employed,Modern & Updated,false
+H01832,Suburban Park,882962,4008,5,5,24,2,0.18,true,false,D,8,9,3,10,7/1/22,7,B01832,1008471,45-54,4,high,true,Dual income,Space & Bedrooms,false
+H07707,Suburban Park,338622,1612,3,3,7,1,0.41,false,false,E,8,9,3,10,7/2/22,31,B07707,381268,35-44,1,medium,false,Full-time employed,Affordability,false
+H04535,Suburban Park,435624,1721,2,3,2,0,0.25,true,false,F,8,9,3,10,7/3/22,22,B04535,506100,35-44,1,medium,false,Full-time employed,Location & Schools,false
+H03151,Suburban Park,381646,1779,4,3,4,1,0.56,false,true,F,8,9,3,10,7/3/22,11,B03151,432302,25-34,1,medium,false,Full-time employed,Investment,false
+H06849,Suburban Park,677013,3064,5,5,8,3,0.52,false,false,E,8,9,3,10,7/3/22,30,B06849,761715,55-64,3,high,false,Dual income,Low Maintenance,false
+H00701,Suburban Park,634958,2994,5,5,16,2,0.26,true,false,D,8,9,3,10,7/3/22,15,B00701,699757,35-44,3,high,true,Self-employed,Location & Schools,false
+H07189,Suburban Park,400124,1597,2,2,14,0,0.32,true,false,C,8,9,3,10,7/3/22,36,B07189,459689,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H00276,Suburban Park,312456,1432,3,3,9,0,0.29,true,false,E,8,9,3,10,7/6/22,36,B00276,360318,25-34,1,medium,false,Full-time employed,Affordability,false
+H03156,Suburban Park,523110,2394,3,3,13,2,0.37,false,false,E,8,9,3,10,7/6/22,10,B03156,613006,45-54,3,medium,true,Dual income,Location & Schools,true
+H07340,Suburban Park,428745,1984,2,2,0,2,0.27,false,false,F,8,9,3,10,7/6/22,4,B07340,500044,45-54,2,medium,false,Full-time employed,Modern & Updated,false
+H05230,Suburban Park,582952,2705,4,4,4,2,0.22,true,false,F,8,9,3,10,7/8/22,12,B05230,616588,35-44,2,medium,false,Full-time employed,Affordability,false
+H07034,Suburban Park,723066,3494,5,5,45,2,0.29,false,true,C,8,9,3,10,7/8/22,19,B07034,801347,45-54,4,high,true,Dual income,Location & Schools,false
+H06390,Suburban Park,534939,2464,4,4,30,2,0.52,true,false,D,8,9,3,10,7/9/22,28,B06390,629912,35-44,2,medium,false,Dual income,Modern & Updated,false
+H01304,Suburban Park,382492,1683,3,3,4,1,0.48,true,false,F,8,9,3,10,7/10/22,29,B01304,450926,25-34,1,medium,false,Full-time employed,Location & Schools,false
+H02712,Suburban Park,526782,2481,4,4,1,1,0.17,false,false,E,8,9,3,10,7/13/22,44,B02712,608403,55-64,1,medium,false,Retired,Affordability,false
+H04452,Suburban Park,295429,1326,2,2,10,1,0.37,true,false,F,8,9,3,10,7/14/22,3,B04452,316101,65+,1,medium,false,Retired,Modern & Updated,false
+H01619,Suburban Park,698988,3534,6,5,6,2,0.44,true,false,E,8,9,3,10,7/14/22,3,B01619,792240,45-54,5,high,true,Full-time employed,Low Maintenance,false
+H02867,Suburban Park,548112,2593,6,5,21,1,0.22,false,false,C,8,9,3,10,7/14/22,6,B02867,601594,35-44,5,medium,true,Full-time employed,Modern & Updated,false
+H01644,Suburban Park,379374,1493,2,2,8,1,0.34,true,false,E,8,9,3,10,7/15/22,25,B01644,426887,25-34,1,medium,false,Self-employed,Affordability,false
+H06275,Suburban Park,843903,3760,6,5,1,2,0.24,false,false,F,8,9,3,10,7/15/22,1,B06275,916562,25-34,3,high,false,Full-time employed,Investment,false
+H06274,Suburban Park,440601,1338,2,2,6,2,0.25,true,false,E,8,9,3,10,7/15/22,7,B06274,519618,45-54,1,medium,false,Self-employed,Space & Bedrooms,false
+H00803,Suburban Park,636305,2920,5,5,3,2,0.35,true,false,F,8,9,3,10,7/15/22,11,B00803,687681,25-34,2,high,false,Full-time employed,Affordability,false
+H05394,Suburban Park,353146,1427,2,2,1,1,0.74,false,false,F,8,9,3,10,7/16/22,31,B05394,410460,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H05089,Suburban Park,241355,1094,3,3,15,2,0.23,false,false,E,8,9,3,10,7/16/22,51,B05089,259203,45-54,1,low,false,Dual income,Modern & Updated,false
+H03075,Suburban Park,170128,800,2,2,7,0,0.25,false,false,F,8,9,3,10,7/17/22,94,B03075,194299,45-54,1,low,false,Self-employed,Space & Bedrooms,false
+H06467,Suburban Park,455566,2125,3,3,1,2,0.42,false,false,F,8,9,3,10,7/18/22,44,B06467,513793,35-44,3,medium,false,Full-time employed,Affordability,false
+H02043,Suburban Park,207356,800,1,1,12,1,0.22,false,false,D,8,9,3,10,7/18/22,5,B02043,229540,25-34,1,low,false,Full-time employed,Investment,false
+H04694,Suburban Park,553755,2565,4,4,14,1,0.53,false,false,E,8,9,3,10,7/18/22,36,B04694,635691,45-54,2,high,false,Full-time employed,Location & Schools,true
+H07217,Suburban Park,862647,4500,6,5,3,3,0.3,false,false,F,8,9,3,10,7/19/22,17,B07217,986494,45-54,4,high,true,Full-time employed,Location & Schools,false
+H01844,Suburban Park,460859,2323,4,4,1,2,0.24,false,false,F,8,9,3,10,7/19/22,10,B01844,485584,45-54,3,medium,false,Self-employed,Space & Bedrooms,false
+H02544,Suburban Park,331593,1674,3,3,0,0,0.25,false,false,F,8,9,3,10,7/21/22,29,B02544,391167,45-54,2,medium,false,Self-employed,Location & Schools,false
+H01707,Suburban Park,500641,2063,3,3,0,2,0.16,true,false,F,8,9,3,10,7/21/22,13,B01707,567888,35-44,2,medium,false,Full-time employed,Modern & Updated,false
+H00433,Suburban Park,608231,2904,5,5,2,1,0.42,false,false,F,8,9,3,10,7/22/22,84,B00433,672786,65+,2,high,false,Retired,Affordability,false
+H00233,Suburban Park,476720,1724,3,3,12,1,0.18,true,true,E,8,9,3,10,7/23/22,21,B00233,542708,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H06446,Suburban Park,379429,1624,2,2,23,1,0.37,true,false,C,8,9,3,10,7/23/22,20,B06446,417088,25-34,1,medium,false,Self-employed,Affordability,false
+H03372,Suburban Park,253536,894,2,2,1,1,0.51,true,false,F,8,9,3,10,7/23/22,99,B03372,277016,25-34,1,low,false,Dual income,Location & Schools,false
+H06552,Suburban Park,421304,1929,4,4,2,1,0.46,false,false,F,8,9,3,10,7/23/22,3,B06552,491196,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H02489,Suburban Park,219114,800,2,2,1,1,0.34,false,false,F,8,9,3,10,7/24/22,13,B02489,239861,45-54,3,low,true,Dual income,Space & Bedrooms,false
+H02349,Suburban Park,256249,1359,3,3,9,0,0.34,false,false,E,8,9,3,10,7/25/22,36,B02349,293730,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H02458,Suburban Park,754829,3671,6,5,2,3,0.78,false,false,E,8,9,3,10,7/25/22,61,B02458,803921,55-64,3,high,false,Retired,Location & Schools,false
+H01557,Suburban Park,310210,800,2,2,2,2,0.6,true,false,F,8,9,3,10,7/25/22,9,B01557,329820,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H06114,Suburban Park,536897,2207,4,4,5,2,0.71,false,false,F,8,9,3,10,7/26/22,22,B06114,623473,45-54,2,medium,false,Self-employed,Space & Bedrooms,true
+H06243,Suburban Park,402959,1756,3,3,0,1,0.15,false,false,E,8,9,3,10,7/27/22,86,B06243,424062,35-44,2,medium,false,Self-employed,Affordability,false
+H04352,Suburban Park,201118,836,2,2,11,1,0.52,false,false,F,8,9,3,10,7/27/22,50,B04352,226907,25-34,1,low,false,Full-time employed,Affordability,false
+H00511,Suburban Park,355928,1587,2,2,6,1,0.2,false,false,E,8,9,3,10,7/28/22,2,B00511,394829,45-54,2,medium,false,Full-time employed,Location & Schools,false
+H06925,Suburban Park,488180,2451,3,4,0,1,0.58,true,false,F,8,9,3,10,8/1/22,4,B06925,551952,55-64,1,medium,false,Dual income,Location & Schools,false
+H00029,Suburban Park,747224,3541,6,5,12,2,0.28,true,false,D,8,9,3,10,8/2/22,1,B00029,802258,35-44,5,high,true,Self-employed,Modern & Updated,false
+H03734,Suburban Park,413262,1897,3,4,6,2,0.35,false,false,F,8,9,3,10,8/3/22,10,B03734,458182,45-54,3,medium,true,Self-employed,Investment,true
+H07075,Suburban Park,430977,1956,3,3,8,2,0.31,true,false,E,8,9,3,10,8/3/22,5,B07075,455979,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H04414,Suburban Park,243368,969,1,2,1,1,0.35,false,false,F,8,9,3,10,8/4/22,82,B04414,260320,35-44,2,low,false,Full-time employed,Space & Bedrooms,false
+H02671,Suburban Park,336107,1749,3,3,10,1,0.19,false,false,F,8,9,3,10,8/5/22,21,B02671,373593,45-54,2,medium,false,Dual income,Space & Bedrooms,false
+H04215,Suburban Park,386158,1323,2,2,0,1,0.22,true,false,E,8,9,3,10,8/6/22,38,B04215,453358,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H01331,Suburban Park,659826,3221,4,5,5,2,0.29,true,false,F,8,9,3,10,8/8/22,10,B01331,708418,45-54,2,high,false,Dual income,Modern & Updated,false
+H04591,Suburban Park,505315,2319,3,3,3,1,0.51,true,false,E,8,9,3,10,8/8/22,42,B04591,568773,35-44,1,medium,false,Self-employed,Space & Bedrooms,false
+H04103,Suburban Park,442226,1964,4,4,58,2,0.27,false,false,A,8,9,3,10,8/10/22,19,B04103,517602,45-54,4,medium,false,Full-time employed,Location & Schools,false
+H00866,Suburban Park,548108,2243,3,3,3,2,0.2,false,false,E,8,9,3,10,8/10/22,21,B00866,617247,45-54,2,medium,false,Self-employed,Space & Bedrooms,false
+H07555,Suburban Park,307215,1449,2,2,11,1,0.4,false,false,D,8,9,3,10,8/12/22,59,B07555,330577,35-44,1,medium,false,Full-time employed,Location & Schools,false
+H06548,Suburban Park,285540,1331,3,3,21,0,0.27,true,false,D,8,9,3,10,8/13/22,19,B06548,322833,45-54,3,medium,true,Full-time employed,Location & Schools,false
+H07104,Suburban Park,478490,2441,4,4,10,1,0.18,false,false,F,8,9,3,10,8/13/22,33,B07104,545548,55-64,2,medium,false,Retired,Affordability,false
+H01918,Suburban Park,277440,1138,2,2,8,0,0.34,false,false,E,8,9,3,10,8/14/22,3,B01918,309551,65+,1,medium,false,Retired,Low Maintenance,false
+H02134,Suburban Park,449182,2483,4,4,1,1,0.21,false,false,F,8,9,3,10,8/15/22,25,B02134,499417,45-54,4,medium,true,Dual income,Modern & Updated,false
+H07731,Suburban Park,675936,3332,6,5,12,2,0.35,false,false,E,8,9,3,10,8/16/22,18,B07731,764612,45-54,4,high,false,Self-employed,Investment,false
+H04710,Suburban Park,491110,2229,4,4,1,1,0.29,true,false,E,8,9,3,10,8/16/22,67,B04710,542055,35-44,3,medium,true,Full-time employed,Location & Schools,false
+H07489,Suburban Park,353238,1602,3,3,4,1,0.17,false,false,F,8,9,3,10,8/17/22,28,B07489,412276,35-44,2,medium,false,Self-employed,Low Maintenance,false
+H06051,Suburban Park,248675,800,2,2,6,1,0.26,true,false,F,8,9,3,10,8/17/22,9,B06051,275686,65+,1,low,false,Retired,Investment,false
+H05449,Suburban Park,657403,2932,5,5,5,2,0.29,true,false,F,8,9,3,10,8/19/22,39,B05449,757056,35-44,4,high,true,Full-time employed,Low Maintenance,false
+H06445,Suburban Park,859961,4135,6,5,3,2,0.16,false,false,F,8,9,3,10,8/19/22,19,B06445,969194,25-34,2,high,false,Full-time employed,Location & Schools,false
+H00452,Suburban Park,557417,2678,4,4,1,1,0.3,false,false,F,8,9,3,10,8/21/22,54,B00452,628787,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H03030,Suburban Park,416752,2065,3,3,1,2,0.37,false,false,F,8,9,3,10,8/21/22,11,B03030,451198,45-54,2,medium,false,Full-time employed,Space & Bedrooms,false
+H01092,Suburban Park,457594,2033,3,3,9,2,0.23,false,false,F,8,9,3,10,8/21/22,28,B01092,529897,35-44,1,medium,false,Self-employed,Affordability,false
+H04044,Suburban Park,413665,1736,3,3,15,1,0.3,true,false,F,8,9,3,10,8/22/22,54,B04044,447268,45-54,2,medium,false,Dual income,Affordability,false
+H02692,Suburban Park,203760,800,2,2,1,2,0.27,false,false,E,8,9,3,10,8/24/22,69,B02692,230822,25-34,1,low,false,Dual income,Space & Bedrooms,false
+H03109,Suburban Park,471060,2314,3,4,27,1,0.47,false,false,C,8,9,3,10,8/25/22,1,B03109,507561,55-64,3,medium,false,Full-time employed,Space & Bedrooms,false
+H06736,Suburban Park,373491,1776,3,3,12,1,0.23,false,false,E,8,9,3,10,8/26/22,5,B06736,417618,45-54,2,medium,false,Dual income,Location & Schools,false
+H02035,Suburban Park,298731,1466,3,3,10,1,0.54,true,false,D,8,9,3,10,8/27/22,119,B02035,319068,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H01360,Suburban Park,502701,2475,4,4,11,1,0.45,false,false,F,8,9,3,10,8/28/22,14,B01360,528726,55-64,3,medium,true,Retired,Space & Bedrooms,true
+H06945,Suburban Park,925049,4500,6,5,0,2,0.17,false,false,F,8,9,3,10,8/28/22,8,B06945,984422,45-54,3,high,false,Dual income,Modern & Updated,false
+H03136,Suburban Park,451131,2248,3,3,0,1,0.25,false,false,F,8,9,3,10,9/1/22,16,B03136,498941,45-54,2,medium,false,Full-time employed,Space & Bedrooms,false
+H00653,Suburban Park,315297,1441,3,3,4,1,0.24,false,true,F,8,9,3,10,9/3/22,12,B00653,364566,45-54,3,medium,true,Dual income,Space & Bedrooms,false
+H02097,Suburban Park,549465,2959,5,5,24,2,0.4,false,false,D,8,9,3,10,9/4/22,24,B02097,587795,45-54,3,medium,true,Full-time employed,Affordability,false
+H02887,Suburban Park,482715,2265,3,3,0,1,0.46,false,false,E,8,9,3,10,9/6/22,42,B02887,534212,65+,1,medium,false,Retired,Modern & Updated,false
+H04855,Suburban Park,471143,1981,2,2,9,2,0.12,false,false,E,8,9,3,10,9/6/22,26,B04855,511941,45-54,1,medium,false,Dual income,Space & Bedrooms,false
+H00859,Suburban Park,533592,2593,4,4,8,1,0.46,false,false,E,8,9,3,10,9/8/22,26,B00859,591648,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H06869,Suburban Park,419468,1469,3,3,15,2,0.41,false,false,E,8,9,3,10,9/8/22,35,B06869,458062,45-54,2,medium,false,Full-time employed,Space & Bedrooms,false
+H05590,Suburban Park,879995,4188,6,5,23,3,0.17,true,false,E,8,9,3,10,9/8/22,24,B05590,1006057,45-54,4,high,true,Self-employed,Space & Bedrooms,false
+H06982,Suburban Park,341925,1480,2,2,6,1,0.46,true,false,E,8,9,3,10,9/11/22,13,B06982,392533,65+,1,medium,false,Retired,Low Maintenance,false
+H03438,Suburban Park,527728,2714,4,4,24,1,0.36,false,false,E,8,9,3,10,9/11/22,30,B03438,594354,55-64,2,medium,false,Full-time employed,Modern & Updated,false
+H02470,Suburban Park,719117,3768,5,5,12,2,0.19,false,false,F,8,9,3,10,9/12/22,13,B02470,762236,55-64,3,high,false,Full-time employed,Low Maintenance,false
+H05266,Suburban Park,461552,2121,3,3,17,1,0.63,false,false,E,8,9,3,10,9/14/22,1,B05266,514696,55-64,2,medium,false,Retired,Space & Bedrooms,false
+H04800,Suburban Park,325840,1447,2,2,5,1,0.35,true,false,F,8,9,3,10,9/14/22,33,B04800,380933,35-44,2,medium,false,Full-time employed,Modern & Updated,false
+H06312,Suburban Park,853000,3758,6,5,2,3,0.22,true,false,F,8,9,3,10,9/16/22,84,B06312,967725,45-54,5,high,true,Full-time employed,Location & Schools,false
+H03767,Suburban Park,600746,2542,4,4,8,2,0.21,true,false,E,8,9,3,10,9/17/22,12,B03767,704683,35-44,3,high,true,Dual income,Modern & Updated,true
+H05575,Suburban Park,453089,2170,3,3,4,2,0.22,true,false,F,8,9,3,10,9/17/22,3,B05575,518684,25-34,2,medium,false,Full-time employed,Affordability,false
+H06246,Suburban Park,538182,2498,4,4,2,1,0.27,true,false,F,8,9,3,10,9/19/22,22,B06246,587053,45-54,2,medium,false,Full-time employed,Space & Bedrooms,false
+H05645,Suburban Park,636636,2870,5,5,12,2,0.13,true,false,D,8,9,3,10,9/21/22,6,B05645,714737,35-44,2,high,false,Dual income,Space & Bedrooms,false
+H05306,Suburban Park,578082,2551,5,5,14,2,0.34,true,false,D,8,9,3,10,9/22/22,45,B05306,657888,35-44,2,high,false,Full-time employed,Modern & Updated,false
+H04321,Suburban Park,566264,2761,3,3,0,1,0.25,false,false,E,8,9,3,10,9/22/22,13,B04321,597405,35-44,3,medium,true,Full-time employed,Low Maintenance,false
+H06357,Suburban Park,600838,2775,4,5,1,1,0.33,true,false,F,8,9,3,10,9/24/22,16,B06357,678165,25-34,2,high,false,Full-time employed,Space & Bedrooms,false
+H07281,Suburban Park,172064,800,2,2,5,1,0.24,false,false,E,8,9,3,10,9/26/22,50,B07281,202939,45-54,2,low,false,Full-time employed,Space & Bedrooms,false
+H03343,Suburban Park,532589,2150,4,4,0,2,0.35,true,false,E,8,9,3,10,9/26/22,105,B03343,582900,35-44,1,medium,false,Full-time employed,Location & Schools,false
+H00462,Suburban Park,838635,3858,6,5,0,2,0.4,false,false,F,8,9,3,10,9/27/22,41,B00462,922177,55-64,4,high,true,Full-time employed,Location & Schools,false
+H00840,Suburban Park,499829,2705,4,4,13,1,0.26,false,false,E,8,9,3,10,10/2/22,60,B00840,544851,35-44,2,medium,false,Dual income,Space & Bedrooms,false
+H05606,Suburban Park,188019,800,1,1,13,2,0.35,false,false,D,8,9,3,10,10/4/22,23,B05606,206405,25-34,1,low,false,Full-time employed,Affordability,false
+H00928,Suburban Park,615279,2947,5,4,13,2,0.49,false,false,E,8,9,3,10,10/5/22,37,B00928,662104,35-44,4,high,true,Full-time employed,Location & Schools,false
+H04208,Suburban Park,378587,1321,2,3,8,1,0.46,true,false,E,8,9,3,10,10/6/22,37,B04208,408124,35-44,1,medium,false,Dual income,Location & Schools,false
+H03446,Suburban Park,277155,1297,1,1,4,0,0.17,false,false,F,8,9,3,10,10/7/22,21,B03446,293149,35-44,1,medium,false,Dual income,Space & Bedrooms,false
+H05783,Suburban Park,315296,1617,4,4,15,1,0.68,false,false,E,8,9,3,10,10/9/22,4,B05783,339122,35-44,3,medium,false,Full-time employed,Location & Schools,false
+H00497,Suburban Park,530472,2090,2,3,2,2,0.21,true,false,F,8,9,3,10,10/9/22,1,B00497,602246,45-54,1,medium,false,Full-time employed,Modern & Updated,false
+H05315,Suburban Park,423264,2029,4,4,18,1,0.25,false,false,B,8,9,3,10,10/12/22,41,B05315,454503,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H03331,Suburban Park,457343,2076,4,4,17,1,0.27,true,false,D,8,9,3,10,10/12/22,42,B03331,506854,65+,1,medium,false,Dual income,Location & Schools,false
+H07736,Suburban Park,428427,1998,3,3,17,2,0.52,false,false,E,8,9,3,10,10/12/22,1,B07736,461214,35-44,3,medium,true,Full-time employed,Space & Bedrooms,false
+H06409,Suburban Park,456358,2104,2,3,10,2,0.37,false,false,F,8,9,3,10,10/13/22,58,B06409,522329,55-64,1,medium,false,Full-time employed,Affordability,false
+H04479,Suburban Park,246637,1216,2,2,2,0,0.34,true,false,E,8,9,3,10,10/15/22,42,B04479,273481,35-44,1,low,false,Full-time employed,Modern & Updated,false
+H03262,Suburban Park,794233,3607,6,5,10,3,0.43,true,false,F,8,9,3,10,10/15/22,14,B03262,912251,35-44,4,high,true,Full-time employed,Location & Schools,false
+H07088,Suburban Park,414390,1775,3,4,14,1,0.23,false,true,E,8,9,3,10,10/15/22,25,B07088,436247,45-54,3,medium,true,Dual income,Investment,false
+H02323,Suburban Park,620033,3273,6,5,9,2,0.37,false,false,F,8,9,3,10,10/17/22,5,B02323,728517,55-64,6,high,true,Full-time employed,Location & Schools,false
+H07603,Suburban Park,256273,998,2,1,12,1,0.4,false,false,F,8,9,3,10,10/17/22,22,B07603,275087,25-34,1,low,false,Full-time employed,Affordability,false
+H03892,Suburban Park,504900,2330,4,4,4,2,0.34,true,false,F,8,9,3,10,10/18/22,11,B03892,534981,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H01192,Suburban Park,566190,2348,3,3,1,2,0.33,false,false,F,8,9,3,10,10/18/22,58,B01192,619169,35-44,1,medium,false,Full-time employed,Affordability,false
+H07469,Suburban Park,531809,2618,5,5,0,2,0.23,false,false,F,8,9,3,10,10/22/22,27,B07469,592102,55-64,2,medium,false,Self-employed,Location & Schools,false
+H00553,Suburban Park,492796,2366,4,4,9,2,0.55,false,false,F,8,9,3,10,10/22/22,41,B00553,543988,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H06857,Suburban Park,234230,946,1,1,46,1,0.4,false,false,B,8,9,3,10,10/22/22,22,B06857,254681,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
+H01784,Suburban Park,582466,2559,5,5,16,1,0.42,true,false,D,8,9,3,10,10/24/22,61,B01784,643808,35-44,3,high,true,Full-time employed,Location & Schools,false
+H03294,Suburban Park,409650,1937,2,2,19,1,0.39,true,false,E,8,9,3,10,10/24/22,28,B03294,465679,45-54,1,medium,false,Full-time employed,Investment,false
+H07942,Suburban Park,378857,2181,3,3,33,2,0.49,false,false,C,8,9,3,10,10/25/22,41,B07942,426474,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H04165,Suburban Park,382558,1603,3,3,13,1,0.25,true,false,E,8,9,3,10,10/25/22,10,B04165,444730,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H04285,Suburban Park,670938,3095,6,5,12,3,0.56,false,false,E,8,9,3,10,10/26/22,7,B04285,769415,45-54,3,high,true,Dual income,Location & Schools,false
+H04480,Suburban Park,218259,867,1,1,16,1,0.24,false,true,F,8,9,3,10,10/27/22,11,B04480,240673,35-44,2,low,false,Dual income,Modern & Updated,false
+H05013,Suburban Park,442125,2207,4,3,2,2,0.49,false,false,F,8,9,3,10,10/27/22,1,B05013,501757,35-44,3,medium,true,Full-time employed,Location & Schools,false
+H07741,Suburban Park,724912,3519,6,5,21,3,0.37,false,false,D,8,9,3,10,10/28/22,38,B07741,769474,35-44,4,high,true,Self-employed,Location & Schools,false
+H06386,Suburban Park,525300,2219,3,4,14,2,0.25,false,false,F,8,9,3,10,11/1/22,33,B06386,617510,55-64,3,medium,true,Retired,Location & Schools,false
+H04765,Suburban Park,524654,2076,3,4,5,2,0.17,true,false,F,8,9,3,10,11/6/22,8,B04765,600811,25-34,1,medium,false,Dual income,Modern & Updated,true
+H01299,Suburban Park,444341,2229,4,4,32,2,0.23,false,false,B,8,9,3,10,11/8/22,18,B01299,515002,25-34,1,medium,false,Full-time employed,Affordability,false
+H01876,Suburban Park,729417,3732,6,5,8,3,0.81,false,false,F,8,9,3,10,11/8/22,63,B01876,826131,55-64,3,high,true,Retired,Space & Bedrooms,false
+H01864,Suburban Park,905272,4500,6,5,10,2,0.52,true,false,F,8,9,3,10,11/10/22,43,B01864,984861,65+,1,high,false,Self-employed,Low Maintenance,false
+H03089,Suburban Park,511786,2238,3,4,10,1,0.15,false,false,D,8,9,3,10,11/10/22,40,B03089,601925,35-44,2,medium,false,Dual income,Space & Bedrooms,false
+H02049,Suburban Park,238095,980,1,1,14,1,0.29,false,false,E,8,9,3,10,11/10/22,180,B02049,258464,25-34,1,low,false,Full-time employed,Modern & Updated,false
+H07096,Suburban Park,485655,1689,2,2,2,1,0.54,true,false,F,8,9,3,10,11/11/22,135,B07096,552062,35-44,1,medium,false,Full-time employed,Location & Schools,false
+H00055,Suburban Park,851495,4292,6,5,8,3,0.15,false,false,F,8,9,3,10,11/13/22,45,B00055,913247,45-54,4,high,false,Full-time employed,Location & Schools,false
+H05131,Suburban Park,185324,800,2,1,17,0,0.42,false,false,D,8,9,3,10,11/15/22,44,B05131,208785,35-44,2,low,false,Self-employed,Modern & Updated,true
+H03611,Suburban Park,395174,1695,3,3,7,1,0.31,false,false,F,8,9,3,10,11/19/22,30,B03611,443962,45-54,1,medium,false,Self-employed,Space & Bedrooms,false
+H04386,Suburban Park,416095,2111,3,3,15,2,0.29,false,false,E,8,9,3,10,11/20/22,29,B04386,438671,35-44,3,medium,false,Dual income,Affordability,false
+H05143,Suburban Park,267282,1090,2,1,0,1,0.52,true,false,F,8,9,3,10,11/20/22,20,B05143,289596,55-64,2,medium,false,Full-time employed,Location & Schools,false
+H06430,Suburban Park,630931,2863,5,5,4,2,0.35,true,false,F,8,9,3,10,11/21/22,29,B06430,736235,55-64,3,high,false,Retired,Modern & Updated,true
+H03185,Suburban Park,462118,2199,3,3,17,1,0.87,false,false,F,8,9,3,10,11/22/22,22,B03185,542167,45-54,2,medium,false,Dual income,Affordability,true
+H03210,Suburban Park,328086,1422,3,3,0,1,0.2,false,false,F,8,9,3,10,11/23/22,124,B03210,365251,45-54,2,medium,false,Self-employed,Investment,false
+H02262,Suburban Park,484101,2535,4,4,23,1,0.56,true,false,D,8,9,3,10,11/23/22,20,B02262,539942,45-54,2,medium,false,Dual income,Modern & Updated,false
+H00261,Suburban Park,451911,2171,5,5,9,2,0.28,false,false,D,8,9,3,10,11/23/22,75,B00261,515956,45-54,1,medium,false,Full-time employed,Low Maintenance,false
+H04337,Suburban Park,479497,1929,3,3,8,2,0.26,true,false,F,8,9,3,10,11/24/22,6,B04337,564195,35-44,2,medium,false,Dual income,Modern & Updated,true
+H03139,Suburban Park,191153,800,1,1,4,2,0.37,false,false,F,8,9,3,10,11/25/22,35,B03139,217211,35-44,1,low,false,Self-employed,Location & Schools,false
+H04001,Suburban Park,872658,4058,6,5,1,2,0.33,false,false,D,8,9,3,10,11/28/22,1,B04001,994529,45-54,4,high,true,Dual income,Location & Schools,false
+H00104,Suburban Park,724100,3558,6,5,1,2,0.58,false,false,F,8,9,3,10,12/1/22,17,B00104,824810,45-54,5,high,false,Full-time employed,Modern & Updated,false
+H05126,Suburban Park,384495,1811,3,3,11,2,0.26,false,false,E,8,9,3,10,12/1/22,73,B05126,440412,45-54,2,medium,false,Full-time employed,Affordability,false
+H06608,Suburban Park,464604,2384,4,4,18,1,0.38,false,true,F,8,9,3,10,12/2/22,61,B06608,507343,45-54,2,medium,false,Full-time employed,Modern & Updated,false
+H01180,Suburban Park,499585,2614,4,4,2,1,0.2,false,false,F,8,9,3,10,12/5/22,45,B01180,584383,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H04529,Suburban Park,701007,3648,6,5,13,2,0.47,false,false,E,8,9,3,10,12/6/22,24,B04529,784088,35-44,5,high,true,Self-employed,Space & Bedrooms,false
+H00415,Suburban Park,708579,3297,5,5,8,3,0.21,true,false,E,8,9,3,10,12/8/22,31,B00415,810195,55-64,3,high,true,Self-employed,Location & Schools,false
+H00426,Suburban Park,505051,2144,4,4,4,2,0.28,false,false,F,8,9,3,10,12/8/22,11,B00426,577573,35-44,2,medium,false,Full-time employed,Investment,false
+H04596,Suburban Park,390723,1723,3,3,5,0,0.89,false,false,D,8,9,3,10,12/8/22,2,B04596,418000,55-64,2,medium,false,Full-time employed,Affordability,false
+H03948,Suburban Park,512395,2352,4,4,10,1,0.35,false,false,E,8,9,3,10,12/10/22,23,B03948,591690,35-44,2,medium,false,Full-time employed,Location & Schools,true
+H04923,Suburban Park,625665,3126,5,5,6,2,0.2,false,false,E,8,9,3,10,12/12/22,1,B04923,666858,45-54,3,high,true,Self-employed,Location & Schools,false
+H01661,Suburban Park,362879,1639,2,2,30,1,0.23,false,false,C,8,9,3,10,12/15/22,21,B01661,422217,45-54,2,medium,false,Self-employed,Low Maintenance,false
+H03554,Suburban Park,710007,2883,6,5,24,2,0.32,true,false,E,8,9,3,10,12/15/22,61,B03554,801248,55-64,4,high,true,Full-time employed,Space & Bedrooms,false
+H06477,Suburban Park,190744,800,1,1,6,0,0.37,true,false,E,8,9,3,10,12/16/22,20,B06477,215816,35-44,1,low,false,Full-time employed,Modern & Updated,false
+H00302,Suburban Park,528578,2729,5,5,5,2,0.34,false,false,D,8,9,3,10,12/18/22,16,B00302,584072,35-44,4,medium,true,Full-time employed,Location & Schools,false
+H01269,Suburban Park,333217,1362,1,1,0,1,0.18,false,false,F,8,9,3,10,12/18/22,50,B01269,361074,35-44,1,medium,false,Full-time employed,Location & Schools,false
+H07771,Suburban Park,352161,1485,3,3,6,1,0.49,true,true,F,8,9,3,10,12/19/22,40,B07771,411250,45-54,2,medium,false,Self-employed,Space & Bedrooms,false
+H00757,Suburban Park,794638,4117,6,5,19,2,0.38,false,false,F,8,9,3,10,12/20/22,91,B00757,850457,55-64,5,high,false,Self-employed,Space & Bedrooms,false
+H05389,Suburban Park,410765,1828,3,3,4,1,0.36,true,false,F,8,9,3,10,12/23/22,33,B05389,442687,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H04288,Suburban Park,417868,2011,3,3,0,2,0.26,false,false,E,8,9,3,10,12/27/22,24,B04288,446597,45-54,2,medium,false,Full-time employed,Space & Bedrooms,false
+H01933,Suburban Park,704300,3304,5,5,3,3,0.52,false,false,F,8,9,3,10,12/28/22,17,B01933,743406,35-44,4,high,true,Dual income,Affordability,false
+H04308,Suburban Park,411485,1737,3,3,1,0,0.18,true,false,F,8,9,3,10,1/1/23,20,B04308,450798,45-54,3,medium,false,Full-time employed,Affordability,false
+H06079,Suburban Park,463675,2276,3,3,8,2,0.3,false,false,E,8,9,3,10,1/2/23,89,B06079,532871,25-34,2,medium,false,Dual income,Affordability,false
+H06600,Suburban Park,451364,2255,4,4,15,2,0.2,true,false,F,8,9,3,10,1/2/23,98,B06600,507784,25-34,1,medium,false,Dual income,Low Maintenance,false
+H06568,Suburban Park,319371,1321,2,2,3,1,0.3,false,false,F,8,9,3,10,1/3/23,50,B06568,374462,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H07682,Suburban Park,542653,2282,5,5,22,1,0.25,true,false,D,8,9,3,10,1/7/23,14,B07682,611791,35-44,3,medium,true,Full-time employed,Low Maintenance,false
+H05103,Suburban Park,605395,2691,4,4,0,2,0.63,false,false,F,8,9,3,10,1/7/23,7,B05103,661833,55-64,3,high,true,Self-employed,Location & Schools,false
+H01250,Suburban Park,844598,4084,6,5,2,2,0.26,false,false,F,8,9,3,10,1/9/23,25,B01250,950596,35-44,4,high,true,Dual income,Space & Bedrooms,false
+H06580,Suburban Park,292382,800,2,2,51,2,0.22,true,false,A,8,9,3,10,1/9/23,15,B06580,339992,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H02246,Suburban Park,701334,3415,5,5,26,2,0.59,false,false,E,8,9,3,10,1/9/23,13,B02246,800506,25-34,1,high,false,Self-employed,Low Maintenance,false
+H06635,Suburban Park,641438,3221,5,5,10,3,0.18,false,false,F,8,9,3,10,1/9/23,52,B06635,745882,65+,2,high,false,Retired,Low Maintenance,false
+H03889,Suburban Park,400692,1588,2,2,9,0,0.3,false,false,E,8,9,3,10,1/10/23,15,B03889,435982,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H02594,Suburban Park,877482,4201,6,5,25,2,0.29,false,false,E,8,9,3,10,1/11/23,9,B02594,1007901,55-64,4,high,false,Self-employed,Modern & Updated,false
+H05046,Suburban Park,685225,3565,5,5,6,3,0.26,false,false,F,8,9,3,10,1/11/23,34,B05046,746336,55-64,4,high,true,Dual income,Location & Schools,false
+H01176,Suburban Park,464782,2523,5,5,13,1,0.51,false,false,F,8,9,3,10,1/12/23,17,B01176,505935,35-44,3,medium,false,Dual income,Location & Schools,false
+H07766,Suburban Park,315869,1490,1,1,8,1,0.5,false,false,F,8,9,3,10,1/12/23,72,B07766,365036,45-54,1,medium,false,Dual income,Space & Bedrooms,false
+H07180,Suburban Park,442255,1780,3,3,12,0,0.12,true,false,D,8,9,3,10,1/13/23,22,B07180,492382,25-34,2,medium,false,Full-time employed,Affordability,false
+H01415,Suburban Park,363195,1699,3,3,3,1,0.32,false,false,D,8,9,3,10,1/13/23,9,B01415,385499,45-54,1,medium,false,Self-employed,Space & Bedrooms,false
+H07523,Suburban Park,844769,4206,6,5,3,2,0.34,false,true,F,8,9,3,10,1/14/23,25,B07523,890637,35-44,4,high,true,Full-time employed,Space & Bedrooms,false
+H05102,Suburban Park,277958,1367,2,2,27,2,0.31,false,false,E,8,9,3,10,1/16/23,13,B05102,300548,45-54,1,medium,false,Self-employed,Location & Schools,false
+H07322,Suburban Park,617443,3016,5,5,0,2,0.34,true,false,F,8,9,3,10,1/17/23,28,B07322,667183,45-54,3,high,true,Full-time employed,Location & Schools,false
+H02845,Suburban Park,457093,2121,4,4,18,1,0.26,false,false,F,8,9,3,10,1/18/23,19,B02845,529262,35-44,3,medium,true,Full-time employed,Space & Bedrooms,false
+H02351,Suburban Park,549710,2856,5,5,30,2,0.73,false,false,D,8,9,3,10,1/18/23,30,B02351,618485,45-54,2,medium,false,Self-employed,Location & Schools,false
+H06437,Suburban Park,924290,4408,6,5,21,3,0.21,true,false,E,8,9,3,10,1/18/23,3,B06437,986746,45-54,4,high,true,Dual income,Modern & Updated,false
+H01657,Suburban Park,512979,2429,5,5,6,1,0.67,true,false,F,8,9,3,10,1/18/23,24,B01657,551881,45-54,4,medium,true,Self-employed,Space & Bedrooms,true
+H05501,Suburban Park,436995,1881,4,4,4,2,0.31,true,false,F,8,9,3,10,1/18/23,55,B05501,500169,25-34,1,medium,false,Full-time employed,Low Maintenance,false
+H02118,Suburban Park,432719,1884,3,3,2,2,0.28,false,false,E,8,9,3,10,1/19/23,106,B02118,478891,25-34,1,medium,false,Full-time employed,Investment,false
+H04304,Suburban Park,224933,800,1,1,15,2,0.43,false,false,F,8,9,3,10,1/21/23,34,B04304,244844,25-34,1,low,false,Full-time employed,Affordability,false
+H02270,Suburban Park,531570,2719,5,5,1,1,0.29,false,false,E,8,9,3,10,1/21/23,12,B02270,569272,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H00094,Suburban Park,652942,3080,5,5,10,2,0.41,false,false,F,8,9,3,10,1/24/23,105,B00094,697559,55-64,3,high,false,Full-time employed,Location & Schools,false
+H05574,Suburban Park,226071,963,3,3,7,1,0.34,false,false,E,8,9,3,10,1/24/23,39,B05574,259251,35-44,1,low,false,Dual income,Space & Bedrooms,false
+H06231,Suburban Park,628462,2591,4,4,7,2,0.42,false,true,F,8,9,3,10,1/24/23,52,B06231,695801,55-64,2,high,false,Retired,Location & Schools,false
+H00849,Suburban Park,652888,2969,5,5,47,2,0.12,false,false,A,8,9,3,10,1/24/23,3,B00849,760830,45-54,4,high,true,Full-time employed,Location & Schools,false
+H07875,Suburban Park,687028,3699,5,5,40,2,0.23,false,false,A,8,9,3,10,1/25/23,89,B07875,785189,55-64,3,high,false,Retired,Location & Schools,false
+H04689,Suburban Park,494888,2258,5,5,8,1,0.31,true,false,F,8,9,3,10,1/27/23,10,B04689,574093,35-44,3,medium,true,Dual income,Modern & Updated,false
+H05677,Suburban Park,556292,2670,5,5,8,1,0.51,false,false,E,8,9,3,10,2/2/23,2,B05677,588164,25-34,3,medium,true,Full-time employed,Low Maintenance,false
+H03269,Suburban Park,449043,2005,5,4,3,1,0.28,false,false,F,8,9,3,10,2/2/23,37,B03269,473912,35-44,3,medium,true,Full-time employed,Location & Schools,false
+H04912,Suburban Park,644997,2870,5,5,0,2,0.26,true,false,F,8,9,3,10,2/4/23,16,B04912,752202,45-54,3,high,false,Self-employed,Location & Schools,false
+H03065,Suburban Park,407753,2053,3,3,23,2,0.21,false,false,C,8,9,3,10,2/4/23,118,B03065,464818,35-44,2,medium,false,Dual income,Affordability,false
+H05902,Suburban Park,577096,2783,6,5,5,2,0.4,true,false,E,8,9,3,10,2/4/23,34,B05902,646689,45-54,5,high,true,Full-time employed,Space & Bedrooms,false
+H05367,Suburban Park,508333,2258,3,3,12,2,0.2,false,false,C,8,9,3,10,2/4/23,24,B05367,534701,35-44,3,medium,false,Full-time employed,Affordability,false
+H04157,Suburban Park,488479,1956,3,4,4,1,0.25,true,false,F,8,9,3,10,2/5/23,17,B04157,567407,35-44,3,medium,true,Full-time employed,Space & Bedrooms,false
+H00147,Suburban Park,226477,800,1,1,4,1,0.48,true,false,E,8,9,3,10,2/5/23,32,B00147,264681,55-64,1,low,false,Self-employed,Space & Bedrooms,false
+H04698,Suburban Park,399580,2088,3,3,19,2,0.46,false,false,D,8,9,3,10,2/7/23,81,B04698,425045,25-34,1,medium,false,Full-time employed,Affordability,false
+H02133,Suburban Park,431066,2085,3,3,7,2,0.33,false,false,F,8,9,3,10,2/8/23,56,B02133,466388,25-34,1,medium,false,Dual income,Location & Schools,false
+H07416,Suburban Park,628957,3090,4,4,12,2,0.23,false,false,F,8,9,3,10,2/11/23,1,B07416,678484,35-44,2,high,false,Full-time employed,Modern & Updated,false
+H04115,Suburban Park,657298,3500,6,5,42,3,0.37,false,false,C,8,9,3,10,2/13/23,20,B04115,767689,35-44,5,high,false,Full-time employed,Investment,false
+H03274,Suburban Park,307740,1580,2,3,14,1,0.25,false,false,F,8,9,3,10,2/13/23,36,B03274,334923,45-54,1,medium,false,Dual income,Location & Schools,false
+H07937,Suburban Park,692607,3247,5,5,28,2,0.42,false,false,C,8,9,3,10,2/15/23,12,B07937,735765,55-64,1,high,false,Retired,Space & Bedrooms,false
+H01966,Suburban Park,334400,1378,3,3,13,2,0.17,true,false,F,8,9,3,10,2/19/23,27,B01966,387188,35-44,3,medium,true,Dual income,Space & Bedrooms,false
+H04593,Suburban Park,537001,2041,3,3,10,2,0.36,false,false,E,8,9,3,10,2/20/23,14,B04593,578794,35-44,2,medium,false,Self-employed,Location & Schools,true
+H07816,Suburban Park,700874,3799,6,5,19,3,0.38,false,false,F,8,9,3,10,2/22/23,22,B07816,786026,45-54,3,high,false,Full-time employed,Location & Schools,false
+H07841,Suburban Park,636833,3039,4,4,10,3,0.3,false,false,E,8,9,3,10,2/26/23,49,B07841,731466,35-44,4,high,true,Full-time employed,Affordability,false
+H05850,Suburban Park,481123,2108,2,3,2,2,0.44,false,false,E,8,9,3,10,2/26/23,65,B05850,533520,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H04276,Suburban Park,416783,1912,2,2,0,1,0.41,false,false,F,8,9,3,10,2/27/23,32,B04276,489261,55-64,2,medium,false,Dual income,Affordability,false
+H06822,Suburban Park,531654,2324,3,3,4,2,0.5,true,false,F,8,9,3,10,2/28/23,14,B06822,581825,25-34,2,medium,false,Full-time employed,Investment,false
+H03342,Suburban Park,531486,2404,5,4,4,1,0.33,true,false,E,8,9,3,10,2/28/23,3,B03342,593540,35-44,2,medium,false,Self-employed,Space & Bedrooms,false
+H05687,Suburban Park,951522,4500,6,5,2,3,0.37,false,false,F,8,9,3,10,3/1/23,1,B05687,1027991,55-64,4,high,false,Self-employed,Affordability,false
+H03202,Suburban Park,343749,1417,3,3,1,1,0.33,false,false,F,8,9,3,10,3/2/23,49,B03202,362850,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H05363,Suburban Park,602978,2438,5,4,4,1,0.2,true,false,F,8,9,3,10,3/4/23,92,B05363,697004,55-64,4,high,true,Full-time employed,Location & Schools,false
+H04393,Suburban Park,694167,2967,5,4,6,2,0.29,true,false,E,8,9,3,10,3/5/23,80,B04393,758522,45-54,3,high,true,Self-employed,Location & Schools,false
+H06436,Suburban Park,422852,1775,2,2,17,0,0.21,true,true,E,8,9,3,10,3/5/23,3,B06436,462333,35-44,1,medium,false,Self-employed,Affordability,false
+H06004,Suburban Park,354698,1729,4,4,1,2,0.4,false,false,F,8,9,3,10,3/6/23,5,B06004,384377,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H00744,Suburban Park,410866,1843,3,3,13,2,0.49,false,false,D,8,9,3,10,3/7/23,51,B00744,484283,45-54,2,medium,false,Self-employed,Modern & Updated,false
+H05216,Suburban Park,707517,3058,5,5,8,2,0.24,true,false,F,8,9,3,10,3/7/23,35,B05216,828387,35-44,3,high,false,Dual income,Location & Schools,false
+H02302,Suburban Park,551534,2726,4,4,8,2,0.27,false,false,D,8,9,3,10,3/7/23,32,B02302,622698,35-44,3,medium,true,Full-time employed,Space & Bedrooms,false
+H07273,Suburban Park,583437,2441,5,5,14,1,0.39,true,false,D,8,9,3,10,3/7/23,62,B07273,679760,35-44,3,high,true,Dual income,Investment,false
+H04177,Suburban Park,779536,4069,6,5,8,2,0.3,true,false,F,8,9,3,10,3/9/23,88,B04177,849699,55-64,4,high,false,Full-time employed,Modern & Updated,false
+H07585,Suburban Park,698708,3121,5,5,3,2,0.42,true,false,F,8,9,3,10,3/9/23,12,B07585,747643,45-54,5,high,false,Full-time employed,Investment,false
+H01364,Suburban Park,674544,2928,5,4,0,2,0.27,false,false,F,8,9,3,10,3/9/23,1,B01364,712100,35-44,3,high,false,Full-time employed,Modern & Updated,false
+H06679,Suburban Park,297017,1184,3,2,4,1,0.12,true,false,F,8,9,3,10,3/10/23,18,B06679,312700,25-34,1,medium,false,Full-time employed,Location & Schools,false
+H01094,Suburban Park,212128,800,1,1,20,1,0.2,true,false,D,8,9,3,10,3/10/23,19,B01094,237952,25-34,1,low,false,Full-time employed,Space & Bedrooms,true
+H02032,Suburban Park,600563,2992,5,5,19,1,0.24,false,false,C,8,9,3,10,3/11/23,36,B02032,694654,45-54,2,high,false,Retired,Low Maintenance,false
+H01313,Suburban Park,794727,3711,6,5,3,2,0.29,false,false,D,8,9,3,10,3/12/23,1,B01313,882035,55-64,2,high,false,Full-time employed,Modern & Updated,false
+H01175,Suburban Park,249610,800,1,1,7,0,0.29,true,false,E,8,9,3,10,3/14/23,5,B01175,281494,35-44,1,medium,false,Full-time employed,Affordability,true
+H05497,Suburban Park,842125,3914,6,5,9,2,0.27,true,false,F,8,9,3,10,3/17/23,1,B05497,903552,45-54,2,high,false,Self-employed,Space & Bedrooms,false
+H06540,Suburban Park,338457,1288,3,3,3,2,0.4,true,false,E,8,9,3,10,3/19/23,1,B06540,370973,35-44,1,medium,false,Dual income,Space & Bedrooms,false
+H06773,Suburban Park,515475,2352,5,4,16,1,0.27,false,false,D,8,9,3,10,3/19/23,31,B06773,570504,45-54,5,medium,true,Full-time employed,Modern & Updated,false
+H07368,Suburban Park,733247,3738,6,5,6,2,0.39,false,false,F,8,9,3,10,3/21/23,23,B07368,860629,35-44,4,high,false,Dual income,Modern & Updated,true
+H06369,Suburban Park,513862,2243,5,4,20,1,0.23,true,false,C,8,9,3,10,3/22/23,1,B06369,552689,35-44,3,medium,false,Dual income,Location & Schools,false
+H03004,Suburban Park,696399,3196,6,5,9,3,0.24,false,false,F,8,9,3,10,3/24/23,9,B03004,792354,25-34,2,high,false,Full-time employed,Modern & Updated,false
+H01286,Suburban Park,651844,3088,5,5,1,2,0.22,false,true,F,8,9,3,10,3/25/23,3,B01286,751415,35-44,3,high,true,Full-time employed,Affordability,false
+H04384,Suburban Park,414881,1575,3,3,55,1,0.45,true,true,D,8,9,3,10,3/26/23,38,B04384,469414,35-44,2,medium,false,Full-time employed,Location & Schools,false
+H01662,Suburban Park,681105,3013,5,5,18,2,0.21,true,false,E,8,9,3,10,3/27/23,29,B01662,793584,25-34,1,high,false,Full-time employed,Space & Bedrooms,false
+H01689,Suburban Park,805638,3443,5,5,9,2,0.39,false,false,C,8,9,3,10,3/28/23,21,B01689,948750,55-64,3,high,false,Full-time employed,Low Maintenance,false
+H02897,Suburban Park,185400,800,2,1,11,2,0.21,false,false,D,8,9,3,10,3/28/23,44,B02897,211015,35-44,1,low,false,Full-time employed,Modern & Updated,false
+H07066,Suburban Park,223296,800,1,1,8,1,0.48,false,true,F,8,9,3,10,4/1/23,42,B07066,235860,25-34,1,low,false,Full-time employed,Investment,false
+H03814,Suburban Park,525661,2458,4,4,1,1,0.35,false,false,F,8,9,3,10,4/2/23,180,B03814,566776,25-34,2,medium,false,Full-time employed,Location & Schools,false
+H03675,Suburban Park,778629,3864,6,5,18,3,0.27,false,false,E,8,9,3,10,4/3/23,10,B03675,827489,45-54,4,high,true,Dual income,Location & Schools,false
+H03449,Suburban Park,415656,1907,3,3,0,1,0.41,true,false,F,8,9,3,10,4/4/23,33,B03449,457525,25-34,1,medium,false,Full-time employed,Location & Schools,false
+H04402,Suburban Park,762199,3500,6,5,5,3,0.23,false,false,F,8,9,3,10,4/7/23,16,B04402,894664,65+,2,high,false,Retired,Affordability,false
+H01517,Suburban Park,414158,1939,4,4,6,1,0.3,true,false,E,8,9,3,10,4/7/23,94,B01517,454546,45-54,2,medium,false,Full-time employed,Space & Bedrooms,false
+H01530,Suburban Park,574397,3021,6,5,6,2,0.37,false,false,F,8,9,3,10,4/8/23,1,B01530,648455,25-34,2,high,false,Full-time employed,Modern & Updated,false
+H02475,Suburban Park,457299,2035,4,4,7,1,0.43,false,false,F,8,9,3,10,4/9/23,23,B02475,538527,35-44,2,medium,false,Dual income,Affordability,false
+H02793,Suburban Park,754667,3449,6,5,23,3,0.5,false,true,D,8,9,3,10,4/10/23,1,B02793,826892,45-54,5,high,false,Dual income,Modern & Updated,false
+H05489,Suburban Park,158294,940,2,3,2,0,0.36,false,false,E,8,9,3,10,4/10/23,19,B05489,177508,25-34,1,low,false,Full-time employed,Affordability,false
+H00170,Suburban Park,424810,2061,3,3,6,1,0.28,true,false,F,8,9,3,10,4/11/23,18,B00170,490259,25-34,1,medium,false,Dual income,Location & Schools,false
+H06175,Suburban Park,405263,2146,4,4,22,2,0.34,false,false,E,8,9,3,10,4/11/23,86,B06175,436245,25-34,1,medium,false,Dual income,Affordability,true
+H02308,Suburban Park,354801,1649,2,3,5,1,0.37,false,false,F,8,9,3,10,4/12/23,24,B02308,382491,45-54,2,medium,false,Dual income,Affordability,false
+H04135,Suburban Park,264202,971,2,2,11,1,0.31,true,false,E,8,9,3,10,4/13/23,6,B04135,301825,25-34,1,medium,false,Self-employed,Modern & Updated,false
+H01226,Suburban Park,410986,1980,3,3,12,1,0.22,false,false,C,8,9,3,10,4/15/23,88,B01226,472048,25-34,2,medium,false,Full-time employed,Investment,false
+H02864,Suburban Park,495681,2288,4,4,20,1,0.22,true,false,E,8,9,3,10,4/15/23,62,B02864,547036,45-54,2,medium,false,Full-time employed,Modern & Updated,false
+H04814,Suburban Park,599647,2790,4,4,20,2,0.22,false,false,D,8,9,3,10,4/15/23,7,B04814,637874,45-54,3,high,true,Full-time employed,Affordability,false
+H03231,Suburban Park,203892,963,1,1,10,1,0.78,true,false,E,8,9,3,10,4/15/23,1,B03231,215618,55-64,1,low,false,Retired,Modern & Updated,false
+H03848,Suburban Park,461552,1990,4,4,10,2,0.34,false,false,E,8,9,3,10,4/18/23,53,B03848,516609,35-44,3,medium,false,Self-employed,Location & Schools,false
+H05330,Suburban Park,415984,2046,5,5,3,2,0.36,false,false,E,8,9,3,10,4/18/23,16,B05330,457073,35-44,4,medium,true,Full-time employed,Space & Bedrooms,false
+H01927,Suburban Park,440122,2123,3,3,8,2,0.39,false,false,F,8,9,3,10,4/19/23,36,B01927,493010,25-34,2,medium,false,Full-time employed,Affordability,true
+H04254,Suburban Park,233526,973,2,2,23,2,0.22,true,true,D,8,9,3,10,4/20/23,1,B04254,273822,25-34,1,low,false,Full-time employed,Affordability,false
+H04392,Suburban Park,483093,2266,3,3,0,1,0.33,false,false,F,8,9,3,10,4/20/23,5,B04392,557559,25-34,1,medium,false,Full-time employed,Affordability,false
+H07559,Suburban Park,702251,3507,6,5,27,3,0.19,true,false,D,8,9,3,10,4/20/23,1,B07559,758091,25-34,3,high,false,Self-employed,Modern & Updated,false
+H05448,Suburban Park,280719,845,2,2,1,2,0.24,true,false,E,8,9,3,10,4/21/23,4,B05448,309174,25-34,1,medium,false,Dual income,Affordability,false
+H03972,Suburban Park,750397,3198,5,5,6,2,0.31,true,false,F,8,9,3,10,4/21/23,110,B03972,884653,45-54,4,high,false,Self-employed,Modern & Updated,false
+H00189,Suburban Park,488453,2444,4,4,14,1,0.25,true,false,E,8,9,3,10,4/21/23,47,B00189,555369,45-54,3,medium,true,Full-time employed,Location & Schools,false
+H04225,Suburban Park,429149,1836,2,2,4,2,0.55,true,false,F,8,9,3,10,4/23/23,1,B04225,465837,45-54,2,medium,false,Full-time employed,Location & Schools,false
+H04275,Suburban Park,487005,2177,4,4,3,2,0.3,true,false,F,8,9,3,10,4/23/23,14,B04275,529408,55-64,2,medium,false,Full-time employed,Space & Bedrooms,false
+H04462,Suburban Park,795500,3798,6,5,59,2,0.23,false,false,A,8,9,3,10,4/25/23,8,B04462,903088,55-64,4,high,false,Full-time employed,Modern & Updated,false
+H01727,Suburban Park,221165,873,2,2,0,2,0.17,false,false,F,8,9,3,10,4/25/23,14,B01727,259971,25-34,1,low,false,Full-time employed,Location & Schools,false
+H01454,Suburban Park,638688,2460,4,4,1,2,0.38,true,false,E,8,9,3,10,4/25/23,93,B01454,709545,35-44,2,high,false,Self-employed,Investment,false
+H05545,Suburban Park,644215,3283,5,5,11,2,0.11,true,false,D,8,9,3,10,4/25/23,62,B05545,680079,25-34,1,high,false,Full-time employed,Space & Bedrooms,false
+H03593,Suburban Park,489125,2222,2,3,43,1,0.28,false,true,D,8,9,3,10,4/26/23,150,B03593,566483,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H04973,Suburban Park,643719,2988,5,5,4,1,0.32,false,false,E,8,9,3,10,4/27/23,61,B04973,683408,35-44,4,high,true,Self-employed,Modern & Updated,false
+H03662,Suburban Park,429022,2134,4,4,12,2,0.24,false,false,D,8,9,3,10,4/28/23,3,B03662,456428,45-54,1,medium,false,Dual income,Location & Schools,false
+H02072,Suburban Park,225073,800,2,2,35,0,0.58,false,true,E,8,9,3,10,5/1/23,2,B02072,239672,35-44,1,low,false,Dual income,Location & Schools,false
+H00554,Suburban Park,782107,3882,6,5,31,3,0.45,false,false,D,8,9,3,10,5/3/23,69,B00554,853796,45-54,3,high,true,Full-time employed,Location & Schools,false
+H01471,Suburban Park,449028,2083,3,3,1,1,0.36,true,false,E,8,9,3,10,5/3/23,46,B01471,486740,35-44,2,medium,false,Self-employed,Affordability,false
+H00792,Suburban Park,699359,3426,6,5,6,3,0.27,false,false,E,8,9,3,10,5/4/23,3,B00792,772558,35-44,5,high,true,Full-time employed,Low Maintenance,false
+H03658,Suburban Park,550432,2732,4,4,13,2,0.24,false,false,F,8,9,3,10,5/5/23,62,B03658,630292,35-44,3,high,true,Full-time employed,Modern & Updated,false
+H05048,Suburban Park,545537,2575,5,4,3,2,0.27,false,false,F,8,9,3,10,5/5/23,8,B05048,593420,65+,1,medium,false,Retired,Low Maintenance,false
+H02015,Suburban Park,527884,2176,4,4,1,2,0.29,true,false,F,8,9,3,10,5/5/23,25,B02015,559266,25-34,1,medium,false,Self-employed,Location & Schools,false
+H06382,Suburban Park,232791,916,2,2,10,2,0.4,false,false,E,8,9,3,10,5/6/23,58,B06382,244986,25-34,1,low,false,Full-time employed,Affordability,false
+H04186,Suburban Park,681196,3219,6,5,5,3,0.35,false,false,F,8,9,3,10,5/7/23,44,B04186,788792,45-54,4,high,true,Dual income,Location & Schools,false
+H01643,Suburban Park,628159,2719,5,5,6,1,0.22,true,false,F,8,9,3,10,5/7/23,4,B01643,718489,65+,1,high,false,Retired,Investment,false
+H03196,Suburban Park,639276,3005,6,5,5,2,0.63,true,false,F,8,9,3,10,5/7/23,7,B03196,674042,45-54,5,high,true,Retired,Location & Schools,false
+H04213,Suburban Park,495259,2496,4,4,11,1,0.13,false,false,E,8,9,3,10,5/8/23,6,B04213,545501,45-54,2,medium,false,Full-time employed,Space & Bedrooms,false
+H06381,Suburban Park,624450,2970,5,5,33,1,0.22,false,false,A,8,9,3,10,5/9/23,5,B06381,662491,35-44,3,high,true,Self-employed,Location & Schools,false
+H01422,Suburban Park,488783,2358,4,4,2,1,0.25,false,false,F,8,9,3,10,5/9/23,7,B01422,537064,35-44,3,medium,true,Full-time employed,Location & Schools,true
+H05901,Suburban Park,289957,1159,2,1,7,0,0.48,false,false,E,8,9,3,10,5/9/23,51,B05901,336248,35-44,1,medium,false,Full-time employed,Affordability,false
+H06176,Suburban Park,369630,1979,4,4,3,1,0.74,false,false,E,8,9,3,10,5/10/23,9,B06176,408507,35-44,5,medium,false,Full-time employed,Space & Bedrooms,false
+H03239,Suburban Park,553274,2644,5,5,7,1,0.37,true,false,F,8,9,3,10,5/10/23,126,B03239,595036,55-64,3,medium,false,Full-time employed,Affordability,false
+H07203,Suburban Park,676600,2997,5,5,13,2,0.23,false,false,D,8,9,3,10,5/11/23,106,B07203,723309,35-44,3,high,false,Self-employed,Location & Schools,false
+H05377,Suburban Park,300405,1345,2,3,6,1,0.35,true,false,E,8,9,3,10,5/11/23,51,B05377,323863,25-34,1,medium,false,Full-time employed,Location & Schools,false
+H01974,Suburban Park,611281,2689,4,4,21,1,0.31,false,false,D,8,9,3,10,5/12/23,1,B01974,642825,45-54,2,high,false,Full-time employed,Affordability,false
+H04988,Suburban Park,837801,4113,6,5,6,3,0.29,false,false,D,8,9,3,10,5/12/23,30,B04988,945266,35-44,4,high,true,Full-time employed,Space & Bedrooms,true
+H01628,Suburban Park,243335,1000,1,1,6,1,0.48,false,true,F,8,9,3,10,5/12/23,1,B01628,280746,65+,1,medium,false,Retired,Modern & Updated,true
+H05113,Suburban Park,465362,2377,3,4,3,1,0.29,false,false,F,8,9,3,10,5/13/23,57,B05113,498273,35-44,1,medium,false,Full-time employed,Location & Schools,false
+H01052,Suburban Park,724696,3415,6,5,10,3,0.19,false,false,C,8,9,3,10,5/14/23,14,B01052,794024,35-44,4,high,true,Full-time employed,Investment,false
+H07457,Suburban Park,602864,2997,6,5,1,1,0.17,false,false,E,8,9,3,10,5/14/23,36,B07457,662851,25-34,2,high,false,Full-time employed,Low Maintenance,false
+H01709,Suburban Park,516405,2085,4,4,14,1,0.55,true,false,D,8,9,3,10,5/14/23,9,B01709,578849,65+,1,medium,false,Dual income,Low Maintenance,false
+H04496,Suburban Park,378799,1908,3,3,8,1,0.45,false,false,E,8,9,3,10,5/16/23,86,B04496,432572,35-44,1,medium,false,Dual income,Space & Bedrooms,false
+H00825,Suburban Park,483888,2367,4,4,5,1,0.29,false,false,E,8,9,3,10,5/16/23,32,B00825,559459,35-44,2,medium,false,Dual income,Modern & Updated,false
+H04994,Suburban Park,168690,1231,1,1,15,0,0.29,false,false,E,8,9,3,10,5/18/23,18,B04994,183399,45-54,1,low,false,Self-employed,Modern & Updated,true
+H03594,Suburban Park,339487,1641,3,3,2,1,0.26,false,false,F,8,9,3,10,5/18/23,28,B03594,369732,55-64,3,medium,false,Full-time employed,Space & Bedrooms,false
+H01260,Suburban Park,432021,1323,2,2,2,2,0.22,true,false,F,8,9,3,10,5/20/23,1,B01260,475253,45-54,1,medium,false,Full-time employed,Low Maintenance,false
+H05410,Suburban Park,454048,2386,5,5,5,1,0.23,false,false,F,8,9,3,10,5/20/23,16,B05410,503862,45-54,2,medium,false,Full-time employed,Low Maintenance,true
+H04460,Suburban Park,588045,2739,5,5,12,1,0.18,false,false,E,8,9,3,10,5/20/23,5,B04460,691671,35-44,5,high,true,Dual income,Low Maintenance,false
+H06366,Suburban Park,460038,2052,4,4,9,2,0.35,false,false,E,8,9,3,10,5/20/23,14,B06366,538471,35-44,2,medium,false,Full-time employed,Modern & Updated,false
+H02578,Suburban Park,375995,1758,3,3,7,0,0.33,false,false,F,8,9,3,10,5/20/23,80,B02578,425547,35-44,1,medium,false,Dual income,Modern & Updated,true
+H03553,Suburban Park,431176,1830,4,3,18,2,0.57,true,false,D,8,9,3,10,5/21/23,11,B03553,479331,35-44,3,medium,true,Full-time employed,Investment,true
+H02365,Suburban Park,325296,1456,2,2,5,2,0.43,false,false,E,8,9,3,10,5/21/23,12,B02365,371247,65+,1,medium,false,Retired,Low Maintenance,false
+H02400,Suburban Park,364116,1813,2,2,15,1,0.25,false,false,D,8,9,3,10,5/22/23,180,B02400,418212,35-44,1,medium,false,Full-time employed,Affordability,true
+H06873,Suburban Park,641676,2939,5,5,16,1,0.29,true,false,D,8,9,3,10,5/22/23,12,B06873,703621,35-44,4,high,true,Full-time employed,Location & Schools,false
+H06783,Suburban Park,494564,2233,4,4,17,1,0.4,false,false,D,8,9,3,10,5/23/23,3,B06783,522683,35-44,2,medium,false,Dual income,Affordability,false
+H00303,Suburban Park,502760,2292,3,3,6,2,0.39,false,false,E,8,9,3,10,5/25/23,20,B00303,546893,45-54,2,medium,false,Self-employed,Location & Schools,false
+H00162,Suburban Park,598921,2889,5,5,1,1,0.27,false,false,F,8,9,3,10,5/26/23,8,B00162,701498,45-54,3,high,true,Full-time employed,Investment,false
+H02879,Suburban Park,424303,2260,3,3,14,1,0.72,false,false,F,8,9,3,10,5/26/23,19,B02879,497899,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H03354,Suburban Park,717027,3529,6,5,31,2,0.28,true,false,C,8,9,3,10,5/26/23,50,B03354,810187,45-54,4,high,false,Retired,Location & Schools,false
+H00969,Suburban Park,174091,800,1,1,4,1,0.31,true,false,D,8,9,3,10,5/26/23,16,B00969,192121,25-34,1,low,false,Full-time employed,Low Maintenance,false
+H00290,Suburban Park,243492,1278,2,2,20,0,0.29,false,false,E,8,9,3,10,5/27/23,180,B00290,276388,25-34,2,low,false,Full-time employed,Modern & Updated,false
+H04961,Suburban Park,458395,2303,4,4,17,1,0.39,true,false,F,8,9,3,10,5/27/23,90,B04961,484893,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H01380,Suburban Park,343434,1616,3,3,4,0,0.33,false,false,F,8,9,3,10,6/1/23,40,B01380,367575,25-34,1,medium,false,Dual income,Affordability,false
+H00328,Suburban Park,582445,2745,5,5,7,1,0.3,true,false,F,8,9,3,10,6/1/23,28,B00328,629075,45-54,3,medium,true,Full-time employed,Low Maintenance,false
+H00798,Suburban Park,234419,1070,1,1,17,0,0.37,false,false,E,8,9,3,10,6/2/23,10,B00798,267121,25-34,1,low,false,Dual income,Space & Bedrooms,false
+H03665,Suburban Park,406154,1905,2,2,12,1,0.24,true,false,F,8,9,3,10,6/3/23,44,B03665,432196,45-54,1,medium,false,Retired,Affordability,false
+H00687,Suburban Park,517991,2326,4,4,15,2,0.2,true,false,D,8,9,3,10,6/3/23,10,B00687,575930,45-54,3,medium,false,Full-time employed,Space & Bedrooms,true
+H00239,Suburban Park,497155,2600,5,5,4,2,0.34,false,false,F,8,9,3,10,6/4/23,2,B00239,526218,25-34,2,medium,false,Dual income,Space & Bedrooms,false
+H02266,Suburban Park,590993,2824,5,5,18,1,0.2,true,false,D,8,9,3,10,6/5/23,10,B02266,645169,45-54,2,high,false,Full-time employed,Location & Schools,false
+H00082,Suburban Park,504400,2231,4,3,28,2,0.64,true,false,D,8,9,3,10,6/6/23,2,B00082,582222,65+,1,medium,false,Retired,Space & Bedrooms,false
+H03040,Suburban Park,560765,2417,5,5,11,1,0.38,true,false,F,8,9,3,10,6/6/23,4,B03040,622334,25-34,3,medium,false,Full-time employed,Space & Bedrooms,false
+H02180,Suburban Park,493170,2317,4,4,2,1,0.27,false,false,F,8,9,3,10,6/6/23,1,B02180,559577,35-44,2,medium,false,Full-time employed,Modern & Updated,false
+H07085,Suburban Park,445027,2181,4,3,12,2,0.31,false,false,F,8,9,3,10,6/8/23,7,B07085,483231,35-44,1,medium,false,Dual income,Affordability,false
+H01452,Suburban Park,341528,1689,3,3,2,2,0.57,false,false,F,8,9,3,10,6/8/23,10,B01452,373185,35-44,4,medium,true,Full-time employed,Low Maintenance,false
+H03763,Suburban Park,265057,1109,2,1,2,0,0.4,true,false,F,8,9,3,10,6/8/23,9,B03763,307389,35-44,1,medium,false,Full-time employed,Location & Schools,false
+H02228,Suburban Park,441799,1942,3,4,12,2,0.15,true,false,D,8,9,3,10,6/8/23,52,B02228,514062,45-54,2,medium,false,Dual income,Space & Bedrooms,false
+H02311,Suburban Park,546881,2544,4,4,16,2,0.58,false,false,F,8,9,3,10,6/8/23,151,B02311,574807,25-34,2,medium,false,Full-time employed,Modern & Updated,false
+H06064,Suburban Park,171208,817,1,1,25,1,0.52,false,false,E,8,9,3,10,6/8/23,1,B06064,194917,35-44,1,low,false,Full-time employed,Affordability,false
+H01578,Suburban Park,598053,2708,5,5,45,2,0.21,true,false,B,8,9,3,10,6/8/23,22,B01578,702263,45-54,3,high,true,Full-time employed,Space & Bedrooms,true
+H05531,Suburban Park,620483,2739,6,5,3,2,0.3,true,false,F,8,9,3,10,6/9/23,58,B05531,688584,25-34,3,high,true,Self-employed,Space & Bedrooms,false
+H04680,Suburban Park,552212,2618,4,5,4,2,0.31,false,false,E,8,9,3,10,6/9/23,10,B04680,614393,35-44,1,medium,false,Full-time employed,Affordability,false
+H05385,Suburban Park,766907,3356,6,5,1,2,0.23,false,true,F,8,9,3,10,6/11/23,13,B05385,821386,35-44,5,high,true,Full-time employed,Space & Bedrooms,false
+H00502,Suburban Park,883374,3863,6,5,15,2,0.14,true,false,D,8,9,3,10,6/11/23,106,B00502,1024883,35-44,4,high,true,Full-time employed,Space & Bedrooms,false
+H07527,Suburban Park,522786,2554,4,4,6,2,0.3,true,false,F,8,9,3,10,6/13/23,74,B07527,565477,35-44,2,medium,false,Full-time employed,Modern & Updated,false
+H03862,Suburban Park,404469,2254,2,2,26,2,0.34,false,false,C,8,9,3,10,6/13/23,34,B03862,463519,45-54,1,medium,false,Full-time employed,Location & Schools,false
+H00571,Suburban Park,247893,1122,2,2,0,2,0.19,false,false,E,8,9,3,10,6/15/23,12,B00571,266698,25-34,1,low,false,Full-time employed,Affordability,false
+H04992,Suburban Park,909802,4009,6,5,20,3,0.36,true,false,E,8,9,3,10,6/16/23,135,B04992,1053511,55-64,4,high,false,Full-time employed,Investment,false
+H02386,Suburban Park,794549,3597,6,5,15,2,0.19,false,true,F,8,9,3,10,6/19/23,29,B02386,937280,45-54,4,high,false,Retired,Investment,false
+H07528,Suburban Park,282400,1151,2,2,0,2,0.16,false,false,F,8,9,3,10,6/19/23,36,B07528,318384,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H06919,Suburban Park,738615,3304,6,5,1,2,0.44,true,false,E,8,9,3,10,6/19/23,58,B06919,866799,45-54,3,high,false,Self-employed,Investment,false
+H03328,Suburban Park,847107,4196,6,5,22,2,0.4,false,false,C,8,9,3,10,6/20/23,12,B03328,953880,45-54,4,high,true,Self-employed,Location & Schools,false
+H06094,Suburban Park,476659,2202,4,4,15,2,0.39,false,false,E,8,9,3,10,6/20/23,69,B06094,552289,65+,1,medium,false,Retired,Low Maintenance,false
+H06479,Suburban Park,740521,3381,6,5,9,3,0.26,true,false,E,8,9,3,10,6/21/23,42,B06479,855951,35-44,3,high,false,Dual income,Affordability,false
+H07529,Suburban Park,624533,2799,6,5,1,2,0.18,true,false,E,8,9,3,10,6/21/23,32,B07529,709384,25-34,2,high,false,Self-employed,Modern & Updated,false
+H05987,Suburban Park,409212,2045,3,3,9,1,0.33,false,false,E,8,9,3,10,6/21/23,66,B05987,475688,35-44,1,medium,false,Full-time employed,Affordability,false
+H07667,Suburban Park,357208,1455,2,2,14,2,0.23,true,true,F,8,9,3,10,6/21/23,11,B07667,402957,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H05382,Suburban Park,558811,2417,5,5,4,1,0.52,false,false,D,8,9,3,10,6/22/23,32,B05382,647703,55-64,4,high,true,Retired,Low Maintenance,false
+H01787,Suburban Park,624050,2745,4,4,6,1,0.24,false,false,E,8,9,3,10,6/22/23,13,B01787,660686,35-44,2,high,false,Dual income,Affordability,false
+H02583,Suburban Park,857720,3922,6,5,49,3,0.27,true,true,C,8,9,3,10,6/24/23,1,B02583,987581,55-64,4,high,false,Retired,Space & Bedrooms,false
+H06975,Suburban Park,454733,2066,4,3,19,1,0.25,true,false,D,8,9,3,10,6/24/23,1,B06975,507789,35-44,3,medium,true,Full-time employed,Space & Bedrooms,false
+H05980,Suburban Park,486852,1919,3,3,2,2,0.51,true,false,F,8,9,3,10,6/24/23,105,B05980,571643,25-34,1,medium,false,Dual income,Investment,false
+H07543,Suburban Park,798100,3962,6,5,1,3,0.44,true,false,F,8,9,3,10,6/25/23,60,B07543,929714,35-44,4,high,true,Self-employed,Location & Schools,false
+H01793,Suburban Park,515416,2384,4,4,7,2,0.25,false,false,F,8,9,3,10,6/25/23,16,B01793,589353,25-34,2,medium,false,Full-time employed,Low Maintenance,false
+H05892,Suburban Park,654218,3071,4,5,6,3,0.58,false,false,F,8,9,3,10,6/25/23,25,B05892,698440,35-44,3,high,true,Full-time employed,Location & Schools,false
+H00549,Suburban Park,233402,1330,1,2,6,1,0.42,false,false,E,8,9,3,10,6/25/23,7,B00549,248874,35-44,1,low,false,Full-time employed,Affordability,false
+H04630,Suburban Park,863703,4024,6,5,7,2,0.19,true,false,E,8,9,3,10,6/25/23,57,B04630,923418,35-44,4,high,true,Full-time employed,Low Maintenance,true
+H07191,Suburban Park,497900,2143,4,4,4,1,0.27,true,false,E,8,9,3,10,6/25/23,49,B07191,557424,45-54,4,medium,false,Full-time employed,Modern & Updated,false
+H02265,Suburban Park,709730,3462,5,5,8,2,0.32,false,false,F,8,9,3,10,6/26/23,65,B02265,757215,45-54,4,high,false,Full-time employed,Low Maintenance,false
+H03853,Suburban Park,510915,2416,3,4,5,1,0.63,false,false,E,8,9,3,10,6/26/23,59,B03853,590308,45-54,1,medium,false,Retired,Space & Bedrooms,false
+H00481,Suburban Park,457120,2399,4,4,4,1,0.35,false,false,E,8,9,3,10,6/26/23,8,B00481,499396,45-54,4,medium,true,Full-time employed,Affordability,true
+H07007,Suburban Park,781036,3701,6,5,5,2,0.37,false,false,D,8,9,3,10,6/27/23,1,B07007,869243,45-54,4,high,true,Full-time employed,Low Maintenance,false
+H00566,Suburban Park,312110,1615,4,4,15,2,0.26,false,false,E,8,9,3,10,6/27/23,10,B00566,343221,35-44,1,medium,false,Full-time employed,Modern & Updated,false
+H01543,Suburban Park,843106,3790,6,5,5,2,0.73,true,false,D,8,9,3,10,6/27/23,55,B01543,972019,35-44,5,high,true,Self-employed,Location & Schools,false
+H05076,Suburban Park,657676,3231,5,5,3,3,0.26,false,false,F,8,9,3,10,6/27/23,21,B05076,698778,65+,1,high,false,Retired,Space & Bedrooms,true
+H05870,Suburban Park,593910,2682,6,5,8,2,0.35,false,false,D,8,9,3,10,6/27/23,1,B05870,696511,45-54,3,high,false,Full-time employed,Location & Schools,false
+H07474,Suburban Park,394042,1772,3,3,7,1,0.48,false,false,D,8,9,3,10,6/27/23,131,B07474,447756,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H06233,Suburban Park,393389,1709,2,2,3,1,0.22,false,false,F,8,9,3,10,6/27/23,3,B06233,436277,35-44,1,medium,false,Full-time employed,Location & Schools,false
+H07632,Suburban Park,483270,2078,4,4,2,2,0.44,false,false,F,8,9,3,10,6/28/23,13,B07632,538913,25-34,1,medium,false,Self-employed,Affordability,false
+H03388,Suburban Park,626402,2612,4,4,1,2,0.52,true,true,F,8,9,3,10,6/28/23,19,B03388,715569,35-44,4,high,true,Full-time employed,Modern & Updated,false
+H04364,Suburban Park,518854,2339,3,3,8,2,0.22,true,false,E,8,9,3,10,7/1/23,11,B04364,556128,45-54,2,medium,false,Retired,Investment,false
+H03649,Suburban Park,581548,3133,6,5,33,2,0.24,false,false,C,8,9,3,10,7/1/23,23,B03649,673661,35-44,4,high,true,Full-time employed,Location & Schools,false
+H04146,Suburban Park,356973,1393,3,3,6,0,0.28,false,false,D,8,9,3,10,7/2/23,17,B04146,400062,45-54,2,medium,false,Self-employed,Affordability,false
+H03596,Suburban Park,429620,2101,4,4,11,1,0.39,false,false,E,8,9,3,10,7/2/23,39,B03596,500730,25-34,2,medium,false,Self-employed,Affordability,false
+H04200,Suburban Park,667621,3556,5,5,19,2,0.24,true,false,E,8,9,3,10,7/2/23,31,B04200,723832,45-54,5,high,true,Self-employed,Affordability,true
+H04359,Suburban Park,834483,3619,6,5,7,3,0.47,true,false,E,8,9,3,10,7/3/23,50,B04359,887049,25-34,3,high,true,Full-time employed,Location & Schools,false
+H05431,Suburban Park,708492,3195,5,5,9,3,0.38,true,false,E,8,9,3,10,7/4/23,59,B05431,810041,65+,1,high,false,Retired,Modern & Updated,false
+H07746,Suburban Park,479900,2304,4,4,16,1,0.45,false,false,D,8,9,3,10,7/4/23,2,B07746,563037,45-54,3,medium,false,Dual income,Location & Schools,true
+H03927,Suburban Park,373887,1863,4,4,7,1,0.21,true,false,E,8,9,3,10,7/6/23,1,B03927,408717,35-44,2,medium,false,Dual income,Affordability,false
+H02085,Suburban Park,779511,3824,6,5,19,2,0.19,false,false,D,8,9,3,10,7/7/23,33,B02085,866218,25-34,3,high,true,Self-employed,Location & Schools,false
+H03473,Suburban Park,497249,2072,3,3,17,2,0.65,false,false,D,8,9,3,10,7/8/23,72,B03473,558790,45-54,1,medium,false,Full-time employed,Modern & Updated,false
+H02162,Suburban Park,308218,1345,3,3,2,1,0.17,false,false,E,8,9,3,10,7/8/23,100,B02162,330840,45-54,1,medium,false,Self-employed,Space & Bedrooms,false
+H00120,Suburban Park,349831,1601,2,2,4,1,0.45,true,false,F,8,9,3,10,7/8/23,15,B00120,374224,25-34,1,medium,false,Full-time employed,Affordability,false
+H03888,Suburban Park,895619,4265,6,5,7,2,0.29,false,false,F,8,9,3,10,7/11/23,89,B03888,953124,65+,2,high,false,Dual income,Location & Schools,false
+H03899,Suburban Park,577999,2611,5,5,7,1,0.48,false,false,E,8,9,3,10,7/12/23,11,B03899,610866,25-34,2,medium,false,Dual income,Space & Bedrooms,false
+H03787,Suburban Park,601480,3044,5,5,32,3,0.27,false,false,D,8,9,3,10,7/12/23,7,B03787,646198,35-44,3,high,true,Full-time employed,Space & Bedrooms,false
+H06018,Suburban Park,465461,2124,4,4,4,1,0.26,false,false,E,8,9,3,10,7/12/23,44,B06018,532468,55-64,3,medium,true,Full-time employed,Modern & Updated,false
+H06420,Suburban Park,438085,2153,3,3,0,2,0.3,false,false,F,8,9,3,10,7/12/23,7,B06420,504953,35-44,2,medium,false,Full-time employed,Affordability,false
+H06237,Suburban Park,366897,1331,3,2,9,1,0.34,false,false,D,8,9,3,10,7/13/23,10,B06237,424471,35-44,1,medium,false,Full-time employed,Affordability,false
+H00647,Suburban Park,420355,2013,4,3,1,1,0.25,false,false,E,8,9,3,10,7/13/23,11,B00647,462860,65+,1,medium,false,Retired,Modern & Updated,false
+H06334,Suburban Park,773469,3604,6,5,8,3,0.26,false,false,E,8,9,3,10,7/14/23,6,B06334,907030,35-44,4,high,true,Dual income,Modern & Updated,false
+H06256,Suburban Park,500644,2339,4,4,1,2,0.14,false,false,F,8,9,3,10,7/14/23,33,B06256,564214,45-54,3,medium,true,Dual income,Location & Schools,false
+H06515,Suburban Park,591113,2434,5,5,4,1,0.28,true,false,E,8,9,3,10,7/14/23,9,B06515,630504,25-34,2,high,false,Full-time employed,Location & Schools,false
+H01281,Suburban Park,561409,2321,4,4,14,2,0.12,false,false,C,8,9,3,10,7/14/23,40,B01281,628509,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H07515,Suburban Park,490005,2422,4,4,1,2,0.24,false,false,F,8,9,3,10,7/14/23,8,B07515,574009,45-54,2,medium,false,Retired,Location & Schools,false
+H02849,Suburban Park,572334,2943,4,4,11,2,0.11,false,false,D,8,9,3,10,7/15/23,19,B02849,607711,25-34,1,medium,false,Full-time employed,Affordability,false
+H00018,Suburban Park,502853,2250,5,5,4,1,1.06,true,false,F,8,9,3,10,7/15/23,45,B00018,540666,35-44,4,medium,true,Full-time employed,Modern & Updated,false
+H02988,Suburban Park,730020,3155,4,4,2,3,0.51,true,false,F,8,9,3,10,7/15/23,45,B02988,842970,55-64,3,high,false,Full-time employed,Location & Schools,false
+H05172,Suburban Park,535512,2200,4,4,0,1,0.23,false,false,E,8,9,3,10,7/16/23,36,B05172,589875,35-44,3,medium,true,Self-employed,Space & Bedrooms,true
+H01194,Suburban Park,427362,1893,4,4,10,2,0.36,true,false,F,8,9,3,10,7/17/23,9,B01194,500932,25-34,1,medium,false,Full-time employed,Location & Schools,false
+H02796,Suburban Park,295446,1231,2,3,17,2,0.31,false,false,E,8,9,3,10,7/17/23,1,B02796,324612,35-44,1,medium,false,Full-time employed,Location & Schools,false
+H05795,Suburban Park,740910,3566,5,5,2,2,0.53,true,false,E,8,9,3,10,7/18/23,76,B05795,779648,65+,1,high,false,Retired,Space & Bedrooms,false
+H04410,Suburban Park,917548,4265,6,5,11,2,0.4,true,false,E,8,9,3,10,7/18/23,10,B04410,975104,45-54,3,high,true,Dual income,Space & Bedrooms,false
+H00009,Suburban Park,533332,2178,4,4,23,2,0.14,true,true,E,8,9,3,10,7/19/23,50,B00009,574295,25-34,1,medium,false,Full-time employed,Location & Schools,false
+H07073,Suburban Park,474583,2324,4,4,1,1,0.26,false,false,F,8,9,3,10,7/19/23,21,B07073,523549,25-34,3,medium,true,Full-time employed,Space & Bedrooms,false
+H05525,Suburban Park,898022,3870,6,5,2,3,0.3,true,false,D,8,9,3,10,7/20/23,1,B05525,1025825,35-44,5,high,false,Full-time employed,Modern & Updated,false
+H07730,Suburban Park,605431,2801,6,5,1,2,0.46,false,false,F,8,9,3,10,7/20/23,70,B07730,676203,35-44,4,high,true,Self-employed,Space & Bedrooms,false
+H00951,Suburban Park,725489,3304,6,5,4,2,0.61,false,false,E,8,9,3,10,7/21/23,30,B00951,778632,45-54,4,high,true,Dual income,Space & Bedrooms,false
+H02267,Suburban Park,619806,2750,5,4,5,1,0.17,false,false,E,8,9,3,10,7/21/23,3,B02267,689733,45-54,3,high,true,Full-time employed,Investment,false
+H01883,Suburban Park,597530,2395,4,4,2,2,0.44,false,false,D,8,9,3,10,7/21/23,1,B01883,661684,35-44,3,high,true,Full-time employed,Location & Schools,false
+H03247,Suburban Park,369302,1777,4,3,4,0,0.28,false,true,F,8,9,3,10,7/22/23,49,B03247,393089,25-34,2,medium,false,Self-employed,Location & Schools,false
+H00307,Suburban Park,364269,1632,3,3,6,1,0.31,false,false,E,8,9,3,10,7/22/23,33,B00307,401079,45-54,2,medium,false,Full-time employed,Modern & Updated,false
+H00863,Suburban Park,373541,1673,3,3,1,1,0.46,false,false,F,8,9,3,10,7/22/23,45,B00863,416205,45-54,2,medium,false,Retired,Affordability,false
+H07572,Suburban Park,530640,2158,4,4,10,1,0.33,true,false,E,8,9,3,10,7/22/23,10,B07572,595237,25-34,2,medium,false,Full-time employed,Location & Schools,false
+H00817,Suburban Park,354026,1584,2,2,1,2,0.2,false,false,F,8,9,3,10,7/23/23,33,B00817,414878,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H05050,Suburban Park,591644,2834,5,4,7,2,0.38,false,false,E,8,9,3,10,7/23/23,8,B05050,665671,45-54,3,high,true,Full-time employed,Location & Schools,true
+H01569,Suburban Park,771146,3730,5,5,9,2,0.22,true,false,D,8,9,3,10,7/25/23,60,B01569,870749,55-64,5,high,true,Self-employed,Space & Bedrooms,false
+H05665,Suburban Park,464107,2417,4,3,5,1,0.27,true,false,F,8,9,3,10,7/26/23,26,B05665,514488,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H01409,Suburban Park,573415,2648,5,5,26,2,0.41,false,false,D,8,9,3,10,7/26/23,54,B01409,616695,35-44,3,medium,true,Full-time employed,Location & Schools,false
+H03463,Suburban Park,577439,2481,5,5,0,2,0.62,false,false,E,8,9,3,10,7/27/23,14,B03463,654079,25-34,2,high,false,Full-time employed,Investment,false
+H06035,Suburban Park,494077,2070,3,3,4,2,0.32,true,false,E,8,9,3,10,7/27/23,9,B06035,556472,35-44,2,medium,false,Full-time employed,Modern & Updated,true
+H01580,Suburban Park,435119,2130,3,4,8,2,0.48,false,false,F,8,9,3,10,7/27/23,21,B01580,472470,55-64,2,medium,false,Full-time employed,Location & Schools,false
+H03251,Suburban Park,532370,2850,4,4,11,1,0.47,false,false,F,8,9,3,10,7/28/23,137,B03251,612912,45-54,3,medium,false,Full-time employed,Space & Bedrooms,false
+H04783,Suburban Park,696899,3546,5,5,12,3,0.23,false,false,C,8,9,3,10,8/1/23,26,B04783,747873,45-54,2,high,false,Full-time employed,Low Maintenance,false
+H00351,Suburban Park,423846,1667,1,1,3,2,0.29,false,false,E,8,9,3,10,8/1/23,62,B00351,448338,35-44,1,medium,false,Dual income,Modern & Updated,false
+H00478,Suburban Park,490116,2197,3,4,5,2,0.41,false,false,F,8,9,3,10,8/3/23,63,B00478,515647,35-44,1,medium,false,Self-employed,Affordability,false
+H00296,Suburban Park,399462,1795,4,4,27,0,0.27,false,false,D,8,9,3,10,8/3/23,60,B00296,445765,55-64,2,medium,false,Retired,Investment,false
+H07892,Suburban Park,699997,3360,5,5,23,2,0.24,false,false,E,8,9,3,10,8/3/23,17,B07892,768298,25-34,2,high,false,Full-time employed,Space & Bedrooms,false
+H07447,Suburban Park,907478,4359,6,5,5,3,0.37,false,false,E,8,9,3,10,8/5/23,18,B07447,982971,45-54,4,high,true,Full-time employed,Space & Bedrooms,true
+H07078,Suburban Park,604958,2853,4,4,15,1,0.31,true,false,F,8,9,3,10,8/6/23,30,B07078,699878,45-54,2,high,false,Retired,Location & Schools,false
+H05507,Suburban Park,752659,3319,6,5,1,3,0.3,true,false,F,8,9,3,10,8/6/23,23,B05507,871540,35-44,4,high,true,Full-time employed,Low Maintenance,false
+H01704,Suburban Park,551143,2863,6,5,16,2,0.43,false,false,D,8,9,3,10,8/7/23,180,B01704,599585,35-44,3,medium,true,Dual income,Location & Schools,false
+H06177,Suburban Park,614519,2830,4,5,4,2,0.22,false,false,F,8,9,3,10,8/7/23,53,B06177,653878,45-54,2,high,false,Full-time employed,Low Maintenance,false
+H00637,Suburban Park,388620,1957,3,3,14,1,0.35,false,false,E,8,9,3,10,8/7/23,63,B00637,447413,25-34,1,medium,false,Full-time employed,Investment,false
+H00115,Suburban Park,297150,1182,1,1,7,0,0.19,true,false,F,8,9,3,10,8/8/23,30,B00115,326013,55-64,1,medium,false,Dual income,Affordability,false
+H03416,Suburban Park,255500,1380,2,2,15,0,0.22,false,false,D,8,9,3,10,8/8/23,54,B03416,286852,35-44,2,medium,false,Dual income,Space & Bedrooms,false
+H06928,Suburban Park,577885,2913,5,5,10,1,0.43,false,false,F,8,9,3,10,8/8/23,11,B06928,622904,35-44,4,medium,true,Full-time employed,Location & Schools,false
+H00660,Suburban Park,579544,2557,4,4,0,2,0.26,true,false,F,8,9,3,10,8/10/23,6,B00660,662333,55-64,3,high,false,Full-time employed,Modern & Updated,false
+H06483,Suburban Park,442534,2012,4,4,6,1,0.41,false,false,E,8,9,3,10,8/11/23,39,B06483,481604,35-44,3,medium,true,Full-time employed,Space & Bedrooms,false
+H05742,Suburban Park,539817,3080,4,4,10,2,0.33,false,false,E,8,9,3,10,8/11/23,3,B05742,603812,45-54,2,medium,false,Self-employed,Modern & Updated,false
+H01044,Suburban Park,369752,1423,3,3,3,1,0.31,false,false,F,8,9,3,10,8/14/23,29,B01044,389665,25-34,1,medium,false,Full-time employed,Location & Schools,false
+H06321,Suburban Park,380505,1697,2,3,2,2,0.21,true,false,F,8,9,3,10,8/14/23,68,B06321,400690,25-34,1,medium,false,Dual income,Location & Schools,false
+H07558,Suburban Park,561808,2388,4,4,1,1,0.31,false,false,F,8,9,3,10,8/16/23,70,B07558,621441,45-54,3,medium,true,Dual income,Location & Schools,false
+H07451,Suburban Park,472871,1964,2,2,13,1,0.34,false,false,D,8,9,3,10,8/16/23,20,B07451,532025,25-34,1,medium,false,Self-employed,Location & Schools,false
+H02415,Suburban Park,561085,2930,5,5,4,1,0.43,false,false,F,8,9,3,10,8/17/23,112,B02415,605890,45-54,3,medium,false,Self-employed,Affordability,false
+H03442,Suburban Park,611677,2517,3,3,18,2,0.71,false,false,D,8,9,3,10,8/19/23,106,B03442,665403,45-54,3,high,false,Full-time employed,Space & Bedrooms,false
+H06553,Suburban Park,340397,1286,2,2,2,0,0.26,true,false,E,8,9,3,10,8/19/23,38,B06553,380977,35-44,2,medium,false,Full-time employed,Location & Schools,false
+H03339,Suburban Park,191668,804,2,2,0,0,0.68,false,false,F,8,9,3,10,8/20/23,75,B03339,212563,55-64,1,low,false,Retired,Location & Schools,false
+H00347,Suburban Park,753175,3349,6,5,6,2,0.49,false,false,E,8,9,3,10,8/20/23,81,B00347,887857,45-54,4,high,true,Full-time employed,Location & Schools,false
+H02938,Suburban Park,264116,1247,3,3,16,1,0.25,false,false,E,8,9,3,10,8/20/23,22,B02938,283974,35-44,2,medium,false,Self-employed,Affordability,false
+H05033,Suburban Park,273907,1054,3,3,3,2,0.27,false,false,F,8,9,3,10,8/23/23,23,B05033,318028,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H04825,Suburban Park,349041,1423,2,3,23,1,0.58,false,false,D,8,9,3,10,8/24/23,13,B04825,405743,35-44,3,medium,true,Self-employed,Space & Bedrooms,true
+H04195,Suburban Park,250897,998,2,2,5,1,0.22,false,false,D,8,9,3,10,8/24/23,40,B04195,275727,55-64,1,low,false,Full-time employed,Low Maintenance,true
+H02353,Suburban Park,648885,3054,6,5,4,3,0.36,false,false,F,8,9,3,10,8/25/23,57,B02353,733798,45-54,3,high,true,Self-employed,Affordability,false
+H01126,Suburban Park,276640,1285,2,2,10,0,0.26,true,false,F,8,9,3,10,8/25/23,48,B01126,317638,35-44,1,medium,false,Full-time employed,Investment,false
+H05641,Suburban Park,724111,3060,6,5,1,2,0.39,true,true,F,8,9,3,10,8/28/23,15,B05641,810721,25-34,3,high,true,Full-time employed,Space & Bedrooms,false
+H07674,Suburban Park,422851,2046,3,2,0,1,0.27,false,false,F,8,9,3,10,8/28/23,57,B07674,485619,25-34,2,medium,false,Dual income,Affordability,false
+H06282,Suburban Park,782512,3808,6,5,16,3,0.15,true,false,F,8,9,3,10,8/28/23,34,B06282,916770,45-54,4,high,true,Full-time employed,Location & Schools,false
+H00232,Suburban Park,728286,3484,6,5,8,2,0.39,false,false,E,8,9,3,10,9/1/23,11,B00232,833825,45-54,4,high,true,Full-time employed,Space & Bedrooms,false
+H03936,Suburban Park,440862,2179,5,4,24,1,0.34,false,false,D,8,9,3,10,9/1/23,29,B03936,503464,45-54,2,medium,false,Self-employed,Space & Bedrooms,false
+H07377,Suburban Park,760335,3624,6,5,5,3,0.65,false,false,E,8,9,3,10,9/2/23,31,B07377,801724,35-44,3,high,true,Full-time employed,Space & Bedrooms,false
+H00585,Suburban Park,234486,1008,2,2,26,1,0.52,false,false,D,8,9,3,10,9/2/23,3,B00585,258770,55-64,1,low,false,Retired,Modern & Updated,false
+H02368,Suburban Park,626852,3070,5,5,0,2,0.31,false,false,F,8,9,3,10,9/2/23,40,B02368,721756,55-64,5,high,true,Full-time employed,Location & Schools,false
+H06680,Suburban Park,472963,2281,5,5,3,2,0.32,true,false,F,8,9,3,10,9/3/23,44,B06680,527925,25-34,3,medium,true,Self-employed,Modern & Updated,true
+H04754,Suburban Park,300644,1671,4,3,13,2,0.25,true,false,E,8,9,3,10,9/4/23,49,B04754,347775,35-44,2,medium,false,Dual income,Location & Schools,false
+H05924,Suburban Park,726549,3557,6,5,0,2,0.38,false,false,F,8,9,3,10,9/5/23,76,B05924,820128,35-44,4,high,true,Self-employed,Location & Schools,false
+H05042,Suburban Park,551417,2373,5,5,46,1,0.18,true,false,B,8,9,3,10,9/6/23,58,B05042,591489,55-64,3,medium,false,Retired,Affordability,false
+H05132,Suburban Park,466005,2295,4,5,1,1,0.37,true,false,F,8,9,3,10,9/7/23,37,B05132,536504,65+,1,medium,false,Dual income,Affordability,false
+H05000,Suburban Park,476040,2378,5,5,36,2,0.33,true,false,A,8,9,3,10,9/8/23,4,B05000,544810,25-34,2,medium,false,Full-time employed,Location & Schools,false
+H00962,Suburban Park,790680,3579,5,5,5,2,0.32,true,false,F,8,9,3,10,9/9/23,52,B00962,921599,35-44,3,high,true,Dual income,Location & Schools,false
+H03506,Suburban Park,705542,3232,5,5,3,3,0.32,true,false,F,8,9,3,10,9/9/23,7,B03506,831497,35-44,4,high,true,Full-time employed,Location & Schools,false
+H03464,Suburban Park,481017,2073,3,3,29,2,0.21,true,false,D,8,9,3,10,9/9/23,28,B03464,515397,35-44,2,medium,false,Dual income,Space & Bedrooms,false
+H02905,Suburban Park,773170,3300,6,5,37,3,0.15,true,true,C,8,9,3,10,9/11/23,5,B02905,893808,45-54,4,high,true,Full-time employed,Location & Schools,true
+H06286,Suburban Park,522438,2591,5,5,42,2,0.6,false,false,B,8,9,3,10,9/16/23,11,B06286,609559,35-44,3,medium,true,Full-time employed,Affordability,false
+H00164,Suburban Park,717319,3080,5,5,2,2,0.2,true,false,F,8,9,3,10,9/16/23,12,B00164,795870,55-64,4,high,false,Full-time employed,Modern & Updated,false
+H04112,Suburban Park,427024,1868,2,2,6,2,0.29,true,false,F,8,9,3,10,9/17/23,14,B04112,503606,45-54,1,medium,false,Full-time employed,Modern & Updated,true
+H04054,Suburban Park,938193,4500,6,5,6,3,0.23,false,false,D,8,9,3,10,9/17/23,15,B04054,1013269,55-64,4,high,false,Dual income,Location & Schools,false
+H04163,Suburban Park,521550,2103,4,4,2,2,0.32,true,false,F,8,9,3,10,9/18/23,6,B04163,597968,35-44,2,medium,false,Dual income,Affordability,false
+H00097,Suburban Park,673703,3144,5,5,1,3,0.33,false,false,F,8,9,3,10,9/18/23,20,B00097,730004,45-54,4,high,true,Dual income,Space & Bedrooms,false
+H05141,Suburban Park,349370,1853,4,4,0,1,0.31,false,false,F,8,9,3,10,9/19/23,32,B05141,378659,35-44,3,medium,true,Full-time employed,Location & Schools,false
+H01596,Suburban Park,532345,2237,3,3,6,2,0.22,true,false,F,8,9,3,10,9/21/23,86,B01596,588277,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H07829,Suburban Park,611775,2975,5,5,3,1,0.4,false,false,F,8,9,3,10,9/22/23,40,B07829,647369,65+,1,high,false,Full-time employed,Location & Schools,false
+H05116,Suburban Park,401684,1883,3,3,8,1,0.2,false,false,F,8,9,3,10,9/23/23,147,B05116,449017,25-34,1,medium,false,Full-time employed,Affordability,true
+H01399,Suburban Park,661292,3155,5,5,34,2,0.72,true,false,C,8,9,3,10,9/24/23,25,B01399,707855,35-44,4,high,false,Full-time employed,Low Maintenance,false
+H02278,Suburban Park,561247,2737,6,5,16,2,0.47,false,true,F,8,9,3,10,9/26/23,16,B02278,624713,25-34,4,medium,true,Full-time employed,Location & Schools,false
+H03028,Suburban Park,680019,2896,6,5,6,2,0.42,false,false,F,8,9,3,10,9/26/23,39,B03028,796182,55-64,3,high,true,Retired,Space & Bedrooms,false
+H05326,Suburban Park,469191,1778,3,3,0,1,0.16,true,false,E,8,9,3,10,9/27/23,1,B05326,531690,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H07234,Suburban Park,599904,3166,4,4,7,2,0.47,false,false,F,8,9,3,10,9/27/23,1,B07234,651377,55-64,3,high,false,Dual income,Affordability,false
+H06172,Suburban Park,609515,2487,4,4,13,1,0.15,true,false,E,8,9,3,10,9/28/23,16,B06172,705019,35-44,2,high,false,Full-time employed,Modern & Updated,false
+H01700,Suburban Park,421889,1890,3,3,1,1,0.33,true,false,F,8,9,3,10,10/1/23,1,B01700,455135,35-44,3,medium,true,Full-time employed,Location & Schools,false
+H01957,Suburban Park,450197,2053,4,4,8,1,0.38,false,false,D,8,9,3,10,10/1/23,66,B01957,530233,45-54,3,medium,true,Full-time employed,Location & Schools,false
+H07354,Suburban Park,400049,2059,3,3,5,1,0.39,false,false,F,8,9,3,10,10/1/23,89,B07354,455253,25-34,1,medium,false,Full-time employed,Affordability,false
+H00066,Suburban Park,225943,800,1,1,4,1,0.11,true,false,F,8,9,3,10,10/2/23,7,B00066,263968,55-64,1,low,false,Dual income,Space & Bedrooms,false
+H06257,Suburban Park,195206,1329,2,2,22,1,0.21,false,false,C,8,9,3,10,10/3/23,180,B06257,219826,25-34,1,low,false,Full-time employed,Location & Schools,false
+H00321,Suburban Park,524683,2677,4,4,39,2,0.21,true,false,D,8,9,3,10,10/3/23,2,B00321,591239,35-44,2,medium,false,Self-employed,Location & Schools,false
+H03303,Suburban Park,728985,3123,4,4,1,3,0.35,false,false,F,8,9,3,10,10/4/23,21,B03303,798347,45-54,3,high,true,Self-employed,Space & Bedrooms,false
+H04542,Suburban Park,590378,2883,5,4,2,1,0.16,false,false,F,8,9,3,10,10/4/23,18,B04542,661582,45-54,4,high,true,Full-time employed,Low Maintenance,false
+H03701,Suburban Park,391812,1805,3,3,10,2,0.23,false,false,D,8,9,3,10,10/5/23,22,B03701,414457,35-44,3,medium,true,Full-time employed,Location & Schools,false
+H03659,Suburban Park,321629,1375,3,3,0,1,0.6,false,false,F,8,9,3,10,10/6/23,34,B03659,346505,45-54,1,medium,false,Full-time employed,Affordability,false
+H00259,Suburban Park,550616,2072,4,4,9,2,0.28,false,false,F,8,9,3,10,10/6/23,1,B00259,648036,45-54,3,high,true,Full-time employed,Space & Bedrooms,false
+H04806,Suburban Park,478730,1854,4,3,1,2,0.37,true,false,F,8,9,3,10,10/8/23,85,B04806,561963,25-34,1,medium,false,Full-time employed,Location & Schools,false
+H01183,Suburban Park,493057,2040,4,4,41,1,0.31,false,true,D,8,9,3,10,10/8/23,25,B01183,533506,45-54,5,medium,true,Dual income,Location & Schools,false
+H05818,Suburban Park,363220,1602,2,2,28,1,0.24,true,false,B,8,9,3,10,10/9/23,37,B05818,427960,35-44,2,medium,false,Dual income,Affordability,false
+H06440,Suburban Park,770850,3710,6,5,6,2,0.25,false,false,F,8,9,3,10,10/10/23,21,B06440,903832,45-54,3,high,true,Dual income,Space & Bedrooms,false
+H03460,Suburban Park,320921,1569,3,3,8,0,0.56,false,false,F,8,9,3,10,10/11/23,57,B03460,370662,35-44,2,medium,false,Self-employed,Modern & Updated,false
+H07509,Suburban Park,800207,4108,6,5,10,2,0.27,false,false,F,8,9,3,10,10/11/23,13,B07509,921426,45-54,3,high,false,Self-employed,Location & Schools,true
+H03797,Suburban Park,406267,1983,3,3,12,1,0.3,false,false,E,8,9,3,10,10/11/23,2,B03797,430680,35-44,1,medium,false,Dual income,Investment,false
+H06865,Suburban Park,616829,2935,5,5,8,1,0.39,true,false,E,8,9,3,10,10/12/23,30,B06865,664410,35-44,3,high,true,Self-employed,Affordability,false
+H06352,Suburban Park,615829,2693,5,5,2,2,0.21,true,false,F,8,9,3,10,10/12/23,61,B06352,704888,45-54,3,high,true,Full-time employed,Space & Bedrooms,false
+H03232,Suburban Park,327496,1805,4,4,22,1,0.39,false,false,D,8,9,3,10,10/15/23,9,B03232,370616,35-44,4,medium,true,Full-time employed,Location & Schools,true
+H03324,Suburban Park,360501,1730,3,3,2,1,0.48,false,false,F,8,9,3,10,10/18/23,9,B03324,418535,35-44,3,medium,true,Self-employed,Location & Schools,false
+H04161,Suburban Park,363938,1724,3,3,11,1,0.36,false,false,D,8,9,3,10,10/20/23,10,B04161,421693,45-54,1,medium,false,Full-time employed,Modern & Updated,false
+H00652,Suburban Park,432369,1740,2,2,9,1,0.33,true,false,D,8,9,3,10,10/20/23,18,B00652,480965,35-44,2,medium,false,Full-time employed,Affordability,false
+H00534,Suburban Park,255669,1279,2,2,1,1,0.38,false,false,F,8,9,3,10,10/21/23,101,B00534,276753,35-44,1,low,false,Dual income,Location & Schools,false
+H02747,Suburban Park,461792,2171,4,4,2,1,0.31,false,false,E,8,9,3,10,10/24/23,7,B02747,528278,35-44,3,medium,true,Full-time employed,Location & Schools,false
+H00137,Suburban Park,541105,2804,5,5,26,2,0.21,false,false,E,8,9,3,10,10/24/23,9,B00137,631019,55-64,4,high,true,Full-time employed,Space & Bedrooms,false
+H01352,Suburban Park,587909,2784,5,5,7,1,0.26,false,false,F,8,9,3,10,10/24/23,19,B01352,636366,55-64,5,high,false,Full-time employed,Modern & Updated,true
+H00957,Suburban Park,420624,1816,2,2,19,2,0.28,false,false,D,8,9,3,10,10/26/23,29,B00957,483542,55-64,1,medium,false,Full-time employed,Space & Bedrooms,false
+H06996,Suburban Park,737900,3315,5,5,0,3,0.47,false,false,F,8,9,3,10,11/3/23,57,B06996,803292,45-54,3,high,true,Full-time employed,Modern & Updated,false
+H07589,Suburban Park,616751,2986,5,5,5,2,0.26,false,false,E,8,9,3,10,11/4/23,14,B07589,697115,25-34,2,high,false,Full-time employed,Space & Bedrooms,false
+H04866,Suburban Park,683584,3219,5,5,4,3,0.18,true,false,E,8,9,3,10,11/4/23,35,B04866,762494,25-34,2,high,false,Full-time employed,Modern & Updated,false
+H03714,Suburban Park,442595,2384,4,4,17,1,0.18,false,false,D,8,9,3,10,11/6/23,45,B03714,487557,35-44,2,medium,false,Full-time employed,Affordability,false
+H01826,Suburban Park,326063,1488,3,2,26,1,0.34,false,false,C,8,9,3,10,11/8/23,12,B01826,361935,25-34,1,medium,false,Full-time employed,Affordability,false
+H00712,Suburban Park,639356,3010,6,5,6,3,0.32,false,false,D,8,9,3,10,11/10/23,72,B00712,686600,45-54,5,high,true,Full-time employed,Space & Bedrooms,false
+H05527,Suburban Park,340319,1605,3,3,10,0,0.4,false,false,E,8,9,3,10,11/11/23,17,B05527,361323,35-44,3,medium,false,Full-time employed,Location & Schools,false
+H03661,Suburban Park,591642,2970,4,4,14,2,0.19,false,false,D,8,9,3,10,11/13/23,57,B03661,697253,45-54,3,high,true,Self-employed,Affordability,false
+H03617,Suburban Park,524608,2177,4,3,3,1,0.36,true,false,E,8,9,3,10,11/13/23,41,B03617,590598,35-44,3,medium,true,Self-employed,Affordability,false
+H04048,Suburban Park,432507,2151,3,3,14,1,0.2,false,false,E,8,9,3,10,11/13/23,28,B04048,481352,35-44,2,medium,false,Self-employed,Space & Bedrooms,false
+H04350,Suburban Park,567924,2559,4,4,0,2,0.19,false,false,F,8,9,3,10,11/14/23,37,B04350,607707,55-64,4,medium,false,Retired,Affordability,false
+H06481,Suburban Park,666095,2709,4,5,15,2,0.07,true,true,E,8,9,3,10,11/14/23,69,B06481,732259,35-44,1,high,false,Dual income,Low Maintenance,false
+H06838,Suburban Park,488037,2215,3,3,8,1,0.25,false,false,F,8,9,3,10,11/14/23,45,B06838,548176,45-54,2,medium,false,Retired,Affordability,false
+H04483,Suburban Park,738995,3779,6,5,23,3,0.35,false,false,C,8,9,3,10,11/14/23,61,B04483,834188,25-34,3,high,true,Full-time employed,Location & Schools,true
+H02439,Suburban Park,329043,1665,3,3,1,1,0.28,false,false,F,8,9,3,10,11/16/23,5,B02439,352310,55-64,2,medium,false,Full-time employed,Space & Bedrooms,false
+H00211,Suburban Park,417979,1656,2,2,7,1,0.47,false,false,F,8,9,3,10,11/16/23,43,B00211,463366,25-34,1,medium,false,Full-time employed,Location & Schools,false
+H07662,Suburban Park,620629,2420,3,3,2,1,0.27,true,true,F,8,9,3,10,11/18/23,7,B07662,700672,45-54,1,high,false,Full-time employed,Affordability,false
+H07374,Suburban Park,653281,3131,5,5,10,2,0.33,false,false,D,8,9,3,10,11/19/23,41,B07374,755899,35-44,3,high,false,Dual income,Location & Schools,false
+H02576,Suburban Park,305460,1236,2,2,7,1,0.24,false,false,D,8,9,3,10,11/19/23,148,B02576,340016,25-34,2,medium,false,Full-time employed,Affordability,false
+H07138,Suburban Park,479602,1954,3,3,4,2,0.38,true,false,F,8,9,3,10,11/20/23,5,B07138,516888,45-54,3,medium,false,Full-time employed,Space & Bedrooms,false
+H03482,Suburban Park,507396,2639,5,5,10,1,0.3,false,false,E,8,9,3,10,11/20/23,35,B03482,593422,35-44,3,medium,false,Full-time employed,Affordability,false
+H03486,Suburban Park,837756,3866,6,5,9,2,0.41,true,false,D,8,9,3,10,11/22/23,1,B03486,983880,35-44,6,high,false,Self-employed,Space & Bedrooms,true
+H06605,Suburban Park,514694,2288,4,4,4,2,0.75,true,false,F,8,9,3,10,11/25/23,33,B06605,540628,55-64,1,medium,false,Dual income,Location & Schools,true
+H05147,Suburban Park,694391,3218,6,5,21,3,0.45,true,false,D,8,9,3,10,11/26/23,30,B05147,755071,35-44,4,high,true,Full-time employed,Location & Schools,false
+H05862,Suburban Park,420375,2397,4,4,15,1,0.28,false,false,F,8,9,3,10,11/27/23,6,B05862,471826,55-64,2,medium,false,Self-employed,Affordability,false
+H02194,Suburban Park,638436,3018,5,5,3,3,0.21,false,false,F,8,9,3,10,11/27/23,43,B02194,733780,65+,2,high,false,Retired,Modern & Updated,false
+H03144,Suburban Park,172071,800,2,2,8,2,0.15,false,false,D,8,9,3,10,11/27/23,45,B03144,183441,35-44,1,low,false,Full-time employed,Low Maintenance,false
+H00940,Suburban Park,478540,1944,4,4,8,1,0.43,true,false,F,8,9,3,10,12/2/23,52,B00940,504379,45-54,2,medium,false,Self-employed,Modern & Updated,false
+H02750,Suburban Park,266070,1323,1,1,3,0,0.18,false,false,E,8,9,3,10,12/3/23,26,B02750,311281,55-64,1,medium,false,Full-time employed,Affordability,false
+H05161,Suburban Park,440344,1823,3,3,2,2,0.32,true,false,E,8,9,3,10,12/5/23,18,B05161,518540,25-34,1,medium,false,Full-time employed,Affordability,false
+H02968,Suburban Park,521170,1953,3,3,0,2,0.25,true,false,F,8,9,3,10,12/8/23,34,B02968,569148,45-54,2,medium,false,Full-time employed,Low Maintenance,false
+H00358,Suburban Park,541233,2617,4,4,26,2,0.16,false,false,D,8,9,3,10,12/11/23,37,B00358,636212,55-64,2,high,false,Retired,Modern & Updated,true
+H04271,Suburban Park,293011,1250,2,2,12,0,0.37,false,true,F,8,9,3,10,12/11/23,2,B04271,336394,45-54,1,medium,false,Retired,Affordability,false
+H01140,Suburban Park,931787,4500,6,5,11,3,0.33,false,false,E,8,9,3,10,12/12/23,6,B01140,1033330,55-64,4,high,false,Full-time employed,Modern & Updated,false
+H06752,Suburban Park,943732,4311,6,5,2,2,0.25,true,false,F,8,9,3,10,12/16/23,21,B06752,1047919,55-64,3,high,false,Full-time employed,Modern & Updated,false
+H02022,Suburban Park,821758,3834,6,5,1,2,0.23,false,false,F,8,9,3,10,12/16/23,65,B02022,966406,35-44,5,high,true,Full-time employed,Space & Bedrooms,false
+H04383,Suburban Park,310060,916,2,1,1,1,0.31,false,false,F,8,9,3,10,12/17/23,93,B04383,326421,35-44,1,medium,false,Full-time employed,Space & Bedrooms,true
+H02042,Suburban Park,262280,1140,2,2,0,1,0.24,false,false,F,8,9,3,10,12/17/23,25,B02042,308600,55-64,1,medium,false,Self-employed,Modern & Updated,false
+H07625,Suburban Park,223904,800,2,2,7,2,0.6,false,false,F,8,9,3,10,12/18/23,16,B07625,259630,25-34,1,low,false,Full-time employed,Location & Schools,false
+H06048,Suburban Park,274710,1117,3,3,7,1,0.22,true,false,E,8,9,3,10,12/19/23,6,B06048,321459,25-34,1,medium,false,Full-time employed,Low Maintenance,false
+H01508,Suburban Park,160724,800,1,1,16,0,0.33,false,false,E,8,9,3,10,12/19/23,19,B01508,175733,35-44,1,low,false,Full-time employed,Location & Schools,false
+H01552,Suburban Park,653994,2837,4,4,8,1,0.19,false,false,E,8,9,3,10,12/19/23,64,B01552,767492,55-64,2,high,false,Full-time employed,Location & Schools,false
+H05734,Suburban Park,339614,1699,3,3,3,2,0.38,false,false,E,8,9,3,10,12/21/23,57,B05734,368820,35-44,2,medium,false,Full-time employed,Affordability,false
+H05037,Suburban Park,892690,4500,6,5,1,3,0.3,false,false,F,8,9,3,10,12/21/23,31,B05037,969012,45-54,2,high,false,Full-time employed,Modern & Updated,false
+H04830,Suburban Park,595344,2704,3,3,15,2,0.22,true,false,E,8,9,3,10,12/21/23,6,B04830,694016,55-64,2,high,false,Self-employed,Modern & Updated,false
+H05777,Suburban Park,824587,3866,6,5,1,2,0.32,true,false,F,8,9,3,10,12/22/23,110,B05777,953018,25-34,2,high,false,Full-time employed,Space & Bedrooms,true
+H03692,Suburban Park,285696,987,2,2,8,0,0.39,true,true,F,8,9,3,10,12/24/23,96,B03692,315928,65+,1,medium,false,Retired,Low Maintenance,false
+H01041,Suburban Park,711276,3118,6,5,7,3,0.33,false,true,F,8,9,3,10,12/25/23,129,B01041,782054,35-44,5,high,true,Full-time employed,Space & Bedrooms,false
+H00492,Suburban Park,363410,1796,2,3,21,2,0.51,false,false,D,8,9,3,10,1/1/24,5,B00492,426853,35-44,2,medium,false,Self-employed,Space & Bedrooms,false
+H06151,Suburban Park,608667,2844,5,5,11,2,0.26,true,false,E,8,9,3,10,1/2/24,6,B06151,675936,45-54,2,high,false,Dual income,Location & Schools,false
+H00148,Suburban Park,474781,2651,5,5,12,1,0.34,false,false,E,8,9,3,10,1/7/24,47,B00148,536170,25-34,2,medium,false,Full-time employed,Location & Schools,false
+H01316,Suburban Park,775859,3702,6,5,2,3,0.28,false,true,F,8,9,3,10,1/8/24,13,B01316,891802,45-54,4,high,false,Retired,Location & Schools,true
+H01018,Suburban Park,260987,800,1,1,0,1,0.26,false,false,F,8,9,3,10,1/8/24,27,B01018,281017,35-44,1,medium,false,Dual income,Space & Bedrooms,false
+H02585,Suburban Park,591914,2653,3,3,0,1,0.11,true,false,F,8,9,3,10,1/14/24,92,B02585,663328,55-64,2,high,false,Self-employed,Affordability,false
+H04286,Suburban Park,587004,2638,4,4,2,1,0.25,true,false,F,8,9,3,10,1/15/24,9,B04286,662733,55-64,3,high,false,Dual income,Modern & Updated,false
+H07608,Suburban Park,792084,3545,6,5,12,3,0.26,true,false,F,8,9,3,10,1/16/24,56,B07608,865569,55-64,4,high,true,Full-time employed,Modern & Updated,false
+H00734,Suburban Park,707794,3456,6,5,27,3,0.22,false,false,E,8,9,3,10,1/17/24,42,B00734,834848,55-64,3,high,true,Retired,Affordability,false
+H06139,Suburban Park,518120,2613,4,4,4,2,0.3,false,false,F,8,9,3,10,1/18/24,10,B06139,578323,35-44,2,medium,false,Self-employed,Space & Bedrooms,false
+H05560,Suburban Park,299259,1426,3,2,6,2,0.28,false,false,E,8,9,3,10,1/21/24,8,B05560,333913,45-54,1,medium,false,Full-time employed,Affordability,false
+H00574,Suburban Park,372019,1531,2,3,40,0,0.63,true,false,B,8,9,3,10,1/21/24,100,B00574,434227,55-64,1,medium,false,Full-time employed,Modern & Updated,false
+H02060,Suburban Park,622376,2579,4,4,28,1,0.39,true,true,E,8,9,3,10,1/22/24,7,B02060,663981,55-64,3,high,true,Dual income,Affordability,false
+H02606,Suburban Park,265542,952,2,2,2,2,0.19,true,false,F,8,9,3,10,1/22/24,47,B02606,293646,55-64,1,medium,false,Dual income,Affordability,true
+H06689,Suburban Park,499533,2126,3,3,8,1,0.21,false,false,D,8,9,3,10,1/24/24,6,B06689,560827,45-54,4,medium,true,Retired,Location & Schools,false
+H05836,Suburban Park,500193,2414,5,5,1,1,0.63,false,false,F,8,9,3,10,1/24/24,29,B05836,556700,25-34,2,medium,false,Dual income,Affordability,false
+H00613,Suburban Park,697471,3315,6,5,0,2,0.41,false,true,F,8,9,3,10,1/27/24,16,B00613,792906,45-54,3,high,true,Dual income,Space & Bedrooms,false
+H07190,Suburban Park,656580,3035,6,5,1,3,0.39,false,false,F,8,9,3,10,1/27/24,39,B07190,763520,45-54,3,high,true,Full-time employed,Location & Schools,false
+H04232,Suburban Park,650587,3086,4,4,1,3,0.13,false,false,F,8,9,3,10,1/27/24,9,B04232,707967,45-54,3,high,true,Dual income,Space & Bedrooms,false
+H01923,Suburban Park,662288,3181,6,5,6,3,0.18,false,false,E,8,9,3,10,2/2/24,20,B01923,697574,35-44,3,high,true,Full-time employed,Low Maintenance,false
+H05992,Suburban Park,819478,3799,6,5,11,2,0.24,false,false,F,8,9,3,10,2/2/24,68,B05992,867103,55-64,5,high,true,Retired,Location & Schools,false
+H05346,Suburban Park,555749,2287,3,3,4,2,0.36,true,false,E,8,9,3,10,2/2/24,1,B05346,594487,55-64,2,medium,false,Full-time employed,Affordability,false
+H03110,Suburban Park,319640,1524,2,2,14,1,0.85,false,false,E,8,9,3,10,2/3/24,91,B03110,336573,45-54,1,medium,false,Self-employed,Investment,false
+H07187,Suburban Park,592590,2588,4,4,11,2,0.21,true,false,D,8,9,3,10,2/3/24,6,B07187,645076,35-44,3,high,true,Full-time employed,Space & Bedrooms,false
+H02359,Suburban Park,862264,4437,6,5,5,2,0.46,false,false,E,8,9,3,10,2/4/24,47,B02359,936544,35-44,3,high,true,Dual income,Location & Schools,false
+H00674,Suburban Park,524090,2368,4,4,3,2,0.2,false,false,E,8,9,3,10,2/4/24,26,B00674,559666,25-34,1,medium,false,Full-time employed,Affordability,false
+H04355,Suburban Park,738560,3646,5,5,13,2,0.53,false,false,E,8,9,3,10,2/9/24,8,B04355,835858,65+,1,high,false,Dual income,Affordability,false
+H05235,Suburban Park,778038,3758,6,5,6,3,0.53,false,false,F,8,9,3,10,2/11/24,18,B05235,854206,65+,2,high,false,Dual income,Modern & Updated,false
+H03778,Suburban Park,357567,1403,2,2,1,1,0.23,false,false,E,8,9,3,10,2/13/24,9,B03778,416799,35-44,1,medium,false,Self-employed,Affordability,false
+H07300,Suburban Park,494517,2397,3,4,31,1,0.15,false,false,A,8,9,3,10,2/13/24,80,B07300,551380,35-44,4,medium,true,Full-time employed,Affordability,false
+H07345,Suburban Park,542903,2366,5,5,4,2,0.27,false,false,E,8,9,3,10,2/14/24,34,B07345,632267,35-44,3,high,true,Full-time employed,Location & Schools,false
+H00659,Suburban Park,748001,3359,6,5,6,2,0.22,false,false,E,8,9,3,10,2/15/24,66,B00659,874147,55-64,2,high,false,Full-time employed,Space & Bedrooms,false
+H07120,Suburban Park,565980,2581,2,2,18,2,0.41,false,false,D,8,9,3,10,2/16/24,42,B07120,667389,45-54,1,high,false,Full-time employed,Space & Bedrooms,true
+H06147,Suburban Park,584763,2636,5,5,1,1,0.27,true,false,F,8,9,3,10,2/16/24,17,B06147,633479,45-54,3,high,true,Full-time employed,Location & Schools,false
+H06001,Suburban Park,675253,3520,5,5,30,2,0.46,true,false,E,8,9,3,10,2/18/24,49,B06001,737982,25-34,1,high,false,Full-time employed,Affordability,false
+H01483,Suburban Park,565227,2522,5,5,9,1,0.14,true,false,F,8,9,3,10,2/20/24,34,B01483,628127,35-44,4,medium,true,Full-time employed,Space & Bedrooms,false
+H05298,Suburban Park,538099,2237,4,4,43,2,0.35,false,true,C,8,9,3,10,2/21/24,44,B05298,634734,25-34,1,high,false,Full-time employed,Location & Schools,false
+H01173,Suburban Park,441667,2260,3,3,52,2,0.23,false,false,B,8,9,3,10,2/22/24,33,B01173,509987,35-44,2,medium,false,Full-time employed,Modern & Updated,true
+H06309,Suburban Park,597018,2544,4,4,11,1,0.31,true,false,E,8,9,3,10,2/23/24,5,B06309,687832,45-54,2,high,false,Self-employed,Low Maintenance,false
+H05059,Suburban Park,762383,3552,6,5,0,2,0.22,true,false,F,8,9,3,10,2/23/24,26,B05059,822732,45-54,4,high,true,Full-time employed,Location & Schools,false
+H04662,Suburban Park,581500,2611,3,3,7,1,0.42,false,false,F,8,9,3,10,2/26/24,104,B04662,639130,35-44,1,high,false,Dual income,Low Maintenance,false
+H04293,Suburban Park,586302,2651,4,4,11,2,0.38,true,false,E,8,9,3,10,2/26/24,17,B04293,624900,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H00360,Suburban Park,443155,1775,4,3,7,0,0.49,true,false,F,8,9,3,10,2/27/24,67,B00360,496873,25-34,1,medium,false,Full-time employed,Location & Schools,false
+H02291,Suburban Park,872703,4101,6,5,29,2,0.11,true,false,D,8,9,3,10,3/2/24,79,B02291,920903,45-54,5,high,true,Dual income,Investment,false
+H04122,Suburban Park,600080,2334,4,4,8,2,0.39,false,false,E,8,9,3,10,3/3/24,2,B04122,647214,35-44,3,high,true,Full-time employed,Space & Bedrooms,false
+H04375,Suburban Park,626187,3346,5,5,11,2,0.51,false,false,F,8,9,3,10,3/3/24,31,B04375,714084,35-44,4,high,true,Full-time employed,Affordability,false
+H02102,Suburban Park,454501,2193,5,5,6,1,0.24,false,false,E,8,9,3,10,3/5/24,40,B02102,526671,45-54,1,medium,false,Self-employed,Modern & Updated,false
+H07933,Suburban Park,599806,2846,5,5,6,1,0.27,true,false,F,8,9,3,10,3/6/24,82,B07933,673460,35-44,4,high,true,Dual income,Low Maintenance,false
+H03084,Suburban Park,596359,2679,4,4,6,1,0.22,false,false,E,8,9,3,10,3/8/24,5,B03084,674688,55-64,2,high,false,Retired,Modern & Updated,false
+H00609,Suburban Park,273306,800,1,1,3,1,0.74,true,false,E,8,9,3,10,3/9/24,72,B00609,303361,35-44,1,medium,false,Dual income,Space & Bedrooms,false
+H01819,Suburban Park,826071,3380,6,5,5,2,0.2,true,true,F,8,9,3,10,3/10/24,21,B01819,965507,45-54,4,high,true,Full-time employed,Location & Schools,false
+H00592,Suburban Park,549722,2754,4,4,1,1,0.46,false,false,F,8,9,3,10,3/12/24,28,B00592,616542,25-34,2,medium,false,Self-employed,Affordability,false
+H00285,Suburban Park,780517,3644,6,5,0,3,0.45,true,false,F,8,9,3,10,3/12/24,180,B00285,851212,45-54,3,high,true,Dual income,Affordability,false
+H07837,Suburban Park,231138,800,1,1,7,1,0.38,false,false,E,8,9,3,10,3/13/24,1,B07837,245157,35-44,1,low,false,Full-time employed,Affordability,false
+H06725,Suburban Park,622990,3076,5,5,7,2,0.31,false,false,F,8,9,3,10,3/13/24,36,B06725,666988,25-34,3,high,true,Full-time employed,Affordability,false
+H05338,Suburban Park,637511,2898,5,5,25,1,0.2,true,false,D,8,9,3,10,3/14/24,10,B05338,697007,35-44,3,high,true,Full-time employed,Location & Schools,false
+H05690,Suburban Park,276344,1030,1,1,27,2,0.44,true,false,D,8,9,3,10,3/15/24,6,B05690,304591,35-44,1,medium,false,Full-time employed,Investment,true
+H03630,Suburban Park,329044,1579,3,3,24,0,0.27,true,false,D,8,9,3,10,3/15/24,60,B03630,364973,35-44,1,medium,false,Dual income,Modern & Updated,false
+H04140,Suburban Park,362902,1855,3,2,29,1,0.28,false,false,D,8,9,3,10,3/16/24,15,B04140,394702,35-44,2,medium,false,Self-employed,Location & Schools,false
+H05981,Suburban Park,655231,2941,5,4,2,2,0.52,false,false,F,8,9,3,10,3/16/24,47,B05981,711214,45-54,3,high,false,Dual income,Modern & Updated,false
+H06601,Suburban Park,736641,3688,6,5,35,2,0.15,false,false,C,8,9,3,10,3/18/24,40,B06601,823480,45-54,4,high,true,Dual income,Modern & Updated,false
+H04913,Suburban Park,633246,2805,5,5,3,1,0.19,false,false,F,8,9,3,10,3/18/24,88,B04913,668880,35-44,4,high,true,Self-employed,Investment,false
+H06661,Suburban Park,279378,1496,2,2,24,0,0.18,false,false,C,8,9,3,10,3/19/24,7,B06661,321834,35-44,2,medium,false,Self-employed,Modern & Updated,false
+H05500,Suburban Park,487704,2377,4,4,13,1,0.24,false,false,D,8,9,3,10,3/20/24,1,B05500,528542,25-34,2,medium,false,Dual income,Modern & Updated,false
+H00362,Suburban Park,207737,800,1,1,2,1,0.24,false,false,F,8,9,3,10,3/20/24,18,B00362,221346,25-34,1,low,false,Dual income,Affordability,false
+H06152,Suburban Park,370295,1866,3,3,12,2,0.3,false,false,F,8,9,3,10,3/21/24,41,B06152,420672,35-44,1,medium,false,Full-time employed,Affordability,false
+H05086,Suburban Park,624702,3033,5,5,6,2,0.21,true,false,E,8,9,3,10,3/21/24,7,B05086,666198,45-54,4,high,true,Retired,Space & Bedrooms,false
+H03457,Suburban Park,517560,2231,3,3,3,1,0.18,false,false,E,8,9,3,10,3/21/24,24,B03457,553637,45-54,2,medium,false,Self-employed,Investment,false
+H07494,Suburban Park,592059,2760,3,3,20,2,0.26,false,false,E,8,9,3,10,3/21/24,71,B07494,677459,55-64,2,high,false,Full-time employed,Modern & Updated,false
+H05258,Suburban Park,359763,1334,2,2,10,1,0.24,true,false,E,8,9,3,10,3/22/24,1,B05258,392908,35-44,2,medium,false,Dual income,Location & Schools,true
+H04536,Suburban Park,364520,1725,4,4,15,0,0.18,true,false,F,8,9,3,10,3/22/24,68,B04536,389121,45-54,2,medium,false,Self-employed,Low Maintenance,false
+H07953,Suburban Park,843410,4038,6,5,10,2,0.17,false,false,F,8,9,3,10,3/23/24,46,B07953,915366,45-54,4,high,true,Full-time employed,Low Maintenance,false
+H00911,Suburban Park,211811,1176,2,3,9,1,0.28,false,false,F,8,9,3,10,3/24/24,23,B00911,249196,35-44,1,low,false,Full-time employed,Investment,false
+H03964,Suburban Park,545011,2710,4,4,0,1,0.24,false,false,E,8,9,3,10,3/26/24,8,B03964,589588,45-54,2,medium,false,Full-time employed,Location & Schools,false
+H01877,Suburban Park,610026,3033,5,5,9,2,0.45,false,false,F,8,9,3,10,3/27/24,7,B01877,703370,55-64,3,high,false,Retired,Location & Schools,false
+H01144,Suburban Park,771408,3709,6,5,8,3,0.28,true,false,F,8,9,3,10,3/28/24,42,B01144,824633,55-64,4,high,false,Retired,Location & Schools,false
+H03492,Suburban Park,377100,1479,2,2,7,2,0.33,true,false,F,8,9,3,10,3/28/24,31,B03492,442792,45-54,2,medium,false,Full-time employed,Space & Bedrooms,false
+H00219,Suburban Park,475975,2031,4,4,0,1,0.23,true,false,E,8,9,3,10,3/28/24,58,B00219,529163,55-64,1,medium,false,Self-employed,Affordability,false
+H07879,Suburban Park,549308,2520,3,3,1,1,0.44,false,false,D,8,9,3,10,4/2/24,18,B07879,638621,45-54,3,high,true,Full-time employed,Space & Bedrooms,false
+H03740,Suburban Park,455342,2150,2,2,0,1,0.65,false,false,F,8,9,3,10,4/2/24,73,B03740,501346,25-34,1,medium,false,Full-time employed,Low Maintenance,false
+H06053,Suburban Park,800656,3184,5,5,2,3,0.24,true,true,F,8,9,3,10,4/4/24,11,B06053,912491,45-54,4,high,false,Dual income,Location & Schools,false
+H00205,Suburban Park,801651,3496,6,5,3,2,0.25,true,false,F,8,9,3,10,4/5/24,11,B00205,945854,55-64,4,high,true,Dual income,Location & Schools,false
+H00816,Suburban Park,403627,2015,3,3,12,1,0.38,false,false,E,8,9,3,10,4/6/24,89,B00816,472757,45-54,2,medium,false,Dual income,Affordability,false
+H03430,Suburban Park,760601,3395,4,5,4,3,0.17,true,false,F,8,9,3,10,4/7/24,18,B03430,812777,45-54,3,high,false,Self-employed,Modern & Updated,false
+H00934,Suburban Park,696881,3512,6,5,18,3,0.15,false,false,D,8,9,3,10,4/8/24,35,B00934,780987,35-44,3,high,true,Dual income,Space & Bedrooms,false
+H07501,Suburban Park,810784,4500,6,5,22,2,0.24,false,false,D,8,9,3,10,4/8/24,78,B07501,935745,45-54,6,high,true,Full-time employed,Location & Schools,false
+H07157,Suburban Park,671467,3027,5,5,20,3,0.22,true,false,D,8,9,3,10,4/9/24,12,B07157,715607,45-54,5,high,true,Self-employed,Location & Schools,false
+H06491,Suburban Park,842829,3872,6,5,3,2,0.41,true,false,E,8,9,3,10,4/9/24,21,B06491,993593,35-44,3,high,false,Full-time employed,Space & Bedrooms,true
+H04502,Suburban Park,493845,2386,5,5,8,2,0.24,false,false,E,8,9,3,10,4/9/24,9,B04502,540457,25-34,3,medium,false,Full-time employed,Location & Schools,false
+H01993,Suburban Park,641250,3146,4,4,15,3,0.31,false,false,E,8,9,3,10,4/10/24,8,B01993,678562,25-34,2,high,false,Full-time employed,Space & Bedrooms,true
+H02256,Suburban Park,831223,4294,6,5,8,2,0.48,false,false,F,8,9,3,10,4/11/24,51,B02256,929893,35-44,4,high,false,Full-time employed,Location & Schools,false
+H02942,Suburban Park,335726,1343,3,3,16,1,0.33,false,false,D,8,9,3,10,4/12/24,10,B02942,374238,45-54,2,medium,false,Retired,Investment,false
+H06318,Suburban Park,549238,2566,5,4,6,2,0.27,false,false,D,8,9,3,10,4/12/24,24,B06318,644072,35-44,3,high,true,Full-time employed,Location & Schools,false
+H04490,Suburban Park,420748,1896,4,4,4,2,0.45,true,false,F,8,9,3,10,4/12/24,59,B04490,457052,35-44,2,medium,false,Full-time employed,Space & Bedrooms,true
+H02098,Suburban Park,533353,2312,4,4,0,2,0.49,true,false,E,8,9,3,10,4/14/24,1,B02098,612296,35-44,3,medium,true,Self-employed,Location & Schools,false
+H07196,Suburban Park,757377,3512,6,5,1,3,0.16,true,false,F,8,9,3,10,4/15/24,30,B07196,849678,45-54,3,high,true,Self-employed,Location & Schools,false
+H01606,Suburban Park,446128,2094,3,3,4,2,0.32,true,false,F,8,9,3,10,4/15/24,10,B01606,524058,45-54,3,medium,false,Retired,Space & Bedrooms,false
+H00904,Suburban Park,542297,2488,5,5,11,2,0.21,false,false,D,8,9,3,10,4/18/24,65,B00904,584618,45-54,2,medium,false,Full-time employed,Affordability,false
+H04958,Suburban Park,402120,1382,2,2,8,1,0.17,true,false,E,8,9,3,10,4/19/24,31,B04958,452302,25-34,1,medium,false,Self-employed,Affordability,false
+H03426,Suburban Park,303415,1099,2,2,7,1,0.65,true,false,F,8,9,3,10,4/20/24,40,B03426,336419,35-44,1,medium,false,Dual income,Location & Schools,false
+H07444,Suburban Park,351015,1805,3,3,17,1,0.23,true,false,E,8,9,3,10,4/21/24,64,B07444,370227,35-44,1,medium,false,Dual income,Location & Schools,false
+H01497,Suburban Park,524785,2477,4,4,12,2,0.37,false,false,D,8,9,3,10,4/21/24,30,B01497,570108,35-44,3,medium,true,Dual income,Location & Schools,false
+H00031,Suburban Park,407616,1944,2,2,3,2,0.22,false,false,D,8,9,3,10,4/21/24,57,B00031,463456,45-54,1,medium,false,Self-employed,Modern & Updated,false
+H00633,Suburban Park,661274,3143,6,5,27,3,0.53,true,false,D,8,9,3,10,4/22/24,15,B00633,758200,35-44,3,high,true,Dual income,Location & Schools,true
+H04380,Suburban Park,410920,2433,4,4,8,1,0.46,false,false,F,8,9,3,10,4/22/24,16,B04380,438707,35-44,5,medium,true,Dual income,Modern & Updated,false
+H06473,Suburban Park,428510,2207,3,3,6,1,0.47,false,false,F,8,9,3,10,4/23/24,53,B06473,468820,45-54,2,medium,false,Full-time employed,Modern & Updated,false
+H07163,Suburban Park,516570,2582,4,4,0,1,0.29,false,false,F,8,9,3,10,4/25/24,23,B07163,607592,35-44,3,medium,true,Self-employed,Modern & Updated,false
+H03816,Suburban Park,603418,2740,5,4,7,2,0.18,true,false,F,8,9,3,10,4/26/24,9,B03816,649289,55-64,3,high,false,Dual income,Space & Bedrooms,false
+H05929,Suburban Park,653833,2627,4,4,2,1,0.33,true,false,E,8,9,3,10,4/26/24,1,B05929,740476,55-64,2,high,false,Full-time employed,Modern & Updated,false
+H00782,Suburban Park,337525,1755,3,3,4,0,0.96,false,false,F,8,9,3,10,4/27/24,12,B00782,391275,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H02062,Suburban Park,483310,1951,2,3,1,2,0.26,false,false,F,8,9,3,10,4/28/24,30,B02062,510018,45-54,3,medium,true,Full-time employed,Space & Bedrooms,false
+H00480,Suburban Park,486329,2354,4,4,14,1,0.23,true,false,E,8,9,3,10,4/28/24,44,B00480,533033,65+,1,medium,false,Retired,Investment,false
+H06387,Suburban Park,759377,3409,6,5,7,3,0.34,false,false,E,8,9,3,10,4/28/24,7,B06387,895881,65+,2,high,false,Retired,Low Maintenance,false
+H05703,Suburban Park,505452,2361,3,4,1,1,0.25,true,false,F,8,9,3,10,4/28/24,41,B05703,540302,25-34,1,medium,false,Dual income,Modern & Updated,false
+H07505,Suburban Park,332705,1618,3,3,5,2,0.45,false,false,F,8,9,3,10,5/1/24,9,B07505,367516,25-34,1,medium,false,Dual income,Location & Schools,false
+H00873,Suburban Park,742126,3592,6,5,5,2,0.31,false,false,E,8,9,3,10,5/1/24,81,B00873,822468,25-34,3,high,false,Full-time employed,Modern & Updated,false
+H05026,Suburban Park,587252,2959,5,5,25,2,0.41,false,true,D,8,9,3,10,5/1/24,1,B05026,651947,45-54,4,high,true,Full-time employed,Affordability,false
+H07721,Suburban Park,368115,1541,2,2,46,2,0.23,false,false,A,8,9,3,10,5/2/24,1,B07721,433873,35-44,1,medium,false,Full-time employed,Location & Schools,false
+H00383,Suburban Park,471408,2361,3,3,15,1,0.41,false,false,D,8,9,3,10,5/2/24,21,B00383,547251,65+,1,medium,false,Self-employed,Affordability,true
+H04938,Suburban Park,570654,2463,4,4,2,2,0.2,true,false,E,8,9,3,10,5/2/24,1,B04938,621050,25-34,2,medium,false,Dual income,Location & Schools,false
+H07675,Suburban Park,589824,3144,5,5,3,2,0.21,false,false,F,8,9,3,10,5/4/24,58,B07675,627785,35-44,3,medium,false,Self-employed,Affordability,false
+H01548,Suburban Park,444520,2050,5,5,15,1,0.36,true,false,E,8,9,3,10,5/4/24,29,B01548,497525,55-64,3,medium,false,Dual income,Affordability,false
+H03771,Suburban Park,671285,3242,6,5,10,3,0.4,true,false,F,8,9,3,10,5/4/24,32,B03771,710333,25-34,3,high,true,Full-time employed,Location & Schools,false
+H00222,Suburban Park,653994,3078,6,5,19,2,0.26,true,false,D,8,9,3,10,5/5/24,120,B00222,762772,45-54,4,high,true,Dual income,Space & Bedrooms,false
+H00625,Suburban Park,509688,2365,4,4,10,1,0.42,false,false,E,8,9,3,10,5/6/24,5,B00625,577735,25-34,2,medium,false,Full-time employed,Low Maintenance,false
+H05361,Suburban Park,784081,3750,6,5,8,2,0.26,false,false,E,8,9,3,10,5/6/24,24,B05361,856736,45-54,5,high,true,Full-time employed,Space & Bedrooms,false
+H06009,Suburban Park,846924,3829,5,5,2,3,0.38,false,false,F,8,9,3,10,5/7/24,12,B06009,981384,35-44,3,high,true,Full-time employed,Space & Bedrooms,false
+H07913,Suburban Park,651557,2995,5,5,6,2,0.11,false,false,F,8,9,3,10,5/7/24,20,B07913,706391,55-64,4,high,false,Dual income,Location & Schools,false
+H06319,Suburban Park,439044,1908,3,3,3,2,0.21,false,false,F,8,9,3,10,5/8/24,103,B06319,496387,35-44,1,medium,false,Self-employed,Space & Bedrooms,false
+H07820,Suburban Park,425627,2080,4,4,21,1,0.48,false,false,D,8,9,3,10,5/8/24,36,B07820,449369,35-44,2,medium,false,Full-time employed,Location & Schools,false
+H05809,Suburban Park,619285,2792,4,4,12,1,0.24,true,false,E,8,9,3,10,5/9/24,41,B05809,659673,35-44,2,high,false,Full-time employed,Location & Schools,false
+H05694,Suburban Park,359041,1275,2,2,11,1,0.5,true,false,E,8,9,3,10,5/10/24,20,B05694,388233,35-44,1,medium,false,Self-employed,Location & Schools,false
+H01825,Suburban Park,640198,3143,6,5,2,2,0.27,false,false,E,8,9,3,10,5/10/24,59,B01825,729814,55-64,3,high,true,Retired,Space & Bedrooms,false
+H05539,Suburban Park,638759,2889,6,5,28,2,0.28,false,true,D,8,9,3,10,5/10/24,19,B05539,688852,35-44,4,high,false,Full-time employed,Location & Schools,false
+H04300,Suburban Park,392122,1743,3,3,32,1,0.17,true,false,D,8,9,3,10,5/11/24,15,B04300,422537,45-54,2,medium,false,Self-employed,Modern & Updated,false
+H05392,Suburban Park,390831,1921,3,3,1,1,0.22,false,false,F,8,9,3,10,5/11/24,5,B05392,414567,35-44,2,medium,false,Full-time employed,Location & Schools,true
+H07237,Suburban Park,275687,1434,3,2,5,2,0.44,false,false,F,8,9,3,10,5/11/24,18,B07237,297674,35-44,3,medium,true,Dual income,Space & Bedrooms,false
+H04556,Suburban Park,283853,1154,2,2,2,2,0.31,false,false,E,8,9,3,10,5/11/24,7,B04556,313437,35-44,1,medium,false,Self-employed,Affordability,true
+H02453,Suburban Park,504531,1751,3,3,3,0,0.24,true,false,F,8,9,3,10,5/11/24,63,B02453,574421,35-44,3,medium,true,Dual income,Space & Bedrooms,false
+H03015,Suburban Park,472825,2088,3,3,24,2,0.41,false,true,E,8,9,3,10,5/12/24,76,B03015,508026,45-54,3,medium,true,Self-employed,Location & Schools,false
+H03485,Suburban Park,483414,2521,4,5,14,1,0.57,false,false,E,8,9,3,10,5/13/24,37,B03485,557375,55-64,2,medium,false,Full-time employed,Affordability,false
+H00088,Suburban Park,584778,3031,5,5,15,3,0.34,false,false,F,8,9,3,10,5/13/24,65,B00088,660766,55-64,3,high,true,Retired,Modern & Updated,false
+H04517,Suburban Park,498884,2342,4,4,5,2,0.3,false,false,F,8,9,3,10,5/13/24,53,B04517,537372,25-34,1,medium,false,Full-time employed,Modern & Updated,true
+H05435,Suburban Park,448161,2038,5,4,15,1,0.47,false,false,E,8,9,3,10,5/14/24,1,B05435,518124,55-64,3,medium,false,Full-time employed,Modern & Updated,false
+H03250,Suburban Park,533223,2412,3,3,16,1,0.17,true,false,E,8,9,3,10,5/15/24,43,B03250,603285,25-34,2,medium,false,Self-employed,Space & Bedrooms,false
+H07079,Suburban Park,613807,3096,5,5,30,3,0.87,true,false,C,8,9,3,10,5/16/24,79,B07079,709498,45-54,3,high,false,Full-time employed,Low Maintenance,false
+H00188,Suburban Park,756163,3544,5,5,12,3,0.26,false,false,E,8,9,3,10,5/16/24,78,B00188,880191,45-54,2,high,false,Self-employed,Modern & Updated,false
+H07660,Suburban Park,572040,2673,4,4,1,2,0.52,true,false,F,8,9,3,10,5/16/24,57,B07660,663644,65+,1,high,false,Retired,Low Maintenance,false
+H00350,Suburban Park,489739,2034,3,3,1,2,0.3,true,false,D,8,9,3,10,5/17/24,3,B00350,524740,45-54,2,medium,false,Full-time employed,Location & Schools,false
+H00485,Suburban Park,728693,3231,6,5,0,3,0.28,false,false,F,8,9,3,10,5/18/24,90,B00485,797201,55-64,3,high,false,Dual income,Modern & Updated,false
+H06961,Suburban Park,474845,2055,3,3,19,1,0.52,false,true,E,8,9,3,10,5/18/24,79,B06961,505376,55-64,2,medium,false,Retired,Low Maintenance,false
+H06078,Suburban Park,654746,3047,5,5,1,3,0.37,false,false,E,8,9,3,10,5/18/24,1,B06078,770334,35-44,3,high,false,Full-time employed,Low Maintenance,false
+H07216,Suburban Park,419144,1894,3,3,16,2,0.28,false,false,E,8,9,3,10,5/18/24,23,B07216,443318,35-44,3,medium,true,Full-time employed,Low Maintenance,false
+H01495,Suburban Park,328263,1131,2,2,11,0,0.2,true,false,C,8,9,3,10,5/19/24,44,B01495,356217,45-54,1,medium,false,Dual income,Location & Schools,false
+H07864,Suburban Park,471850,2530,5,4,4,1,0.31,false,false,F,8,9,3,10,5/22/24,4,B07864,533940,45-54,4,medium,true,Full-time employed,Location & Schools,false
+H07921,Suburban Park,696196,3183,6,5,2,2,0.6,true,false,F,8,9,3,10,5/22/24,17,B07921,776312,35-44,4,high,true,Full-time employed,Location & Schools,false
+H02442,Suburban Park,730523,3148,6,5,3,2,0.25,false,false,F,8,9,3,10,5/22/24,17,B02442,783867,45-54,4,high,true,Full-time employed,Affordability,false
+H06031,Suburban Park,553492,2805,4,4,6,2,0.27,false,false,E,8,9,3,10,5/23/24,3,B06031,589763,55-64,2,medium,false,Dual income,Affordability,false
+H04348,Suburban Park,195244,961,2,2,2,1,0.28,false,false,F,8,9,3,10,5/24/24,31,B04348,220377,45-54,1,low,false,Retired,Space & Bedrooms,false
+H00839,Suburban Park,184877,800,2,2,8,0,0.31,true,false,F,8,9,3,10,5/24/24,26,B00839,200698,35-44,1,low,false,Self-employed,Location & Schools,false
+H00753,Suburban Park,555305,2476,4,4,0,1,0.27,true,true,F,8,9,3,10,5/25/24,16,B00753,630708,45-54,2,high,false,Full-time employed,Modern & Updated,false
+H06743,Suburban Park,237462,1130,1,1,4,1,0.31,false,false,E,8,9,3,10,5/25/24,33,B06743,251266,35-44,1,low,false,Dual income,Space & Bedrooms,false
+H00264,Suburban Park,646230,2987,5,5,2,2,0.56,true,false,F,8,9,3,10,5/27/24,37,B00264,712632,35-44,4,high,true,Full-time employed,Location & Schools,false
+H07286,Suburban Park,752530,2734,4,4,1,2,0.18,true,true,F,8,9,3,10,5/28/24,13,B07286,842370,55-64,2,high,false,Dual income,Modern & Updated,false
+H07709,Suburban Park,386271,1873,3,3,15,1,0.23,false,false,D,8,9,3,10,5/28/24,2,B07709,409190,65+,1,medium,false,Full-time employed,Low Maintenance,false
+H06619,Suburban Park,298706,1317,3,2,24,1,0.23,false,false,B,8,9,3,10,5/28/24,30,B06619,339832,45-54,2,medium,false,Self-employed,Location & Schools,false
+H06450,Suburban Park,810673,4333,6,5,38,2,0.34,false,false,C,8,9,3,10,6/1/24,34,B06450,877978,35-44,3,high,true,Self-employed,Investment,true
+H02333,Suburban Park,354819,1338,3,3,3,1,0.18,true,false,D,8,9,3,10,6/4/24,9,B02333,386080,45-54,1,medium,false,Self-employed,Space & Bedrooms,false
+H05660,Suburban Park,546971,2380,4,4,7,1,0.55,true,false,D,8,9,3,10,6/4/24,1,B05660,634046,35-44,3,high,false,Full-time employed,Low Maintenance,false
+H01246,Suburban Park,304527,1457,2,2,2,0,0.3,true,false,F,8,9,3,10,6/5/24,70,B01246,335343,25-34,1,medium,false,Self-employed,Modern & Updated,false
+H02665,Suburban Park,474123,2017,3,4,1,2,0.17,true,false,E,8,9,3,10,6/5/24,101,B02665,542469,55-64,1,medium,false,Full-time employed,Affordability,false
+H00004,Suburban Park,668047,3233,5,5,10,3,0.18,false,false,F,8,9,3,10,6/5/24,41,B00004,740412,45-54,2,high,false,Full-time employed,Modern & Updated,false
+H02985,Suburban Park,638174,2735,4,4,14,2,0.5,true,true,F,8,9,3,10,6/6/24,36,B02985,719802,35-44,3,high,true,Full-time employed,Low Maintenance,false
+H00464,Suburban Park,596738,2721,5,4,1,2,0.33,true,false,E,8,9,3,10,6/6/24,12,B00464,649200,35-44,4,high,false,Self-employed,Location & Schools,false
+H07384,Suburban Park,784027,3680,6,5,10,2,0.63,false,false,E,8,9,3,10,6/7/24,2,B07384,861537,35-44,4,high,true,Full-time employed,Low Maintenance,false
+H05542,Suburban Park,379936,1869,2,2,8,1,0.42,false,false,F,8,9,3,10,6/8/24,9,B05542,427882,25-34,1,medium,false,Full-time employed,Investment,true
+H01093,Suburban Park,561815,2386,4,4,6,1,0.28,true,false,E,8,9,3,10,6/8/24,55,B01093,603469,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H04704,Suburban Park,458022,2154,4,4,0,2,0.24,false,false,E,8,9,3,10,6/8/24,3,B04704,514657,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H04538,Suburban Park,345004,1807,2,2,13,1,0.46,true,false,E,8,9,3,10,6/8/24,32,B04538,391292,55-64,1,medium,false,Retired,Low Maintenance,false
+H03321,Suburban Park,595724,2511,5,5,1,1,0.25,true,false,E,8,9,3,10,6/10/24,5,B03321,657884,45-54,4,high,true,Full-time employed,Location & Schools,false
+H01953,Suburban Park,501285,2450,4,4,35,1,0.22,false,false,C,8,9,3,10,6/10/24,14,B01953,587422,35-44,3,medium,false,Self-employed,Modern & Updated,false
+H03253,Suburban Park,449430,1956,3,3,4,2,0.2,true,false,F,8,9,3,10,6/11/24,104,B03253,510378,25-34,1,medium,false,Full-time employed,Affordability,false
+H00346,Suburban Park,294218,1497,2,1,11,2,0.2,false,false,E,8,9,3,10,6/12/24,2,B00346,344281,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H02222,Suburban Park,335510,1425,2,2,1,0,0.28,true,false,E,8,9,3,10,6/12/24,1,B02222,371095,35-44,1,medium,false,Dual income,Affordability,false
+H02593,Suburban Park,295002,1328,3,3,20,1,0.14,false,false,E,8,9,3,10,6/13/24,8,B02593,344533,45-54,2,medium,false,Self-employed,Location & Schools,false
+H05179,Suburban Park,496362,2360,3,4,0,1,0.24,false,false,F,8,9,3,10,6/14/24,109,B05179,573925,45-54,3,medium,true,Retired,Location & Schools,false
+H03111,Suburban Park,680627,2853,4,4,3,2,0.51,false,true,F,8,9,3,10,6/14/24,17,B03111,736100,45-54,4,high,true,Self-employed,Space & Bedrooms,false
+H02856,Suburban Park,568725,2866,4,4,16,2,0.68,false,false,E,8,9,3,10,6/14/24,23,B02856,616848,45-54,3,medium,true,Full-time employed,Location & Schools,false
+H00725,Suburban Park,560271,2628,4,4,16,1,0.62,true,false,E,8,9,3,10,6/14/24,6,B00725,650526,45-54,2,high,false,Full-time employed,Modern & Updated,false
+H01790,Suburban Park,672115,3113,6,5,8,2,0.41,true,false,F,8,9,3,10,6/14/24,29,B01790,729097,25-34,2,high,false,Full-time employed,Affordability,false
+H04514,Suburban Park,487005,2039,5,4,4,2,0.24,false,false,E,8,9,3,10,6/14/24,46,B04514,568930,45-54,3,medium,true,Full-time employed,Space & Bedrooms,false
+H02127,Suburban Park,223066,800,1,1,3,1,0.2,true,false,E,8,9,3,10,6/16/24,12,B02127,235976,65+,1,low,false,Self-employed,Location & Schools,false
+H01571,Suburban Park,916865,4500,6,5,12,2,0.27,false,false,E,8,9,3,10,6/17/24,24,B01571,969862,35-44,3,high,true,Full-time employed,Location & Schools,true
+H03598,Suburban Park,674313,3204,5,5,4,2,0.34,false,false,F,8,9,3,10,6/17/24,10,B03598,745041,45-54,3,high,true,Full-time employed,Space & Bedrooms,false
+H05246,Suburban Park,306798,1001,2,2,0,0,0.2,false,false,E,8,9,3,10,6/19/24,33,B05246,340963,45-54,1,medium,false,Dual income,Affordability,false
+H00766,Suburban Park,500682,2160,4,4,4,2,0.32,false,false,F,8,9,3,10,6/19/24,2,B00766,543919,45-54,3,medium,true,Full-time employed,Location & Schools,false
+H00521,Suburban Park,417870,1559,3,3,0,0,0.44,false,false,E,8,9,3,10,6/19/24,2,B00521,469823,45-54,1,medium,false,Full-time employed,Affordability,false
+H07403,Suburban Park,641696,2819,6,5,24,2,0.23,true,true,D,8,9,3,10,6/21/24,19,B07403,739227,35-44,4,high,false,Self-employed,Space & Bedrooms,false
+H00102,Suburban Park,522987,2803,5,4,24,1,0.18,false,false,D,8,9,3,10,6/21/24,39,B00102,604702,65+,2,medium,false,Full-time employed,Modern & Updated,false
+H07622,Suburban Park,787926,3872,6,5,30,2,0.15,true,false,D,8,9,3,10,6/21/24,18,B07622,920428,55-64,3,high,false,Dual income,Location & Schools,false
+H07694,Suburban Park,563306,2907,6,5,5,1,0.3,false,false,D,8,9,3,10,6/21/24,20,B07694,662380,35-44,4,high,true,Self-employed,Space & Bedrooms,false
+H03567,Suburban Park,499007,2690,4,4,4,1,0.18,false,false,F,8,9,3,10,6/23/24,6,B03567,573108,55-64,2,medium,false,Full-time employed,Modern & Updated,false
+H07039,Suburban Park,257706,800,1,1,0,1,0.24,true,false,F,8,9,3,10,6/24/24,79,B07039,272807,65+,1,low,false,Full-time employed,Affordability,false
+H05860,Suburban Park,543456,2986,5,5,39,2,0.56,false,false,C,8,9,3,10,6/25/24,15,B05860,631436,45-54,4,high,true,Dual income,Space & Bedrooms,true
+H07021,Suburban Park,803848,3589,6,5,6,3,0.3,false,false,E,8,9,3,10,6/25/24,30,B07021,845856,35-44,5,high,true,Full-time employed,Location & Schools,false
+H04515,Suburban Park,558628,2433,5,4,18,1,0.57,false,true,F,8,9,3,10,6/25/24,8,B04515,657546,55-64,5,high,false,Full-time employed,Investment,false
+H06181,Suburban Park,290482,1512,2,2,6,0,0.23,false,false,F,8,9,3,10,6/26/24,2,B06181,331760,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H04040,Suburban Park,182732,800,1,1,32,1,0.25,false,false,C,8,9,3,10,7/1/24,26,B04040,211664,25-34,1,low,false,Dual income,Modern & Updated,false
+H05592,Suburban Park,433543,2094,3,3,21,1,0.32,false,false,D,8,9,3,10,7/1/24,66,B05592,457254,35-44,2,medium,false,Full-time employed,Modern & Updated,false
+H03602,Suburban Park,596714,2309,3,3,4,2,0.21,false,true,F,8,9,3,10,7/1/24,18,B03602,679711,55-64,1,high,false,Full-time employed,Location & Schools,true
+H00163,Suburban Park,242625,1251,3,3,26,0,0.29,false,false,B,8,9,3,10,7/1/24,7,B00163,266749,35-44,2,low,false,Self-employed,Location & Schools,false
+H03143,Suburban Park,788042,3646,6,5,1,2,0.6,false,false,F,8,9,3,10,7/2/24,4,B03143,921253,45-54,4,high,false,Dual income,Investment,true
+H04580,Suburban Park,411402,1685,2,2,11,1,0.19,false,false,D,8,9,3,10,7/2/24,108,B04580,449515,25-34,1,medium,false,Full-time employed,Affordability,false
+H02249,Suburban Park,296853,1141,3,3,8,0,0.73,true,false,F,8,9,3,10,7/3/24,97,B02249,341973,45-54,2,medium,false,Self-employed,Affordability,false
+H02257,Suburban Park,559416,2261,4,4,1,2,0.13,false,false,E,8,9,3,10,7/4/24,43,B02257,598836,65+,1,medium,false,Retired,Space & Bedrooms,false
+H06924,Suburban Park,928599,4500,6,5,22,2,0.38,false,false,C,8,9,3,10,7/6/24,20,B06924,1075895,35-44,5,high,false,Full-time employed,Location & Schools,false
+H07280,Suburban Park,353763,1503,3,3,10,1,0.27,false,false,E,8,9,3,10,7/6/24,30,B07280,400128,25-34,1,medium,false,Full-time employed,Affordability,false
+H04833,Suburban Park,525746,2510,4,4,0,2,0.49,false,false,F,8,9,3,10,7/6/24,57,B04833,601823,35-44,4,medium,true,Full-time employed,Location & Schools,false
+H01532,Suburban Park,502923,2101,3,3,11,2,0.3,true,false,E,8,9,3,10,7/6/24,1,B01532,584338,45-54,3,medium,true,Retired,Location & Schools,false
+H07330,Suburban Park,231303,800,1,1,7,0,0.31,false,true,F,8,9,3,10,7/8/24,170,B07330,258235,35-44,1,low,false,Self-employed,Space & Bedrooms,false
+H06226,Suburban Park,708224,3555,6,5,8,2,0.46,false,false,F,8,9,3,10,7/12/24,56,B06226,827838,45-54,4,high,true,Full-time employed,Space & Bedrooms,false
+H03422,Suburban Park,451803,2368,3,3,16,1,0.13,false,true,F,8,9,3,10,7/13/24,109,B03422,526497,35-44,1,medium,false,Full-time employed,Modern & Updated,false
+H02294,Suburban Park,546206,2167,3,3,9,2,0.21,true,false,F,8,9,3,10,7/13/24,16,B02294,588673,35-44,1,medium,false,Full-time employed,Space & Bedrooms,true
+H02601,Suburban Park,318164,1461,2,3,7,2,0.63,false,false,E,8,9,3,10,7/13/24,61,B02601,349977,25-34,2,medium,false,Dual income,Affordability,false
+H06629,Suburban Park,341257,1694,3,2,18,1,0.21,true,false,C,8,9,3,10,7/13/24,45,B06629,395455,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H07052,Suburban Park,799684,3197,6,5,0,3,0.46,true,true,F,8,9,3,10,7/13/24,145,B07052,885719,55-64,4,high,true,Dual income,Location & Schools,false
+H03730,Suburban Park,640313,3204,4,5,5,2,0.33,false,false,F,8,9,3,10,7/14/24,91,B03730,683602,55-64,3,high,true,Full-time employed,Location & Schools,false
+H03478,Suburban Park,557306,2680,4,4,29,1,0.2,true,false,C,8,9,3,10,7/14/24,5,B03478,619991,25-34,2,medium,false,Full-time employed,Modern & Updated,false
+H06149,Suburban Park,499207,2169,4,4,35,1,0.18,true,true,C,8,9,3,10,7/15/24,41,B06149,559662,35-44,2,medium,false,Dual income,Location & Schools,false
+H00560,Suburban Park,907433,4020,6,5,4,2,0.45,true,false,E,8,9,3,10,7/15/24,35,B00560,1041199,45-54,6,high,true,Full-time employed,Affordability,false
+H07972,Suburban Park,187822,800,1,1,21,0,0.17,false,true,C,8,9,3,10,7/16/24,30,B07972,211793,45-54,2,low,false,Self-employed,Space & Bedrooms,false
+H07123,Suburban Park,651460,3275,5,5,18,3,0.21,false,false,D,8,9,3,10,7/16/24,180,B07123,713255,45-54,3,high,true,Dual income,Investment,false
+H02812,Suburban Park,452153,2053,3,3,11,2,0.25,true,false,E,8,9,3,10,7/17/24,39,B02812,478894,45-54,2,medium,false,Full-time employed,Space & Bedrooms,false
+H07454,Suburban Park,315404,1584,2,2,23,2,0.55,false,true,F,8,9,3,10,7/19/24,75,B07454,349823,45-54,1,medium,false,Full-time employed,Space & Bedrooms,false
+H02993,Suburban Park,853886,4117,6,5,13,2,0.81,true,true,F,8,9,3,10,7/19/24,24,B02993,993516,35-44,3,high,true,Dual income,Space & Bedrooms,true
+H01579,Suburban Park,315481,1149,1,1,1,1,0.23,false,false,F,8,9,3,10,7/20/24,12,B01579,343696,25-34,1,medium,false,Full-time employed,Affordability,false
+H04291,Suburban Park,504715,2273,4,3,0,2,0.4,false,false,F,8,9,3,10,7/21/24,27,B04291,543705,35-44,2,medium,false,Dual income,Affordability,false
+H01732,Suburban Park,690330,3058,6,5,0,2,0.26,false,false,F,8,9,3,10,7/24/24,5,B01732,741139,35-44,5,high,true,Full-time employed,Space & Bedrooms,false
+H02805,Suburban Park,711794,3034,5,4,0,2,0.25,false,false,E,8,9,3,10,7/24/24,29,B02805,797981,55-64,5,high,true,Retired,Modern & Updated,false
+H00475,Suburban Park,601649,3137,6,5,60,3,0.65,false,false,A,8,9,3,10,7/25/24,64,B00475,682194,45-54,3,high,true,Full-time employed,Location & Schools,false
+H07379,Suburban Park,261056,809,1,2,2,1,0.2,false,false,F,8,9,3,10,7/25/24,17,B07379,283577,45-54,1,medium,false,Full-time employed,Investment,false
+H05873,Suburban Park,177481,800,1,1,15,1,0.26,false,false,D,8,9,3,10,7/26/24,61,B05873,209094,25-34,1,low,false,Full-time employed,Modern & Updated,false
+H04083,Suburban Park,455331,2042,3,3,1,1,0.21,true,false,E,8,9,3,10,7/27/24,23,B04083,513020,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H07372,Suburban Park,539379,2318,3,3,8,2,0.21,false,false,E,8,9,3,10,7/28/24,14,B07372,625609,45-54,2,medium,false,Full-time employed,Affordability,true
+H07150,Suburban Park,544466,2474,5,5,7,2,0.62,false,false,E,8,9,3,10,8/2/24,7,B07150,633479,45-54,3,high,false,Full-time employed,Modern & Updated,false
+H05034,Suburban Park,302616,1463,2,2,38,2,0.35,false,true,C,8,9,3,10,8/2/24,11,B05034,354383,25-34,1,medium,false,Full-time employed,Affordability,true
+H07312,Suburban Park,407809,1693,3,3,5,1,0.39,false,false,E,8,9,3,10,8/3/24,88,B07312,459542,55-64,1,medium,false,Full-time employed,Low Maintenance,false
+H04493,Suburban Park,686302,3120,6,5,4,2,0.23,false,false,F,8,9,3,10,8/3/24,10,B04493,728325,45-54,4,high,false,Full-time employed,Location & Schools,false
+H00913,Suburban Park,557075,2359,4,4,20,2,0.2,false,false,D,8,9,3,10,8/4/24,25,B00913,623074,35-44,3,medium,true,Full-time employed,Space & Bedrooms,false
+H02399,Suburban Park,833546,3790,6,5,2,2,0.31,true,false,E,8,9,3,10,8/4/24,7,B02399,891143,45-54,4,high,true,Dual income,Space & Bedrooms,false
+H01171,Suburban Park,304506,1225,3,2,2,0,0.27,false,false,F,8,9,3,10,8/4/24,13,B01171,325234,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H06972,Suburban Park,557305,2430,4,4,0,1,0.54,false,false,E,8,9,3,10,8/4/24,10,B06972,588032,25-34,1,medium,false,Full-time employed,Affordability,false
+H01155,Suburban Park,319957,1521,3,3,5,1,0.29,true,false,F,8,9,3,10,8/4/24,6,B01155,358656,45-54,2,medium,false,Self-employed,Affordability,true
+H01032,Suburban Park,755241,3611,5,5,6,2,0.31,true,false,F,8,9,3,10,8/4/24,2,B01032,845353,45-54,4,high,true,Self-employed,Space & Bedrooms,false
+H02701,Suburban Park,625127,2798,5,5,6,1,0.32,true,false,F,8,9,3,10,8/4/24,61,B02701,711706,25-34,3,high,true,Self-employed,Space & Bedrooms,false
+H01283,Suburban Park,654941,2947,4,4,3,2,0.26,false,false,F,8,9,3,10,8/5/24,10,B01283,748085,45-54,3,high,false,Self-employed,Space & Bedrooms,false
+H05673,Suburban Park,434489,1745,2,3,11,2,0.26,true,false,E,8,9,3,10,8/7/24,7,B05673,500579,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H01730,Suburban Park,782608,3708,5,5,33,2,0.27,false,true,C,8,9,3,10,8/10/24,1,B01730,910210,55-64,3,high,true,Full-time employed,Space & Bedrooms,false
+H07334,Suburban Park,601368,2687,4,4,7,2,0.36,false,false,E,8,9,3,10,8/11/24,9,B07334,689591,35-44,3,high,false,Full-time employed,Low Maintenance,true
+H00551,Suburban Park,563904,2375,4,4,3,1,0.17,true,false,E,8,9,3,10,8/11/24,10,B00551,644004,35-44,2,high,false,Dual income,Location & Schools,false
+H02648,Suburban Park,595865,2854,5,5,27,2,0.24,false,false,D,8,9,3,10,8/12/24,39,B02648,693388,45-54,3,high,true,Self-employed,Space & Bedrooms,false
+H05906,Suburban Park,598916,2879,4,4,16,2,0.38,false,false,E,8,9,3,10,8/12/24,94,B05906,684266,35-44,4,high,false,Dual income,Location & Schools,false
+H05071,Suburban Park,468783,2562,5,5,18,1,0.28,false,false,C,8,9,3,10,8/12/24,59,B05071,506791,35-44,4,medium,false,Full-time employed,Affordability,false
+H01583,Suburban Park,544207,2475,4,4,27,1,0.25,true,false,C,8,9,3,10,8/13/24,49,B01583,618038,35-44,4,medium,true,Full-time employed,Space & Bedrooms,false
+H00175,Suburban Park,677979,3287,6,5,2,3,0.37,false,false,F,8,9,3,10,8/14/24,8,B00175,721351,55-64,4,high,false,Full-time employed,Modern & Updated,false
+H01394,Suburban Park,725854,3666,6,5,1,2,0.19,false,false,F,8,9,3,10,8/14/24,35,B01394,831080,35-44,6,high,true,Full-time employed,Space & Bedrooms,false
+H03879,Suburban Park,281670,1059,1,1,0,1,0.27,true,false,F,8,9,3,10,8/15/24,13,B03879,304952,55-64,1,medium,false,Retired,Affordability,false
+H01897,Suburban Park,848917,4347,6,5,32,2,0.41,false,false,D,8,9,3,10,8/15/24,13,B01897,927457,45-54,5,high,true,Self-employed,Affordability,false
+H03268,Suburban Park,442920,2001,2,2,3,1,0.35,false,false,E,8,9,3,10,8/16/24,55,B03268,474763,45-54,3,medium,true,Retired,Location & Schools,false
+H07033,Suburban Park,696760,3256,5,5,4,2,0.43,false,false,F,8,9,3,10,8/16/24,91,B07033,750519,35-44,2,high,false,Full-time employed,Location & Schools,false
+H05840,Suburban Park,364561,1341,2,2,5,1,0.16,false,false,D,8,9,3,10,8/16/24,37,B05840,429929,65+,1,medium,false,Self-employed,Low Maintenance,false
+H04222,Suburban Park,469872,2290,4,4,21,1,0.5,false,false,C,8,9,3,10,8/17/24,18,B04222,541396,45-54,3,medium,false,Dual income,Location & Schools,false
+H04509,Suburban Park,428490,1700,3,2,4,2,0.24,true,false,E,8,9,3,10,8/19/24,52,B04509,497008,25-34,2,medium,false,Dual income,Location & Schools,false
+H07284,Suburban Park,598237,2819,6,5,3,2,0.42,false,false,E,8,9,3,10,8/19/24,21,B07284,700796,45-54,3,high,true,Self-employed,Space & Bedrooms,false
+H00304,Suburban Park,262589,803,3,2,17,0,0.55,false,true,F,8,9,3,10,8/19/24,23,B00304,277275,35-44,1,low,false,Full-time employed,Affordability,false
+H05263,Suburban Park,669863,3316,5,5,7,3,0.42,true,false,F,8,9,3,10,8/21/24,2,B05263,711289,55-64,3,high,true,Self-employed,Affordability,false
+H05014,Suburban Park,289432,1561,3,3,12,0,0.49,false,false,D,8,9,3,10,8/21/24,55,B05014,329591,35-44,1,medium,false,Dual income,Location & Schools,true
+H06041,Suburban Park,308344,1686,3,3,8,0,0.24,false,false,F,8,9,3,10,8/25/24,19,B06041,342823,45-54,2,medium,false,Full-time employed,Affordability,false
+H05956,Suburban Park,718973,3413,6,5,15,2,0.31,false,false,C,8,9,3,10,8/25/24,18,B05956,777492,45-54,3,high,true,Full-time employed,Space & Bedrooms,false
+H00542,Suburban Park,348157,1575,3,3,1,2,0.26,true,false,E,8,9,3,10,8/26/24,107,B00542,389303,35-44,3,medium,true,Full-time employed,Location & Schools,false
+H00048,Suburban Park,337966,1692,2,2,11,0,0.17,false,false,D,8,9,3,10,8/28/24,18,B00048,364645,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H00278,Suburban Park,306822,800,1,1,3,1,0.48,true,false,F,8,9,3,10,8/28/24,21,B00278,324927,45-54,1,medium,false,Full-time employed,Modern & Updated,true
+H07647,Suburban Park,896382,4500,6,5,8,3,0.25,false,false,F,8,9,3,10,8/28/24,15,B07647,945975,45-54,5,high,true,Full-time employed,Location & Schools,false
+H05839,Suburban Park,359198,1298,2,2,3,1,0.57,false,true,F,8,9,3,10,9/1/24,10,B05839,382324,45-54,3,medium,false,Full-time employed,Affordability,false
+H04110,Suburban Park,618813,2507,5,5,18,2,0.25,true,false,E,8,9,3,10,9/2/24,6,B04110,652928,45-54,4,high,true,Self-employed,Space & Bedrooms,false
+H01378,Suburban Park,339473,1552,3,3,10,1,0.43,true,false,E,8,9,3,10,9/2/24,64,B01378,357492,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H02931,Suburban Park,523577,2409,3,3,5,2,0.39,false,false,F,8,9,3,10,9/2/24,48,B02931,603876,35-44,3,medium,true,Dual income,Space & Bedrooms,false
+H01760,Suburban Park,535550,2483,5,4,26,1,0.19,true,false,D,8,9,3,10,9/5/24,64,B01760,562431,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H03431,Suburban Park,725922,3497,6,5,16,3,0.3,false,false,D,8,9,3,10,9/7/24,22,B03431,797666,35-44,4,high,true,Full-time employed,Location & Schools,false
+H00977,Suburban Park,505626,2271,4,4,14,2,0.46,false,false,E,8,9,3,10,9/8/24,39,B00977,533167,25-34,1,medium,false,Full-time employed,Location & Schools,false
+H07256,Suburban Park,358049,1708,3,3,17,1,0.17,false,false,D,8,9,3,10,9/8/24,27,B07256,396333,55-64,2,medium,false,Full-time employed,Modern & Updated,true
+H00787,Suburban Park,584698,2394,4,4,3,1,0.69,true,false,F,8,9,3,10,9/13/24,14,B00787,626083,45-54,3,medium,false,Full-time employed,Location & Schools,false
+H06800,Suburban Park,255032,1027,2,2,8,1,0.3,false,false,D,8,9,3,10,9/13/24,41,B06800,279323,35-44,2,low,false,Full-time employed,Space & Bedrooms,false
+H01959,Suburban Park,469713,1876,4,3,7,1,0.23,true,false,E,8,9,3,10,9/15/24,4,B01959,536245,45-54,2,medium,false,Self-employed,Affordability,false
+H03572,Suburban Park,746197,3607,6,5,19,3,0.35,true,false,D,8,9,3,10,9/16/24,180,B03572,863290,35-44,3,high,false,Dual income,Low Maintenance,false
+H03134,Suburban Park,254859,1059,2,2,22,0,0.32,false,false,E,8,9,3,10,9/16/24,13,B03134,290491,25-34,1,medium,false,Full-time employed,Space & Bedrooms,true
+H05312,Suburban Park,338616,1515,3,2,11,1,0.17,false,false,E,8,9,3,10,9/16/24,12,B05312,365890,45-54,1,medium,false,Full-time employed,Location & Schools,false
+H05019,Suburban Park,621137,2691,5,4,11,1,0.19,false,false,D,8,9,3,10,9/17/24,6,B05019,722950,35-44,4,high,true,Full-time employed,Location & Schools,false
+H04174,Suburban Park,345256,1282,3,2,1,0,0.25,true,false,E,8,9,3,10,9/18/24,43,B04174,401218,25-34,1,medium,false,Full-time employed,Affordability,false
+H02560,Suburban Park,466193,2469,5,5,2,1,0.31,false,false,F,8,9,3,10,9/19/24,24,B02560,505953,25-34,1,medium,false,Dual income,Low Maintenance,false
+H04362,Suburban Park,179398,800,1,1,1,0,0.2,false,false,E,8,9,3,10,9/19/24,69,B04362,190521,25-34,1,low,false,Full-time employed,Modern & Updated,false
+H06007,Suburban Park,603411,2846,4,4,14,2,0.3,false,false,E,8,9,3,10,9/19/24,16,B06007,709076,35-44,4,high,false,Full-time employed,Modern & Updated,false
+H05355,Suburban Park,750067,3675,6,5,1,2,0.2,false,false,F,8,9,3,10,9/19/24,38,B05355,850904,45-54,4,high,true,Full-time employed,Space & Bedrooms,false
+H07761,Suburban Park,391612,1557,2,2,5,2,0.3,true,false,E,8,9,3,10,9/19/24,2,B07761,435097,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H07062,Suburban Park,334057,1560,3,3,33,1,0.21,false,false,C,8,9,3,10,9/22/24,53,B07062,391444,55-64,3,medium,false,Full-time employed,Affordability,false
+H02276,Suburban Park,325679,1451,4,4,60,1,0.3,true,false,B,8,9,3,10,9/23/24,36,B02276,348982,25-34,2,medium,false,Full-time employed,Location & Schools,false
+H04320,Suburban Park,693621,2752,5,5,6,2,0.31,true,false,C,8,9,3,10,9/23/24,31,B04320,799132,35-44,4,high,false,Dual income,Location & Schools,false
+H06890,Suburban Park,346602,1650,3,3,7,1,0.44,false,false,F,8,9,3,10,9/23/24,26,B06890,385030,35-44,3,medium,true,Self-employed,Location & Schools,true
+H02388,Suburban Park,500909,2480,4,4,5,2,0.4,false,false,F,8,9,3,10,9/26/24,17,B02388,555617,35-44,2,medium,false,Self-employed,Modern & Updated,false
+H06127,Suburban Park,473351,2129,3,3,3,2,0.14,false,false,E,8,9,3,10,9/28/24,17,B06127,543447,65+,1,medium,false,Retired,Location & Schools,false
+H00696,Suburban Park,363713,1868,4,4,1,1,0.22,false,false,F,8,9,3,10,9/28/24,12,B00696,425807,35-44,1,medium,false,Dual income,Location & Schools,false
+H02094,Suburban Park,715101,3158,5,5,26,2,0.42,false,true,E,8,9,3,10,9/28/24,42,B02094,796620,45-54,4,high,true,Self-employed,Affordability,false
+H05726,Suburban Park,915182,4500,6,5,8,3,0.27,true,false,F,8,9,3,10,10/1/24,65,B05726,1078205,35-44,4,high,true,Self-employed,Space & Bedrooms,false
+H04985,Suburban Park,366574,1871,3,3,3,1,0.35,false,false,E,8,9,3,10,10/1/24,9,B04985,389777,35-44,2,medium,false,Full-time employed,Affordability,false
+H05632,Suburban Park,696228,3168,6,5,4,2,0.41,true,false,F,8,9,3,10,10/2/24,35,B05632,760585,65+,2,high,false,Retired,Affordability,false
+H03072,Suburban Park,549693,2646,5,5,37,2,0.22,true,false,C,8,9,3,10,10/7/24,1,B03072,594249,35-44,3,medium,true,Full-time employed,Location & Schools,false
+H00049,Suburban Park,968260,4500,6,5,5,3,0.18,true,false,F,8,9,3,10,10/8/24,6,B00049,1049130,45-54,4,high,true,Self-employed,Investment,false
+H07956,Suburban Park,677781,3460,6,5,22,3,0.27,false,false,F,8,9,3,10,10/9/24,10,B07956,725588,25-34,3,high,false,Full-time employed,Location & Schools,false
+H05827,Suburban Park,750981,3410,6,5,10,2,0.26,true,false,F,8,9,3,10,10/11/24,180,B05827,841195,45-54,4,high,true,Full-time employed,Space & Bedrooms,false
+H02815,Suburban Park,808456,3809,6,5,7,2,0.2,true,false,F,8,9,3,10,10/13/24,38,B02815,873919,45-54,3,high,true,Full-time employed,Space & Bedrooms,false
+H01613,Suburban Park,463866,2040,4,4,1,1,0.14,true,false,F,8,9,3,10,10/14/24,15,B01613,495067,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H07244,Suburban Park,656215,3365,6,5,12,3,0.4,false,false,D,8,9,3,10,10/14/24,18,B07244,732469,55-64,4,high,false,Retired,Space & Bedrooms,false
+H05882,Suburban Park,209829,1082,2,2,12,0,0.29,true,false,F,8,9,3,10,10/14/24,62,B05882,225000,35-44,1,low,false,Self-employed,Space & Bedrooms,false
+H00663,Suburban Park,550078,2523,4,4,9,2,0.21,true,false,E,8,9,3,10,10/16/24,11,B00663,621944,35-44,4,medium,true,Dual income,Space & Bedrooms,false
+H00256,Suburban Park,680013,3354,6,5,22,2,0.77,true,false,E,8,9,3,10,10/17/24,18,B00256,732335,65+,1,high,false,Retired,Affordability,false
+H06638,Suburban Park,796673,3545,6,5,60,2,0.28,false,true,B,8,9,3,10,10/17/24,77,B06638,929426,35-44,4,high,true,Full-time employed,Space & Bedrooms,false
+H02431,Suburban Park,472317,2612,4,4,18,2,0.15,false,false,E,8,9,3,10,10/21/24,151,B02431,543587,35-44,3,medium,true,Dual income,Space & Bedrooms,false
+H04947,Suburban Park,722181,3468,5,5,10,2,0.23,true,false,F,8,9,3,10,10/21/24,67,B04947,787142,35-44,4,high,true,Full-time employed,Location & Schools,true
+H06547,Suburban Park,226519,920,1,1,19,0,0.13,false,false,D,8,9,3,10,10/22/24,34,B06547,249632,35-44,1,low,false,Full-time employed,Affordability,false
+H05554,Suburban Park,255813,800,2,2,20,2,0.28,false,false,D,8,9,3,10,10/23/24,24,B05554,273064,45-54,3,low,true,Full-time employed,Location & Schools,false
+H01641,Suburban Park,266295,1037,2,2,37,1,0.19,false,true,C,8,9,3,10,10/23/24,64,B01641,303493,45-54,3,medium,true,Retired,Affordability,false
+H00173,Suburban Park,220329,800,1,1,5,1,0.31,false,false,E,8,9,3,10,10/23/24,2,B00173,247060,45-54,1,low,false,Self-employed,Space & Bedrooms,false
+H02514,Suburban Park,459327,2406,4,4,16,1,0.55,false,false,D,8,9,3,10,10/24/24,4,B02514,538251,35-44,3,medium,true,Full-time employed,Space & Bedrooms,true
+H04432,Suburban Park,386513,1858,3,3,9,2,0.33,false,false,E,8,9,3,10,10/24/24,90,B04432,429529,35-44,3,medium,true,Dual income,Space & Bedrooms,false
+H03005,Suburban Park,583664,3099,5,5,5,2,0.38,false,false,F,8,9,3,10,10/25/24,5,B03005,682000,45-54,3,high,false,Self-employed,Affordability,false
+H04212,Suburban Park,230169,1066,2,2,7,0,0.51,false,false,E,8,9,3,10,10/25/24,6,B04212,261305,35-44,1,low,false,Dual income,Affordability,true
+H01878,Suburban Park,416464,2117,3,3,31,2,0.3,false,false,D,8,9,3,10,10/26/24,24,B01878,481155,35-44,1,medium,false,Self-employed,Space & Bedrooms,false
+H04715,Suburban Park,501364,2188,4,4,6,2,0.38,false,false,F,8,9,3,10,11/1/24,1,B04715,583784,35-44,2,medium,false,Full-time employed,Affordability,true
+H00942,Suburban Park,442833,1763,3,3,20,1,0.34,false,true,E,8,9,3,10,11/6/24,24,B00942,486642,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H05045,Suburban Park,464987,2099,4,4,1,1,0.3,false,false,F,8,9,3,10,11/7/24,87,B05045,546215,25-34,2,medium,false,Dual income,Investment,false
+H01429,Suburban Park,760312,3745,5,5,7,3,0.26,false,false,E,8,9,3,10,11/8/24,5,B01429,858051,45-54,4,high,true,Full-time employed,Location & Schools,false
+H01850,Suburban Park,427538,1853,4,4,16,1,0.28,false,false,E,8,9,3,10,11/11/24,25,B01850,480506,45-54,2,medium,false,Self-employed,Space & Bedrooms,false
+H07043,Suburban Park,549670,2466,4,4,5,1,0.22,true,false,F,8,9,3,10,11/11/24,1,B07043,589131,45-54,3,medium,true,Self-employed,Space & Bedrooms,false
+H01733,Suburban Park,501880,2050,3,3,1,2,0.32,true,false,F,8,9,3,10,11/13/24,18,B01733,564961,45-54,3,medium,true,Full-time employed,Modern & Updated,false
+H07672,Suburban Park,416785,1763,3,3,11,0,0.29,true,false,E,8,9,3,10,11/14/24,12,B07672,460150,45-54,2,medium,false,Dual income,Affordability,false
+H01895,Suburban Park,528598,2930,5,5,6,2,0.23,true,false,F,8,9,3,10,11/14/24,10,B01895,602568,55-64,3,medium,true,Self-employed,Space & Bedrooms,false
+H00545,Suburban Park,491553,2430,4,4,4,2,0.42,false,false,F,8,9,3,10,11/15/24,27,B00545,530794,35-44,4,medium,true,Dual income,Affordability,false
+H00364,Suburban Park,363520,1508,3,3,5,1,0.2,true,false,F,8,9,3,10,11/16/24,13,B00364,407082,25-34,1,medium,false,Full-time employed,Affordability,false
+H03978,Suburban Park,804057,3425,6,5,0,2,0.34,true,true,F,8,9,3,10,11/18/24,27,B03978,929456,35-44,3,high,true,Full-time employed,Low Maintenance,false
+H07160,Suburban Park,477939,2530,4,5,21,1,0.52,true,false,E,8,9,3,10,11/19/24,15,B07160,562850,25-34,1,medium,false,Full-time employed,Affordability,false
+H05077,Suburban Park,610913,2877,5,5,12,1,0.46,false,false,E,8,9,3,10,11/19/24,2,B05077,683591,45-54,2,high,false,Self-employed,Location & Schools,false
+H04893,Suburban Park,514436,2032,3,3,50,2,0.35,true,true,C,8,9,3,10,11/19/24,38,B04893,566762,35-44,1,medium,false,Dual income,Space & Bedrooms,true
+H03961,Suburban Park,617235,2882,6,5,12,2,0.24,false,false,D,8,9,3,10,11/19/24,34,B03961,691902,55-64,4,high,false,Full-time employed,Modern & Updated,false
+H02745,Suburban Park,746080,3505,6,5,8,3,0.53,false,false,D,8,9,3,10,11/20/24,78,B02745,853645,45-54,6,high,true,Self-employed,Affordability,false
+H05997,Suburban Park,389533,1640,3,3,0,2,0.28,true,false,F,8,9,3,10,11/22/24,28,B05997,446322,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H03841,Suburban Park,412396,1789,4,4,9,1,0.37,false,false,D,8,9,3,10,11/23/24,32,B03841,458794,25-34,2,medium,false,Self-employed,Affordability,false
+H05520,Suburban Park,258096,1064,2,2,10,2,0.29,false,false,F,8,9,3,10,11/23/24,7,B05520,278529,25-34,1,low,false,Dual income,Location & Schools,false
+H03999,Suburban Park,914777,4076,6,5,12,2,0.23,true,true,F,8,9,3,10,11/24/24,42,B03999,1008784,25-34,3,high,true,Full-time employed,Low Maintenance,false
+H06457,Suburban Park,552717,2878,6,5,6,1,0.41,false,false,F,8,9,3,10,11/25/24,179,B06457,583511,65+,2,medium,false,Retired,Modern & Updated,false
+H02644,Suburban Park,498138,2213,4,4,12,2,0.4,true,false,C,8,9,3,10,11/26/24,5,B02644,533964,55-64,1,medium,false,Full-time employed,Affordability,false
+H01168,Suburban Park,613642,2910,4,4,17,2,0.51,false,false,E,8,9,3,10,11/27/24,11,B01168,708062,35-44,4,high,true,Dual income,Location & Schools,false
+H02691,Suburban Park,509412,2206,3,3,4,2,0.32,false,false,F,8,9,3,10,11/27/24,89,B02691,556639,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H04076,Suburban Park,682019,3064,5,5,1,2,0.56,false,false,F,8,9,3,10,11/28/24,14,B04076,728833,55-64,4,high,true,Retired,Space & Bedrooms,false
+H02279,Suburban Park,566648,2504,4,4,1,2,0.29,true,false,F,8,9,3,10,12/3/24,72,B02279,637409,45-54,3,high,false,Full-time employed,Space & Bedrooms,false
+H02503,Suburban Park,561378,2709,5,4,1,2,0.48,false,false,F,8,9,3,10,12/3/24,144,B02503,638920,25-34,2,high,false,Full-time employed,Low Maintenance,false
+H06860,Suburban Park,467212,2014,3,3,11,1,0.45,true,false,E,8,9,3,10,12/6/24,64,B06860,516464,35-44,1,medium,false,Full-time employed,Location & Schools,false
+H00929,Suburban Park,346300,1404,2,3,0,0,0.32,false,false,F,8,9,3,10,12/8/24,16,B00929,394913,25-34,1,medium,false,Dual income,Location & Schools,false
+H02465,Suburban Park,686212,3267,5,5,1,3,0.43,false,false,D,8,9,3,10,12/9/24,10,B02465,724610,35-44,2,high,false,Dual income,Low Maintenance,false
+H04629,Suburban Park,371203,1977,3,3,2,2,0.42,true,false,F,8,9,3,10,12/10/24,3,B04629,412562,25-34,1,medium,false,Full-time employed,Space & Bedrooms,true
+H05493,Suburban Park,797448,3546,6,5,1,2,0.25,true,false,E,8,9,3,10,12/10/24,9,B05493,837904,55-64,4,high,true,Full-time employed,Modern & Updated,false
+H05979,Suburban Park,948105,4211,6,5,11,2,0.37,false,false,D,8,9,3,10,12/10/24,37,B05979,1080090,45-54,5,high,true,Self-employed,Location & Schools,false
+H00980,Suburban Park,774544,3587,5,5,8,2,0.16,true,false,D,8,9,3,10,12/12/24,24,B00980,851168,25-34,2,high,false,Full-time employed,Low Maintenance,false
+H06014,Suburban Park,650152,3029,4,5,1,3,0.17,false,false,F,8,9,3,10,12/12/24,16,B06014,736965,35-44,3,high,true,Dual income,Location & Schools,false
+H01610,Suburban Park,644910,2858,5,4,58,2,0.26,true,true,A,8,9,3,10,12/13/24,12,B01610,683982,25-34,3,high,false,Full-time employed,Modern & Updated,false
+H01873,Suburban Park,461909,1919,4,4,9,2,0.29,true,false,E,8,9,3,10,12/13/24,55,B01873,537045,55-64,3,medium,true,Retired,Modern & Updated,false
+H03221,Suburban Park,643776,3211,5,5,2,2,0.54,false,false,F,8,9,3,10,12/13/24,13,B03221,695422,45-54,3,high,true,Full-time employed,Low Maintenance,false
+H06634,Suburban Park,317104,1145,2,2,9,1,0.4,true,false,D,8,9,3,10,12/14/24,119,B06634,334123,35-44,1,medium,false,Dual income,Low Maintenance,false
+H04345,Suburban Park,862525,4126,6,5,23,2,0.92,false,false,C,8,9,3,10,12/14/24,58,B04345,958337,45-54,4,high,true,Dual income,Location & Schools,false
+H03063,Suburban Park,608051,3353,6,5,20,2,0.29,false,false,E,8,9,3,10,12/16/24,68,B03063,643099,45-54,4,high,true,Full-time employed,Space & Bedrooms,false
+H01060,Suburban Park,608200,2948,5,4,9,1,0.24,false,true,F,8,9,3,10,12/17/24,38,B01060,639017,45-54,3,high,true,Dual income,Space & Bedrooms,false
+H00327,Suburban Park,435708,1810,3,3,8,1,0.32,true,false,E,8,9,3,10,12/19/24,75,B00327,497176,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H06266,Suburban Park,438135,2029,3,3,6,1,0.4,false,false,D,8,9,3,10,12/22/24,2,B06266,515050,35-44,2,medium,false,Self-employed,Affordability,false
+H07394,Suburban Park,575196,2615,3,4,11,1,0.28,true,false,D,8,9,3,10,12/22/24,25,B07394,604225,35-44,2,medium,false,Full-time employed,Investment,true
+H07876,Suburban Park,219033,800,2,3,3,1,0.43,false,false,F,8,9,3,10,12/24/24,11,B07876,242167,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
+H05629,Suburban Park,458125,1900,3,3,3,1,0.17,true,false,F,8,9,3,10,12/26/24,28,B05629,506968,35-44,2,medium,false,Full-time employed,Location & Schools,false
+H03881,Suburban Park,639251,3014,5,5,13,3,0.34,true,false,F,8,9,3,10,12/28/24,7,B03881,747811,65+,1,high,false,Retired,Investment,true

@@ -1,0 +1,814 @@
+house_id,neighborhood,price,square_feet,num_bedrooms,num_bathrooms,house_age,garage_spaces,lot_size_acres,has_pool,recently_renovated,energy_rating,location_score,school_rating,crime_rate,distance_downtown_miles,sale_date,days_on_market,buyer_id,buyer_budget,buyer_age_group,buyer_family_size,buyer_income_level,has_children,employment_type,buyer_preference,first_time_buyer
+H01217,Riverside,143109,800,2,2,2,0,0.16,false,false,F,8,8,4,3,1/1/22,18,B01217,166196,35-44,1,low,false,Full-time employed,Space & Bedrooms,false
+H00614,Riverside,279850,1180,1,2,16,1,0.08,false,false,D,8,8,4,3,1/4/22,8,B00614,307076,25-34,1,medium,false,Self-employed,Affordability,false
+H07612,Riverside,164931,800,2,2,2,0,0.14,true,false,E,8,8,4,3,1/5/22,13,B07612,186779,65+,1,low,false,Retired,Affordability,false
+H03677,Riverside,283563,1428,3,2,9,0,0.21,false,false,C,8,8,4,3,1/7/22,1,B03677,328984,55-64,2,medium,false,Full-time employed,Affordability,false
+H05094,Riverside,361286,1720,2,2,29,2,0.17,false,false,C,8,8,4,3,1/8/22,11,B05094,390659,35-44,1,medium,false,Full-time employed,Affordability,false
+H02936,Riverside,239466,831,2,2,25,0,0.21,true,false,D,8,8,4,3,1/12/22,64,B02936,274955,35-44,1,low,false,Full-time employed,Space & Bedrooms,false
+H05511,Riverside,475181,2089,4,4,5,1,0.24,false,false,E,8,8,4,3,1/12/22,31,B05511,526858,45-54,3,medium,true,Full-time employed,Space & Bedrooms,false
+H03211,Riverside,670295,3234,6,5,6,3,0.25,false,false,E,8,8,4,3,1/17/22,102,B03211,786521,45-54,4,high,true,Full-time employed,Location & Schools,false
+H07849,Riverside,424587,2181,2,2,14,2,0.09,false,false,E,8,8,4,3,1/22/22,18,B07849,477449,25-34,1,medium,false,Full-time employed,Affordability,false
+H02250,Riverside,326916,1673,2,2,2,1,0.09,false,false,F,8,8,4,3,1/22/22,7,B02250,377278,25-34,1,medium,false,Full-time employed,Location & Schools,false
+H03517,Riverside,288357,1358,3,2,2,1,0.28,false,false,D,8,8,4,3,1/23/22,26,B03517,337826,35-44,1,medium,false,Dual income,Affordability,false
+H07380,Riverside,570092,2679,4,4,34,1,0.13,true,false,C,8,8,4,3,2/1/22,1,B07380,642739,35-44,2,high,false,Full-time employed,Location & Schools,false
+H07375,Riverside,451903,2025,4,4,4,2,0.18,false,false,E,8,8,4,3,2/3/22,81,B07375,522118,35-44,1,medium,false,Self-employed,Modern & Updated,false
+H01096,Riverside,426518,2475,4,4,27,1,0.24,true,false,D,8,8,4,3,2/6/22,1,B01096,461810,45-54,3,medium,true,Self-employed,Affordability,true
+H04464,Riverside,720136,3192,5,5,9,2,0.18,false,true,F,8,8,4,3,2/7/22,7,B04464,760933,45-54,4,high,true,Full-time employed,Location & Schools,false
+H02087,Riverside,461849,1812,3,3,25,1,0.12,false,true,D,8,8,4,3,2/7/22,16,B02087,511245,45-54,2,medium,false,Full-time employed,Affordability,false
+H05656,Riverside,629935,2706,3,4,1,1,0.14,true,false,F,8,8,4,3,2/10/22,70,B05656,685591,45-54,2,high,false,Self-employed,Modern & Updated,false
+H02814,Riverside,668272,3172,5,5,32,3,0.19,false,false,C,8,8,4,3,2/13/22,8,B02814,733667,25-34,3,high,false,Full-time employed,Location & Schools,false
+H00588,Riverside,493106,2258,3,3,29,2,0.1,true,false,C,8,8,4,3,2/13/22,13,B00588,553705,35-44,2,medium,false,Self-employed,Affordability,false
+H06584,Riverside,389870,2144,4,4,3,2,0.12,false,false,F,8,8,4,3,2/14/22,15,B06584,425712,25-34,2,medium,false,Full-time employed,Modern & Updated,false
+H00771,Riverside,242376,1102,2,2,32,0,0.13,false,false,D,8,8,4,3,2/15/22,12,B00771,276564,35-44,1,low,false,Full-time employed,Space & Bedrooms,false
+H06774,Riverside,383738,1769,4,4,6,1,0.19,false,false,F,8,8,4,3,2/17/22,11,B06774,404293,45-54,3,medium,true,Dual income,Location & Schools,false
+H04797,Riverside,652534,2855,5,4,6,1,0.17,true,false,E,8,8,4,3,2/17/22,34,B04797,727506,55-64,4,high,false,Self-employed,Location & Schools,false
+H00810,Riverside,551608,2494,4,5,4,1,0.12,false,false,E,8,8,4,3,2/21/22,23,B00810,650603,45-54,2,high,false,Full-time employed,Modern & Updated,true
+H06844,Riverside,711056,2737,4,5,15,2,0.14,true,false,D,8,8,4,3,2/24/22,17,B06844,750423,45-54,2,high,false,Full-time employed,Investment,false
+H07175,Riverside,442273,2027,3,3,40,2,0.26,false,true,C,8,8,4,3,2/28/22,30,B07175,477159,35-44,2,medium,false,Full-time employed,Modern & Updated,false
+H00557,Riverside,401439,1786,2,2,0,0,0.21,false,false,F,8,8,4,3,3/1/22,37,B00557,451181,55-64,1,medium,false,Dual income,Modern & Updated,false
+H06639,Riverside,512257,2431,4,4,3,2,0.09,false,false,F,8,8,4,3,3/2/22,58,B06639,555810,55-64,2,medium,false,Dual income,Space & Bedrooms,false
+H07504,Riverside,532352,2314,3,3,6,2,0.16,false,false,F,8,8,4,3,3/8/22,25,B07504,597219,35-44,1,medium,false,Self-employed,Space & Bedrooms,false
+H05357,Riverside,665651,2820,3,4,0,2,0.15,false,false,E,8,8,4,3,3/10/22,52,B05357,728510,35-44,2,high,false,Full-time employed,Space & Bedrooms,false
+H05685,Riverside,594410,2416,3,3,4,2,0.09,false,true,F,8,8,4,3,3/10/22,6,B05685,686748,45-54,3,high,true,Full-time employed,Space & Bedrooms,true
+H05536,Riverside,534398,2658,5,4,10,2,0.21,false,false,E,8,8,4,3,3/10/22,25,B05536,617412,45-54,4,medium,false,Self-employed,Affordability,false
+H06816,Riverside,467894,2291,5,4,3,1,0.14,false,false,F,8,8,4,3,3/11/22,4,B06816,544744,45-54,2,medium,false,Retired,Space & Bedrooms,false
+H05370,Riverside,500696,2353,3,4,56,2,0.09,false,false,A,8,8,4,3,3/11/22,72,B05370,547484,45-54,2,medium,false,Full-time employed,Modern & Updated,false
+H04151,Riverside,653874,3176,5,5,2,2,0.12,false,false,F,8,8,4,3,3/13/22,97,B04151,742453,35-44,3,high,true,Self-employed,Space & Bedrooms,false
+H04400,Riverside,562109,2902,6,5,15,1,0.13,false,false,E,8,8,4,3,3/14/22,6,B04400,612076,45-54,5,medium,false,Self-employed,Location & Schools,false
+H07726,Riverside,353868,1646,4,3,43,0,0.2,false,true,B,8,8,4,3,3/14/22,80,B07726,396694,35-44,3,medium,true,Full-time employed,Location & Schools,false
+H06669,Riverside,478685,2177,2,3,25,1,0.25,false,false,D,8,8,4,3,3/14/22,102,B06669,515864,35-44,1,medium,false,Full-time employed,Modern & Updated,true
+H05764,Riverside,492440,2493,3,3,11,1,0.13,false,false,E,8,8,4,3,3/14/22,7,B05764,525929,65+,1,medium,false,Dual income,Investment,false
+H06263,Riverside,327854,1346,3,3,20,2,0.15,true,true,F,8,8,4,3,3/15/22,18,B06263,357249,65+,1,medium,false,Retired,Investment,false
+H01401,Riverside,458395,1750,2,2,24,0,0.17,true,true,D,8,8,4,3,3/15/22,9,B01401,482437,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H03546,Riverside,536539,2574,4,4,21,1,0.18,false,false,D,8,8,4,3,3/16/22,5,B03546,582238,25-34,1,medium,false,Self-employed,Modern & Updated,false
+H00731,Riverside,605325,2800,5,5,17,1,0.16,true,false,D,8,8,4,3,3/17/22,46,B00731,704405,35-44,4,high,true,Full-time employed,Location & Schools,false
+H01586,Riverside,231360,845,1,1,5,0,0.13,true,false,F,8,8,4,3,3/17/22,36,B01586,263618,25-34,1,low,false,Full-time employed,Affordability,false
+H03173,Riverside,187493,800,2,2,7,1,0.24,false,false,F,8,8,4,3,3/18/22,61,B03173,198601,25-34,1,low,false,Full-time employed,Affordability,false
+H03620,Riverside,556801,2552,4,4,4,2,0.14,false,false,E,8,8,4,3,3/19/22,180,B03620,624908,35-44,2,medium,false,Full-time employed,Affordability,false
+H06039,Riverside,435988,1999,2,2,7,1,0.41,false,false,E,8,8,4,3,3/19/22,46,B06039,470270,55-64,1,medium,false,Full-time employed,Space & Bedrooms,false
+H03770,Riverside,371198,1334,2,2,29,2,0.16,true,false,C,8,8,4,3,3/20/22,14,B03770,419351,25-34,1,medium,false,Dual income,Location & Schools,false
+H04170,Riverside,570779,2430,3,3,52,2,0.11,false,true,C,8,8,4,3,3/20/22,35,B04170,662447,35-44,2,high,false,Full-time employed,Investment,false
+H01677,Riverside,562874,2424,3,4,11,2,0.18,true,false,E,8,8,4,3,3/21/22,104,B01677,655789,45-54,4,high,true,Full-time employed,Affordability,false
+H03559,Riverside,650902,2895,4,5,3,1,0.12,false,false,F,8,8,4,3,3/22/22,60,B03559,699997,25-34,1,high,false,Full-time employed,Location & Schools,false
+H06947,Riverside,715798,3519,5,5,16,2,0.17,false,false,F,8,8,4,3,3/24/22,30,B06947,758041,45-54,3,high,false,Retired,Low Maintenance,false
+H00590,Riverside,958406,4500,6,5,2,2,0.1,false,false,F,8,8,4,3,3/24/22,28,B00590,1047799,45-54,4,high,true,Full-time employed,Low Maintenance,false
+H00006,Riverside,646256,3123,5,5,3,2,0.17,false,false,F,8,8,4,3,3/25/22,1,B00006,755319,25-34,2,high,false,Dual income,Modern & Updated,false
+H00431,Riverside,532441,2480,4,4,14,2,0.16,false,false,D,8,8,4,3,3/25/22,4,B00431,574134,45-54,3,medium,true,Self-employed,Space & Bedrooms,false
+H05108,Riverside,765463,3734,5,5,8,3,0.13,false,false,F,8,8,4,3,3/28/22,14,B05108,892920,55-64,3,high,true,Full-time employed,Affordability,false
+H04906,Riverside,315464,1812,3,3,2,1,0.18,false,false,E,8,8,4,3,4/1/22,11,B04906,358029,55-64,1,medium,false,Full-time employed,Modern & Updated,false
+H01599,Riverside,325930,997,2,2,42,1,0.17,true,false,B,8,8,4,3,4/1/22,38,B01599,361554,35-44,1,medium,false,Full-time employed,Location & Schools,true
+H07142,Riverside,617036,2654,6,5,8,1,0.14,true,false,E,8,8,4,3,4/2/22,47,B07142,709930,25-34,2,high,false,Full-time employed,Location & Schools,false
+H00461,Riverside,576201,2616,3,3,27,1,0.13,false,false,C,8,8,4,3,4/5/22,8,B00461,606117,45-54,2,medium,false,Full-time employed,Location & Schools,false
+H07443,Riverside,390317,1913,3,3,32,1,0.14,false,false,C,8,8,4,3,4/6/22,28,B07443,411022,35-44,2,medium,false,Dual income,Low Maintenance,false
+H06227,Riverside,659138,3028,5,5,40,3,0.15,true,false,B,8,8,4,3,4/6/22,14,B06227,697581,35-44,4,high,true,Dual income,Modern & Updated,false
+H02356,Riverside,786882,3840,6,5,31,3,0.15,true,false,C,8,8,4,3,4/7/22,6,B02356,853372,35-44,3,high,true,Dual income,Affordability,false
+H05011,Riverside,432888,1576,2,2,4,1,0.25,true,false,F,8,8,4,3,4/8/22,34,B05011,506786,25-34,1,medium,false,Full-time employed,Location & Schools,false
+H04997,Riverside,527376,2074,4,4,13,2,0.23,true,false,E,8,8,4,3,4/8/22,35,B04997,555015,55-64,1,medium,false,Retired,Space & Bedrooms,false
+H00284,Riverside,553020,2440,4,4,45,1,0.11,false,true,B,8,8,4,3,4/8/22,10,B00284,585234,55-64,3,medium,true,Retired,Modern & Updated,false
+H05030,Riverside,585974,2656,4,4,0,1,0.18,true,false,F,8,8,4,3,4/9/22,5,B05030,657417,25-34,1,high,false,Self-employed,Low Maintenance,false
+H06136,Riverside,513799,2153,3,3,2,1,0.06,true,false,E,8,8,4,3,4/11/22,17,B06136,565307,25-34,1,medium,false,Full-time employed,Location & Schools,false
+H06047,Riverside,399407,1751,3,3,11,1,0.15,true,false,E,8,8,4,3,4/14/22,15,B06047,432946,45-54,2,medium,false,Full-time employed,Location & Schools,false
+H06044,Riverside,639177,3117,5,5,39,2,0.14,false,false,B,8,8,4,3,4/14/22,14,B06044,735740,35-44,2,high,false,Dual income,Modern & Updated,false
+H00761,Riverside,383333,1701,3,2,42,0,0.11,false,false,C,8,8,4,3,4/15/22,1,B00761,438564,35-44,2,medium,false,Dual income,Affordability,false
+H02271,Riverside,534503,2718,5,5,5,1,0.25,false,false,E,8,8,4,3,4/18/22,10,B02271,585011,35-44,4,medium,true,Dual income,Low Maintenance,false
+H00240,Riverside,238241,800,2,2,58,1,0.17,false,true,C,8,8,4,3,4/18/22,65,B00240,267866,35-44,1,low,false,Self-employed,Affordability,true
+H06726,Riverside,520342,2313,4,4,7,2,0.15,false,false,E,8,8,4,3,4/21/22,33,B06726,569377,35-44,1,medium,false,Full-time employed,Affordability,false
+H07382,Riverside,659965,3131,4,4,17,2,0.09,true,false,E,8,8,4,3,4/22/22,84,B07382,717776,35-44,3,high,true,Full-time employed,Modern & Updated,false
+H00598,Riverside,179347,1009,1,1,11,1,0.16,false,false,E,8,8,4,3,4/23/22,39,B00598,191128,35-44,1,low,false,Self-employed,Affordability,true
+H06711,Riverside,305574,1211,1,1,4,0,0.15,true,false,D,8,8,4,3,4/23/22,80,B06711,336920,45-54,1,medium,false,Self-employed,Investment,false
+H00656,Riverside,904369,3984,6,5,60,2,0.17,false,false,A,8,8,4,3,4/23/22,75,B00656,1060851,55-64,3,high,false,Dual income,Location & Schools,false
+H02538,Riverside,609232,2883,4,5,16,2,0.14,false,false,E,8,8,4,3,4/24/22,32,B02538,718016,55-64,2,high,false,Full-time employed,Location & Schools,true
+H07030,Riverside,337243,1662,3,3,21,0,0.17,false,false,D,8,8,4,3,4/25/22,21,B07030,385963,25-34,1,medium,false,Self-employed,Investment,false
+H00153,Riverside,263340,980,1,1,12,2,0.09,true,false,E,8,8,4,3,4/26/22,32,B00153,296823,25-34,1,medium,false,Dual income,Space & Bedrooms,false
+H02427,Riverside,540000,2721,5,5,14,1,0.17,false,false,F,8,8,4,3,4/26/22,96,B02427,617489,35-44,4,medium,true,Full-time employed,Location & Schools,false
+H02440,Riverside,802313,3724,6,5,6,2,0.15,true,false,D,8,8,4,3,4/26/22,7,B02440,936316,45-54,3,high,true,Full-time employed,Location & Schools,false
+H05344,Riverside,618453,2997,5,5,1,1,0.14,false,false,F,8,8,4,3,4/26/22,64,B05344,708012,35-44,4,high,false,Dual income,Location & Schools,false
+H05978,Riverside,314895,1254,2,2,3,1,0.15,true,false,F,8,8,4,3,4/27/22,30,B05978,369868,35-44,1,medium,false,Dual income,Location & Schools,false
+H06025,Riverside,337215,1261,2,2,25,1,0.14,true,false,E,8,8,4,3,4/27/22,38,B06025,372055,25-34,1,medium,false,Full-time employed,Affordability,false
+H00203,Riverside,833708,3312,6,5,44,3,0.18,false,true,B,8,8,4,3,5/2/22,9,B00203,944262,35-44,4,high,true,Dual income,Location & Schools,false
+H06196,Riverside,694022,3022,5,5,16,2,0.13,true,false,E,8,8,4,3,5/2/22,1,B06196,742117,65+,1,high,false,Retired,Low Maintenance,false
+H03101,Riverside,253073,907,2,2,19,1,0.1,true,false,C,8,8,4,3,5/4/22,4,B03101,281539,35-44,2,medium,false,Dual income,Low Maintenance,false
+H01110,Riverside,496649,2435,5,5,20,2,0.17,false,false,E,8,8,4,3,5/5/22,27,B01110,549677,25-34,1,medium,false,Full-time employed,Affordability,false
+H06520,Riverside,440795,1691,3,3,13,1,0.09,true,false,F,8,8,4,3,5/5/22,12,B06520,489158,45-54,1,medium,false,Full-time employed,Space & Bedrooms,false
+H01576,Riverside,615358,2643,4,4,6,2,0.23,false,false,F,8,8,4,3,5/6/22,23,B01576,654672,35-44,3,high,true,Dual income,Space & Bedrooms,false
+H05985,Riverside,619339,2569,5,5,56,1,0.1,false,true,B,8,8,4,3,5/6/22,10,B05985,662151,55-64,3,high,true,Full-time employed,Location & Schools,false
+H06832,Riverside,566933,2345,4,4,60,2,0.13,false,true,B,8,8,4,3,5/7/22,34,B06832,667967,35-44,3,high,true,Full-time employed,Investment,false
+H04420,Riverside,166340,800,1,1,9,2,0.15,false,false,F,8,8,4,3,5/7/22,29,B04420,182688,25-34,1,low,false,Full-time employed,Modern & Updated,false
+H03470,Riverside,580609,2603,4,4,9,2,0.13,true,false,E,8,8,4,3,5/9/22,12,B03470,636444,55-64,3,high,false,Full-time employed,Modern & Updated,false
+H00834,Riverside,670731,2814,6,5,5,2,0.07,false,false,E,8,8,4,3,5/9/22,24,B00834,730984,35-44,4,high,true,Full-time employed,Space & Bedrooms,false
+H01369,Riverside,663193,3026,5,5,3,3,0.13,true,false,F,8,8,4,3,5/10/22,50,B01369,758035,45-54,3,high,false,Full-time employed,Investment,false
+H01157,Riverside,432270,1787,3,3,48,1,0.17,true,true,D,8,8,4,3,5/11/22,22,B01157,479265,55-64,1,medium,false,Self-employed,Space & Bedrooms,true
+H07531,Riverside,515982,2367,3,3,52,2,0.16,true,false,D,8,8,4,3,5/13/22,36,B07531,552230,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H06105,Riverside,632899,3127,5,5,1,2,0.14,false,false,F,8,8,4,3,5/14/22,14,B06105,727783,35-44,2,high,false,Full-time employed,Investment,false
+H03838,Riverside,196103,1171,3,2,21,0,0.19,false,false,D,8,8,4,3,5/16/22,58,B03838,214675,35-44,1,low,false,Full-time employed,Location & Schools,false
+H06220,Riverside,355181,1870,3,3,26,2,0.15,false,false,C,8,8,4,3,5/16/22,19,B06220,390285,45-54,2,medium,false,Full-time employed,Space & Bedrooms,false
+H01213,Riverside,326368,1279,2,2,47,1,0.15,true,true,C,8,8,4,3,5/17/22,90,B01213,382683,25-34,1,medium,false,Self-employed,Affordability,false
+H07576,Riverside,493748,2365,4,4,43,2,0.07,true,false,B,8,8,4,3,5/17/22,38,B07576,540036,25-34,2,medium,false,Full-time employed,Affordability,false
+H07944,Riverside,569790,2654,4,4,14,1,0.22,true,false,E,8,8,4,3,5/17/22,15,B07944,637351,25-34,1,high,false,Full-time employed,Modern & Updated,false
+H00959,Riverside,937743,4145,6,5,45,2,0.2,true,false,A,8,8,4,3,5/18/22,14,B00959,986796,55-64,4,high,false,Full-time employed,Space & Bedrooms,false
+H06030,Riverside,528831,2476,3,3,3,1,0.15,false,false,F,8,8,4,3,5/21/22,29,B06030,605714,45-54,1,medium,false,Full-time employed,Space & Bedrooms,false
+H06024,Riverside,569795,2595,5,5,26,1,0.14,true,false,C,8,8,4,3,5/22/22,51,B06024,646429,25-34,2,high,false,Full-time employed,Location & Schools,false
+H04389,Riverside,435659,1883,3,3,5,2,0.2,false,true,F,8,8,4,3,5/23/22,9,B04389,457810,55-64,1,medium,false,Retired,Location & Schools,false
+H06391,Riverside,483677,2026,3,3,54,1,0.16,true,false,A,8,8,4,3,5/25/22,20,B06391,519375,35-44,3,medium,true,Dual income,Investment,false
+H05229,Riverside,301540,1242,2,2,6,1,0.22,false,true,F,8,8,4,3,5/26/22,132,B05229,316731,45-54,1,medium,false,Full-time employed,Modern & Updated,false
+H00423,Riverside,407416,1894,3,3,17,2,0.11,false,false,C,8,8,4,3,5/27/22,3,B00423,448065,35-44,2,medium,false,Self-employed,Low Maintenance,false
+H02168,Riverside,385404,1833,3,3,9,2,0.17,false,false,F,8,8,4,3,6/2/22,39,B02168,410552,45-54,3,medium,false,Full-time employed,Modern & Updated,false
+H04143,Riverside,596131,2787,4,4,31,1,0.19,false,false,B,8,8,4,3,6/3/22,18,B04143,653770,45-54,3,high,true,Full-time employed,Low Maintenance,false
+H01669,Riverside,820779,3794,6,5,7,3,0.12,true,false,F,8,8,4,3,6/3/22,2,B01669,917266,65+,1,high,false,Self-employed,Modern & Updated,false
+H00223,Riverside,760157,3361,6,5,30,3,0.16,true,false,D,8,8,4,3,6/3/22,61,B00223,849822,25-34,3,high,false,Self-employed,Location & Schools,true
+H01698,Riverside,893840,4230,6,5,60,2,0.18,false,false,A,8,8,4,3,6/4/22,83,B01698,1035996,45-54,4,high,true,Self-employed,Location & Schools,false
+H03098,Riverside,619134,2926,5,5,20,1,0.14,true,false,E,8,8,4,3,6/6/22,57,B03098,726014,55-64,4,high,true,Retired,Location & Schools,true
+H03592,Riverside,418735,2150,4,4,5,2,0.15,false,false,E,8,8,4,3,6/6/22,1,B03592,486551,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H04301,Riverside,363440,1570,2,2,29,1,0.22,false,true,E,8,8,4,3,6/8/22,3,B04301,406437,55-64,1,medium,false,Full-time employed,Affordability,false
+H04986,Riverside,261056,1108,2,2,17,1,0.19,true,false,D,8,8,4,3,6/12/22,16,B04986,285408,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H02038,Riverside,510751,2191,3,3,10,2,0.15,false,false,E,8,8,4,3,6/13/22,46,B02038,586424,55-64,2,medium,false,Full-time employed,Space & Bedrooms,false
+H06989,Riverside,926032,3894,6,5,0,3,0.28,true,false,E,8,8,4,3,6/14/22,39,B06989,1012472,45-54,3,high,true,Full-time employed,Location & Schools,false
+H05090,Riverside,601338,2720,5,5,2,2,0.15,true,false,E,8,8,4,3,6/15/22,2,B05090,673626,55-64,4,high,false,Retired,Location & Schools,false
+H04667,Riverside,562953,2899,4,4,5,2,0.16,false,false,E,8,8,4,3,6/17/22,51,B04667,642562,55-64,3,high,false,Full-time employed,Modern & Updated,false
+H06505,Riverside,536491,2155,4,4,3,1,0.13,true,false,F,8,8,4,3,6/17/22,37,B06505,596106,45-54,2,medium,false,Self-employed,Affordability,true
+H07204,Riverside,755987,3571,6,5,28,3,0.17,false,false,B,8,8,4,3,6/18/22,9,B07204,833581,35-44,4,high,false,Self-employed,Modern & Updated,true
+H00961,Riverside,615888,2697,5,5,11,1,0.24,false,false,D,8,8,4,3,6/19/22,47,B00961,697484,25-34,2,high,false,Full-time employed,Location & Schools,false
+H07563,Riverside,632900,2957,5,5,7,2,0.15,true,false,E,8,8,4,3,6/19/22,26,B07563,688041,45-54,3,high,false,Dual income,Location & Schools,false
+H04511,Riverside,504947,2255,3,3,17,2,0.26,false,false,D,8,8,4,3,6/21/22,100,B04511,532566,45-54,2,medium,false,Dual income,Affordability,false
+H06002,Riverside,544207,2713,4,4,31,2,0.12,false,false,C,8,8,4,3,6/21/22,22,B06002,621660,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H06872,Riverside,561357,2808,5,5,47,1,0.15,false,false,A,8,8,4,3,6/21/22,54,B06872,644743,65+,2,high,false,Self-employed,Modern & Updated,false
+H03181,Riverside,250661,1069,2,2,10,1,0.18,false,false,E,8,8,4,3,6/22/22,25,B03181,275191,25-34,1,low,false,Self-employed,Space & Bedrooms,false
+H07482,Riverside,539304,2299,4,4,3,1,0.17,true,false,F,8,8,4,3,6/22/22,3,B07482,591702,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H03079,Riverside,523107,2344,6,5,3,2,0.26,false,false,E,8,8,4,3,6/23/22,58,B03079,608019,65+,2,medium,false,Self-employed,Affordability,false
+H05952,Riverside,715569,3122,6,5,1,3,0.16,false,false,F,8,8,4,3,7/2/22,31,B05952,823916,45-54,3,high,true,Self-employed,Location & Schools,false
+H07243,Riverside,609893,2700,5,5,29,2,0.15,false,true,E,8,8,4,3,7/2/22,82,B07243,654907,45-54,5,high,false,Self-employed,Low Maintenance,false
+H03536,Riverside,701833,3406,6,5,16,2,0.16,false,false,E,8,8,4,3,7/2/22,10,B03536,740600,45-54,3,high,true,Full-time employed,Space & Bedrooms,false
+H05183,Riverside,459488,1809,4,4,36,2,0.18,false,false,B,8,8,4,3,7/3/22,30,B05183,536580,55-64,2,medium,false,Dual income,Affordability,true
+H07301,Riverside,842936,3993,6,5,9,2,0.2,false,false,E,8,8,4,3,7/3/22,37,B07301,922859,45-54,5,high,true,Self-employed,Low Maintenance,true
+H04369,Riverside,586411,3053,6,5,37,2,0.09,false,false,D,8,8,4,3,7/4/22,9,B04369,620800,55-64,5,medium,true,Self-employed,Low Maintenance,false
+H02339,Riverside,846387,3812,6,5,2,3,0.1,false,false,F,8,8,4,3,7/4/22,20,B02339,917345,25-34,3,high,false,Full-time employed,Location & Schools,true
+H01082,Riverside,364790,1624,2,2,36,2,0.21,false,false,C,8,8,4,3,7/5/22,4,B01082,428112,45-54,1,medium,false,Full-time employed,Space & Bedrooms,false
+H00953,Riverside,652226,2998,5,5,7,2,0.19,true,false,E,8,8,4,3,7/5/22,180,B00953,726117,55-64,3,high,false,Self-employed,Investment,false
+H01366,Riverside,539411,1907,2,2,6,2,0.1,true,true,E,8,8,4,3,7/7/22,6,B01366,572710,55-64,1,medium,false,Full-time employed,Affordability,false
+H05391,Riverside,771445,3692,6,5,15,2,0.07,false,false,C,8,8,4,3,7/11/22,33,B05391,905528,35-44,4,high,true,Dual income,Location & Schools,false
+H04279,Riverside,325186,1359,3,3,4,1,0.2,true,false,E,8,8,4,3,7/11/22,68,B04279,372714,45-54,2,medium,false,Dual income,Low Maintenance,false
+H07976,Riverside,286741,1370,3,3,10,1,0.14,false,false,F,8,8,4,3,7/14/22,36,B07976,335733,35-44,1,medium,false,Dual income,Affordability,false
+H00180,Riverside,185854,800,1,1,0,0,0.19,false,false,F,8,8,4,3,7/15/22,7,B00180,204939,45-54,1,low,false,Full-time employed,Modern & Updated,false
+H04481,Riverside,330336,1674,3,3,22,1,0.21,false,false,D,8,8,4,3,7/18/22,68,B04481,365044,25-34,1,medium,false,Full-time employed,Affordability,false
+H00354,Riverside,868384,3993,6,5,20,2,0.09,false,false,C,8,8,4,3,7/18/22,73,B00354,975435,55-64,4,high,true,Dual income,Investment,false
+H04114,Riverside,418450,2170,3,3,6,2,0.24,false,false,E,8,8,4,3,7/19/22,10,B04114,474866,45-54,2,medium,false,Full-time employed,Space & Bedrooms,false
+H06170,Riverside,316738,1397,2,3,39,0,0.16,true,false,C,8,8,4,3,7/21/22,82,B06170,347296,45-54,1,medium,false,Self-employed,Location & Schools,true
+H03229,Riverside,690924,3080,5,5,6,3,0.23,true,false,D,8,8,4,3,7/21/22,149,B03229,740722,35-44,4,high,true,Full-time employed,Location & Schools,false
+H00889,Riverside,611324,2490,4,4,10,2,0.15,true,false,E,8,8,4,3,7/21/22,21,B00889,656212,25-34,1,high,false,Full-time employed,Modern & Updated,false
+H00699,Riverside,679704,3058,5,5,19,2,0.15,false,false,D,8,8,4,3,7/22/22,44,B00699,714339,45-54,3,high,false,Full-time employed,Low Maintenance,false
+H02202,Riverside,518024,2108,3,3,4,2,0.14,true,false,E,8,8,4,3,7/23/22,15,B02202,584177,35-44,3,medium,true,Self-employed,Modern & Updated,false
+H00410,Riverside,806062,3642,6,5,8,2,0.18,true,false,E,8,8,4,3,7/23/22,169,B00410,920615,55-64,4,high,false,Full-time employed,Low Maintenance,false
+H02748,Riverside,676116,3159,6,5,1,2,0.09,true,false,F,8,8,4,3,7/23/22,19,B02748,729052,35-44,4,high,false,Full-time employed,Location & Schools,false
+H04428,Riverside,264446,1341,1,1,12,2,0.18,false,false,F,8,8,4,3,7/24/22,68,B04428,302406,35-44,1,medium,false,Full-time employed,Location & Schools,false
+H03329,Riverside,961046,4164,6,5,51,2,0.13,true,false,A,8,8,4,3,7/25/22,77,B03329,1037421,25-34,2,high,false,Full-time employed,Space & Bedrooms,false
+H02667,Riverside,621123,2830,4,4,2,1,0.12,false,false,F,8,8,4,3,7/26/22,3,B02667,695493,55-64,3,high,false,Retired,Modern & Updated,false
+H00041,Riverside,499749,2216,4,4,18,2,0.18,true,false,E,8,8,4,3,7/27/22,40,B00041,580329,45-54,2,medium,false,Dual income,Modern & Updated,false
+H00751,Riverside,742814,3298,5,5,60,2,0.16,false,false,A,8,8,4,3,7/28/22,4,B00751,836033,45-54,3,high,false,Dual income,Location & Schools,true
+H01322,Riverside,382549,1683,3,3,25,0,0.09,false,true,D,8,8,4,3,8/1/22,27,B01322,451350,65+,1,medium,false,Retired,Space & Bedrooms,false
+H01885,Riverside,602635,2852,5,5,6,1,0.14,false,false,E,8,8,4,3,8/1/22,20,B01885,659410,35-44,4,high,true,Full-time employed,Location & Schools,false
+H05784,Riverside,760454,3759,6,5,23,3,0.22,true,false,D,8,8,4,3,8/2/22,112,B05784,873193,45-54,4,high,true,Full-time employed,Location & Schools,false
+H05165,Riverside,446196,2051,4,4,22,2,0.12,false,false,C,8,8,4,3,8/3/22,124,B05165,505137,35-44,2,medium,false,Full-time employed,Location & Schools,false
+H03043,Riverside,612120,2374,4,5,60,2,0.19,true,false,A,8,8,4,3,8/5/22,11,B03043,706650,25-34,1,high,false,Full-time employed,Space & Bedrooms,true
+H03852,Riverside,356572,1069,2,2,59,1,0.1,true,false,A,8,8,4,3,8/6/22,16,B03852,375164,55-64,1,medium,false,Full-time employed,Modern & Updated,false
+H06496,Riverside,389563,1772,3,3,8,1,0.2,false,false,E,8,8,4,3,8/7/22,3,B06496,438774,45-54,2,medium,false,Full-time employed,Space & Bedrooms,false
+H00455,Riverside,648494,2660,5,4,60,2,0.2,false,true,A,8,8,4,3,8/9/22,3,B00455,691085,45-54,2,high,false,Retired,Space & Bedrooms,false
+H00032,Riverside,457474,2085,3,3,1,1,0.14,false,false,F,8,8,4,3,8/11/22,52,B00032,533660,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H05802,Riverside,702395,3355,6,5,16,2,0.13,false,false,D,8,8,4,3,8/16/22,49,B05802,743398,25-34,3,high,true,Self-employed,Affordability,false
+H03379,Riverside,519848,1986,4,4,4,1,0.22,true,false,E,8,8,4,3,8/16/22,28,B03379,596934,25-34,1,medium,false,Self-employed,Space & Bedrooms,false
+H03674,Riverside,427997,1855,3,3,10,1,0.31,true,false,D,8,8,4,3,8/17/22,1,B03674,460494,25-34,1,medium,false,Full-time employed,Affordability,true
+H00884,Riverside,672355,2969,5,5,12,2,0.14,true,false,E,8,8,4,3,8/17/22,19,B00884,792393,55-64,2,high,false,Retired,Modern & Updated,false
+H00441,Riverside,205616,925,2,2,17,1,0.18,false,false,D,8,8,4,3,8/18/22,7,B00441,225164,25-34,1,low,false,Full-time employed,Location & Schools,false
+H04826,Riverside,368357,1362,2,2,38,1,0.15,false,false,B,8,8,4,3,8/19/22,30,B04826,397187,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H02360,Riverside,298709,1077,2,2,0,1,0.18,true,false,E,8,8,4,3,8/20/22,93,B02360,337310,55-64,1,medium,false,Dual income,Space & Bedrooms,false
+H03252,Riverside,479056,2141,5,5,8,1,0.16,false,false,E,8,8,4,3,8/21/22,6,B03252,535873,45-54,5,medium,true,Dual income,Space & Bedrooms,false
+H07959,Riverside,397825,1713,3,3,23,1,0.14,true,false,D,8,8,4,3,8/23/22,34,B07959,452536,65+,1,medium,false,Retired,Investment,false
+H05729,Riverside,649750,2737,4,5,60,2,0.09,false,true,A,8,8,4,3,8/25/22,9,B05729,738098,45-54,3,high,false,Full-time employed,Low Maintenance,false
+H07409,Riverside,353953,1782,4,3,48,2,0.2,true,false,B,8,8,4,3,8/25/22,9,B07409,383711,25-34,2,medium,false,Dual income,Affordability,false
+H05725,Riverside,205922,1324,3,3,6,1,0.14,false,false,F,8,8,4,3,8/26/22,9,B05725,229329,35-44,2,low,false,Dual income,Location & Schools,false
+H02828,Riverside,703034,3248,4,5,17,2,0.12,false,true,F,8,8,4,3,8/26/22,55,B02828,742834,65+,1,high,false,Retired,Modern & Updated,true
+H06017,Riverside,737877,3406,5,5,2,3,0.17,false,false,F,8,8,4,3,9/2/22,6,B06017,813562,35-44,4,high,true,Self-employed,Location & Schools,false
+H04977,Riverside,619901,2733,4,5,12,2,0.12,true,false,D,8,8,4,3,9/3/22,41,B04977,667471,55-64,3,high,true,Retired,Affordability,false
+H00388,Riverside,371542,1716,3,3,16,0,0.18,false,false,D,8,8,4,3,9/4/22,73,B00388,411803,45-54,2,medium,false,Full-time employed,Affordability,false
+H03954,Riverside,259149,1121,3,3,1,1,0.2,false,false,E,8,8,4,3,9/4/22,7,B03954,293676,45-54,2,medium,false,Dual income,Affordability,false
+H01418,Riverside,331411,1226,2,2,6,1,0.16,true,false,E,8,8,4,3,9/7/22,9,B01418,372615,35-44,1,medium,false,Full-time employed,Modern & Updated,false
+H03938,Riverside,741658,3108,5,5,1,2,0.12,false,false,F,8,8,4,3,9/7/22,37,B03938,873856,45-54,3,high,false,Full-time employed,Affordability,false
+H06621,Riverside,445924,1875,3,3,2,2,0.14,true,false,F,8,8,4,3,9/9/22,17,B06621,520360,45-54,2,medium,false,Full-time employed,Space & Bedrooms,false
+H00673,Riverside,769020,3569,6,5,38,2,0.11,false,false,B,8,8,4,3,9/9/22,15,B00673,860774,35-44,5,high,true,Self-employed,Modern & Updated,false
+H00671,Riverside,950826,4080,6,5,3,2,0.13,false,false,F,8,8,4,3,9/12/22,38,B00671,1010033,45-54,3,high,true,Self-employed,Investment,false
+H07440,Riverside,290379,1447,3,3,19,1,0.15,false,false,D,8,8,4,3,9/13/22,147,B07440,337953,45-54,2,medium,false,Self-employed,Modern & Updated,true
+H04035,Riverside,362986,1601,2,3,1,0,0.1,false,false,F,8,8,4,3,9/14/22,17,B04035,421955,55-64,1,medium,false,Dual income,Investment,false
+H04147,Riverside,406854,2038,4,4,23,1,0.2,false,false,F,8,8,4,3,9/14/22,10,B04147,431271,45-54,2,medium,false,Full-time employed,Affordability,false
+H07751,Riverside,350855,1611,3,3,4,0,0.11,false,false,F,8,8,4,3,9/16/22,73,B07751,383384,45-54,2,medium,false,Self-employed,Affordability,false
+H07419,Riverside,709108,3443,6,5,7,2,0.16,false,false,E,8,8,4,3,9/17/22,34,B07419,808623,45-54,6,high,true,Full-time employed,Location & Schools,false
+H04845,Riverside,403681,1717,3,2,4,0,0.09,false,false,F,8,8,4,3,9/18/22,5,B04845,474059,35-44,1,medium,false,Dual income,Space & Bedrooms,true
+H06565,Riverside,585776,2643,5,4,7,2,0.17,false,false,F,8,8,4,3,9/22/22,82,B06565,672438,55-64,3,high,false,Full-time employed,Space & Bedrooms,false
+H01735,Riverside,218151,938,2,2,38,1,0.16,false,true,D,8,8,4,3,9/25/22,16,B01735,232588,25-34,1,low,false,Dual income,Affordability,false
+H06735,Riverside,873921,4035,6,5,21,2,0.11,true,false,D,8,8,4,3,9/25/22,30,B06735,976296,45-54,5,high,false,Self-employed,Modern & Updated,false
+H00334,Riverside,449412,1989,3,3,8,2,0.15,false,false,D,8,8,4,3,9/25/22,4,B00334,484969,35-44,3,medium,false,Self-employed,Modern & Updated,false
+H07623,Riverside,878445,4294,6,5,60,2,0.21,false,false,A,8,8,4,3,9/26/22,9,B07623,959936,35-44,4,high,true,Self-employed,Investment,false
+H06291,Riverside,358923,1600,2,2,20,1,0.22,true,false,B,8,8,4,3,9/26/22,180,B06291,401253,45-54,1,medium,false,Self-employed,Space & Bedrooms,true
+H07545,Riverside,559797,2319,4,4,29,2,0.17,false,true,D,8,8,4,3,9/27/22,75,B07545,640027,55-64,2,high,false,Retired,Space & Bedrooms,false
+H06069,Riverside,566267,2613,4,4,1,1,0.12,true,false,F,8,8,4,3,10/3/22,1,B06069,648641,45-54,4,high,true,Self-employed,Modern & Updated,false
+H03930,Riverside,364722,1260,3,3,43,1,0.24,true,true,B,8,8,4,3,10/3/22,6,B03930,429693,45-54,1,medium,false,Full-time employed,Affordability,false
+H01986,Riverside,261681,1418,2,2,19,2,0.11,false,false,D,8,8,4,3,10/4/22,19,B01986,278731,35-44,3,low,true,Dual income,Location & Schools,false
+H01254,Riverside,569258,2586,4,4,49,2,0.13,false,false,A,8,8,4,3,10/4/22,8,B01254,615344,25-34,2,medium,false,Self-employed,Modern & Updated,true
+H01593,Riverside,133418,800,1,1,4,0,0.14,true,false,F,8,8,4,3,10/6/22,133,B01593,148333,25-34,1,low,false,Dual income,Location & Schools,true
+H07152,Riverside,648625,2420,4,4,2,1,0.23,true,true,F,8,8,4,3,10/8/22,59,B07152,687770,45-54,2,high,false,Dual income,Investment,false
+H04811,Riverside,493478,2376,4,4,6,2,0.37,true,false,F,8,8,4,3,10/9/22,1,B04811,525706,35-44,4,medium,true,Dual income,Investment,true
+H06106,Riverside,426773,1591,2,2,19,2,0.14,true,false,D,8,8,4,3,10/10/22,26,B06106,481111,25-34,1,medium,false,Dual income,Location & Schools,false
+H02991,Riverside,289366,925,2,2,3,1,0.24,true,false,E,8,8,4,3,10/12/22,10,B02991,308321,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H03873,Riverside,377579,1747,3,3,15,1,0.17,false,false,E,8,8,4,3,10/14/22,16,B03873,431663,55-64,2,medium,false,Self-employed,Investment,true
+H04298,Riverside,544459,2672,4,4,8,1,0.1,true,false,F,8,8,4,3,10/14/22,50,B04298,588484,35-44,3,medium,true,Self-employed,Location & Schools,false
+H05535,Riverside,491192,2326,4,4,23,1,0.19,false,false,D,8,8,4,3,10/15/22,16,B05535,539866,25-34,3,medium,true,Self-employed,Space & Bedrooms,false
+H01482,Riverside,921039,4500,6,5,26,3,0.2,true,false,C,8,8,4,3,10/16/22,3,B01482,997721,45-54,5,high,false,Full-time employed,Location & Schools,false
+H07514,Riverside,314719,1402,2,2,14,1,0.09,true,false,E,8,8,4,3,10/18/22,73,B07514,355591,45-54,1,medium,false,Full-time employed,Affordability,false
+H04306,Riverside,448178,2247,3,3,14,1,0.16,false,false,E,8,8,4,3,10/18/22,25,B04306,491073,45-54,2,medium,false,Retired,Investment,false
+H00776,Riverside,886668,4214,6,5,47,3,0.14,true,false,A,8,8,4,3,10/21/22,89,B00776,993939,45-54,3,high,true,Dual income,Space & Bedrooms,false
+H01381,Riverside,571631,2151,4,3,0,1,0.17,true,false,E,8,8,4,3,10/21/22,87,B01381,633568,35-44,2,high,false,Full-time employed,Modern & Updated,false
+H00591,Riverside,304340,1218,2,2,47,1,0.26,false,true,D,8,8,4,3,10/25/22,32,B00591,321532,25-34,1,medium,false,Full-time employed,Affordability,false
+H00440,Riverside,392773,1990,4,4,5,1,0.12,false,false,E,8,8,4,3,11/2/22,35,B00440,439234,25-34,3,medium,true,Full-time employed,Location & Schools,true
+H04791,Riverside,517758,2290,4,4,2,2,0.35,false,false,E,8,8,4,3,11/6/22,136,B04791,581273,55-64,3,medium,false,Full-time employed,Affordability,false
+H06146,Riverside,294925,1264,1,1,6,1,0.11,true,false,E,8,8,4,3,11/8/22,24,B06146,331074,55-64,1,medium,false,Self-employed,Investment,false
+H05397,Riverside,624362,2735,4,4,5,1,0.18,true,false,F,8,8,4,3,11/8/22,32,B05397,670272,55-64,3,high,true,Self-employed,Modern & Updated,false
+H02506,Riverside,528157,2319,5,5,3,2,0.11,false,false,F,8,8,4,3,11/10/22,11,B02506,564191,35-44,3,medium,true,Dual income,Affordability,true
+H07295,Riverside,536811,2498,4,4,18,1,0.11,true,false,E,8,8,4,3,11/13/22,15,B07295,565266,35-44,2,medium,false,Dual income,Modern & Updated,false
+H01791,Riverside,472835,2252,3,3,52,1,0.34,false,false,A,8,8,4,3,11/15/22,1,B01791,557210,35-44,3,medium,true,Self-employed,Modern & Updated,false
+H01088,Riverside,688591,3102,6,5,44,2,0.13,false,true,C,8,8,4,3,11/15/22,121,B01088,767896,25-34,3,high,true,Full-time employed,Affordability,true
+H00182,Riverside,481213,2045,4,4,8,2,0.19,false,false,C,8,8,4,3,11/16/22,82,B00182,555750,35-44,4,medium,false,Self-employed,Modern & Updated,true
+H03731,Riverside,597293,2803,5,5,7,1,0.13,false,false,E,8,8,4,3,11/19/22,14,B03731,674427,45-54,3,high,true,Self-employed,Location & Schools,false
+H04541,Riverside,368589,1594,4,3,57,0,0.18,true,false,B,8,8,4,3,11/20/22,48,B04541,407936,65+,1,medium,false,Retired,Low Maintenance,false
+H04261,Riverside,496555,2380,3,4,5,2,0.13,false,false,F,8,8,4,3,11/21/22,23,B04261,529338,65+,1,medium,false,Self-employed,Affordability,false
+H05724,Riverside,569878,2792,5,5,18,2,0.19,false,false,D,8,8,4,3,11/24/22,1,B05724,622197,55-64,2,medium,false,Self-employed,Modern & Updated,false
+H03034,Riverside,438486,2176,4,4,25,1,0.08,false,false,D,8,8,4,3,11/24/22,62,B03034,514167,45-54,2,medium,false,Full-time employed,Affordability,false
+H02173,Riverside,610899,2780,4,4,2,1,0.11,false,false,E,8,8,4,3,11/26/22,25,B02173,644103,25-34,2,high,false,Full-time employed,Space & Bedrooms,false
+H00450,Riverside,361347,1651,3,4,5,0,0.14,false,false,E,8,8,4,3,11/28/22,6,B00450,417017,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H05916,Riverside,487093,2281,4,4,6,2,0.29,false,false,E,8,8,4,3,12/8/22,15,B05916,555537,45-54,4,medium,false,Full-time employed,Space & Bedrooms,false
+H03199,Riverside,484278,2103,4,4,4,2,0.13,false,false,E,8,8,4,3,12/10/22,9,B03199,545483,45-54,3,medium,true,Dual income,Space & Bedrooms,false
+H02997,Riverside,604182,2464,3,3,10,2,0.11,true,false,D,8,8,4,3,12/10/22,11,B02997,706485,35-44,4,high,false,Full-time employed,Location & Schools,false
+H06108,Riverside,192114,800,1,1,3,1,0.2,true,false,F,8,8,4,3,12/13/22,14,B06108,223800,35-44,1,low,false,Full-time employed,Affordability,false
+H01446,Riverside,577098,2612,5,5,9,1,0.15,false,false,D,8,8,4,3,12/14/22,27,B01446,650145,45-54,3,high,true,Full-time employed,Modern & Updated,false
+H05825,Riverside,535274,2223,6,5,44,1,0.17,false,true,C,8,8,4,3,12/14/22,27,B05825,593953,45-54,4,medium,true,Full-time employed,Space & Bedrooms,false
+H04467,Riverside,626821,3067,4,4,22,2,0.17,true,false,D,8,8,4,3,12/15/22,76,B04467,706473,45-54,3,high,true,Dual income,Investment,false
+H07645,Riverside,967164,4500,6,5,60,3,0.22,false,true,A,8,8,4,3,12/18/22,8,B07645,1022857,35-44,6,high,true,Full-time employed,Modern & Updated,false
+H06268,Riverside,319939,1918,3,3,40,1,0.23,false,false,C,8,8,4,3,12/20/22,72,B06268,348708,35-44,1,medium,false,Full-time employed,Affordability,false
+H00435,Riverside,686815,3082,5,5,7,3,0.15,false,false,D,8,8,4,3,12/21/22,42,B00435,734066,35-44,3,high,false,Dual income,Space & Bedrooms,false
+H03682,Riverside,593783,2567,4,5,26,1,0.16,true,false,C,8,8,4,3,12/24/22,2,B03682,646420,65+,1,high,false,Full-time employed,Low Maintenance,false
+H06159,Riverside,190164,953,2,2,60,1,0.15,false,false,A,8,8,4,3,12/26/22,139,B06159,218332,25-34,1,low,false,Full-time employed,Affordability,false
+H02946,Riverside,315426,1448,2,2,6,0,0.16,true,false,E,8,8,4,3,1/1/23,34,B02946,365611,35-44,1,medium,false,Full-time employed,Affordability,false
+H00677,Riverside,867280,3761,6,5,18,2,0.14,false,true,F,8,8,4,3,1/2/23,132,B00677,974748,45-54,4,high,false,Self-employed,Location & Schools,false
+H03225,Riverside,280915,1268,2,2,3,1,0.17,false,false,F,8,8,4,3,1/4/23,4,B03225,315886,45-54,1,medium,false,Full-time employed,Investment,false
+H04185,Riverside,495671,2126,2,2,60,1,0.12,false,false,A,8,8,4,3,1/5/23,37,B04185,564227,45-54,1,medium,false,Full-time employed,Affordability,false
+H00645,Riverside,176213,800,1,1,39,2,0.1,false,false,B,8,8,4,3,1/7/23,9,B00645,186936,65+,1,low,false,Retired,Space & Bedrooms,false
+H05289,Riverside,628277,2858,5,5,14,2,0.17,false,false,D,8,8,4,3,1/13/23,1,B05289,718233,45-54,4,high,true,Self-employed,Location & Schools,false
+H01655,Riverside,583791,2309,4,4,17,1,0.2,true,false,C,8,8,4,3,1/13/23,25,B01655,645192,35-44,3,high,false,Dual income,Location & Schools,false
+H03612,Riverside,636552,3068,5,5,16,3,0.08,false,false,D,8,8,4,3,1/17/23,110,B03612,700780,45-54,2,high,false,Self-employed,Investment,true
+H00191,Riverside,650162,3215,5,5,32,3,0.16,false,false,B,8,8,4,3,1/18/23,17,B00191,696143,45-54,4,high,false,Dual income,Location & Schools,false
+H03646,Riverside,463591,1789,3,3,2,0,0.13,true,false,F,8,8,4,3,1/18/23,17,B03646,499612,55-64,2,medium,false,Retired,Affordability,false
+H01868,Riverside,564589,2243,3,3,0,2,0.17,false,false,F,8,8,4,3,1/19/23,30,B01868,598871,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H07249,Riverside,710630,3063,5,5,3,2,0.18,true,false,F,8,8,4,3,1/19/23,58,B07249,801930,35-44,3,high,true,Full-time employed,Space & Bedrooms,false
+H02285,Riverside,857375,4036,6,5,3,2,0.13,true,false,F,8,8,4,3,1/19/23,161,B02285,959546,35-44,3,high,true,Full-time employed,Location & Schools,false
+H03216,Riverside,769058,3426,6,5,5,2,0.17,false,false,E,8,8,4,3,1/20/23,1,B03216,820467,45-54,3,high,true,Full-time employed,Location & Schools,false
+H05519,Riverside,477840,1851,3,3,12,2,0.25,true,false,D,8,8,4,3,1/22/23,23,B05519,513342,35-44,1,medium,false,Dual income,Affordability,false
+H01948,Riverside,569880,2960,6,5,3,1,0.14,false,false,F,8,8,4,3,1/22/23,18,B01948,667258,35-44,4,high,false,Full-time employed,Modern & Updated,false
+H07885,Riverside,639959,2746,4,4,12,1,0.16,true,true,F,8,8,4,3,1/23/23,46,B07885,689788,25-34,2,high,false,Full-time employed,Location & Schools,false
+H04834,Riverside,214546,1128,1,1,31,0,0.11,false,false,C,8,8,4,3,1/23/23,100,B04834,237898,25-34,1,low,false,Full-time employed,Modern & Updated,false
+H04028,Riverside,730916,3312,6,5,1,3,0.17,false,false,F,8,8,4,3,1/24/23,17,B04028,809501,25-34,3,high,true,Self-employed,Location & Schools,false
+H06994,Riverside,648570,3321,6,5,31,3,0.09,false,false,C,8,8,4,3,1/24/23,63,B06994,753383,25-34,2,high,false,Full-time employed,Low Maintenance,false
+H06438,Riverside,706113,3199,5,5,0,2,0.14,false,false,F,8,8,4,3,1/24/23,20,B06438,818312,35-44,4,high,false,Dual income,Modern & Updated,false
+H01815,Riverside,369702,1427,3,3,11,1,0.19,true,false,E,8,8,4,3,1/24/23,1,B01815,432488,25-34,1,medium,false,Full-time employed,Investment,false
+H07652,Riverside,935964,4005,6,5,20,2,0.22,true,false,C,8,8,4,3,1/25/23,101,B07652,1043825,35-44,5,high,true,Self-employed,Space & Bedrooms,false
+H06763,Riverside,527384,2406,4,4,13,2,0.27,true,false,F,8,8,4,3,1/27/23,4,B06763,581616,25-34,1,medium,false,Dual income,Modern & Updated,false
+H05721,Riverside,654093,2842,5,5,5,2,0.13,true,false,E,8,8,4,3,1/27/23,15,B05721,702512,55-64,4,high,false,Full-time employed,Space & Bedrooms,true
+H04674,Riverside,570679,2571,4,3,25,2,0.14,false,false,C,8,8,4,3,1/27/23,17,B04674,617269,45-54,3,medium,true,Self-employed,Space & Bedrooms,true
+H05133,Riverside,180495,823,1,1,19,0,0.24,false,false,D,8,8,4,3,1/28/23,20,B05133,192350,35-44,3,low,false,Full-time employed,Location & Schools,false
+H03524,Riverside,288344,955,2,2,24,2,0.16,true,false,E,8,8,4,3,2/2/23,54,B03524,313411,45-54,1,medium,false,Full-time employed,Space & Bedrooms,false
+H00373,Riverside,664060,3195,5,5,2,2,0.19,false,false,F,8,8,4,3,2/3/23,7,B00373,757060,35-44,2,high,false,Full-time employed,Investment,false
+H01253,Riverside,684802,3122,6,5,5,3,0.19,false,false,F,8,8,4,3,2/4/23,51,B01253,752093,55-64,4,high,false,Self-employed,Location & Schools,false
+H00589,Riverside,717134,3263,5,5,2,3,0.16,false,false,F,8,8,4,3,2/5/23,57,B00589,823664,45-54,3,high,true,Full-time employed,Affordability,false
+H02128,Riverside,421718,1863,2,2,3,1,0.16,true,false,F,8,8,4,3,2/6/23,42,B02128,490181,45-54,1,medium,false,Full-time employed,Location & Schools,false
+H00520,Riverside,759586,4009,6,5,39,2,0.2,false,false,B,8,8,4,3,2/8/23,3,B00520,863190,25-34,3,high,true,Full-time employed,Location & Schools,false
+H03616,Riverside,366256,1858,3,3,2,2,0.14,false,false,E,8,8,4,3,2/13/23,30,B03616,414980,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H07830,Riverside,595719,3003,4,4,6,3,0.14,false,false,F,8,8,4,3,2/14/23,4,B07830,640054,35-44,1,high,false,Full-time employed,Space & Bedrooms,false
+H06626,Riverside,617201,2684,4,4,26,1,0.15,false,true,E,8,8,4,3,2/15/23,14,B06626,671612,35-44,2,high,false,Full-time employed,Space & Bedrooms,false
+H02744,Riverside,263519,1000,1,1,14,0,0.2,false,false,D,8,8,4,3,2/17/23,24,B02744,300197,35-44,1,medium,false,Self-employed,Investment,false
+H05178,Riverside,244711,1235,2,2,6,0,0.05,false,false,C,8,8,4,3,2/20/23,82,B05178,267087,35-44,3,low,true,Self-employed,Location & Schools,false
+H00430,Riverside,349356,1545,2,2,9,0,0.11,false,false,F,8,8,4,3,2/20/23,31,B00430,386670,35-44,1,medium,false,Dual income,Modern & Updated,false
+H05951,Riverside,959538,4493,6,5,9,3,0.09,false,false,E,8,8,4,3,2/22/23,5,B05951,1047388,45-54,5,high,true,Self-employed,Location & Schools,false
+H01292,Riverside,502069,2254,5,5,2,2,0.28,true,false,F,8,8,4,3,2/23/23,6,B01292,570112,35-44,3,medium,true,Dual income,Space & Bedrooms,false
+H04857,Riverside,618574,2941,4,4,1,1,0.07,true,false,E,8,8,4,3,2/23/23,28,B04857,694488,35-44,2,high,false,Full-time employed,Location & Schools,false
+H03041,Riverside,846261,3613,6,5,10,3,0.19,false,false,E,8,8,4,3,3/1/23,45,B03041,989880,25-34,2,high,false,Full-time employed,Location & Schools,false
+H02972,Riverside,712960,3283,6,5,0,2,0.07,false,false,F,8,8,4,3,3/1/23,21,B02972,793476,35-44,4,high,true,Full-time employed,Location & Schools,false
+H05621,Riverside,637104,2468,3,3,1,1,0.13,true,false,E,8,8,4,3,3/2/23,1,B05621,669491,45-54,1,high,false,Full-time employed,Space & Bedrooms,false
+H07735,Riverside,733264,3457,6,5,17,2,0.16,false,false,C,8,8,4,3,3/2/23,15,B07735,828043,45-54,5,high,true,Full-time employed,Low Maintenance,false
+H03589,Riverside,824607,3481,4,5,52,3,0.11,true,true,A,8,8,4,3,3/3/23,3,B03589,891196,45-54,3,high,false,Full-time employed,Investment,false
+H00343,Riverside,281740,1459,2,2,29,0,0.13,false,true,E,8,8,4,3,3/3/23,28,B00343,299104,45-54,2,medium,false,Full-time employed,Space & Bedrooms,true
+H00340,Riverside,814140,3975,6,5,60,2,0.15,true,false,B,8,8,4,3,3/3/23,25,B00340,884430,35-44,2,high,false,Full-time employed,Space & Bedrooms,false
+H03601,Riverside,293618,1333,2,2,7,1,0.16,false,false,F,8,8,4,3,3/4/23,5,B03601,329841,45-54,1,medium,false,Retired,Affordability,false
+H07798,Riverside,489605,2555,4,4,2,2,0.19,false,false,F,8,8,4,3,3/9/23,47,B07798,551956,25-34,3,medium,true,Self-employed,Location & Schools,false
+H07747,Riverside,300715,1636,3,2,2,0,0.11,false,false,F,8,8,4,3,3/12/23,57,B07747,341241,45-54,2,medium,false,Full-time employed,Space & Bedrooms,false
+H04614,Riverside,484084,2330,4,4,3,1,0.09,true,false,F,8,8,4,3,3/12/23,5,B04614,565082,55-64,2,medium,false,Retired,Affordability,false
+H00601,Riverside,605718,2729,4,4,4,2,0.16,false,false,F,8,8,4,3,3/12/23,13,B00601,668567,45-54,2,high,false,Full-time employed,Location & Schools,false
+H00867,Riverside,763248,3330,6,5,45,2,0.16,true,false,D,8,8,4,3,3/13/23,5,B00867,877115,35-44,4,high,true,Dual income,Investment,false
+H05680,Riverside,444562,2088,4,4,11,1,0.19,true,false,E,8,8,4,3,3/13/23,19,B05680,477924,35-44,3,medium,true,Full-time employed,Space & Bedrooms,false
+H03555,Riverside,288118,1568,1,1,25,1,0.27,false,false,C,8,8,4,3,3/17/23,26,B03555,334771,25-34,1,medium,false,Full-time employed,Modern & Updated,true
+H00112,Riverside,480178,2647,4,4,6,2,0.16,false,false,F,8,8,4,3,3/17/23,97,B00112,549726,25-34,1,medium,false,Full-time employed,Affordability,false
+H01297,Riverside,738724,3248,6,5,3,3,0.21,false,true,F,8,8,4,3,3/18/23,44,B01297,865363,45-54,5,high,true,Full-time employed,Location & Schools,false
+H05968,Riverside,404228,1646,3,3,4,2,0.16,false,false,F,8,8,4,3,3/21/23,13,B05968,434537,65+,1,medium,false,Retired,Modern & Updated,false
+H07753,Riverside,476928,2276,4,4,15,1,0.22,false,false,E,8,8,4,3,3/23/23,1,B07753,554808,25-34,1,medium,false,Full-time employed,Affordability,false
+H03939,Riverside,881901,3875,6,5,4,3,0.18,true,false,F,8,8,4,3,3/23/23,31,B03939,930437,25-34,2,high,false,Full-time employed,Location & Schools,false
+H01759,Riverside,553189,2442,4,5,1,2,0.15,false,false,F,8,8,4,3,3/26/23,8,B01759,640105,35-44,2,high,false,Full-time employed,Modern & Updated,false
+H01311,Riverside,474099,1614,3,3,5,2,0.11,true,false,F,8,8,4,3,3/27/23,56,B01311,558661,35-44,2,medium,false,Full-time employed,Modern & Updated,false
+H05142,Riverside,619862,2734,5,5,25,2,0.14,true,false,D,8,8,4,3,4/2/23,99,B05142,655267,35-44,4,high,false,Full-time employed,Affordability,false
+H04142,Riverside,464095,1817,3,3,3,1,0.18,true,false,E,8,8,4,3,4/3/23,35,B04142,519366,65+,1,medium,false,Retired,Location & Schools,false
+H00371,Riverside,656982,2681,5,4,6,2,0.14,true,false,F,8,8,4,3,4/7/23,8,B00371,735832,45-54,4,high,false,Dual income,Space & Bedrooms,false
+H00381,Riverside,668898,2995,6,5,18,1,0.08,false,false,E,8,8,4,3,4/7/23,29,B00381,780726,35-44,3,high,true,Full-time employed,Space & Bedrooms,false
+H06549,Riverside,736258,3424,5,5,6,3,0.23,false,false,E,8,8,4,3,4/7/23,15,B06549,812400,45-54,2,high,false,Full-time employed,Affordability,false
+H04899,Riverside,649037,3168,5,5,20,2,0.1,false,false,C,8,8,4,3,4/8/23,6,B04899,694124,35-44,3,high,true,Self-employed,Location & Schools,false
+H02634,Riverside,446221,2302,3,4,27,1,0.2,true,false,D,8,8,4,3,4/9/23,1,B02634,511191,45-54,3,medium,true,Full-time employed,Location & Schools,false
+H03945,Riverside,239348,1138,1,1,1,0,0.26,false,false,F,8,8,4,3,4/10/23,61,B03945,258328,65+,1,low,false,Retired,Modern & Updated,true
+H05745,Riverside,606872,2940,4,4,18,2,0.1,false,false,C,8,8,4,3,4/13/23,174,B05745,638071,55-64,2,high,false,Full-time employed,Space & Bedrooms,false
+H00563,Riverside,511668,2336,4,4,24,1,0.17,false,false,D,8,8,4,3,4/13/23,20,B00563,537558,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H00124,Riverside,582475,2808,6,5,48,1,0.09,false,false,A,8,8,4,3,4/15/23,37,B00124,661187,55-64,4,high,false,Dual income,Affordability,false
+H05547,Riverside,216778,800,1,1,46,0,0.17,false,false,B,8,8,4,3,4/15/23,3,B05547,253217,25-34,1,low,false,Full-time employed,Affordability,false
+H02522,Riverside,382218,1758,3,3,12,2,0.12,false,false,E,8,8,4,3,4/15/23,47,B02522,440413,35-44,1,medium,false,Full-time employed,Affordability,false
+H04569,Riverside,684402,3524,6,5,15,3,0.16,false,false,E,8,8,4,3,4/16/23,20,B04569,749890,55-64,4,high,false,Self-employed,Modern & Updated,false
+H05537,Riverside,889999,4046,6,5,46,3,0.15,true,false,B,8,8,4,3,4/17/23,59,B05537,1047390,55-64,5,high,true,Full-time employed,Space & Bedrooms,false
+H06190,Riverside,520535,2458,5,5,21,2,0.24,false,false,D,8,8,4,3,4/18/23,1,B06190,593567,35-44,5,medium,false,Full-time employed,Space & Bedrooms,false
+H03128,Riverside,874834,4184,6,5,38,3,0.11,false,false,B,8,8,4,3,4/19/23,17,B03128,938218,45-54,6,high,true,Full-time employed,Space & Bedrooms,true
+H03543,Riverside,356421,1955,2,3,38,2,0.26,false,false,B,8,8,4,3,4/19/23,125,B03543,391095,25-34,1,medium,false,Full-time employed,Affordability,true
+H07813,Riverside,279776,800,1,2,22,1,0.15,true,false,E,8,8,4,3,4/19/23,1,B07813,316773,25-34,1,medium,false,Self-employed,Affordability,false
+H06771,Riverside,718403,2979,6,5,10,2,0.13,true,false,E,8,8,4,3,4/19/23,28,B06771,829197,45-54,4,high,true,Self-employed,Space & Bedrooms,false
+H06426,Riverside,412290,2069,4,4,9,1,0.18,false,false,E,8,8,4,3,4/22/23,18,B06426,473318,25-34,2,medium,false,Full-time employed,Investment,false
+H06675,Riverside,724445,3059,4,4,3,3,0.11,true,false,F,8,8,4,3,4/23/23,77,B06675,826204,55-64,2,high,false,Self-employed,Location & Schools,false
+H00668,Riverside,688460,3095,6,5,37,3,0.15,false,false,D,8,8,4,3,4/25/23,9,B00668,730543,55-64,4,high,false,Retired,Space & Bedrooms,false
+H05811,Riverside,404516,1933,3,3,30,1,0.09,false,false,C,8,8,4,3,4/25/23,101,B05811,457886,55-64,2,medium,false,Full-time employed,Location & Schools,false
+H07859,Riverside,745201,3306,6,5,48,3,0.16,true,true,C,8,8,4,3,4/25/23,21,B07859,814473,35-44,3,high,false,Full-time employed,Location & Schools,false
+H04850,Riverside,468725,1975,3,3,4,1,0.1,false,false,D,8,8,4,3,4/26/23,35,B04850,520437,65+,1,medium,false,Retired,Low Maintenance,true
+H04379,Riverside,377856,1591,3,3,7,1,0.1,false,false,E,8,8,4,3,4/26/23,7,B04379,398485,55-64,2,medium,false,Self-employed,Affordability,false
+H04005,Riverside,616168,2359,4,4,6,2,0.09,true,false,E,8,8,4,3,4/26/23,17,B04005,706719,25-34,2,high,false,Full-time employed,Location & Schools,false
+H06934,Riverside,651143,3130,5,5,1,2,0.22,false,false,F,8,8,4,3,4/26/23,6,B06934,767657,35-44,1,high,false,Full-time employed,Location & Schools,true
+H07122,Riverside,437390,2095,4,4,21,2,0.16,false,false,D,8,8,4,3,4/27/23,3,B07122,472959,25-34,2,medium,false,Full-time employed,Affordability,false
+H04004,Riverside,208911,1191,2,2,9,1,0.16,false,false,F,8,8,4,3,4/28/23,18,B04004,231964,25-34,1,low,false,Full-time employed,Modern & Updated,false
+H06868,Riverside,913215,4500,6,5,22,2,0.22,false,false,D,8,8,4,3,4/28/23,54,B06868,969934,25-34,3,high,true,Full-time employed,Space & Bedrooms,false
+H02053,Riverside,932936,4335,6,5,44,2,0.08,false,false,B,8,8,4,3,4/28/23,48,B02053,991766,65+,2,high,false,Retired,Low Maintenance,false
+H04203,Riverside,480064,2367,5,5,54,1,0.12,false,false,A,8,8,4,3,5/2/23,11,B04203,521766,35-44,5,medium,true,Self-employed,Location & Schools,false
+H06250,Riverside,252654,904,2,1,15,1,0.17,false,false,D,8,8,4,3,5/2/23,32,B06250,296200,35-44,1,medium,false,Full-time employed,Affordability,false
+H04000,Riverside,329490,1460,2,2,38,1,0.24,false,false,C,8,8,4,3,5/2/23,2,B04000,378614,65+,1,medium,false,Retired,Location & Schools,true
+H01796,Riverside,714355,3400,6,5,34,2,0.12,true,true,D,8,8,4,3,5/3/23,12,B01796,757185,45-54,3,high,true,Full-time employed,Location & Schools,false
+H01910,Riverside,654638,2928,5,5,0,2,0.14,false,false,F,8,8,4,3,5/3/23,4,B01910,745336,45-54,3,high,true,Self-employed,Location & Schools,false
+H01750,Riverside,355838,1279,2,2,44,1,0.15,false,false,B,8,8,4,3,5/5/23,5,B01750,402336,25-34,1,medium,false,Full-time employed,Location & Schools,false
+H07963,Riverside,531589,2649,4,5,9,2,0.13,true,false,F,8,8,4,3,5/5/23,4,B07963,562868,45-54,2,medium,false,Full-time employed,Location & Schools,true
+H00755,Riverside,449696,2101,3,3,5,2,0.22,true,false,F,8,8,4,3,5/6/23,26,B00755,496633,45-54,2,medium,false,Full-time employed,Space & Bedrooms,false
+H02309,Riverside,497780,1930,5,4,1,2,0.17,true,false,D,8,8,4,3,5/8/23,114,B02309,550397,35-44,2,medium,false,Dual income,Affordability,false
+H00791,Riverside,279520,1022,2,2,4,1,0.09,false,false,E,8,8,4,3,5/8/23,50,B00791,316833,25-34,1,medium,false,Full-time employed,Affordability,false
+H07946,Riverside,529039,2108,4,4,22,2,0.16,true,false,E,8,8,4,3,5/9/23,4,B07946,555895,25-34,1,medium,false,Self-employed,Space & Bedrooms,false
+H00038,Riverside,467066,2305,5,4,4,1,0.15,false,false,F,8,8,4,3,5/9/23,73,B00038,504534,45-54,2,medium,false,Self-employed,Affordability,false
+H02195,Riverside,609200,2832,5,5,13,2,0.14,false,false,E,8,8,4,3,5/10/23,18,B02195,715088,25-34,3,high,false,Self-employed,Space & Bedrooms,true
+H03799,Riverside,861806,3621,5,5,14,3,0.12,true,false,E,8,8,4,3,5/10/23,20,B03799,957301,45-54,5,high,true,Full-time employed,Location & Schools,false
+H02111,Riverside,303539,1387,4,3,19,1,0.18,true,false,E,8,8,4,3,5/10/23,12,B02111,331633,55-64,4,medium,true,Retired,Location & Schools,false
+H03526,Riverside,435031,1801,3,3,0,2,0.15,true,false,F,8,8,4,3,5/11/23,69,B03526,484927,45-54,4,medium,false,Self-employed,Space & Bedrooms,false
+H01524,Riverside,765933,3403,5,5,12,2,0.15,true,false,E,8,8,4,3,5/14/23,21,B01524,903651,45-54,3,high,true,Self-employed,Modern & Updated,true
+H07532,Riverside,701841,3277,5,5,0,3,0.1,false,false,F,8,8,4,3,5/14/23,8,B07532,738344,35-44,3,high,false,Self-employed,Low Maintenance,false
+H06225,Riverside,264680,1375,4,4,29,0,0.15,false,false,D,8,8,4,3,5/15/23,52,B06225,281520,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H01679,Riverside,322262,1504,1,2,6,0,0.12,false,false,E,8,8,4,3,5/15/23,115,B01679,364442,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H01185,Riverside,728126,3460,5,5,41,3,0.25,true,false,C,8,8,4,3,5/16/23,28,B01185,828623,65+,1,high,false,Dual income,Affordability,false
+H06183,Riverside,381448,1383,3,2,44,1,0.09,false,true,C,8,8,4,3,5/17/23,28,B06183,400725,25-34,1,medium,false,Dual income,Location & Schools,false
+H06717,Riverside,408742,2037,4,4,23,1,0.14,true,false,E,8,8,4,3,5/17/23,16,B06717,478624,35-44,2,medium,false,Dual income,Space & Bedrooms,false
+H00983,Riverside,742975,3479,5,5,17,2,0.15,false,false,D,8,8,4,3,5/17/23,1,B00983,869294,65+,2,high,false,Full-time employed,Location & Schools,false
+H06028,Riverside,507254,2281,3,3,37,1,0.15,true,true,C,8,8,4,3,5/19/23,1,B06028,568016,25-34,1,medium,false,Dual income,Modern & Updated,false
+H07278,Riverside,274873,1199,2,2,8,1,0.24,false,false,D,8,8,4,3,5/19/23,5,B07278,288970,25-34,1,medium,false,Dual income,Space & Bedrooms,false
+H07134,Riverside,727489,3405,6,5,1,2,0.14,true,false,F,8,8,4,3,5/20/23,20,B07134,821619,35-44,5,high,true,Full-time employed,Location & Schools,false
+H03547,Riverside,367421,1595,3,3,2,0,0.16,true,false,E,8,8,4,3,5/20/23,5,B03547,398715,45-54,2,medium,false,Full-time employed,Affordability,false
+H04656,Riverside,526669,2550,4,3,2,2,0.18,false,false,F,8,8,4,3,5/22/23,2,B04656,594736,25-34,1,medium,false,Dual income,Affordability,false
+H00813,Riverside,748402,3308,5,5,22,2,0.14,true,false,C,8,8,4,3,5/22/23,24,B00813,859653,35-44,3,high,true,Full-time employed,Investment,false
+H04332,Riverside,233740,960,1,1,8,0,0.17,true,false,D,8,8,4,3,5/22/23,16,B04332,273674,25-34,1,low,false,Full-time employed,Location & Schools,true
+H04868,Riverside,595772,2244,4,4,5,2,0.1,true,false,D,8,8,4,3,5/22/23,54,B04868,687601,55-64,4,high,false,Self-employed,Modern & Updated,false
+H05328,Riverside,876348,3984,6,5,0,2,0.13,true,false,F,8,8,4,3,5/25/23,84,B05328,980447,45-54,4,high,true,Full-time employed,Space & Bedrooms,false
+H04067,Riverside,284029,1105,2,2,1,0,0.18,false,false,E,8,8,4,3,5/25/23,5,B04067,324530,35-44,2,medium,false,Full-time employed,Modern & Updated,false
+H04623,Riverside,472677,2378,4,4,14,1,0.16,false,false,F,8,8,4,3,5/26/23,20,B04623,510860,25-34,2,medium,false,Self-employed,Modern & Updated,true
+H06217,Riverside,638893,3152,5,5,7,3,0.2,false,false,E,8,8,4,3,5/26/23,50,B06217,732651,55-64,4,high,true,Self-employed,Space & Bedrooms,false
+H00080,Riverside,249218,1042,2,2,5,2,0.15,false,false,E,8,8,4,3,5/27/23,29,B00080,270200,55-64,2,low,false,Retired,Space & Bedrooms,false
+H06654,Riverside,311058,1444,3,3,32,1,0.26,false,false,D,8,8,4,3,5/27/23,5,B06654,333462,25-34,1,medium,false,Self-employed,Investment,false
+H01822,Riverside,571593,2333,3,3,58,2,0.1,true,false,A,8,8,4,3,5/27/23,1,B01822,605493,35-44,3,medium,true,Full-time employed,Space & Bedrooms,false
+H03481,Riverside,301008,1340,1,1,16,0,0.12,false,false,E,8,8,4,3,6/1/23,15,B03481,341121,25-34,1,medium,false,Full-time employed,Space & Bedrooms,true
+H04098,Riverside,206310,800,2,2,0,1,0.17,false,false,E,8,8,4,3,6/2/23,29,B04098,222835,45-54,1,low,false,Self-employed,Modern & Updated,false
+H00547,Riverside,962983,4500,6,5,16,2,0.09,true,false,D,8,8,4,3,6/2/23,30,B00547,1098443,45-54,2,high,false,Full-time employed,Modern & Updated,false
+H02679,Riverside,464596,2068,3,3,14,1,0.14,false,false,E,8,8,4,3,6/2/23,96,B02679,521965,45-54,1,medium,false,Full-time employed,Modern & Updated,false
+H02044,Riverside,567996,2648,5,5,8,2,0.12,true,false,E,8,8,4,3,6/2/23,26,B02044,607327,25-34,2,medium,false,Full-time employed,Location & Schools,false
+H00260,Riverside,760712,3567,5,5,21,2,0.15,false,false,C,8,8,4,3,6/3/23,101,B00260,810357,55-64,4,high,false,Retired,Modern & Updated,false
+H05576,Riverside,562768,2069,4,4,4,2,0.07,false,false,F,8,8,4,3,6/4/23,54,B05576,631705,55-64,2,high,false,Self-employed,Location & Schools,false
+H05006,Riverside,279643,1322,3,2,33,1,0.15,false,true,D,8,8,4,3,6/6/23,13,B05006,302807,45-54,2,medium,false,Retired,Modern & Updated,false
+H06799,Riverside,551207,2585,4,4,1,1,0.14,true,false,F,8,8,4,3,6/6/23,27,B06799,630367,65+,1,high,false,Retired,Location & Schools,false
+H00401,Riverside,216954,800,1,2,18,1,0.13,false,false,D,8,8,4,3,6/8/23,53,B00401,229095,45-54,1,low,false,Self-employed,Modern & Updated,false
+H05223,Riverside,337976,1603,3,3,12,1,0.23,false,false,E,8,8,4,3,6/9/23,75,B05223,368310,45-54,1,medium,false,Self-employed,Affordability,false
+H07397,Riverside,378815,1474,2,2,10,1,0.23,true,false,D,8,8,4,3,6/9/23,15,B07397,415072,35-44,1,medium,false,Self-employed,Space & Bedrooms,true
+H01629,Riverside,655875,2898,4,4,12,2,0.09,false,false,E,8,8,4,3,6/10/23,1,B01629,707552,35-44,3,high,true,Full-time employed,Space & Bedrooms,false
+H07387,Riverside,341348,1740,2,2,30,0,0.16,false,false,C,8,8,4,3,6/12/23,15,B07387,376396,35-44,1,medium,false,Dual income,Modern & Updated,false
+H00719,Riverside,949187,4204,6,5,4,2,0.14,true,false,F,8,8,4,3,6/12/23,21,B00719,1053881,25-34,2,high,false,Self-employed,Location & Schools,false
+H03223,Riverside,324188,1510,1,1,11,1,0.28,false,false,D,8,8,4,3,6/14/23,9,B03223,342019,55-64,1,medium,false,Dual income,Affordability,false
+H02152,Riverside,377401,1780,3,3,34,0,0.29,true,false,D,8,8,4,3,6/14/23,80,B02152,412007,45-54,1,medium,false,Self-employed,Affordability,false
+H07995,Riverside,399269,2032,3,3,4,1,0.15,false,false,F,8,8,4,3,6/14/23,58,B07995,464455,35-44,2,medium,false,Dual income,Location & Schools,false
+H07907,Riverside,415749,1592,2,2,0,1,0.13,true,false,E,8,8,4,3,6/15/23,14,B07907,476450,45-54,1,medium,false,Self-employed,Location & Schools,true
+H07491,Riverside,683988,3168,5,5,4,3,0.1,false,false,E,8,8,4,3,6/15/23,12,B07491,764417,45-54,2,high,false,Full-time employed,Location & Schools,false
+H04903,Riverside,760606,3584,6,5,8,2,0.12,true,false,F,8,8,4,3,6/16/23,2,B04903,808520,45-54,5,high,true,Dual income,Space & Bedrooms,false
+H00665,Riverside,374760,1822,3,3,10,1,0.08,false,false,D,8,8,4,3,6/16/23,63,B00665,406066,35-44,2,medium,false,Full-time employed,Affordability,false
+H00635,Riverside,862543,3658,6,5,10,2,0.21,false,false,D,8,8,4,3,6/17/23,63,B00635,968677,35-44,4,high,true,Full-time employed,Location & Schools,false
+H06843,Riverside,343997,1802,4,3,26,2,0.07,false,false,D,8,8,4,3,6/17/23,47,B06843,368990,35-44,2,medium,false,Dual income,Location & Schools,false
+H03174,Riverside,482845,2375,6,5,3,1,0.23,false,false,F,8,8,4,3,6/18/23,17,B03174,538852,55-64,2,medium,false,Self-employed,Modern & Updated,false
+H02220,Riverside,578112,2529,6,5,1,1,0.2,false,false,F,8,8,4,3,6/18/23,1,B02220,628577,35-44,4,medium,true,Full-time employed,Affordability,false
+H06659,Riverside,687250,3335,5,5,16,2,0.37,false,false,F,8,8,4,3,6/20/23,1,B06659,741416,35-44,2,high,false,Full-time employed,Location & Schools,true
+H01247,Riverside,589368,3017,4,4,21,2,0.13,false,false,B,8,8,4,3,6/20/23,73,B01247,688269,55-64,5,high,true,Full-time employed,Location & Schools,false
+H07573,Riverside,492277,2464,4,3,60,1,0.24,false,false,A,8,8,4,3,6/21/23,1,B07573,527202,35-44,2,medium,false,Self-employed,Affordability,false
+H01178,Riverside,453345,2026,2,3,30,1,0.13,false,false,C,8,8,4,3,6/23/23,12,B01178,494540,35-44,2,medium,false,Dual income,Affordability,false
+H07090,Riverside,568329,2498,5,5,15,1,0.22,true,false,F,8,8,4,3,6/24/23,9,B07090,668786,35-44,3,high,true,Full-time employed,Modern & Updated,false
+H00876,Riverside,347579,1471,3,3,6,2,0.13,false,false,F,8,8,4,3,6/24/23,3,B00876,374854,35-44,3,medium,true,Full-time employed,Location & Schools,false
+H05550,Riverside,522657,2484,4,3,24,1,0.15,false,false,D,8,8,4,3,6/27/23,12,B05550,595361,25-34,1,medium,false,Full-time employed,Affordability,false
+H04896,Riverside,808322,3958,6,5,1,2,0.22,false,false,E,8,8,4,3,6/28/23,8,B04896,908854,35-44,5,high,true,Full-time employed,Space & Bedrooms,false
+H02131,Riverside,357002,1769,3,3,7,1,0.21,true,false,F,8,8,4,3,6/28/23,30,B02131,392595,45-54,3,medium,true,Full-time employed,Location & Schools,false
+H02895,Riverside,775384,3740,6,5,34,2,0.14,false,false,B,8,8,4,3,6/28/23,37,B02895,829674,45-54,3,high,true,Retired,Low Maintenance,false
+H05662,Riverside,315271,1449,2,2,6,1,0.21,true,false,F,8,8,4,3,7/4/23,7,B05662,339469,35-44,1,medium,false,Dual income,Space & Bedrooms,false
+H07373,Riverside,550939,2152,4,5,0,2,0.12,true,false,F,8,8,4,3,7/4/23,2,B07373,640633,55-64,3,high,true,Retired,Location & Schools,false
+H05283,Riverside,629567,2850,6,5,15,1,0.21,false,false,E,8,8,4,3,7/4/23,27,B05283,693236,45-54,3,high,true,Full-time employed,Space & Bedrooms,false
+H06212,Riverside,744121,3106,5,5,9,3,0.11,false,true,F,8,8,4,3,7/5/23,106,B06212,822911,25-34,2,high,false,Dual income,Location & Schools,false
+H00005,Riverside,392451,1611,2,2,19,1,0.1,false,true,D,8,8,4,3,7/6/23,43,B00005,440776,55-64,2,medium,false,Full-time employed,Space & Bedrooms,true
+H04885,Riverside,634131,3256,5,5,31,2,0.2,false,false,B,8,8,4,3,7/7/23,39,B04885,693948,55-64,1,high,false,Retired,Location & Schools,false
+H01117,Riverside,429116,2328,4,4,2,1,0.11,false,false,F,8,8,4,3,7/9/23,19,B01117,475201,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H03462,Riverside,591140,2641,5,5,29,1,0.16,true,false,C,8,8,4,3,7/11/23,32,B03462,664215,35-44,4,high,true,Self-employed,Location & Schools,false
+H04553,Riverside,328562,1608,2,2,8,1,0.12,false,false,F,8,8,4,3,7/12/23,39,B04553,349984,45-54,1,medium,false,Full-time employed,Space & Bedrooms,false
+H01068,Riverside,413107,1888,2,3,54,2,0.27,false,false,B,8,8,4,3,7/13/23,10,B01068,473126,45-54,2,medium,false,Full-time employed,Affordability,false
+H00540,Riverside,437946,1834,3,3,55,2,0.16,false,true,C,8,8,4,3,7/16/23,33,B00540,506386,25-34,2,medium,false,Full-time employed,Affordability,true
+H04281,Riverside,442590,1904,3,3,4,2,0.1,false,false,F,8,8,4,3,7/16/23,25,B04281,482151,25-34,1,medium,false,Dual income,Space & Bedrooms,false
+H04408,Riverside,397173,1843,4,4,12,2,0.15,false,false,D,8,8,4,3,7/18/23,28,B04408,428623,45-54,3,medium,true,Full-time employed,Affordability,false
+H06439,Riverside,290209,942,1,1,44,1,0.16,false,true,D,8,8,4,3,7/18/23,14,B06439,327975,55-64,1,medium,false,Self-employed,Affordability,false
+H00202,Riverside,275962,1104,2,2,17,2,0.1,false,false,C,8,8,4,3,7/19/23,17,B00202,301982,35-44,1,medium,false,Self-employed,Space & Bedrooms,false
+H05443,Riverside,688586,3138,5,5,5,3,0.12,false,false,F,8,8,4,3,7/20/23,7,B05443,773919,55-64,6,high,true,Full-time employed,Space & Bedrooms,false
+H04168,Riverside,667537,3207,5,5,20,2,0.18,false,true,E,8,8,4,3,7/21/23,13,B04168,784775,45-54,2,high,false,Dual income,Investment,false
+H06337,Riverside,598983,2842,4,4,9,2,0.16,false,false,F,8,8,4,3,7/23/23,37,B06337,662604,45-54,1,high,false,Self-employed,Space & Bedrooms,false
+H01994,Riverside,756761,3278,6,5,21,2,0.16,true,false,D,8,8,4,3,7/23/23,17,B01994,888933,55-64,3,high,true,Full-time employed,Location & Schools,false
+H01809,Riverside,338548,1473,2,2,1,2,0.16,true,false,E,8,8,4,3,7/24/23,6,B01809,374215,35-44,1,medium,false,Dual income,Modern & Updated,true
+H05541,Riverside,647653,3042,6,5,10,3,0.1,false,false,F,8,8,4,3,7/25/23,7,B05541,723969,35-44,4,high,true,Full-time employed,Modern & Updated,false
+H00577,Riverside,474398,2073,3,3,47,2,0.2,true,false,A,8,8,4,3,7/26/23,6,B00577,541114,55-64,1,medium,false,Full-time employed,Affordability,false
+H06889,Riverside,330323,1562,3,3,7,2,0.16,false,false,F,8,8,4,3,7/28/23,19,B06889,386047,25-34,2,medium,false,Full-time employed,Affordability,false
+H06932,Riverside,771021,3738,6,5,15,2,0.23,false,true,F,8,8,4,3,8/1/23,86,B06932,882481,35-44,3,high,true,Dual income,Location & Schools,false
+H02316,Riverside,680730,3005,6,5,12,2,0.12,true,false,E,8,8,4,3,8/2/23,49,B02316,788790,35-44,4,high,false,Full-time employed,Modern & Updated,false
+H00886,Riverside,940919,4270,6,5,25,3,0.13,true,false,E,8,8,4,3,8/3/23,71,B00886,1081331,35-44,4,high,false,Full-time employed,Modern & Updated,false
+H03456,Riverside,432426,1897,3,3,1,1,0.12,false,false,F,8,8,4,3,8/4/23,67,B03456,470582,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H01810,Riverside,161855,800,2,2,24,0,0.2,true,false,D,8,8,4,3,8/7/23,37,B01810,170491,25-34,1,low,false,Self-employed,Affordability,false
+H01435,Riverside,938016,4500,6,5,5,2,0.22,false,false,E,8,8,4,3,8/9/23,16,B01435,994047,45-54,4,high,false,Full-time employed,Modern & Updated,false
+H02616,Riverside,514429,1886,3,2,12,2,0.2,true,true,E,8,8,4,3,8/10/23,2,B02616,587683,25-34,1,medium,false,Dual income,Affordability,false
+H04211,Riverside,534461,2260,4,4,4,2,0.12,false,false,E,8,8,4,3,8/12/23,22,B04211,594432,25-34,2,medium,false,Full-time employed,Modern & Updated,false
+H02037,Riverside,600953,2481,4,4,52,2,0.09,true,true,C,8,8,4,3,8/13/23,43,B02037,702618,65+,1,high,false,Retired,Affordability,false
+H03877,Riverside,779664,3714,6,5,17,3,0.11,true,false,E,8,8,4,3,8/15/23,9,B03877,894501,45-54,5,high,true,Dual income,Modern & Updated,false
+H06143,Riverside,351828,1572,2,2,1,1,0.17,false,false,F,8,8,4,3,8/16/23,112,B06143,407883,55-64,1,medium,false,Self-employed,Affordability,false
+H03729,Riverside,662993,3093,6,5,60,3,0.25,false,false,A,8,8,4,3,8/17/23,10,B03729,724345,35-44,3,high,true,Self-employed,Location & Schools,false
+H05711,Riverside,342421,1760,3,3,25,0,0.12,false,false,D,8,8,4,3,8/18/23,6,B05711,393316,35-44,2,medium,false,Full-time employed,Affordability,false
+H00847,Riverside,744911,3585,6,5,10,2,0.17,true,false,D,8,8,4,3,8/18/23,44,B00847,851124,35-44,3,high,true,Self-employed,Affordability,false
+H01837,Riverside,212659,880,2,2,29,2,0.15,false,false,C,8,8,4,3,8/18/23,8,B01837,240637,45-54,1,low,false,Self-employed,Location & Schools,false
+H04730,Riverside,646699,2866,6,5,4,2,0.14,false,false,E,8,8,4,3,8/19/23,92,B04730,748290,45-54,4,high,true,Full-time employed,Location & Schools,false
+H05797,Riverside,638255,2989,4,4,15,2,0.11,false,false,F,8,8,4,3,8/19/23,17,B05797,750834,45-54,2,high,false,Full-time employed,Modern & Updated,false
+H07762,Riverside,391741,1671,3,3,15,0,0.13,false,false,E,8,8,4,3,8/19/23,1,B07762,429210,35-44,2,medium,false,Full-time employed,Investment,false
+H02367,Riverside,636023,2695,5,5,29,2,0.15,true,true,E,8,8,4,3,8/22/23,28,B02367,676012,25-34,1,high,false,Full-time employed,Modern & Updated,false
+H04119,Riverside,772371,3304,5,5,2,3,0.12,false,false,F,8,8,4,3,8/22/23,21,B04119,820899,45-54,2,high,false,Full-time employed,Location & Schools,true
+H00802,Riverside,445222,2076,3,4,4,2,0.17,false,false,F,8,8,4,3,8/23/23,49,B00802,486172,35-44,1,medium,false,Full-time employed,Affordability,false
+H02581,Riverside,671150,3236,5,5,60,2,0.16,false,false,A,8,8,4,3,8/23/23,38,B02581,717039,45-54,2,high,false,Dual income,Space & Bedrooms,false
+H02707,Riverside,657470,2623,4,4,9,2,0.14,true,false,E,8,8,4,3,8/23/23,14,B02707,706432,45-54,3,high,false,Full-time employed,Low Maintenance,true
+H05728,Riverside,623894,3207,5,5,6,2,0.23,false,false,F,8,8,4,3,8/26/23,19,B05728,668896,35-44,3,high,false,Self-employed,Low Maintenance,false
+H04897,Riverside,554749,2785,5,5,13,1,0.14,false,false,E,8,8,4,3,8/27/23,59,B04897,583550,35-44,2,medium,false,Self-employed,Modern & Updated,false
+H04742,Riverside,727188,3321,5,5,48,2,0.13,false,false,A,8,8,4,3,8/27/23,37,B04742,776294,55-64,4,high,false,Retired,Space & Bedrooms,false
+H05035,Riverside,598501,2554,3,3,1,1,0.2,true,false,E,8,8,4,3,8/28/23,36,B05035,662531,65+,1,high,false,Full-time employed,Low Maintenance,false
+H04872,Riverside,444166,2052,4,4,17,1,0.14,true,false,C,8,8,4,3,8/28/23,9,B04872,522787,65+,2,medium,false,Full-time employed,Location & Schools,false
+H06252,Riverside,636636,2895,5,5,13,2,0.19,false,false,D,8,8,4,3,9/2/23,38,B06252,691050,55-64,4,high,false,Retired,Modern & Updated,true
+H06073,Riverside,418706,1580,2,2,0,2,0.17,true,true,F,8,8,4,3,9/4/23,124,B06073,443456,45-54,2,medium,false,Full-time employed,Affordability,false
+H04539,Riverside,215926,1186,2,2,8,0,0.24,true,false,F,8,8,4,3,9/6/23,5,B04539,254755,25-34,1,low,false,Full-time employed,Modern & Updated,false
+H07427,Riverside,528475,2602,5,5,30,1,0.15,false,false,C,8,8,4,3,9/9/23,10,B07427,617193,45-54,4,medium,true,Self-employed,Modern & Updated,false
+H07297,Riverside,774198,3585,6,5,42,2,0.21,false,true,C,8,8,4,3,9/9/23,1,B07297,835202,35-44,3,high,true,Dual income,Space & Bedrooms,false
+H06000,Riverside,534760,2276,4,4,2,1,0.17,true,false,E,8,8,4,3,9/9/23,31,B06000,591504,45-54,2,medium,false,Self-employed,Location & Schools,false
+H01847,Riverside,614090,2585,4,4,8,1,0.16,false,false,F,8,8,4,3,9/13/23,43,B01847,677838,55-64,3,high,false,Retired,Location & Schools,false
+H03865,Riverside,820242,3724,6,5,13,3,0.08,true,false,D,8,8,4,3,9/15/23,58,B03865,941890,55-64,3,high,false,Full-time employed,Space & Bedrooms,false
+H01133,Riverside,399207,1937,3,3,8,1,0.28,false,false,D,8,8,4,3,9/17/23,20,B01133,466628,45-54,3,medium,true,Dual income,Location & Schools,false
+H00605,Riverside,262054,1291,2,3,17,1,0.13,false,false,D,8,8,4,3,9/18/23,3,B00605,297602,45-54,1,medium,false,Full-time employed,Location & Schools,false
+H07802,Riverside,434270,1962,3,3,14,1,0.22,true,false,E,8,8,4,3,9/19/23,24,B07802,462520,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H00695,Riverside,656414,3043,6,5,13,2,0.17,true,false,F,8,8,4,3,9/22/23,18,B00695,726550,45-54,5,high,false,Self-employed,Location & Schools,false
+H01222,Riverside,631178,2755,4,4,4,2,0.14,false,false,F,8,8,4,3,9/23/23,38,B01222,696584,45-54,2,high,false,Full-time employed,Modern & Updated,false
+H03769,Riverside,393624,1946,4,4,20,2,0.19,false,false,D,8,8,4,3,9/24/23,20,B03769,416869,35-44,3,medium,false,Full-time employed,Space & Bedrooms,false
+H00506,Riverside,620832,2976,5,5,8,1,0.14,false,false,F,8,8,4,3,9/25/23,17,B00506,719331,45-54,2,high,false,Self-employed,Space & Bedrooms,false
+H07727,Riverside,631787,3017,4,4,7,2,0.12,false,false,F,8,8,4,3,10/3/23,47,B07727,684958,55-64,4,high,true,Self-employed,Modern & Updated,false
+H02761,Riverside,606243,2709,4,4,4,1,0.13,false,false,F,8,8,4,3,10/4/23,12,B02761,700531,45-54,3,high,false,Full-time employed,Location & Schools,false
+H04401,Riverside,455825,1964,3,3,4,2,0.15,true,false,F,8,8,4,3,10/5/23,28,B04401,516651,65+,1,medium,false,Retired,Location & Schools,false
+H02995,Riverside,397296,1657,4,4,8,2,0.1,false,false,D,8,8,4,3,10/7/23,48,B02995,457998,35-44,2,medium,false,Full-time employed,Affordability,false
+H06842,Riverside,556127,2360,4,4,2,1,0.19,false,false,E,8,8,4,3,10/8/23,26,B06842,641771,55-64,2,high,false,Dual income,Location & Schools,false
+H07215,Riverside,581948,2757,5,5,20,2,0.11,false,false,E,8,8,4,3,10/14/23,32,B07215,653789,45-54,4,high,true,Full-time employed,Space & Bedrooms,false
+H02456,Riverside,507581,2613,5,5,33,1,0.11,false,false,C,8,8,4,3,10/14/23,75,B02456,583329,45-54,4,medium,true,Full-time employed,Location & Schools,true
+H01200,Riverside,571829,2457,5,4,23,1,0.18,false,false,C,8,8,4,3,10/15/23,70,B01200,619479,45-54,3,medium,true,Self-employed,Modern & Updated,false
+H07283,Riverside,661705,2999,5,5,9,2,0.21,true,false,F,8,8,4,3,10/16/23,10,B07283,751682,65+,1,high,false,Retired,Location & Schools,false
+H00947,Riverside,236443,800,1,1,11,2,0.18,true,false,E,8,8,4,3,10/16/23,4,B00947,249927,25-34,1,low,false,Dual income,Modern & Updated,false
+H01442,Riverside,674713,2890,5,5,5,1,0.11,false,true,F,8,8,4,3,10/18/23,62,B01442,758442,35-44,4,high,true,Dual income,Low Maintenance,true
+H01763,Riverside,418367,1547,3,3,21,2,0.16,true,false,C,8,8,4,3,10/20/23,100,B01763,459529,45-54,2,medium,false,Self-employed,Affordability,false
+H02421,Riverside,576939,2598,4,4,60,1,0.11,false,false,A,8,8,4,3,10/23/23,18,B02421,623745,35-44,1,medium,false,Dual income,Modern & Updated,false
+H07835,Riverside,601009,2747,5,5,6,1,0.11,false,false,F,8,8,4,3,10/25/23,47,B07835,644774,65+,1,high,false,Retired,Affordability,false
+H06802,Riverside,292552,1053,1,1,16,1,0.25,false,true,F,8,8,4,3,11/1/23,23,B06802,343931,35-44,1,medium,false,Self-employed,Modern & Updated,false
+H03654,Riverside,528075,2978,5,5,19,2,0.17,false,false,D,8,8,4,3,11/3/23,25,B03654,570477,35-44,2,medium,false,Dual income,Space & Bedrooms,false
+H01276,Riverside,535866,2318,4,4,0,1,0.15,true,false,E,8,8,4,3,11/4/23,24,B01276,631738,35-44,2,high,false,Full-time employed,Space & Bedrooms,false
+H07742,Riverside,427482,1643,3,3,15,2,0.09,true,false,D,8,8,4,3,11/5/23,6,B07742,492343,35-44,1,medium,false,Dual income,Affordability,false
+H04187,Riverside,260174,1452,2,2,14,1,0.17,false,false,E,8,8,4,3,11/11/23,30,B04187,306763,35-44,2,medium,false,Self-employed,Affordability,false
+H01127,Riverside,542910,2530,4,4,19,1,0.44,true,false,F,8,8,4,3,11/11/23,54,B01127,636069,35-44,1,high,false,Full-time employed,Low Maintenance,false
+H04399,Riverside,403385,1840,2,3,9,2,0.12,false,false,E,8,8,4,3,11/13/23,75,B04399,459800,45-54,1,medium,false,Full-time employed,Affordability,false
+H04313,Riverside,608385,2511,4,4,19,2,0.17,true,true,F,8,8,4,3,11/25/23,46,B04313,695176,35-44,3,high,true,Dual income,Affordability,false
+H04297,Riverside,599236,2607,4,4,1,2,0.13,false,false,F,8,8,4,3,11/27/23,9,B04297,673460,35-44,3,high,true,Dual income,Modern & Updated,false
+H04736,Riverside,620888,2739,5,5,10,1,0.12,false,true,F,8,8,4,3,11/27/23,28,B04736,724188,55-64,4,high,true,Dual income,Location & Schools,false
+H07930,Riverside,536473,2163,3,3,13,1,0.23,true,false,E,8,8,4,3,11/28/23,98,B07930,601608,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H04768,Riverside,573921,2717,5,5,26,1,0.3,true,false,E,8,8,4,3,12/4/23,1,B04768,633589,35-44,3,high,true,Self-employed,Space & Bedrooms,false
+H06298,Riverside,598601,2747,5,5,7,2,0.17,false,false,F,8,8,4,3,12/4/23,19,B06298,692603,55-64,3,high,false,Full-time employed,Location & Schools,false
+H05277,Riverside,747492,3449,6,5,3,2,0.24,false,false,F,8,8,4,3,12/4/23,6,B05277,837015,35-44,4,high,true,Full-time employed,Affordability,false
+H05857,Riverside,433269,1748,3,3,4,0,0.14,false,false,F,8,8,4,3,12/9/23,46,B05857,463585,25-34,1,medium,false,Dual income,Space & Bedrooms,false
+H06607,Riverside,592759,2934,5,5,3,2,0.17,false,false,E,8,8,4,3,12/9/23,24,B06607,673436,45-54,3,high,true,Self-employed,Space & Bedrooms,false
+H05296,Riverside,945682,4500,6,5,8,2,0.17,true,false,E,8,8,4,3,12/9/23,5,B05296,1047029,55-64,4,high,true,Self-employed,Investment,false
+H06161,Riverside,367411,1471,3,3,9,1,0.17,true,false,E,8,8,4,3,12/12/23,127,B06161,388549,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H04915,Riverside,741416,3348,6,5,13,2,0.17,true,false,E,8,8,4,3,12/12/23,92,B04915,853420,45-54,4,high,true,Self-employed,Location & Schools,false
+H03949,Riverside,394053,1840,4,3,16,1,0.14,false,false,E,8,8,4,3,12/12/23,50,B03949,451508,35-44,3,medium,true,Full-time employed,Space & Bedrooms,true
+H01863,Riverside,142083,800,1,1,20,0,0.21,false,false,D,8,8,4,3,12/14/23,16,B01863,153242,35-44,1,low,false,Dual income,Affordability,false
+H05054,Riverside,787666,3636,6,5,18,3,0.17,false,false,E,8,8,4,3,12/17/23,9,B05054,844607,45-54,3,high,true,Full-time employed,Location & Schools,false
+H00683,Riverside,279436,1209,1,1,7,1,0.19,true,false,E,8,8,4,3,12/21/23,35,B00683,310141,35-44,1,medium,false,Dual income,Location & Schools,false
+H05720,Riverside,637896,2825,5,5,21,2,0.24,false,false,D,8,8,4,3,12/23/23,23,B05720,707395,45-54,3,high,true,Full-time employed,Space & Bedrooms,false
+H05689,Riverside,379294,1872,4,4,28,2,0.23,false,true,F,8,8,4,3,12/25/23,12,B05689,434353,35-44,3,medium,true,Full-time employed,Space & Bedrooms,false
+H03635,Riverside,509744,2629,5,5,12,1,0.13,false,false,F,8,8,4,3,12/26/23,54,B03635,596667,25-34,3,medium,false,Full-time employed,Affordability,false
+H03256,Riverside,655368,3012,5,5,30,3,0.16,true,false,D,8,8,4,3,1/1/24,21,B03256,721679,45-54,3,high,false,Full-time employed,Investment,false
+H01724,Riverside,503547,2222,3,4,40,1,0.16,true,true,B,8,8,4,3,1/2/24,27,B01724,568450,35-44,1,medium,false,Dual income,Investment,false
+H02251,Riverside,610095,2824,4,4,4,1,0.11,false,false,E,8,8,4,3,1/2/24,6,B02251,689129,65+,1,high,false,Retired,Modern & Updated,false
+H04801,Riverside,337475,1470,3,3,1,1,0.12,true,false,F,8,8,4,3,1/5/24,31,B04801,392148,45-54,1,medium,false,Dual income,Location & Schools,false
+H05106,Riverside,760759,3725,5,5,10,2,0.12,false,false,E,8,8,4,3,1/6/24,52,B05106,801144,55-64,4,high,false,Full-time employed,Investment,false
+H07212,Riverside,606446,2653,5,5,37,1,0.1,false,true,C,8,8,4,3,1/8/24,6,B07212,699629,25-34,2,high,false,Full-time employed,Space & Bedrooms,false
+H03845,Riverside,359967,1286,2,2,19,0,0.15,true,false,D,8,8,4,3,1/9/24,55,B03845,402212,25-34,1,medium,false,Dual income,Space & Bedrooms,true
+H04329,Riverside,742891,3448,6,5,18,3,0.16,true,false,E,8,8,4,3,1/10/24,44,B04329,865857,35-44,4,high,true,Full-time employed,Space & Bedrooms,false
+H04650,Riverside,758966,3276,5,5,3,2,0.1,true,true,F,8,8,4,3,1/10/24,8,B04650,822623,25-34,2,high,false,Self-employed,Location & Schools,true
+H05557,Riverside,438799,1991,2,3,19,1,0.15,false,true,F,8,8,4,3,1/11/24,22,B05557,483587,35-44,1,medium,false,Dual income,Affordability,false
+H02484,Riverside,523333,2550,4,4,26,2,0.15,true,false,D,8,8,4,3,1/13/24,13,B02484,615938,45-54,2,medium,false,Full-time employed,Affordability,false
+H01992,Riverside,890169,4332,6,5,31,2,0.16,true,false,C,8,8,4,3,1/13/24,56,B01992,946866,35-44,5,high,true,Dual income,Investment,false
+H06020,Riverside,689943,3093,6,5,0,2,0.2,true,false,F,8,8,4,3,1/14/24,29,B06020,791801,35-44,3,high,true,Full-time employed,Location & Schools,false
+H02412,Riverside,504123,2048,3,3,10,2,0.17,false,false,E,8,8,4,3,1/14/24,93,B02412,580792,45-54,2,medium,false,Self-employed,Investment,false
+H06368,Riverside,177859,875,1,1,8,0,0.07,false,false,D,8,8,4,3,1/15/24,26,B06368,198874,25-34,1,low,false,Self-employed,Affordability,false
+H04066,Riverside,570625,2834,5,5,5,1,0.13,false,false,F,8,8,4,3,1/15/24,1,B04066,611326,45-54,2,medium,false,Retired,Affordability,false
+H02069,Riverside,418804,1996,4,4,0,2,0.19,false,false,F,8,8,4,3,1/15/24,33,B02069,448719,55-64,3,medium,true,Retired,Location & Schools,true
+H04699,Riverside,235825,1278,2,2,60,1,0.12,false,false,A,8,8,4,3,1/20/24,3,B04699,274615,45-54,2,low,false,Dual income,Location & Schools,false
+H00833,Riverside,385128,1992,4,4,3,2,0.17,false,false,F,8,8,4,3,1/21/24,2,B00833,439043,25-34,2,medium,false,Self-employed,Location & Schools,false
+H07194,Riverside,585657,2587,4,4,1,1,0.08,true,false,F,8,8,4,3,1/21/24,26,B07194,641980,25-34,1,high,false,Self-employed,Modern & Updated,false
+H01536,Riverside,465133,2276,5,5,26,2,0.15,false,false,A,8,8,4,3,2/1/24,7,B01536,527523,35-44,4,medium,false,Full-time employed,Affordability,false
+H04687,Riverside,603800,2913,5,5,38,2,0.11,false,false,C,8,8,4,3,2/2/24,51,B04687,692575,45-54,5,high,false,Full-time employed,Space & Bedrooms,false
+H04540,Riverside,317984,1327,2,2,6,1,0.09,false,false,D,8,8,4,3,2/3/24,36,B04540,348871,45-54,1,medium,false,Full-time employed,Investment,true
+H00651,Riverside,281308,1018,2,2,1,2,0.17,true,false,E,8,8,4,3,2/4/24,5,B00651,306904,45-54,1,medium,false,Full-time employed,Space & Bedrooms,false
+H02808,Riverside,521396,2727,3,4,60,1,0.15,false,false,B,8,8,4,3,2/4/24,57,B02808,586910,45-54,4,medium,true,Dual income,Space & Bedrooms,false
+H04104,Riverside,688623,3294,4,5,51,2,0.08,true,false,B,8,8,4,3,2/4/24,2,B04104,727826,45-54,2,high,false,Self-employed,Modern & Updated,false
+H00460,Riverside,446796,2169,4,4,13,2,0.19,false,false,D,8,8,4,3,2/6/24,6,B00460,480826,35-44,3,medium,false,Full-time employed,Affordability,false
+H00931,Riverside,528083,2568,4,4,26,2,0.17,false,false,D,8,8,4,3,2/7/24,22,B00931,581910,65+,1,medium,false,Retired,Low Maintenance,false
+H01685,Riverside,533913,2546,4,4,8,1,0.16,false,false,E,8,8,4,3,2/9/24,45,B01685,577355,55-64,4,medium,true,Retired,Affordability,true
+H05532,Riverside,128840,892,1,2,30,1,0.1,false,false,D,8,8,4,3,2/9/24,1,B05532,139459,45-54,1,low,false,Self-employed,Affordability,false
+H07584,Riverside,233266,1127,2,2,22,1,0.22,false,false,E,8,8,4,3,2/11/24,61,B07584,256016,35-44,1,low,false,Full-time employed,Modern & Updated,true
+H03412,Riverside,392625,2046,3,4,39,1,0.11,true,false,D,8,8,4,3,2/12/24,30,B03412,415055,25-34,1,medium,false,Self-employed,Investment,false
+H00996,Riverside,388904,1386,2,2,2,0,0.14,true,false,F,8,8,4,3,2/13/24,4,B00996,416670,55-64,1,medium,false,Self-employed,Space & Bedrooms,false
+H05150,Riverside,371524,1570,3,2,2,2,0.21,false,false,F,8,8,4,3,2/17/24,3,B05150,416300,45-54,2,medium,false,Self-employed,Location & Schools,true
+H06122,Riverside,702297,3130,5,5,7,3,0.07,false,false,D,8,8,4,3,2/19/24,96,B06122,808518,45-54,3,high,true,Self-employed,Location & Schools,false
+H01424,Riverside,234475,1048,1,1,5,0,0.15,false,false,F,8,8,4,3,2/20/24,31,B01424,265616,25-34,1,low,false,Full-time employed,Investment,false
+H01638,Riverside,463327,2088,3,3,6,1,0.2,false,false,F,8,8,4,3,2/23/24,52,B01638,546107,35-44,2,medium,false,Self-employed,Affordability,true
+H06478,Riverside,555960,2267,5,5,1,1,0.13,false,false,F,8,8,4,3,2/24/24,36,B06478,647317,35-44,4,high,true,Dual income,Space & Bedrooms,false
+H04799,Riverside,590337,2682,5,5,60,2,0.16,false,true,A,8,8,4,3,2/24/24,40,B04799,692162,35-44,3,high,true,Full-time employed,Location & Schools,false
+H01120,Riverside,489328,2337,4,4,12,2,0.11,true,false,E,8,8,4,3,2/25/24,30,B01120,529631,45-54,4,medium,true,Full-time employed,Space & Bedrooms,false
+H01572,Riverside,349023,1528,3,3,0,1,0.16,false,false,E,8,8,4,3,2/25/24,50,B01572,394747,35-44,2,medium,false,Dual income,Space & Bedrooms,false
+H02545,Riverside,539950,2034,3,4,1,2,0.12,true,false,F,8,8,4,3,2/25/24,51,B02545,573520,35-44,3,medium,true,Self-employed,Location & Schools,false
+H07228,Riverside,625090,2860,5,5,23,1,0.12,true,false,C,8,8,4,3,2/28/24,103,B07228,696023,35-44,3,high,false,Full-time employed,Modern & Updated,false
+H06242,Riverside,474808,2104,4,4,4,1,0.13,false,false,F,8,8,4,3,2/28/24,75,B06242,556924,35-44,2,medium,false,Full-time employed,Low Maintenance,false
+H05082,Riverside,218729,1058,2,2,4,1,0.12,false,false,F,8,8,4,3,3/1/24,2,B05082,235088,25-34,1,low,false,Dual income,Location & Schools,false
+H01542,Riverside,454786,1988,6,5,7,1,0.28,true,false,F,8,8,4,3,3/4/24,29,B01542,497626,25-34,3,medium,true,Full-time employed,Modern & Updated,false
+H03114,Riverside,289458,1537,2,3,33,0,0.25,false,true,D,8,8,4,3,3/5/24,87,B03114,332689,25-34,1,medium,false,Dual income,Space & Bedrooms,false
+H03213,Riverside,519600,2534,4,5,7,1,0.11,true,false,F,8,8,4,3,3/8/24,36,B03213,570606,55-64,2,medium,false,Retired,Affordability,false
+H06129,Riverside,700763,3570,5,5,8,2,0.17,false,false,E,8,8,4,3,3/9/24,22,B06129,821298,25-34,2,high,false,Full-time employed,Modern & Updated,false
+H00319,Riverside,201539,800,2,2,3,2,0.15,false,false,F,8,8,4,3,3/11/24,117,B00319,235131,35-44,1,low,false,Full-time employed,Location & Schools,false
+H06005,Riverside,581686,2965,4,5,29,2,0.12,false,false,C,8,8,4,3,3/12/24,13,B06005,685624,55-64,1,high,false,Retired,Location & Schools,false
+H05343,Riverside,673486,2808,6,5,12,2,0.15,false,true,E,8,8,4,3,3/14/24,16,B05343,778407,45-54,4,high,true,Dual income,Space & Bedrooms,false
+H00998,Riverside,786195,3363,6,5,16,2,0.12,false,false,C,8,8,4,3,3/17/24,46,B00998,849532,45-54,2,high,false,Self-employed,Location & Schools,false
+H03668,Riverside,440468,1686,2,3,0,1,0.11,true,false,E,8,8,4,3,3/17/24,35,B03668,491277,45-54,1,medium,false,Dual income,Affordability,false
+H03333,Riverside,487916,2284,4,4,5,1,0.17,false,false,F,8,8,4,3,3/17/24,27,B03333,524549,25-34,2,medium,false,Dual income,Modern & Updated,true
+H03217,Riverside,498126,2164,4,4,12,1,0.12,false,false,D,8,8,4,3,3/17/24,14,B03217,570877,35-44,4,medium,true,Self-employed,Low Maintenance,false
+H01279,Riverside,817438,3424,6,5,7,3,0.15,true,true,F,8,8,4,3,3/18/24,12,B01279,940466,45-54,4,high,true,Full-time employed,Space & Bedrooms,false
+H01298,Riverside,544765,2577,3,3,12,2,0.15,false,false,F,8,8,4,3,3/18/24,38,B01298,598943,55-64,3,medium,false,Self-employed,Affordability,false
+H05719,Riverside,391703,1805,4,4,19,2,0.09,false,false,E,8,8,4,3,3/21/24,8,B05719,432338,45-54,2,medium,false,Self-employed,Affordability,false
+H06480,Riverside,246149,1110,2,1,17,0,0.27,true,false,E,8,8,4,3,3/21/24,23,B06480,266042,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
+H02299,Riverside,476225,1998,4,4,6,2,0.15,false,false,E,8,8,4,3,3/21/24,57,B02299,519422,35-44,4,medium,true,Dual income,Location & Schools,false
+H06762,Riverside,691512,3389,5,5,35,3,0.17,false,true,C,8,8,4,3,3/22/24,49,B06762,755153,45-54,3,high,true,Full-time employed,Location & Schools,false
+H06597,Riverside,341709,1214,3,2,2,2,0.26,false,false,E,8,8,4,3,3/22/24,5,B06597,399606,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H06670,Riverside,671528,3101,5,5,0,2,0.09,false,false,E,8,8,4,3,3/28/24,22,B06670,747900,45-54,3,high,true,Full-time employed,Space & Bedrooms,false
+H04828,Riverside,724045,3231,5,5,4,2,0.19,false,false,E,8,8,4,3,4/3/24,61,B04828,808718,45-54,2,high,false,Full-time employed,Low Maintenance,true
+H07044,Riverside,563860,2675,4,4,37,1,0.11,true,false,B,8,8,4,3,4/4/24,46,B07044,614473,55-64,3,medium,true,Retired,Space & Bedrooms,false
+H02103,Riverside,744412,3572,6,5,9,2,0.18,false,false,F,8,8,4,3,4/5/24,21,B02103,875873,45-54,3,high,true,Full-time employed,Modern & Updated,false
+H05515,Riverside,679723,3153,5,5,19,2,0.13,false,false,C,8,8,4,3,4/5/24,21,B05515,732071,25-34,2,high,false,Full-time employed,Investment,false
+H06606,Riverside,303257,1247,2,2,6,0,0.18,true,false,E,8,8,4,3,4/7/24,4,B06606,335769,35-44,1,medium,false,Self-employed,Affordability,false
+H01869,Riverside,477384,1853,2,2,2,2,0.22,false,false,E,8,8,4,3,4/9/24,6,B01869,506070,55-64,1,medium,false,Self-employed,Location & Schools,false
+H06728,Riverside,568746,2647,5,5,16,2,0.18,false,false,F,8,8,4,3,4/10/24,34,B06728,622676,55-64,3,medium,true,Dual income,Modern & Updated,false
+H06839,Riverside,535934,2377,3,4,25,2,0.15,false,false,C,8,8,4,3,4/10/24,11,B06839,600345,55-64,2,medium,false,Dual income,Space & Bedrooms,false
+H07202,Riverside,599512,2834,4,4,17,1,0.21,false,true,F,8,8,4,3,4/12/24,30,B07202,632602,35-44,3,high,true,Full-time employed,Modern & Updated,false
+H04458,Riverside,375312,1527,3,3,11,1,0.13,false,false,E,8,8,4,3,4/13/24,25,B04458,409292,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H04635,Riverside,683408,2969,5,5,8,2,0.08,false,false,E,8,8,4,3,4/14/24,5,B04635,751577,55-64,4,high,true,Self-employed,Space & Bedrooms,false
+H01393,Riverside,630056,2907,5,5,5,1,0.1,false,false,F,8,8,4,3,4/14/24,14,B01393,735276,35-44,3,high,true,Full-time employed,Location & Schools,false
+H01926,Riverside,876063,4328,6,5,6,2,0.15,false,false,F,8,8,4,3,4/16/24,8,B01926,958779,35-44,3,high,true,Dual income,Location & Schools,false
+H00939,Riverside,683166,2970,5,5,35,2,0.19,true,true,D,8,8,4,3,4/20/24,76,B00939,768397,55-64,3,high,false,Retired,Affordability,false
+H02703,Riverside,526322,2205,3,3,7,2,0.11,false,false,E,8,8,4,3,4/21/24,4,B02703,579161,35-44,1,medium,false,Full-time employed,Affordability,false
+H02833,Riverside,219743,965,2,2,26,1,0.16,false,false,D,8,8,4,3,4/24/24,68,B02833,258629,55-64,3,low,false,Retired,Space & Bedrooms,false
+H03525,Riverside,179196,816,1,1,30,2,0.16,false,false,C,8,8,4,3,4/25/24,18,B03525,195473,35-44,1,low,false,Full-time employed,Affordability,false
+H05806,Riverside,938656,4176,6,5,12,3,0.17,false,false,F,8,8,4,3,4/25/24,19,B05806,1046434,35-44,4,high,false,Full-time employed,Low Maintenance,false
+H04836,Riverside,207407,1274,2,2,5,0,0.19,false,false,F,8,8,4,3,4/28/24,13,B04836,231081,45-54,1,low,false,Dual income,Space & Bedrooms,false
+H03943,Riverside,793065,3817,6,5,7,2,0.11,false,false,F,8,8,4,3,5/1/24,32,B03943,834254,35-44,4,high,true,Dual income,Location & Schools,false
+H07223,Riverside,414296,1689,2,2,2,1,0.15,true,false,F,8,8,4,3,5/4/24,3,B07223,444512,25-34,2,medium,false,Full-time employed,Affordability,false
+H07769,Riverside,498703,2245,3,3,29,1,0.15,false,false,E,8,8,4,3,5/4/24,9,B07769,555823,45-54,2,medium,false,Retired,Low Maintenance,false
+H07973,Riverside,737206,3713,6,5,40,3,0.09,false,false,B,8,8,4,3,5/5/24,105,B07973,792234,45-54,4,high,true,Full-time employed,Modern & Updated,false
+H00604,Riverside,577712,2607,5,5,10,2,0.13,false,false,E,8,8,4,3,5/6/24,121,B00604,640266,35-44,4,high,true,Full-time employed,Location & Schools,false
+H02765,Riverside,320346,1533,3,3,9,1,0.14,false,false,F,8,8,4,3,5/6/24,123,B02765,357286,55-64,1,medium,false,Retired,Space & Bedrooms,false
+H03168,Riverside,567890,2261,4,4,9,1,0.11,true,false,E,8,8,4,3,5/6/24,16,B03168,635595,45-54,2,high,false,Full-time employed,Space & Bedrooms,false
+H02855,Riverside,588114,2630,4,4,0,1,0.09,true,false,E,8,8,4,3,5/7/24,60,B02855,623965,25-34,3,medium,false,Dual income,Affordability,true
+H01034,Riverside,519797,2619,4,4,31,1,0.11,false,false,D,8,8,4,3,5/8/24,7,B01034,578638,55-64,2,medium,false,Full-time employed,Space & Bedrooms,false
+H06189,Riverside,590063,2981,5,5,54,1,0.23,false,false,B,8,8,4,3,5/8/24,42,B06189,695448,45-54,3,high,false,Full-time employed,Location & Schools,false
+H00133,Riverside,525314,2469,4,4,2,2,0.25,false,false,F,8,8,4,3,5/9/24,19,B00133,618759,35-44,2,medium,false,Dual income,Modern & Updated,false
+H05432,Riverside,494875,2172,3,3,14,1,0.13,false,false,F,8,8,4,3,5/9/24,10,B05432,562801,35-44,1,medium,false,Full-time employed,Affordability,false
+H04631,Riverside,314394,1289,2,2,2,0,0.15,false,true,F,8,8,4,3,5/10/24,98,B04631,347726,25-34,1,medium,false,Dual income,Modern & Updated,false
+H01647,Riverside,683920,3231,5,5,10,2,0.11,false,true,F,8,8,4,3,5/13/24,82,B01647,730150,25-34,2,high,false,Full-time employed,Space & Bedrooms,false
+H01691,Riverside,814010,3832,6,5,19,3,0.12,false,false,E,8,8,4,3,5/13/24,34,B01691,904694,25-34,2,high,false,Dual income,Space & Bedrooms,false
+H00318,Riverside,520183,2142,4,4,14,1,0.17,true,false,E,8,8,4,3,5/14/24,2,B00318,570560,45-54,3,medium,true,Full-time employed,Affordability,true
+H07923,Riverside,381383,1313,3,2,50,0,0.1,true,false,B,8,8,4,3,5/14/24,46,B07923,448683,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H05843,Riverside,434302,2026,4,4,45,1,0.13,false,false,B,8,8,4,3,5/15/24,87,B05843,507178,45-54,2,medium,false,Self-employed,Location & Schools,false
+H00704,Riverside,701781,3051,5,4,8,3,0.16,false,false,F,8,8,4,3,5/15/24,1,B00704,777707,55-64,5,high,false,Dual income,Location & Schools,false
+H00210,Riverside,690873,3146,5,5,0,3,0.25,false,false,D,8,8,4,3,5/15/24,1,B00210,795099,25-34,3,high,true,Full-time employed,Space & Bedrooms,false
+H06615,Riverside,527698,2434,4,4,1,2,0.14,false,false,F,8,8,4,3,5/16/24,3,B06615,601449,35-44,3,medium,true,Full-time employed,Location & Schools,false
+H02394,Riverside,686719,3167,6,5,40,2,0.11,true,false,B,8,8,4,3,5/16/24,53,B02394,733856,45-54,6,high,true,Dual income,Location & Schools,false
+H03491,Riverside,619660,2510,4,4,11,2,0.16,true,false,E,8,8,4,3,5/17/24,24,B03491,690066,45-54,2,high,false,Dual income,Low Maintenance,false
+H06261,Riverside,384518,1968,4,3,5,1,0.15,false,false,F,8,8,4,3,5/17/24,18,B06261,447767,35-44,1,medium,false,Self-employed,Location & Schools,true
+H03078,Riverside,552072,2489,4,4,8,1,0.11,true,false,D,8,8,4,3,5/17/24,31,B03078,600357,35-44,3,medium,true,Full-time employed,Location & Schools,false
+H02552,Riverside,224835,800,1,1,1,1,0.18,false,false,F,8,8,4,3,5/18/24,3,B02552,257972,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
+H03222,Riverside,964071,4315,6,5,29,3,0.22,true,false,B,8,8,4,3,5/18/24,79,B03222,1048346,35-44,4,high,true,Full-time employed,Location & Schools,false
+H07450,Riverside,557521,2297,4,3,7,1,0.18,false,false,F,8,8,4,3,5/19/24,60,B07450,596813,35-44,2,medium,false,Self-employed,Modern & Updated,false
+H03798,Riverside,431927,1817,3,3,6,2,0.16,true,false,F,8,8,4,3,5/19/24,39,B03798,499294,45-54,2,medium,false,Full-time employed,Affordability,false
+H00091,Riverside,361780,904,1,1,19,1,0.12,true,false,D,8,8,4,3,5/20/24,2,B00091,420595,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H07595,Riverside,770356,3413,5,5,9,2,0.11,true,false,E,8,8,4,3,5/20/24,31,B07595,861401,45-54,5,high,true,Full-time employed,Low Maintenance,false
+H04468,Riverside,925364,4165,6,5,0,2,0.08,true,false,E,8,8,4,3,5/20/24,4,B04468,1004786,65+,2,high,false,Full-time employed,Modern & Updated,true
+H01706,Riverside,814190,3704,6,5,59,2,0.22,false,false,A,8,8,4,3,5/21/24,47,B01706,955469,45-54,5,high,true,Full-time employed,Space & Bedrooms,false
+H03786,Riverside,264925,1093,2,2,0,0,0.12,false,false,F,8,8,4,3,5/21/24,180,B03786,290398,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H02307,Riverside,283288,800,1,1,12,1,0.13,false,true,F,8,8,4,3,5/22/24,54,B02307,327009,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H04248,Riverside,603944,2992,5,5,2,2,0.21,false,false,F,8,8,4,3,5/23/24,56,B04248,712618,35-44,5,high,true,Self-employed,Space & Bedrooms,true
+H00603,Riverside,465010,2013,2,2,1,1,0.22,false,false,F,8,8,4,3,5/23/24,1,B00603,492932,25-34,1,medium,false,Full-time employed,Affordability,false
+H06234,Riverside,212175,956,1,1,17,1,0.12,false,false,D,8,8,4,3,5/23/24,5,B06234,247500,25-34,1,low,false,Full-time employed,Modern & Updated,false
+H00773,Riverside,641371,3010,5,4,3,2,0.16,false,true,F,8,8,4,3,5/23/24,79,B00773,673929,45-54,4,high,true,Self-employed,Low Maintenance,true
+H03826,Riverside,134242,800,1,1,4,0,0.3,true,false,F,8,8,4,3,5/27/24,43,B03826,142818,35-44,1,low,false,Dual income,Investment,false
+H07805,Riverside,776052,3995,6,5,7,3,0.13,false,false,F,8,8,4,3,6/2/24,87,B07805,848717,25-34,2,high,false,Full-time employed,Affordability,false
+H07140,Riverside,435227,2289,4,4,8,1,0.17,false,false,F,8,8,4,3,6/2/24,43,B07140,512594,45-54,3,medium,true,Full-time employed,Affordability,false
+H02477,Riverside,704200,3395,6,5,19,2,0.11,false,false,D,8,8,4,3,6/3/24,38,B02477,747555,45-54,4,high,false,Dual income,Investment,false
+H07919,Riverside,651033,3070,4,4,8,2,0.23,true,false,E,8,8,4,3,6/3/24,66,B07919,717690,35-44,2,high,false,Dual income,Location & Schools,false
+H05708,Riverside,487681,1977,5,5,7,1,0.15,true,false,E,8,8,4,3,6/4/24,12,B05708,561282,45-54,4,medium,false,Full-time employed,Space & Bedrooms,false
+H06205,Riverside,561972,2342,5,5,43,1,0.13,true,false,B,8,8,4,3,6/6/24,30,B06205,644473,55-64,3,high,true,Full-time employed,Space & Bedrooms,true
+H03344,Riverside,434685,2081,3,4,2,2,0.21,false,false,F,8,8,4,3,6/7/24,43,B03344,471011,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H01106,Riverside,583709,2980,5,5,39,1,0.12,true,true,B,8,8,4,3,6/7/24,107,B01106,624167,45-54,4,medium,true,Full-time employed,Affordability,false
+H00165,Riverside,355454,1576,4,3,2,1,0.14,false,false,F,8,8,4,3,6/8/24,27,B00165,415151,25-34,2,medium,false,Dual income,Space & Bedrooms,false
+H00935,Riverside,465850,2113,5,4,2,1,0.1,true,false,E,8,8,4,3,6/11/24,72,B00935,516233,35-44,3,medium,true,Self-employed,Space & Bedrooms,false
+H05851,Riverside,743531,3414,6,5,35,2,0.2,true,false,C,8,8,4,3,6/12/24,35,B05851,811627,35-44,4,high,true,Full-time employed,Space & Bedrooms,false
+H04171,Riverside,519360,1896,2,2,60,2,0.27,true,true,B,8,8,4,3,6/12/24,22,B04171,550247,45-54,2,medium,false,Full-time employed,Space & Bedrooms,false
+H01287,Riverside,606081,2706,4,4,27,1,0.19,false,false,C,8,8,4,3,6/15/24,28,B01287,691172,45-54,3,high,true,Full-time employed,Space & Bedrooms,false
+H00022,Riverside,812369,3530,6,5,9,3,0.15,true,false,E,8,8,4,3,6/18/24,50,B00022,930313,55-64,5,high,true,Self-employed,Location & Schools,false
+H05753,Riverside,498622,2194,4,4,2,2,0.17,false,false,F,8,8,4,3,6/19/24,25,B05753,541510,25-34,1,medium,false,Self-employed,Affordability,true
+H01568,Riverside,679240,3004,5,5,0,2,0.1,true,false,F,8,8,4,3,6/21/24,87,B01568,719442,55-64,2,high,false,Full-time employed,Modern & Updated,false
+H00920,Riverside,196271,800,2,2,13,0,0.32,false,false,E,8,8,4,3,6/22/24,9,B00920,221399,25-34,1,low,false,Full-time employed,Modern & Updated,false
+H06546,Riverside,364930,1285,2,2,5,2,0.13,false,true,F,8,8,4,3,6/24/24,19,B06546,387684,35-44,1,medium,false,Full-time employed,Modern & Updated,false
+H05692,Riverside,307449,1488,3,3,1,0,0.36,false,false,E,8,8,4,3,6/25/24,21,B05692,337439,55-64,3,medium,true,Full-time employed,Location & Schools,false
+H01388,Riverside,547092,2168,3,4,18,2,0.24,true,false,D,8,8,4,3,6/26/24,30,B01388,643295,45-54,3,high,true,Full-time employed,Space & Bedrooms,false
+H06836,Riverside,337031,1573,2,3,1,1,0.21,true,false,F,8,8,4,3,6/27/24,47,B06836,370927,45-54,1,medium,false,Full-time employed,Location & Schools,false
+H07197,Riverside,556474,2456,5,5,5,2,0.16,true,false,E,8,8,4,3,6/28/24,5,B07197,656477,55-64,3,high,false,Retired,Modern & Updated,false
+H00900,Riverside,562428,2405,4,4,9,2,0.11,true,false,C,8,8,4,3,6/28/24,38,B00900,625147,45-54,3,medium,true,Self-employed,Space & Bedrooms,false
+H07806,Riverside,619760,2770,4,4,5,1,0.14,false,false,E,8,8,4,3,7/1/24,8,B07806,672683,55-64,1,high,false,Retired,Low Maintenance,false
+H02050,Riverside,361232,1841,2,3,4,2,0.18,false,false,E,8,8,4,3,7/2/24,89,B02050,416638,45-54,1,medium,false,Dual income,Affordability,false
+H02392,Riverside,521747,2238,4,4,0,2,0.29,false,false,F,8,8,4,3,7/3/24,32,B02392,563530,35-44,3,medium,true,Self-employed,Space & Bedrooms,false
+H03789,Riverside,457164,1948,4,4,55,2,0.2,false,true,B,8,8,4,3,7/3/24,53,B03789,525477,25-34,1,medium,false,Self-employed,Space & Bedrooms,false
+H02119,Riverside,561210,2607,4,4,9,1,0.24,false,false,E,8,8,4,3,7/5/24,9,B02119,604012,45-54,2,medium,false,Self-employed,Space & Bedrooms,false
+H01625,Riverside,383622,1525,2,2,31,2,0.15,true,true,C,8,8,4,3,7/9/24,18,B01625,424818,45-54,1,medium,false,Dual income,Modern & Updated,false
+H01645,Riverside,700129,3363,6,5,28,2,0.11,true,false,B,8,8,4,3,7/9/24,49,B01645,792797,45-54,4,high,true,Full-time employed,Low Maintenance,false
+H00207,Riverside,286282,1237,2,1,38,2,0.09,false,false,B,8,8,4,3,7/10/24,46,B00207,307214,55-64,1,medium,false,Retired,Modern & Updated,false
+H06741,Riverside,917216,3922,6,5,43,2,0.18,true,false,B,8,8,4,3,7/10/24,1,B06741,1049965,25-34,3,high,true,Full-time employed,Space & Bedrooms,false
+H05903,Riverside,802490,3689,6,5,2,2,0.11,true,false,F,8,8,4,3,7/10/24,4,B05903,928104,35-44,5,high,false,Full-time employed,Modern & Updated,false
+H06325,Riverside,475665,2236,3,3,11,2,0.09,false,false,F,8,8,4,3,7/10/24,12,B06325,521513,35-44,3,medium,true,Dual income,Affordability,false
+H05327,Riverside,955950,4500,6,5,2,2,0.13,false,false,E,8,8,4,3,7/10/24,9,B05327,1045217,55-64,4,high,true,Full-time employed,Space & Bedrooms,false
+H03254,Riverside,893724,4167,6,5,19,2,0.14,false,false,D,8,8,4,3,7/11/24,123,B03254,1010716,45-54,6,high,true,Full-time employed,Location & Schools,false
+H02901,Riverside,357376,1901,3,3,8,2,0.17,false,false,F,8,8,4,3,7/12/24,16,B02901,381455,45-54,3,medium,true,Full-time employed,Affordability,false
+H07918,Riverside,762064,3645,6,5,5,2,0.13,false,false,D,8,8,4,3,7/12/24,4,B07918,893652,35-44,4,high,true,Full-time employed,Location & Schools,false
+H05528,Riverside,490900,2458,4,4,1,1,0.18,false,false,F,8,8,4,3,7/12/24,57,B05528,528859,25-34,2,medium,false,Full-time employed,Affordability,false
+H02335,Riverside,786659,3502,6,5,60,3,0.12,false,false,A,8,8,4,3,7/13/24,50,B02335,831339,45-54,4,high,true,Self-employed,Affordability,false
+H06042,Riverside,627300,3043,5,5,10,2,0.17,true,false,F,8,8,4,3,7/13/24,17,B06042,670290,45-54,4,high,true,Full-time employed,Location & Schools,false
+H00067,Riverside,404686,1602,4,4,13,1,0.1,true,false,D,8,8,4,3,7/16/24,1,B00067,453164,35-44,2,medium,false,Full-time employed,Affordability,false
+H07503,Riverside,671984,3023,5,5,2,2,0.2,false,false,F,8,8,4,3,7/16/24,60,B07503,789816,35-44,3,high,false,Full-time employed,Location & Schools,true
+H01165,Riverside,469339,2053,4,4,12,2,0.17,false,false,D,8,8,4,3,7/17/24,16,B01165,538719,45-54,3,medium,true,Full-time employed,Space & Bedrooms,false
+H05074,Riverside,228884,822,1,1,27,2,0.22,false,false,D,8,8,4,3,7/17/24,113,B05074,249492,25-34,1,low,false,Full-time employed,Location & Schools,false
+H06502,Riverside,481649,2433,4,4,8,1,0.15,false,false,D,8,8,4,3,7/19/24,44,B06502,564196,45-54,1,medium,false,Dual income,Modern & Updated,false
+H07685,Riverside,502323,2446,4,4,11,1,0.09,false,false,E,8,8,4,3,7/19/24,6,B07685,556628,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H01463,Riverside,779166,3677,6,5,2,2,0.09,false,false,E,8,8,4,3,7/20/24,18,B01463,880745,45-54,4,high,true,Self-employed,Location & Schools,false
+H07069,Riverside,443693,2142,5,5,17,1,0.14,false,false,E,8,8,4,3,7/20/24,86,B07069,481200,25-34,2,medium,false,Full-time employed,Affordability,false
+H05254,Riverside,626409,2807,4,4,6,2,0.17,false,false,E,8,8,4,3,7/20/24,69,B05254,690699,45-54,2,high,false,Dual income,Low Maintenance,false
+H00843,Riverside,560379,2627,4,4,11,2,0.11,false,false,E,8,8,4,3,7/22/24,6,B00843,641002,35-44,3,high,true,Dual income,Location & Schools,false
+H05319,Riverside,419880,2061,4,4,24,2,0.13,false,false,E,8,8,4,3,7/24/24,11,B05319,447247,35-44,1,medium,false,Dual income,Modern & Updated,false
+H07293,Riverside,452513,2381,5,4,17,1,0.13,false,false,F,8,8,4,3,7/24/24,16,B07293,487141,55-64,4,medium,false,Self-employed,Low Maintenance,false
+H02778,Riverside,178665,820,2,2,24,1,0.09,false,false,C,8,8,4,3,7/24/24,18,B02778,207985,35-44,1,low,false,Full-time employed,Space & Bedrooms,false
+H03728,Riverside,461668,2271,3,4,10,2,0.19,true,false,E,8,8,4,3,7/24/24,59,B03728,506773,55-64,3,medium,false,Retired,Location & Schools,false
+H06651,Riverside,880706,4266,6,5,0,2,0.23,false,false,F,8,8,4,3,7/25/24,28,B06651,928525,55-64,4,high,false,Retired,Space & Bedrooms,false
+H01721,Riverside,216418,800,2,2,42,1,0.15,false,true,B,8,8,4,3,7/28/24,115,B01721,233414,25-34,1,low,false,Dual income,Affordability,false
+H04087,Riverside,872791,3989,6,5,9,2,0.2,false,false,F,8,8,4,3,8/3/24,16,B04087,958682,35-44,4,high,false,Dual income,Modern & Updated,true
+H00263,Riverside,567316,2326,3,4,4,1,0.22,false,false,E,8,8,4,3,8/3/24,3,B00263,612075,55-64,3,medium,true,Retired,Location & Schools,false
+H02397,Riverside,444082,2252,4,4,38,2,0.27,true,true,D,8,8,4,3,8/3/24,24,B02397,496939,25-34,2,medium,false,Full-time employed,Space & Bedrooms,true
+H04644,Riverside,784564,3443,6,5,27,3,0.16,false,true,E,8,8,4,3,8/3/24,4,B04644,912012,45-54,4,high,true,Full-time employed,Modern & Updated,false
+H00666,Riverside,561029,2276,5,4,13,2,0.28,false,false,D,8,8,4,3,8/4/24,6,B00666,602650,25-34,2,medium,false,Dual income,Modern & Updated,false
+H04421,Riverside,518032,2370,4,4,18,2,0.09,false,false,D,8,8,4,3,8/4/24,62,B04421,598064,35-44,2,medium,false,Dual income,Modern & Updated,false
+H05842,Riverside,861163,3799,6,5,12,2,0.21,false,true,F,8,8,4,3,8/6/24,22,B05842,996163,55-64,5,high,true,Full-time employed,Space & Bedrooms,true
+H04205,Riverside,446088,1991,3,3,0,1,0.17,false,false,E,8,8,4,3,8/6/24,3,B04205,498890,45-54,2,medium,false,Self-employed,Modern & Updated,false
+H00255,Riverside,475671,2248,3,4,8,2,0.14,false,false,D,8,8,4,3,8/7/24,8,B00255,535559,25-34,1,medium,false,Dual income,Affordability,false
+H02014,Riverside,663272,3044,6,5,2,2,0.15,false,false,F,8,8,4,3,8/8/24,59,B02014,751315,45-54,4,high,true,Self-employed,Affordability,false
+H05168,Riverside,546181,2457,4,4,9,2,0.15,true,false,F,8,8,4,3,8/8/24,15,B05168,624724,55-64,3,medium,false,Full-time employed,Affordability,false
+H05817,Riverside,340358,1658,3,3,21,0,0.15,true,true,F,8,8,4,3,8/8/24,16,B05817,360403,45-54,1,medium,false,Full-time employed,Low Maintenance,false
+H00176,Riverside,366285,1521,2,2,6,1,0.15,true,false,F,8,8,4,3,8/15/24,14,B00176,417914,35-44,2,medium,false,Full-time employed,Affordability,false
+H00845,Riverside,586521,2881,4,4,4,1,0.25,true,false,E,8,8,4,3,8/18/24,15,B00845,690038,45-54,1,high,false,Dual income,Location & Schools,false
+H06916,Riverside,659415,3453,6,5,18,2,0.18,false,false,D,8,8,4,3,8/25/24,4,B06916,738589,55-64,4,high,true,Full-time employed,Space & Bedrooms,true
+H00434,Riverside,603501,2808,4,4,2,2,0.19,false,false,F,8,8,4,3,8/26/24,2,B00434,655900,35-44,3,high,true,Self-employed,Space & Bedrooms,false
+H05491,Riverside,805228,3775,6,5,6,2,0.22,true,false,F,8,8,4,3,8/26/24,31,B05491,885038,45-54,4,high,true,Full-time employed,Location & Schools,false
+H07065,Riverside,469028,2031,4,4,14,1,0.24,false,false,E,8,8,4,3,8/27/24,14,B07065,529189,35-44,3,medium,true,Self-employed,Modern & Updated,false
+H03897,Riverside,789151,3517,5,5,3,2,0.14,true,false,E,8,8,4,3,8/27/24,7,B03897,904219,55-64,3,high,false,Full-time employed,Location & Schools,false
+H03062,Riverside,577709,2472,4,4,12,2,0.16,false,false,E,8,8,4,3,8/27/24,14,B03062,613061,45-54,3,medium,true,Dual income,Location & Schools,false
+H05450,Riverside,793590,3683,6,5,7,2,0.22,true,false,F,8,8,4,3,9/1/24,23,B05450,834021,65+,2,high,false,Retired,Modern & Updated,false
+H01765,Riverside,730709,3402,6,5,3,2,0.1,false,false,F,8,8,4,3,9/1/24,4,B01765,795182,35-44,4,high,true,Dual income,Space & Bedrooms,false
+H03987,Riverside,450006,1814,2,3,6,2,0.14,true,false,D,8,8,4,3,9/1/24,16,B03987,503695,45-54,1,medium,false,Full-time employed,Space & Bedrooms,false
+H00727,Riverside,302553,1297,2,2,1,1,0.2,false,false,E,8,8,4,3,9/1/24,12,B00727,355164,35-44,1,medium,false,Full-time employed,Affordability,false
+H01722,Riverside,335993,1484,2,2,23,1,0.19,true,false,F,8,8,4,3,9/3/24,14,B01722,365525,25-34,1,medium,false,Full-time employed,Location & Schools,false
+H02860,Riverside,513696,2254,5,4,15,1,0.3,false,false,D,8,8,4,3,9/4/24,26,B02860,543584,35-44,2,medium,false,Full-time employed,Modern & Updated,false
+H00300,Riverside,489547,2399,5,5,3,1,0.16,false,false,F,8,8,4,3,9/4/24,22,B00300,537725,25-34,3,medium,true,Full-time employed,Location & Schools,false
+H05910,Riverside,517316,2340,4,4,20,1,0.16,true,false,D,8,8,4,3,9/6/24,56,B05910,543594,25-34,1,medium,false,Full-time employed,Location & Schools,false
+H02155,Riverside,640180,3259,6,5,10,2,0.31,false,false,F,8,8,4,3,9/7/24,76,B02155,682205,65+,1,high,false,Retired,Affordability,false
+H02479,Riverside,458047,1680,3,3,2,2,0.13,false,false,E,8,8,4,3,9/9/24,2,B02479,487819,35-44,2,medium,false,Full-time employed,Low Maintenance,false
+H06178,Riverside,281433,800,1,1,7,1,0.23,true,false,E,8,8,4,3,9/10/24,1,B06178,299361,35-44,1,medium,false,Self-employed,Affordability,true
+H06247,Riverside,483839,2059,3,3,1,1,0.16,false,false,F,8,8,4,3,9/11/24,43,B06247,524520,35-44,2,medium,false,Full-time employed,Affordability,false
+H00295,Riverside,474829,1889,3,3,15,2,0.09,true,false,F,8,8,4,3,9/12/24,2,B00295,526880,35-44,2,medium,false,Full-time employed,Modern & Updated,false
+H00057,Riverside,218803,800,1,1,58,0,0.18,false,false,B,8,8,4,3,9/14/24,45,B00057,240602,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
+H05678,Riverside,947295,4374,6,5,14,2,0.19,false,false,D,8,8,4,3,9/15/24,14,B05678,1104189,55-64,4,high,false,Retired,Space & Bedrooms,false
+H04033,Riverside,495697,2528,4,4,1,2,0.15,false,false,E,8,8,4,3,9/15/24,14,B04033,525690,35-44,1,medium,false,Full-time employed,Affordability,false
+H07732,Riverside,168743,800,1,1,33,1,0.14,false,false,B,8,8,4,3,9/17/24,2,B07732,187414,35-44,1,low,false,Full-time employed,Affordability,false
+H05603,Riverside,481241,2126,4,4,3,1,0.12,false,false,E,8,8,4,3,9/17/24,28,B05603,532335,35-44,2,medium,false,Full-time employed,Modern & Updated,false
+H04513,Riverside,445570,1929,4,4,0,1,0.13,true,false,F,8,8,4,3,9/17/24,27,B04513,487556,55-64,2,medium,false,Retired,Affordability,false
+H04162,Riverside,333449,1579,2,2,21,0,0.15,false,false,C,8,8,4,3,9/18/24,18,B04162,390804,25-34,1,medium,false,Dual income,Affordability,false
+H08000,Riverside,300455,1660,3,3,24,1,0.17,false,false,D,8,8,4,3,9/24/24,43,B08000,322121,55-64,1,medium,false,Dual income,Affordability,false
+H02116,Riverside,538457,2430,4,4,7,1,0.13,false,false,E,8,8,4,3,9/24/24,31,B02116,614732,25-34,2,medium,false,Self-employed,Affordability,false
+H05272,Riverside,492049,2366,4,4,22,2,0.14,false,false,E,8,8,4,3,9/24/24,22,B05272,544328,45-54,3,medium,false,Retired,Affordability,false
+H02627,Riverside,279739,1436,2,2,31,0,0.07,false,false,B,8,8,4,3,9/27/24,9,B02627,329106,55-64,1,medium,false,Self-employed,Affordability,false
+H04316,Riverside,450818,2108,4,4,0,1,0.09,false,false,F,8,8,4,3,9/28/24,26,B04316,484377,45-54,2,medium,false,Retired,Affordability,false
+H05630,Riverside,924595,4320,6,5,5,3,0.22,false,false,E,8,8,4,3,10/2/24,105,B05630,972978,35-44,4,high,true,Dual income,Modern & Updated,false
+H02343,Riverside,507763,2575,5,4,31,1,0.17,true,false,B,8,8,4,3,10/3/24,9,B02343,564651,35-44,4,medium,false,Self-employed,Location & Schools,true
+H05921,Riverside,706400,3201,6,5,22,3,0.09,false,true,E,8,8,4,3,10/7/24,2,B05921,815566,35-44,4,high,true,Full-time employed,Affordability,false
+H01711,Riverside,475375,2243,3,3,9,2,0.14,false,false,F,8,8,4,3,10/7/24,4,B01711,559348,35-44,1,medium,false,Dual income,Affordability,false
+H01162,Riverside,245986,1302,3,3,32,1,0.15,false,false,B,8,8,4,3,10/10/24,145,B01162,266931,55-64,1,low,false,Self-employed,Location & Schools,false
+H01694,Riverside,863500,4350,6,5,16,3,0.19,false,false,D,8,8,4,3,10/10/24,33,B01694,1008619,45-54,4,high,false,Retired,Modern & Updated,false
+H07602,Riverside,358304,1621,2,2,1,0,0.15,true,false,F,8,8,4,3,10/10/24,30,B07602,417704,35-44,1,medium,false,Self-employed,Modern & Updated,false
+H07936,Riverside,454491,2100,3,3,22,1,0.17,false,false,E,8,8,4,3,10/12/24,15,B07936,482739,25-34,1,medium,false,Dual income,Modern & Updated,false
+H07091,Riverside,554223,2758,3,4,28,1,0.19,false,false,C,8,8,4,3,10/16/24,1,B07091,622029,45-54,1,medium,false,Full-time employed,Location & Schools,false
+H04429,Riverside,229343,922,2,2,1,0,0.16,false,false,F,8,8,4,3,10/18/24,46,B04429,252321,35-44,3,low,true,Full-time employed,Location & Schools,false
+H05800,Riverside,296292,1513,2,2,5,0,0.1,false,false,F,8,8,4,3,10/22/24,36,B05800,318957,35-44,1,medium,false,Dual income,Space & Bedrooms,false
+H02600,Riverside,596384,2540,4,3,14,2,0.13,true,false,D,8,8,4,3,10/22/24,102,B02600,674608,35-44,2,high,false,Full-time employed,Space & Bedrooms,false
+H04498,Riverside,757505,3455,6,5,39,2,0.14,false,false,A,8,8,4,3,10/22/24,30,B04498,802130,35-44,5,high,true,Full-time employed,Location & Schools,false
+H06966,Riverside,617396,3042,6,5,27,2,0.16,false,false,D,8,8,4,3,10/22/24,10,B06966,713206,35-44,6,high,true,Full-time employed,Space & Bedrooms,false
+H03991,Riverside,308227,1549,3,3,16,1,0.08,false,false,E,8,8,4,3,10/23/24,16,B03991,335035,35-44,3,medium,true,Self-employed,Investment,false
+H00100,Riverside,355483,1608,2,2,6,2,0.14,true,false,E,8,8,4,3,10/24/24,8,B00100,383630,45-54,1,medium,false,Full-time employed,Affordability,false
+H05905,Riverside,700638,3101,5,5,3,3,0.16,false,false,E,8,8,4,3,10/24/24,73,B05905,785422,35-44,2,high,false,Full-time employed,Low Maintenance,false
+H04209,Riverside,373040,1474,3,3,42,1,0.18,true,false,C,8,8,4,3,10/26/24,45,B04209,404235,25-34,2,medium,false,Full-time employed,Location & Schools,false
+H00730,Riverside,405315,1864,2,2,16,1,0.13,false,false,E,8,8,4,3,10/26/24,53,B00730,433861,35-44,2,medium,false,Full-time employed,Modern & Updated,false
+H01985,Riverside,451230,2484,4,5,5,1,0.16,false,false,F,8,8,4,3,11/2/24,24,B01985,521731,45-54,5,medium,true,Full-time employed,Investment,false
+H05333,Riverside,747636,3232,5,5,60,2,0.11,true,true,A,8,8,4,3,11/3/24,1,B05333,848877,55-64,3,high,false,Retired,Investment,true
+H04273,Riverside,255972,1337,3,3,28,2,0.15,false,true,E,8,8,4,3,11/5/24,76,B04273,292351,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H01594,Riverside,498003,1848,3,3,4,2,0.13,true,false,E,8,8,4,3,11/5/24,36,B01594,550759,35-44,2,medium,false,Dual income,Low Maintenance,true
+H07094,Riverside,520760,2139,4,4,3,1,0.16,false,false,E,8,8,4,3,11/5/24,1,B07094,597215,25-34,2,medium,false,Full-time employed,Low Maintenance,false
+H02595,Riverside,616379,2827,5,5,14,1,0.21,false,false,E,8,8,4,3,11/6/24,44,B02595,659057,45-54,3,high,true,Full-time employed,Space & Bedrooms,false
+H03761,Riverside,622334,3149,5,5,5,2,0.16,false,false,E,8,8,4,3,11/7/24,33,B03761,660407,35-44,4,high,false,Full-time employed,Modern & Updated,false
+H04731,Riverside,225599,834,1,1,11,1,0.19,true,false,D,8,8,4,3,11/8/24,8,B04731,251273,25-34,2,low,false,Self-employed,Space & Bedrooms,false
+H01319,Riverside,300650,1619,3,3,16,1,0.12,false,false,E,8,8,4,3,11/8/24,1,B01319,329084,45-54,2,medium,false,Full-time employed,Affordability,true
+H06754,Riverside,468842,2328,5,5,23,2,0.13,false,false,D,8,8,4,3,11/10/24,7,B06754,496120,45-54,3,medium,true,Full-time employed,Location & Schools,false
+H01961,Riverside,481579,2175,3,3,5,1,0.24,false,false,E,8,8,4,3,11/12/24,27,B01961,520419,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H07056,Riverside,365108,1669,3,3,6,0,0.12,true,false,F,8,8,4,3,11/14/24,3,B07056,397889,25-34,1,medium,false,Full-time employed,Low Maintenance,false
+H03632,Riverside,395181,1691,3,3,2,2,0.14,true,false,F,8,8,4,3,11/15/24,6,B03632,445798,35-44,3,medium,false,Dual income,Affordability,false
+H05778,Riverside,650583,3004,5,5,34,2,0.17,true,false,D,8,8,4,3,11/17/24,59,B05778,722417,25-34,3,high,false,Full-time employed,Space & Bedrooms,false
+H02687,Riverside,834085,3728,6,5,13,2,0.11,true,false,E,8,8,4,3,11/18/24,32,B02687,913779,45-54,4,high,true,Full-time employed,Location & Schools,true
+H04848,Riverside,692962,3172,5,5,3,2,0.14,false,false,F,8,8,4,3,11/20/24,83,B04848,754584,45-54,3,high,true,Full-time employed,Space & Bedrooms,false
+H05655,Riverside,745425,3602,5,5,0,2,0.13,true,false,E,8,8,4,3,11/21/24,5,B05655,876638,35-44,2,high,false,Self-employed,Space & Bedrooms,false
+H03552,Riverside,364981,1764,2,2,26,0,0.14,false,false,D,8,8,4,3,11/25/24,53,B03552,413357,45-54,1,medium,false,Full-time employed,Affordability,false
+H04255,Riverside,558314,2595,4,4,4,2,0.25,false,false,F,8,8,4,3,11/27/24,45,B04255,648378,55-64,1,high,false,Full-time employed,Modern & Updated,false
+H04588,Riverside,621109,2933,6,5,1,1,0.12,true,false,F,8,8,4,3,11/27/24,51,B04588,726678,55-64,3,high,false,Retired,Modern & Updated,false
+H05923,Riverside,369095,1796,3,3,25,0,0.13,false,false,E,8,8,4,3,11/28/24,180,B05923,428837,45-54,3,medium,true,Self-employed,Location & Schools,false
+H02157,Riverside,256014,1562,3,3,16,0,0.13,false,false,D,8,8,4,3,12/2/24,34,B02157,297371,45-54,2,medium,false,Self-employed,Location & Schools,false
+H07355,Riverside,902267,4209,6,5,58,2,0.17,false,true,B,8,8,4,3,12/6/24,16,B07355,956227,45-54,5,high,true,Dual income,Location & Schools,false
+H01402,Riverside,634244,3248,5,5,8,3,0.08,false,false,F,8,8,4,3,12/8/24,60,B01402,708020,35-44,2,high,false,Full-time employed,Low Maintenance,false
+H03465,Riverside,681363,3192,6,5,4,3,0.13,false,false,E,8,8,4,3,12/8/24,12,B03465,765619,45-54,4,high,true,Dual income,Space & Bedrooms,false
+H02223,Riverside,234593,800,1,1,2,1,0.09,false,false,E,8,8,4,3,12/9/24,12,B02223,267148,25-34,1,low,false,Full-time employed,Affordability,false
+H01951,Riverside,235680,800,1,1,6,1,0.15,false,false,E,8,8,4,3,12/11/24,18,B01951,274442,45-54,1,low,false,Full-time employed,Location & Schools,true
+H06742,Riverside,385316,1462,2,2,13,2,0.19,true,false,E,8,8,4,3,12/12/24,59,B06742,424650,45-54,1,medium,false,Dual income,Modern & Updated,false
+H06632,Riverside,504220,2338,5,5,17,1,0.09,false,true,F,8,8,4,3,12/15/24,31,B06632,560757,65+,2,medium,false,Retired,Space & Bedrooms,false
+H01412,Riverside,579315,2648,4,4,12,2,0.19,false,false,E,8,8,4,3,12/16/24,87,B01412,645180,45-54,1,high,false,Dual income,Investment,false
+H02642,Riverside,528812,2661,5,5,16,2,0.1,false,false,E,8,8,4,3,12/16/24,9,B02642,618166,65+,2,medium,false,Retired,Location & Schools,true
+H03246,Riverside,619020,3023,5,5,21,2,0.28,false,false,D,8,8,4,3,12/17/24,20,B03246,686156,55-64,3,high,false,Full-time employed,Low Maintenance,false
+H03402,Riverside,414935,2352,4,4,9,2,0.22,true,false,E,8,8,4,3,12/17/24,48,B03402,448513,35-44,3,medium,false,Dual income,Location & Schools,false
+H07891,Riverside,501331,2054,4,4,0,2,0.23,true,false,F,8,8,4,3,12/18/24,26,B07891,585720,35-44,3,medium,false,Full-time employed,Space & Bedrooms,true
+H01891,Riverside,557000,2282,3,3,17,1,0.21,true,false,C,8,8,4,3,12/22/24,51,B01891,622924,25-34,1,medium,false,Full-time employed,Low Maintenance,false
+H04367,Riverside,407074,2406,5,5,17,1,0.21,false,false,E,8,8,4,3,12/23/24,23,B04367,430548,25-34,2,medium,false,Dual income,Space & Bedrooms,false

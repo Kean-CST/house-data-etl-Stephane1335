@@ -1,0 +1,978 @@
+house_id,neighborhood,price,square_feet,num_bedrooms,num_bathrooms,house_age,garage_spaces,lot_size_acres,has_pool,recently_renovated,energy_rating,location_score,school_rating,crime_rate,distance_downtown_miles,sale_date,days_on_market,buyer_id,buyer_budget,buyer_age_group,buyer_family_size,buyer_income_level,has_children,employment_type,buyer_preference,first_time_buyer
+H07869,Oakwood,191077,1026,1,1,17,1,0.16,false,false,D,7,7,5,4,1/2/22,18,B07869,218226,35-44,1,low,false,Dual income,Location & Schools,false
+H05932,Oakwood,352075,1995,1,1,18,1,0.13,false,false,D,7,7,5,4,1/5/22,42,B05932,377256,25-34,1,medium,false,Full-time employed,Affordability,false
+H00735,Oakwood,169522,806,1,2,13,1,0.11,false,false,D,7,7,5,4,1/5/22,5,B00735,183755,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
+H04245,Oakwood,405446,2334,4,4,17,1,0.15,false,false,E,7,7,5,4,1/6/22,66,B04245,453893,25-34,2,medium,false,Dual income,Location & Schools,false
+H07637,Oakwood,509311,3011,5,5,18,2,0.13,false,false,D,7,7,5,4,1/6/22,7,B07637,562137,55-64,3,medium,true,Dual income,Location & Schools,false
+H03831,Oakwood,223072,1374,4,3,31,0,0.17,true,false,C,7,7,5,4,1/7/22,16,B03831,240316,45-54,2,low,false,Self-employed,Modern & Updated,false
+H00349,Oakwood,442093,2257,5,5,24,1,0.14,true,false,D,7,7,5,4,1/9/22,5,B00349,479343,55-64,3,medium,false,Self-employed,Location & Schools,false
+H02670,Oakwood,574565,3227,5,5,1,2,0.13,false,false,E,7,7,5,4,1/11/22,55,B02670,631573,45-54,4,high,true,Self-employed,Location & Schools,false
+H02579,Oakwood,177322,800,1,1,26,1,0.16,false,false,D,7,7,5,4,1/11/22,3,B02579,189746,25-34,1,low,false,Full-time employed,Location & Schools,false
+H07268,Oakwood,180265,800,1,1,5,1,0.21,false,false,F,7,7,5,4,1/17/22,28,B07268,193264,45-54,1,low,false,Dual income,Space & Bedrooms,false
+H04655,Oakwood,169375,800,1,1,6,0,0.1,false,false,F,7,7,5,4,1/18/22,6,B04655,182283,45-54,1,low,false,Dual income,Location & Schools,false
+H01892,Oakwood,389847,2125,3,3,20,1,0.13,false,false,E,7,7,5,4,1/20/22,3,B01892,458746,45-54,1,medium,false,Dual income,Affordability,false
+H02100,Oakwood,555318,2977,5,5,10,2,0.23,true,false,E,7,7,5,4,1/22/22,31,B02100,611961,25-34,2,medium,false,Full-time employed,Affordability,false
+H01614,Oakwood,437963,2055,4,4,13,2,0.15,false,true,E,7,7,5,4,1/23/22,7,B01614,515523,35-44,2,medium,false,Dual income,Low Maintenance,false
+H07342,Oakwood,187244,1018,3,3,8,1,0.11,true,false,F,7,7,5,4,1/24/22,21,B07342,201535,35-44,1,low,false,Dual income,Location & Schools,false
+H06292,Oakwood,727277,4409,6,5,25,2,0.18,false,false,E,7,7,5,4,1/24/22,37,B06292,848824,35-44,5,high,true,Full-time employed,Modern & Updated,false
+H03013,Oakwood,388988,1950,4,4,2,1,0.13,true,false,E,7,7,5,4,1/25/22,8,B03013,410121,45-54,2,medium,false,Full-time employed,Investment,false
+H06653,Oakwood,466030,2866,5,5,40,1,0.16,false,false,B,7,7,5,4,1/26/22,70,B06653,501217,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H04181,Oakwood,126767,992,2,2,34,2,0.13,false,false,C,7,7,5,4,1/27/22,13,B04181,144906,25-34,1,low,false,Full-time employed,Affordability,true
+H06566,Oakwood,409139,2176,4,4,18,1,0.13,true,false,D,7,7,5,4,2/1/22,4,B06566,430508,45-54,3,medium,true,Dual income,Modern & Updated,true
+H00181,Oakwood,265361,1350,2,2,3,1,0.15,false,false,F,7,7,5,4,2/2/22,10,B00181,304407,25-34,1,medium,false,Dual income,Affordability,false
+H05215,Oakwood,277435,1807,3,3,36,1,0.13,true,false,C,7,7,5,4,2/5/22,1,B05215,314495,45-54,3,medium,false,Full-time employed,Space & Bedrooms,false
+H05911,Oakwood,120000,800,1,1,22,0,0.22,false,false,C,7,7,5,4,2/7/22,61,B05911,138788,25-34,1,low,false,Dual income,Modern & Updated,false
+H04445,Oakwood,389322,1909,3,3,13,2,0.1,true,false,E,7,7,5,4,2/7/22,25,B04445,433596,35-44,1,medium,false,Full-time employed,Location & Schools,false
+H06068,Oakwood,412278,2584,5,4,20,2,0.23,false,false,E,7,7,5,4,2/8/22,29,B06068,443617,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H02070,Oakwood,207243,1326,2,2,15,2,0.14,false,false,D,7,7,5,4,2/10/22,127,B02070,236822,35-44,1,low,false,Dual income,Affordability,true
+H04642,Oakwood,367692,1777,2,2,0,0,0.1,true,false,F,7,7,5,4,2/10/22,21,B04642,430050,35-44,1,medium,false,Full-time employed,Affordability,false
+H05270,Oakwood,301940,1852,3,3,60,2,0.16,false,true,B,7,7,5,4,2/12/22,38,B05270,352708,35-44,2,medium,false,Dual income,Space & Bedrooms,false
+H00411,Oakwood,539566,3191,6,5,30,3,0.09,true,false,D,7,7,5,4,2/20/22,35,B00411,632306,55-64,3,high,true,Self-employed,Space & Bedrooms,false
+H06911,Oakwood,387919,2156,4,3,1,1,0.21,true,false,F,7,7,5,4,2/20/22,29,B06911,422195,55-64,2,medium,false,Full-time employed,Modern & Updated,false
+H00466,Oakwood,424418,2277,5,5,1,2,0.23,false,false,E,7,7,5,4,2/27/22,36,B00466,461839,35-44,2,medium,false,Full-time employed,Affordability,false
+H04932,Oakwood,361128,1939,4,4,15,1,0.14,true,false,E,7,7,5,4,2/28/22,16,B04932,423104,35-44,3,medium,true,Full-time employed,Affordability,false
+H04461,Oakwood,288692,1799,2,3,15,1,0.2,false,false,F,7,7,5,4,3/1/22,55,B04461,306633,45-54,1,medium,false,Self-employed,Investment,false
+H00429,Oakwood,659889,3387,4,5,7,2,0.09,true,false,F,7,7,5,4,3/1/22,31,B00429,742452,55-64,2,high,false,Full-time employed,Space & Bedrooms,false
+H00449,Oakwood,466352,2762,5,5,1,2,0.17,false,false,F,7,7,5,4,3/1/22,27,B00449,522835,35-44,2,medium,false,Dual income,Location & Schools,false
+H07470,Oakwood,183274,800,1,1,2,0,0.18,true,false,E,7,7,5,4,3/2/22,19,B07470,195316,35-44,1,low,false,Full-time employed,Affordability,false
+H04478,Oakwood,402698,2112,3,3,7,2,0.16,false,false,E,7,7,5,4,3/2/22,180,B04478,466852,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H06488,Oakwood,473924,2827,5,4,60,1,0.14,false,true,B,7,7,5,4,3/3/22,37,B06488,540200,35-44,2,medium,false,Full-time employed,Modern & Updated,false
+H01474,Oakwood,468974,2531,3,4,7,2,0.14,true,false,E,7,7,5,4,3/5/22,102,B01474,550659,35-44,1,medium,false,Full-time employed,Modern & Updated,false
+H02620,Oakwood,379579,2364,4,3,8,1,0.21,true,false,E,7,7,5,4,3/5/22,8,B02620,419671,35-44,2,medium,false,Full-time employed,Location & Schools,false
+H03191,Oakwood,333332,1710,3,3,0,1,0.2,true,false,E,7,7,5,4,3/5/22,30,B03191,371348,35-44,2,medium,false,Self-employed,Location & Schools,false
+H03758,Oakwood,171437,911,2,2,10,1,0.17,false,false,D,7,7,5,4,3/5/22,37,B03758,188998,55-64,2,low,false,Dual income,Space & Bedrooms,false
+H00642,Oakwood,376989,2815,4,4,23,1,0.1,false,false,D,7,7,5,4,3/6/22,2,B00642,421007,65+,2,medium,false,Retired,Investment,false
+H00784,Oakwood,151832,800,1,1,6,0,0.16,false,false,E,7,7,5,4,3/8/22,26,B00784,178972,55-64,1,low,false,Full-time employed,Space & Bedrooms,false
+H07839,Oakwood,275537,1932,3,3,5,2,0.12,false,false,F,7,7,5,4,3/9/22,17,B07839,292899,25-34,2,medium,false,Full-time employed,Modern & Updated,false
+H06937,Oakwood,430322,2613,5,5,5,1,0.3,false,false,E,7,7,5,4,3/9/22,2,B06937,472063,45-54,3,medium,true,Full-time employed,Modern & Updated,true
+H05060,Oakwood,289808,1585,3,3,6,2,0.23,false,false,E,7,7,5,4,3/12/22,28,B05060,324003,45-54,1,medium,false,Dual income,Modern & Updated,false
+H01658,Oakwood,230274,1751,3,3,60,1,0.21,false,false,A,7,7,5,4,3/14/22,24,B01658,249049,65+,1,low,false,Retired,Investment,false
+H01911,Oakwood,311914,1428,3,3,60,2,0.18,false,true,A,7,7,5,4,3/15/22,126,B01911,327789,25-34,1,medium,false,Dual income,Affordability,false
+H00546,Oakwood,483946,2431,4,4,36,2,0.16,true,true,E,7,7,5,4,3/16/22,63,B00546,554812,45-54,2,medium,false,Full-time employed,Location & Schools,false
+H05001,Oakwood,282098,1479,3,3,32,0,0.17,false,true,F,7,7,5,4,3/17/22,105,B05001,319357,45-54,1,medium,false,Dual income,Space & Bedrooms,false
+H07428,Oakwood,413857,2351,3,3,19,2,0.13,true,false,E,7,7,5,4,3/20/22,10,B07428,483897,25-34,1,medium,false,Self-employed,Space & Bedrooms,true
+H01492,Oakwood,235232,1696,3,3,10,1,0.11,false,false,E,7,7,5,4,3/20/22,36,B01492,255519,45-54,2,low,false,Full-time employed,Space & Bedrooms,false
+H07697,Oakwood,435583,2204,4,3,4,1,0.13,true,false,E,7,7,5,4,3/21/22,3,B07697,469357,35-44,3,medium,true,Dual income,Space & Bedrooms,false
+H07699,Oakwood,351208,1875,2,2,1,2,0.08,false,false,F,7,7,5,4,3/21/22,10,B07699,384141,35-44,2,medium,false,Full-time employed,Location & Schools,false
+H03441,Oakwood,120000,894,1,1,2,0,0.16,false,false,F,7,7,5,4,3/22/22,14,B03441,135288,55-64,1,low,false,Retired,Modern & Updated,false
+H00345,Oakwood,395993,2491,5,4,21,1,0.12,true,false,E,7,7,5,4,3/23/22,80,B00345,463675,45-54,4,medium,true,Full-time employed,Space & Bedrooms,false
+H07465,Oakwood,204699,1444,2,3,15,0,0.21,false,false,E,7,7,5,4,3/23/22,16,B07465,220550,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
+H04692,Oakwood,279000,1718,2,2,45,1,0.22,false,false,C,7,7,5,4,3/26/22,35,B04692,294470,45-54,2,medium,false,Self-employed,Modern & Updated,false
+H00828,Oakwood,583496,3092,4,5,16,3,0.15,false,false,E,7,7,5,4,3/26/22,26,B00828,650501,55-64,2,high,false,Full-time employed,Location & Schools,false
+H00083,Oakwood,378210,2401,5,4,31,1,0.16,true,false,D,7,7,5,4,3/26/22,35,B00083,400016,35-44,3,medium,true,Full-time employed,Space & Bedrooms,false
+H04879,Oakwood,120000,800,1,1,23,1,0.15,false,false,D,7,7,5,4,3/26/22,12,B04879,136745,25-34,1,low,false,Dual income,Space & Bedrooms,false
+H03263,Oakwood,387405,2426,4,4,5,2,0.21,false,false,E,7,7,5,4,3/27/22,8,B03263,443250,25-34,2,medium,false,Dual income,Space & Bedrooms,false
+H06093,Oakwood,273583,1501,2,2,53,0,0.15,true,false,A,7,7,5,4,3/27/22,17,B06093,317043,45-54,2,medium,false,Self-employed,Affordability,false
+H00079,Oakwood,645609,3685,6,5,5,2,0.17,false,true,F,7,7,5,4,3/28/22,37,B00079,690544,35-44,5,high,true,Full-time employed,Location & Schools,true
+H02741,Oakwood,479690,2373,4,4,10,1,0.19,true,false,E,7,7,5,4,3/28/22,7,B02741,542482,55-64,3,medium,true,Self-employed,Affordability,false
+H04346,Oakwood,392317,2319,4,4,11,1,0.15,false,false,D,7,7,5,4,4/1/22,30,B04346,435795,65+,1,medium,false,Self-employed,Low Maintenance,true
+H02288,Oakwood,364465,1887,4,4,10,2,0.17,true,false,D,7,7,5,4,4/1/22,52,B02288,397794,45-54,3,medium,true,Full-time employed,Modern & Updated,false
+H05470,Oakwood,513340,2630,4,4,9,1,0.15,false,false,E,7,7,5,4,4/2/22,54,B05470,598276,45-54,2,medium,false,Full-time employed,Location & Schools,false
+H07129,Oakwood,252120,1531,3,2,32,1,0.18,false,false,B,7,7,5,4,4/2/22,92,B07129,286472,35-44,2,medium,false,Dual income,Affordability,false
+H01379,Oakwood,505490,2476,4,4,15,2,0.2,true,false,D,7,7,5,4,4/2/22,89,B01379,535160,25-34,2,medium,false,Dual income,Space & Bedrooms,true
+H07539,Oakwood,618924,3259,6,5,32,3,0.14,true,false,C,7,7,5,4,4/2/22,12,B07539,710242,45-54,4,high,true,Full-time employed,Location & Schools,false
+H04500,Oakwood,407085,2459,5,4,7,1,0.11,false,false,F,7,7,5,4,4/4/22,10,B04500,474877,55-64,2,medium,false,Self-employed,Location & Schools,false
+H01204,Oakwood,168953,800,1,1,24,0,0.15,false,false,D,7,7,5,4,4/4/22,23,B01204,190914,25-34,1,low,false,Full-time employed,Affordability,false
+H00703,Oakwood,504419,2614,4,4,15,2,0.12,true,true,F,7,7,5,4,4/6/22,41,B00703,586843,35-44,4,medium,true,Full-time employed,Location & Schools,false
+H02909,Oakwood,192497,902,1,1,20,1,0.12,false,false,C,7,7,5,4,4/7/22,16,B02909,212559,25-34,1,low,false,Self-employed,Affordability,false
+H05334,Oakwood,360942,2195,5,5,41,2,0.15,false,false,C,7,7,5,4,4/8/22,3,B05334,413701,35-44,3,medium,true,Self-employed,Location & Schools,false
+H05458,Oakwood,502858,2245,3,4,1,2,0.17,true,false,E,7,7,5,4,4/8/22,9,B05458,528069,35-44,3,medium,true,Full-time employed,Space & Bedrooms,false
+H02994,Oakwood,204871,1264,3,3,60,1,0.19,false,true,A,7,7,5,4,4/9/22,2,B02994,219451,45-54,2,low,false,Full-time employed,Modern & Updated,false
+H07571,Oakwood,558859,3210,5,5,17,3,0.2,true,false,D,7,7,5,4,4/11/22,85,B07571,658723,25-34,2,high,false,Full-time employed,Investment,true
+H02124,Oakwood,332939,2027,4,4,2,2,0.16,false,false,F,7,7,5,4,4/12/22,11,B02124,375106,35-44,2,medium,false,Self-employed,Affordability,false
+H00556,Oakwood,382862,1821,3,3,2,2,0.12,false,false,F,7,7,5,4,4/12/22,29,B00556,427886,35-44,2,medium,false,Full-time employed,Investment,false
+H02017,Oakwood,174637,1398,2,2,13,0,0.11,false,false,F,7,7,5,4,4/13/22,5,B02017,200709,25-34,1,low,false,Dual income,Space & Bedrooms,false
+H02058,Oakwood,285735,1583,3,3,37,1,0.14,false,true,E,7,7,5,4,4/13/22,119,B02058,324374,35-44,2,medium,false,Dual income,Affordability,false
+H06798,Oakwood,364071,2084,5,4,60,1,0.09,false,true,B,7,7,5,4,4/14/22,8,B06798,382320,35-44,4,medium,false,Self-employed,Space & Bedrooms,false
+H00061,Oakwood,333077,1646,2,2,5,2,0.16,false,false,F,7,7,5,4,4/14/22,14,B00061,384645,55-64,1,medium,false,Self-employed,Affordability,false
+H06866,Oakwood,148328,800,2,2,3,1,0.1,false,false,F,7,7,5,4,4/15/22,46,B06866,170213,55-64,1,low,false,Self-employed,Space & Bedrooms,false
+H06750,Oakwood,529291,3306,5,5,51,3,0.19,false,false,B,7,7,5,4,4/15/22,1,B06750,592547,35-44,3,medium,true,Full-time employed,Affordability,false
+H05875,Oakwood,120000,800,1,1,27,2,0.28,false,false,B,7,7,5,4,4/16/22,21,B05875,130000,25-34,1,low,false,Full-time employed,Location & Schools,false
+H03844,Oakwood,491179,2940,5,5,25,2,0.19,false,false,B,7,7,5,4,4/16/22,60,B03844,528534,35-44,3,medium,false,Dual income,Space & Bedrooms,true
+H05422,Oakwood,189890,1021,3,2,0,0,0.09,true,false,F,7,7,5,4,4/17/22,17,B05422,200738,25-34,1,low,false,Dual income,Investment,false
+H06867,Oakwood,271328,1589,3,3,13,0,0.14,false,false,D,7,7,5,4,4/18/22,20,B06867,295228,35-44,1,medium,false,Self-employed,Investment,false
+H04008,Oakwood,560179,2619,4,4,8,2,0.15,true,false,E,7,7,5,4,4/18/22,20,B04008,603040,35-44,4,medium,true,Full-time employed,Low Maintenance,false
+H02551,Oakwood,187043,800,1,1,38,1,0.08,false,true,D,7,7,5,4,4/18/22,31,B02551,197119,25-34,1,low,false,Full-time employed,Location & Schools,false
+H06940,Oakwood,273003,1437,2,2,12,1,0.17,false,false,E,7,7,5,4,4/20/22,12,B06940,314942,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H06062,Oakwood,358903,1662,3,3,2,0,0.08,true,false,F,7,7,5,4,4/21/22,68,B06062,402761,35-44,3,medium,true,Dual income,Modern & Updated,false
+H00626,Oakwood,200382,1156,2,2,1,1,0.2,false,false,F,7,7,5,4,4/23/22,33,B00626,230993,25-34,1,low,false,Dual income,Affordability,false
+H02490,Oakwood,275196,1717,3,3,15,1,0.17,true,false,E,7,7,5,4,4/23/22,22,B02490,320781,65+,1,medium,false,Dual income,Location & Schools,true
+H04786,Oakwood,358309,2019,4,4,10,2,0.12,true,false,D,7,7,5,4,4/25/22,86,B04786,378107,35-44,4,medium,true,Full-time employed,Investment,true
+H00567,Oakwood,194117,1635,3,3,42,1,0.27,false,false,B,7,7,5,4,4/26/22,6,B00567,204371,35-44,1,low,false,Dual income,Space & Bedrooms,false
+H01486,Oakwood,225888,1547,3,3,10,1,0.08,false,false,D,7,7,5,4,4/28/22,14,B01486,263681,55-64,3,low,false,Retired,Modern & Updated,false
+H07464,Oakwood,180226,1146,3,3,12,0,0.17,true,false,D,7,7,5,4,5/2/22,81,B07464,207441,45-54,2,low,false,Self-employed,Affordability,false
+H00269,Oakwood,336420,1947,3,3,49,2,0.17,false,true,B,7,7,5,4,5/2/22,31,B00269,376970,35-44,2,medium,false,Self-employed,Modern & Updated,false
+H01803,Oakwood,145694,1135,3,3,14,1,0.08,false,false,D,7,7,5,4,5/2/22,23,B01803,171225,35-44,1,low,false,Full-time employed,Low Maintenance,false
+H01561,Oakwood,120000,929,1,1,7,2,0.09,false,false,E,7,7,5,4,5/4/22,19,B01561,135617,35-44,1,low,false,Full-time employed,Affordability,false
+H03836,Oakwood,203603,800,1,1,3,1,0.12,false,false,E,7,7,5,4,5/5/22,34,B03836,236339,45-54,2,low,false,Retired,Low Maintenance,false
+H00195,Oakwood,508867,2844,4,4,24,1,0.25,true,false,E,7,7,5,4,5/5/22,29,B00195,568323,35-44,3,medium,true,Full-time employed,Space & Bedrooms,false
+H04377,Oakwood,294036,1633,3,3,9,1,0.18,false,false,F,7,7,5,4,5/6/22,53,B04377,345437,25-34,1,medium,false,Full-time employed,Affordability,false
+H01652,Oakwood,147500,950,2,1,24,0,0.14,true,false,D,7,7,5,4,5/7/22,4,B01652,162258,25-34,1,low,false,Full-time employed,Modern & Updated,false
+H00769,Oakwood,587096,3009,4,4,10,3,0.19,false,false,D,7,7,5,4,5/9/22,15,B00769,669859,25-34,2,high,false,Dual income,Investment,false
+H00329,Oakwood,132128,809,1,1,45,2,0.17,false,false,B,7,7,5,4,5/10/22,12,B00329,147229,35-44,1,low,false,Dual income,Affordability,true
+H06636,Oakwood,450910,2625,5,5,49,1,0.16,false,true,C,7,7,5,4,5/10/22,15,B06636,509673,25-34,3,medium,false,Full-time employed,Space & Bedrooms,false
+H05904,Oakwood,457138,2655,5,5,2,2,0.19,false,false,F,7,7,5,4,5/10/22,13,B05904,491412,25-34,2,medium,false,Dual income,Investment,false
+H03259,Oakwood,344497,1801,4,3,12,1,0.16,true,false,D,7,7,5,4,5/10/22,20,B03259,370570,65+,1,medium,false,Retired,Low Maintenance,false
+H02998,Oakwood,276570,1209,3,3,41,2,0.11,true,true,C,7,7,5,4,5/11/22,34,B02998,325171,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H07768,Oakwood,239195,1326,2,2,60,1,0.15,false,true,A,7,7,5,4,5/12/22,36,B07768,276600,35-44,3,low,true,Full-time employed,Location & Schools,false
+H06213,Oakwood,307960,1928,3,3,44,2,0.14,false,true,C,7,7,5,4,5/12/22,7,B06213,333027,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H07775,Oakwood,211278,1709,3,3,60,0,0.31,false,true,C,7,7,5,4,5/12/22,54,B07775,235192,25-34,1,low,false,Self-employed,Low Maintenance,false
+H00874,Oakwood,362234,2338,4,4,0,1,0.13,true,false,F,7,7,5,4,5/13/22,46,B00874,387260,35-44,3,medium,false,Full-time employed,Space & Bedrooms,false
+H03194,Oakwood,185039,1093,2,2,27,1,0.14,false,false,C,7,7,5,4,5/13/22,23,B03194,197823,55-64,2,low,false,Full-time employed,Investment,false
+H02454,Oakwood,487816,3060,4,5,51,2,0.23,false,false,A,7,7,5,4,5/13/22,31,B02454,534985,45-54,3,medium,true,Full-time employed,Location & Schools,false
+H02144,Oakwood,260731,1378,1,2,4,0,0.1,true,false,E,7,7,5,4,5/15/22,96,B02144,276515,45-54,1,low,false,Full-time employed,Location & Schools,false
+H05447,Oakwood,415676,2291,3,3,11,2,0.18,false,false,D,7,7,5,4,5/15/22,60,B05447,452074,45-54,3,medium,true,Dual income,Location & Schools,false
+H05129,Oakwood,317002,1840,4,3,6,2,0.16,false,false,E,7,7,5,4,5/17/22,50,B05129,364064,35-44,3,medium,false,Full-time employed,Space & Bedrooms,false
+H06460,Oakwood,519933,3133,6,5,1,2,0.18,false,false,E,7,7,5,4,5/19/22,43,B06460,560807,35-44,5,medium,false,Self-employed,Affordability,false
+H01058,Oakwood,682125,3595,5,5,27,2,0.13,true,false,D,7,7,5,4,5/21/22,3,B01058,779374,55-64,3,high,false,Dual income,Space & Bedrooms,true
+H04045,Oakwood,447580,2757,4,4,54,2,0.17,false,true,C,7,7,5,4,5/22/22,19,B04045,522517,35-44,3,medium,false,Full-time employed,Location & Schools,false
+H01637,Oakwood,560593,3239,5,5,31,3,0.26,false,false,D,7,7,5,4,5/24/22,129,B01637,614061,55-64,2,medium,false,Self-employed,Space & Bedrooms,false
+H05756,Oakwood,633669,3318,6,5,2,2,0.25,false,false,D,7,7,5,4,5/25/22,4,B05756,723480,35-44,3,high,false,Self-employed,Location & Schools,false
+H02450,Oakwood,526883,2482,5,4,8,2,0.11,true,false,F,7,7,5,4,5/26/22,19,B02450,578413,35-44,4,medium,true,Full-time employed,Location & Schools,false
+H06883,Oakwood,374744,1710,4,4,43,2,0.14,true,true,C,7,7,5,4,5/27/22,53,B06883,399336,25-34,2,medium,false,Dual income,Location & Schools,false
+H03910,Oakwood,461321,2372,5,4,10,2,0.14,false,false,D,7,7,5,4,5/28/22,17,B03910,532324,35-44,3,medium,true,Self-employed,Modern & Updated,false
+H07046,Oakwood,281402,1592,3,3,13,0,0.12,true,false,E,7,7,5,4,6/2/22,65,B07046,317444,65+,1,medium,false,Full-time employed,Low Maintenance,false
+H04415,Oakwood,380125,2089,3,3,18,1,0.15,false,true,F,7,7,5,4,6/2/22,1,B04415,447713,45-54,2,medium,false,Dual income,Space & Bedrooms,false
+H00254,Oakwood,243832,940,1,1,20,2,0.17,true,true,E,7,7,5,4,6/2/22,16,B00254,263841,55-64,1,low,false,Dual income,Low Maintenance,false
+H00086,Oakwood,150261,925,1,1,22,2,0.09,true,false,D,7,7,5,4,6/3/22,2,B00086,177182,35-44,1,low,false,Full-time employed,Low Maintenance,false
+H05188,Oakwood,513328,3011,5,5,38,2,0.12,true,false,B,7,7,5,4,6/4/22,10,B05188,556654,35-44,3,medium,true,Full-time employed,Investment,false
+H02403,Oakwood,646067,3437,5,5,3,2,0.13,true,false,E,7,7,5,4,6/5/22,26,B02403,710156,35-44,3,high,true,Dual income,Location & Schools,true
+H00331,Oakwood,320347,1741,3,3,1,1,0.23,false,false,D,7,7,5,4,6/6/22,25,B00331,361750,35-44,2,medium,false,Full-time employed,Location & Schools,false
+H02690,Oakwood,413569,2760,5,5,32,1,0.11,false,false,E,7,7,5,4,6/6/22,28,B02690,485314,35-44,3,medium,false,Full-time employed,Space & Bedrooms,false
+H04516,Oakwood,461017,2213,4,4,9,1,0.1,false,false,E,7,7,5,4,6/7/22,1,B04516,498578,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H07712,Oakwood,147673,1217,3,3,36,0,0.12,true,false,D,7,7,5,4,6/7/22,9,B07712,170708,35-44,2,low,false,Self-employed,Low Maintenance,false
+H04854,Oakwood,475995,2936,6,5,36,2,0.1,false,false,D,7,7,5,4,6/7/22,24,B04854,510210,25-34,3,medium,true,Full-time employed,Space & Bedrooms,false
+H01504,Oakwood,294860,1612,3,3,0,1,0.21,false,false,F,7,7,5,4,6/7/22,21,B01504,341084,45-54,3,medium,false,Dual income,Location & Schools,false
+H04790,Oakwood,411791,2314,4,4,9,2,0.09,false,false,C,7,7,5,4,6/7/22,6,B04790,467189,65+,1,medium,false,Full-time employed,Affordability,false
+H07689,Oakwood,141160,1028,1,1,10,1,0.27,false,false,E,7,7,5,4,6/10/22,163,B07689,158987,35-44,1,low,false,Self-employed,Space & Bedrooms,false
+H01769,Oakwood,565486,2805,4,4,6,2,0.13,true,false,F,7,7,5,4,6/10/22,41,B01769,600744,35-44,2,medium,false,Full-time employed,Low Maintenance,false
+H01654,Oakwood,597114,3718,6,5,41,2,0.14,false,true,D,7,7,5,4,6/13/22,1,B01654,637471,55-64,4,high,true,Dual income,Modern & Updated,false
+H02549,Oakwood,615615,3536,6,5,6,2,0.14,false,false,D,7,7,5,4,6/13/22,60,B02549,725981,45-54,3,high,true,Dual income,Location & Schools,true
+H04180,Oakwood,386650,1858,4,3,6,2,0.19,true,false,E,7,7,5,4,6/13/22,36,B04180,435452,65+,1,medium,false,Retired,Modern & Updated,false
+H05958,Oakwood,509719,2619,5,5,4,1,0.18,false,false,E,7,7,5,4,6/14/22,18,B05958,577342,25-34,2,medium,false,Full-time employed,Affordability,false
+H04739,Oakwood,344227,1651,4,3,45,2,0.18,true,false,A,7,7,5,4,6/14/22,31,B04739,366196,35-44,3,medium,true,Full-time employed,Space & Bedrooms,false
+H07208,Oakwood,613413,3376,5,5,5,2,0.16,false,false,F,7,7,5,4,6/14/22,26,B07208,710837,45-54,3,high,false,Dual income,Affordability,false
+H03867,Oakwood,250252,1235,3,3,41,1,0.11,true,false,B,7,7,5,4,6/14/22,3,B03867,277672,55-64,2,low,false,Full-time employed,Affordability,false
+H00103,Oakwood,428733,2467,4,4,15,1,0.22,false,false,D,7,7,5,4,6/15/22,6,B00103,490867,45-54,2,medium,false,Self-employed,Location & Schools,false
+H03414,Oakwood,341417,2000,4,3,31,1,0.12,false,true,D,7,7,5,4,6/15/22,47,B03414,402543,55-64,2,medium,false,Self-employed,Space & Bedrooms,false
+H03863,Oakwood,151555,800,1,1,19,0,0.18,false,false,E,7,7,5,4,6/16/22,15,B03863,159723,55-64,1,low,false,Retired,Investment,false
+H00737,Oakwood,198981,800,1,1,5,1,0.1,true,false,F,7,7,5,4,6/17/22,95,B00737,227672,25-34,1,low,false,Self-employed,Affordability,false
+H03753,Oakwood,191238,1177,2,2,1,1,0.09,false,false,F,7,7,5,4,6/18/22,6,B03753,223184,25-34,2,low,false,Self-employed,Space & Bedrooms,false
+H04166,Oakwood,496488,2972,5,5,60,1,0.14,true,false,A,7,7,5,4,6/18/22,37,B04166,528845,35-44,3,medium,false,Full-time employed,Modern & Updated,false
+H02417,Oakwood,385150,2468,4,4,11,1,0.14,false,false,F,7,7,5,4,6/18/22,68,B02417,416252,35-44,3,medium,true,Dual income,Modern & Updated,false
+H07821,Oakwood,427480,2768,5,5,38,2,0.13,false,false,D,7,7,5,4,6/19/22,53,B07821,481418,35-44,2,medium,false,Dual income,Modern & Updated,false
+H06874,Oakwood,513355,2948,5,5,5,2,0.17,false,false,F,7,7,5,4,6/20/22,8,B06874,567265,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H06408,Oakwood,499657,2674,4,5,5,2,0.13,false,false,F,7,7,5,4,6/20/22,60,B06408,534134,55-64,2,medium,false,Self-employed,Affordability,false
+H02925,Oakwood,271765,1663,2,3,36,0,0.12,false,true,C,7,7,5,4,6/23/22,36,B02925,317904,45-54,1,medium,false,Full-time employed,Space & Bedrooms,false
+H05732,Oakwood,389538,1990,4,4,1,1,0.27,true,false,F,7,7,5,4,6/24/22,43,B05732,445807,55-64,2,medium,false,Retired,Affordability,false
+H06219,Oakwood,316913,2055,3,3,60,1,0.11,false,false,A,7,7,5,4,6/25/22,23,B06219,351050,45-54,1,medium,false,Full-time employed,Space & Bedrooms,false
+H05371,Oakwood,172073,1002,2,2,23,1,0.15,true,false,D,7,7,5,4,6/25/22,5,B05371,184028,25-34,1,low,false,Self-employed,Modern & Updated,false
+H03781,Oakwood,404625,2270,4,4,16,1,0.07,false,false,D,7,7,5,4,6/25/22,36,B03781,466556,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H07889,Oakwood,624157,3180,5,5,2,2,0.17,true,false,F,7,7,5,4,6/25/22,27,B07889,696391,35-44,3,high,true,Dual income,Space & Bedrooms,false
+H02846,Oakwood,311516,1672,2,2,32,0,0.19,true,false,B,7,7,5,4,6/26/22,114,B02846,352440,45-54,1,medium,false,Dual income,Space & Bedrooms,true
+H06054,Oakwood,451328,2503,3,3,42,2,0.13,true,true,B,7,7,5,4,6/26/22,14,B06054,511789,25-34,1,medium,false,Full-time employed,Modern & Updated,true
+H04477,Oakwood,408396,2362,4,4,1,1,0.14,false,false,E,7,7,5,4,6/27/22,24,B04477,475312,65+,1,medium,false,Retired,Affordability,false
+H04233,Oakwood,173847,800,1,1,17,0,0.2,false,false,F,7,7,5,4,6/28/22,4,B04233,200539,25-34,1,low,false,Self-employed,Affordability,false
+H03615,Oakwood,606905,3097,6,5,8,2,0.11,true,false,D,7,7,5,4,7/1/22,4,B03615,698167,35-44,4,high,true,Self-employed,Location & Schools,false
+H04576,Oakwood,521578,2833,4,4,7,1,0.27,true,false,F,7,7,5,4,7/2/22,1,B04576,549663,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H04846,Oakwood,404794,2325,4,4,31,1,0.1,false,false,C,7,7,5,4,7/5/22,29,B04846,461371,55-64,3,medium,false,Retired,Location & Schools,false
+H04865,Oakwood,182739,1045,2,2,7,1,0.14,false,false,F,7,7,5,4,7/5/22,24,B04865,214326,45-54,1,low,false,Self-employed,Affordability,false
+H01740,Oakwood,291001,1907,4,4,0,1,0.25,false,false,F,7,7,5,4,7/6/22,1,B01740,314772,35-44,2,medium,false,Full-time employed,Modern & Updated,false
+H04095,Oakwood,354184,1680,3,3,8,1,0.12,true,false,F,7,7,5,4,7/7/22,30,B04095,401837,35-44,1,medium,false,Dual income,Modern & Updated,false
+H05628,Oakwood,224459,1392,3,3,2,0,0.12,false,false,E,7,7,5,4,7/8/22,124,B05628,254706,65+,1,low,false,Self-employed,Modern & Updated,false
+H02548,Oakwood,454077,2584,5,5,1,1,0.11,false,false,F,7,7,5,4,7/8/22,15,B02548,511075,35-44,3,medium,true,Full-time employed,Location & Schools,false
+H01920,Oakwood,464039,2820,5,5,60,1,0.19,true,false,A,7,7,5,4,7/9/22,40,B01920,488516,35-44,2,medium,false,Dual income,Location & Schools,false
+H01914,Oakwood,358575,2243,5,5,31,1,0.1,true,false,D,7,7,5,4,7/9/22,1,B01914,391271,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H07335,Oakwood,246758,1627,2,3,18,1,0.09,false,false,C,7,7,5,4,7/9/22,11,B07335,261741,35-44,1,low,false,Dual income,Affordability,false
+H03018,Oakwood,140567,1182,1,1,15,0,0.21,true,false,F,7,7,5,4,7/10/22,63,B03018,152105,65+,1,low,false,Retired,Affordability,false
+H04335,Oakwood,270069,1424,3,3,1,1,0.14,false,false,F,7,7,5,4,7/11/22,37,B04335,299553,55-64,1,medium,false,Full-time employed,Space & Bedrooms,false
+H02158,Oakwood,612360,3314,6,5,9,3,0.18,false,false,E,7,7,5,4,7/11/22,6,B02158,717015,65+,2,high,false,Retired,Low Maintenance,false
+H07614,Oakwood,286368,1736,3,4,1,0,0.16,false,false,E,7,7,5,4,7/13/22,80,B07614,333598,65+,1,medium,false,Retired,Affordability,false
+H00512,Oakwood,213085,800,1,1,20,1,0.11,true,false,C,7,7,5,4,7/13/22,15,B00512,237159,55-64,1,low,false,Full-time employed,Space & Bedrooms,false
+H05935,Oakwood,648154,3879,6,5,37,2,0.11,false,false,B,7,7,5,4,7/13/22,14,B05935,739449,45-54,4,high,true,Retired,Location & Schools,false
+H07458,Oakwood,355516,1973,3,3,3,2,0.16,false,false,F,7,7,5,4,7/14/22,58,B07458,381513,45-54,1,medium,false,Retired,Space & Bedrooms,false
+H02090,Oakwood,348298,1960,4,4,10,2,0.1,false,false,F,7,7,5,4,7/15/22,23,B02090,391088,45-54,2,medium,false,Self-employed,Location & Schools,true
+H01029,Oakwood,691718,4388,6,5,28,2,0.16,false,false,D,7,7,5,4,7/17/22,3,B01029,800734,35-44,3,high,false,Self-employed,Modern & Updated,true
+H03014,Oakwood,156764,834,2,1,20,1,0.23,true,false,F,7,7,5,4,7/17/22,96,B03014,175434,25-34,1,low,false,Self-employed,Affordability,true
+H05805,Oakwood,331503,1942,3,3,13,2,0.14,false,false,D,7,7,5,4,7/17/22,47,B05805,385922,25-34,1,medium,false,Self-employed,Affordability,false
+H00818,Oakwood,454937,2598,6,5,5,1,0.09,false,false,E,7,7,5,4,7/18/22,37,B00818,493821,35-44,4,medium,true,Full-time employed,Space & Bedrooms,false
+H07934,Oakwood,463542,2629,4,4,21,2,0.13,false,false,D,7,7,5,4,7/19/22,116,B07934,534499,45-54,2,medium,false,Self-employed,Space & Bedrooms,false
+H07299,Oakwood,223287,1346,2,2,18,1,0.15,false,false,E,7,7,5,4,7/19/22,18,B07299,250021,35-44,1,low,false,Dual income,Affordability,false
+H06999,Oakwood,366035,2177,4,4,41,1,0.13,false,true,D,7,7,5,4,7/21/22,16,B06999,424153,25-34,2,medium,false,Full-time employed,Location & Schools,false
+H00747,Oakwood,232860,1044,2,2,32,2,0.2,true,false,C,7,7,5,4,7/23/22,1,B00747,257899,25-34,1,low,false,Self-employed,Space & Bedrooms,false
+H02336,Oakwood,186525,1152,1,1,3,0,0.11,true,false,F,7,7,5,4,7/23/22,130,B02336,215625,25-34,1,low,false,Full-time employed,Affordability,false
+H04280,Oakwood,685311,4275,6,5,4,2,0.08,false,false,E,7,7,5,4,7/27/22,44,B04280,771600,55-64,4,high,false,Dual income,Modern & Updated,false
+H04918,Oakwood,296154,1749,3,3,23,1,0.14,false,false,E,7,7,5,4,7/28/22,1,B04918,348444,25-34,1,medium,false,Self-employed,Space & Bedrooms,false
+H04604,Oakwood,120000,800,1,1,56,2,0.1,false,false,A,7,7,5,4,8/1/22,8,B04604,130000,35-44,1,low,false,Full-time employed,Affordability,false
+H07270,Oakwood,216657,1190,3,3,8,1,0.13,false,false,E,7,7,5,4,8/3/22,29,B07270,230671,55-64,2,low,false,Full-time employed,Space & Bedrooms,false
+H03016,Oakwood,246043,1262,2,2,3,0,0.17,true,false,F,7,7,5,4,8/5/22,4,B03016,286125,55-64,1,medium,false,Self-employed,Affordability,true
+H04534,Oakwood,308144,1866,3,3,55,1,0.16,false,true,B,7,7,5,4,8/7/22,52,B04534,354638,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H00675,Oakwood,371556,2307,3,3,23,2,0.23,false,false,E,7,7,5,4,8/8/22,2,B00675,414240,65+,1,medium,false,Dual income,Modern & Updated,false
+H00910,Oakwood,369731,1753,3,3,16,2,0.16,true,false,D,7,7,5,4,8/8/22,8,B00910,409111,35-44,2,medium,false,Dual income,Affordability,true
+H01909,Oakwood,417594,2547,5,5,5,2,0.25,false,false,E,7,7,5,4,8/10/22,26,B01909,466307,35-44,4,medium,true,Dual income,Location & Schools,false
+H04253,Oakwood,492088,2854,6,5,6,2,0.08,true,false,F,7,7,5,4,8/10/22,3,B04253,558486,55-64,3,medium,false,Full-time employed,Space & Bedrooms,false
+H03228,Oakwood,345706,1932,3,3,12,1,0.11,false,false,F,7,7,5,4,8/10/22,6,B03228,389006,65+,1,medium,false,Dual income,Location & Schools,false
+H07029,Oakwood,217246,1396,3,3,58,2,0.1,false,false,A,7,7,5,4,8/12/22,25,B07029,245904,25-34,1,low,false,Full-time employed,Investment,false
+H05323,Oakwood,656626,3780,6,5,35,2,0.15,false,false,C,7,7,5,4,8/12/22,8,B05323,769354,35-44,4,high,true,Dual income,Investment,false
+H04632,Oakwood,428338,2134,4,4,1,2,0.21,false,true,F,7,7,5,4,8/13/22,130,B04632,499699,35-44,2,medium,false,Self-employed,Affordability,false
+H04838,Oakwood,378774,1908,5,4,7,2,0.2,true,false,F,7,7,5,4,8/15/22,59,B04838,429089,55-64,4,medium,true,Full-time employed,Affordability,false
+H05829,Oakwood,651492,3608,6,5,2,2,0.26,false,false,F,7,7,5,4,8/17/22,8,B05829,750229,55-64,3,high,true,Retired,Location & Schools,false
+H02820,Oakwood,180326,925,1,1,8,0,0.14,false,false,F,7,7,5,4,8/17/22,48,B02820,193812,25-34,1,low,false,Dual income,Affordability,false
+H04867,Oakwood,317678,1967,3,3,11,2,0.18,false,false,F,7,7,5,4,8/17/22,29,B04867,363952,35-44,1,medium,false,Dual income,Affordability,false
+H01499,Oakwood,282738,1392,1,1,26,2,0.11,false,true,C,7,7,5,4,8/17/22,3,B01499,322234,35-44,1,medium,false,Full-time employed,Low Maintenance,false
+H01838,Oakwood,438381,2328,4,4,23,2,0.22,false,false,D,7,7,5,4,8/17/22,4,B01838,464955,35-44,2,medium,false,Full-time employed,Affordability,false
+H04770,Oakwood,204765,800,2,2,38,0,0.2,false,true,C,7,7,5,4,8/18/22,21,B04770,236187,35-44,2,low,false,Full-time employed,Low Maintenance,false
+H02881,Oakwood,379973,1881,3,3,6,2,0.16,false,false,D,7,7,5,4,8/19/22,6,B02881,408586,65+,1,medium,false,Retired,Location & Schools,false
+H03200,Oakwood,646488,3102,5,5,2,3,0.11,true,false,D,7,7,5,4,8/20/22,101,B03200,753010,45-54,3,high,true,Self-employed,Modern & Updated,true
+H01348,Oakwood,246716,1213,2,2,3,1,0.11,false,false,F,7,7,5,4,8/21/22,16,B01348,287699,45-54,2,medium,false,Full-time employed,Affordability,false
+H07071,Oakwood,380865,2225,4,4,2,2,0.12,false,false,F,7,7,5,4,8/21/22,53,B07071,433624,35-44,2,medium,false,Full-time employed,Location & Schools,false
+H00955,Oakwood,328750,1987,4,4,43,1,0.13,true,false,C,7,7,5,4,8/22/22,131,B00955,379325,35-44,4,medium,true,Full-time employed,Modern & Updated,false
+H05702,Oakwood,355540,2020,4,4,8,2,0.15,false,false,F,7,7,5,4,8/24/22,51,B05702,393975,45-54,3,medium,false,Self-employed,Affordability,true
+H03695,Oakwood,134838,800,1,1,18,1,0.19,false,false,C,7,7,5,4,8/25/22,16,B03695,143420,25-34,1,low,false,Full-time employed,Affordability,false
+H04021,Oakwood,631933,2876,5,5,5,2,0.25,true,true,F,7,7,5,4,8/25/22,29,B04021,675318,45-54,2,high,false,Full-time employed,Space & Bedrooms,false
+H03721,Oakwood,601266,3133,5,5,6,3,0.11,false,false,F,7,7,5,4,8/26/22,15,B03721,692669,35-44,5,high,true,Self-employed,Modern & Updated,false
+H06792,Oakwood,208807,1151,3,3,1,2,0.14,false,false,F,7,7,5,4,8/26/22,24,B06792,229059,35-44,1,low,false,Full-time employed,Investment,false
+H04837,Oakwood,231085,1626,3,2,3,1,0.19,false,false,F,7,7,5,4,9/1/22,7,B04837,247109,55-64,2,low,false,Retired,Affordability,false
+H00064,Oakwood,634445,3471,6,5,33,2,0.14,true,false,D,7,7,5,4,9/3/22,115,B00064,719593,45-54,5,high,true,Full-time employed,Space & Bedrooms,false
+H07744,Oakwood,255401,1432,3,3,1,0,0.11,true,false,F,7,7,5,4,9/3/22,87,B07744,285614,35-44,2,medium,false,Self-employed,Affordability,false
+H05418,Oakwood,682997,3436,6,5,3,3,0.12,true,false,F,7,7,5,4,9/4/22,65,B05418,775727,45-54,4,high,true,Full-time employed,Investment,false
+H04705,Oakwood,220934,1683,3,3,54,1,0.17,false,false,B,7,7,5,4,9/4/22,13,B04705,246674,25-34,2,low,false,Full-time employed,Location & Schools,false
+H04887,Oakwood,480373,2708,4,4,0,2,0.14,false,false,F,7,7,5,4,9/4/22,35,B04887,512745,35-44,2,medium,false,Self-employed,Affordability,false
+H05213,Oakwood,325596,2021,4,4,24,1,0.13,true,false,D,7,7,5,4,9/5/22,7,B05213,373066,45-54,1,medium,false,Full-time employed,Affordability,false
+H07888,Oakwood,236551,1325,2,2,5,1,0.07,false,false,E,7,7,5,4,9/5/22,100,B07888,250423,25-34,1,low,false,Full-time employed,Low Maintenance,false
+H00037,Oakwood,382426,2163,3,3,3,1,0.08,false,false,F,7,7,5,4,9/6/22,84,B00037,430828,25-34,1,medium,false,Full-time employed,Low Maintenance,false
+H01671,Oakwood,281835,1533,3,3,28,1,0.15,true,true,F,7,7,5,4,9/7/22,81,B01671,318435,65+,1,medium,false,Retired,Space & Bedrooms,false
+H04871,Oakwood,233466,1112,1,1,35,1,0.2,true,false,C,7,7,5,4,9/9/22,30,B04871,253833,65+,1,low,false,Retired,Investment,false
+H02369,Oakwood,558716,2942,4,4,9,2,0.13,false,false,E,7,7,5,4,9/9/22,15,B02369,623931,25-34,2,medium,false,Dual income,Affordability,false
+H06974,Oakwood,120958,905,2,2,5,1,0.16,false,false,E,7,7,5,4,9/9/22,39,B06974,135093,35-44,1,low,false,Self-employed,Affordability,true
+H03183,Oakwood,136613,869,2,2,34,2,0.18,true,false,D,7,7,5,4,9/11/22,30,B03183,149930,45-54,1,low,false,Full-time employed,Space & Bedrooms,false
+H00714,Oakwood,390708,2374,5,4,0,2,0.14,false,false,F,7,7,5,4,9/11/22,67,B00714,449463,35-44,3,medium,true,Dual income,Affordability,false
+H04936,Oakwood,389188,2084,4,4,0,1,0.16,true,false,F,7,7,5,4,9/12/22,19,B04936,435998,35-44,3,medium,false,Dual income,Modern & Updated,false
+H03967,Oakwood,358132,1935,2,3,24,2,0.19,false,false,D,7,7,5,4,9/12/22,62,B03967,419083,35-44,1,medium,false,Dual income,Space & Bedrooms,false
+H03680,Oakwood,272068,1653,4,4,60,0,0.2,true,false,B,7,7,5,4,9/14/22,30,B03680,289129,25-34,1,medium,false,Full-time employed,Affordability,false
+H00224,Oakwood,513366,2277,5,5,3,1,0.18,true,true,F,7,7,5,4,9/18/22,14,B00224,569021,35-44,4,medium,true,Self-employed,Modern & Updated,false
+H03773,Oakwood,473614,2781,4,5,2,1,0.17,false,false,E,7,7,5,4,9/19/22,9,B03773,551787,35-44,3,medium,true,Full-time employed,Affordability,false
+H02677,Oakwood,468497,2549,4,4,11,2,0.14,true,false,F,7,7,5,4,9/21/22,36,B02677,552266,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H05552,Oakwood,447104,2400,4,4,11,2,0.13,true,false,E,7,7,5,4,9/21/22,66,B05552,470511,25-34,3,medium,true,Full-time employed,Space & Bedrooms,false
+H01382,Oakwood,631164,3276,6,5,4,3,0.17,true,false,F,7,7,5,4,9/22/22,27,B01382,698044,45-54,4,high,false,Full-time employed,Location & Schools,false
+H04488,Oakwood,340183,1692,2,3,8,0,0.15,true,false,E,7,7,5,4,9/22/22,44,B04488,387045,35-44,1,medium,false,Full-time employed,Modern & Updated,false
+H05201,Oakwood,477219,2522,3,3,25,2,0.22,true,false,D,7,7,5,4,9/22/22,80,B05201,539308,35-44,3,medium,false,Full-time employed,Space & Bedrooms,false
+H06610,Oakwood,230267,1492,2,2,1,1,0.1,false,false,F,7,7,5,4,9/22/22,1,B06610,262224,25-34,1,low,false,Self-employed,Location & Schools,false
+H05031,Oakwood,394247,2456,5,5,18,1,0.23,false,false,E,7,7,5,4,9/23/22,48,B05031,435927,45-54,3,medium,false,Full-time employed,Space & Bedrooms,false
+H03748,Oakwood,425612,2397,4,4,16,1,0.16,false,false,F,7,7,5,4,9/24/22,27,B03748,479135,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H00503,Oakwood,252895,1367,3,3,0,0,0.19,false,false,F,7,7,5,4,9/26/22,74,B00503,276068,25-34,2,low,false,Full-time employed,Affordability,false
+H06414,Oakwood,359229,2125,4,4,45,1,0.1,false,false,B,7,7,5,4,9/26/22,39,B06414,378118,35-44,3,medium,true,Dual income,Location & Schools,false
+H00846,Oakwood,141230,800,1,1,0,0,0.14,false,false,D,7,7,5,4,9/26/22,14,B00846,162744,35-44,1,low,false,Full-time employed,Space & Bedrooms,false
+H06781,Oakwood,332979,1650,4,3,4,0,0.24,false,false,F,7,7,5,4,9/27/22,14,B06781,372588,45-54,2,medium,false,Retired,Affordability,false
+H04092,Oakwood,292182,1768,3,2,36,0,0.16,true,false,D,7,7,5,4,9/27/22,3,B04092,341477,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H03349,Oakwood,533016,2944,5,4,3,1,0.13,false,false,E,7,7,5,4,10/1/22,29,B03349,577092,25-34,2,medium,false,Full-time employed,Location & Schools,false
+H03163,Oakwood,412383,2479,5,5,6,2,0.16,false,false,F,7,7,5,4,10/7/22,132,B03163,434996,45-54,2,medium,false,Full-time employed,Space & Bedrooms,false
+H03902,Oakwood,503767,2097,4,4,24,2,0.11,true,true,E,7,7,5,4,10/7/22,15,B03902,531706,35-44,2,medium,false,Self-employed,Location & Schools,false
+H06345,Oakwood,575811,3003,5,5,1,2,0.11,false,false,E,7,7,5,4,10/8/22,5,B06345,666622,45-54,2,high,false,Self-employed,Modern & Updated,false
+H04409,Oakwood,552551,2985,5,5,26,2,0.17,true,false,D,7,7,5,4,10/8/22,20,B04409,606851,45-54,4,medium,true,Dual income,Space & Bedrooms,true
+H02688,Oakwood,240300,1700,2,3,13,1,0.14,false,false,F,7,7,5,4,10/8/22,87,B02688,264232,45-54,2,low,false,Full-time employed,Location & Schools,true
+H05145,Oakwood,291273,1745,3,3,19,2,0.16,false,false,F,7,7,5,4,10/8/22,3,B05145,336605,35-44,1,medium,false,Full-time employed,Affordability,false
+H01056,Oakwood,318888,1870,3,3,29,1,0.14,true,false,D,7,7,5,4,10/8/22,180,B01056,359903,35-44,1,medium,false,Full-time employed,Affordability,false
+H00407,Oakwood,539437,3213,6,5,5,2,0.15,false,false,E,7,7,5,4,10/9/22,93,B00407,605406,35-44,5,medium,true,Self-employed,Affordability,false
+H00196,Oakwood,602854,2990,6,5,6,2,0.25,true,false,D,7,7,5,4,10/9/22,14,B00196,657093,25-34,4,high,true,Full-time employed,Location & Schools,false
+H06557,Oakwood,378933,2061,3,3,14,1,0.2,false,true,F,7,7,5,4,10/12/22,38,B06557,419684,35-44,3,medium,true,Dual income,Location & Schools,false
+H03454,Oakwood,551494,2883,4,4,8,1,0.14,false,false,F,7,7,5,4,10/13/22,95,B03454,593851,65+,1,medium,false,Self-employed,Modern & Updated,false
+H00527,Oakwood,324808,1916,4,4,5,2,0.11,false,false,E,7,7,5,4,10/13/22,107,B00527,350119,35-44,2,medium,false,Full-time employed,Affordability,false
+H07822,Oakwood,283002,1567,2,3,15,2,0.16,true,false,D,7,7,5,4,10/14/22,1,B07822,330529,25-34,1,medium,false,Full-time employed,Location & Schools,false
+H01615,Oakwood,319002,1835,2,2,5,2,0.1,false,false,D,7,7,5,4,10/15/22,146,B01615,335930,45-54,1,medium,false,Full-time employed,Space & Bedrooms,false
+H06412,Oakwood,529234,2741,5,5,26,2,0.11,true,false,C,7,7,5,4,10/16/22,64,B06412,567559,35-44,3,medium,true,Dual income,Affordability,false
+H02713,Oakwood,410148,1883,3,3,3,1,0.15,true,false,F,7,7,5,4,10/18/22,4,B02713,458321,25-34,1,medium,false,Dual income,Low Maintenance,false
+H07404,Oakwood,507251,2967,5,5,34,2,0.15,false,false,C,7,7,5,4,10/19/22,18,B07404,540572,55-64,4,medium,true,Retired,Location & Schools,false
+H01964,Oakwood,360641,1898,4,4,17,2,0.1,true,false,E,7,7,5,4,10/19/22,101,B01964,398208,45-54,4,medium,true,Self-employed,Space & Bedrooms,false
+H04610,Oakwood,447694,2325,2,2,1,1,0.17,true,false,F,7,7,5,4,10/19/22,179,B04610,482904,45-54,1,medium,false,Full-time employed,Location & Schools,false
+H04164,Oakwood,206767,1491,2,2,25,2,0.13,false,false,C,7,7,5,4,10/22/22,62,B04164,220785,25-34,1,low,false,Full-time employed,Affordability,false
+H05810,Oakwood,486219,2658,5,5,12,1,0.15,false,false,D,7,7,5,4,10/24/22,78,B05810,552675,35-44,4,medium,true,Full-time employed,Location & Schools,false
+H05505,Oakwood,153843,925,2,2,29,2,0.22,false,false,E,7,7,5,4,10/25/22,8,B05505,173939,45-54,2,low,false,Self-employed,Location & Schools,false
+H02437,Oakwood,595736,3225,6,5,25,2,0.29,true,false,F,7,7,5,4,10/28/22,1,B02437,693669,45-54,4,high,true,Self-employed,Location & Schools,false
+H03048,Oakwood,268664,1790,3,3,23,1,0.14,false,false,C,7,7,5,4,11/11/22,8,B03048,308726,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H07605,Oakwood,367311,1949,4,3,23,2,0.18,true,false,E,7,7,5,4,11/11/22,17,B07605,391744,35-44,3,medium,true,Full-time employed,Investment,false
+H01528,Oakwood,193109,1141,2,2,39,2,0.2,true,false,B,7,7,5,4,11/11/22,66,B01528,212408,35-44,2,low,false,Dual income,Location & Schools,false
+H03576,Oakwood,191711,973,2,2,26,0,0.19,false,false,C,7,7,5,4,11/12/22,50,B03576,220986,25-34,1,low,false,Full-time employed,Affordability,false
+H06704,Oakwood,269912,1349,2,2,59,0,0.17,true,false,A,7,7,5,4,11/13/22,52,B06704,291187,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H00740,Oakwood,319072,1724,2,2,14,0,0.14,false,false,E,7,7,5,4,11/14/22,8,B00740,358679,55-64,1,medium,false,Full-time employed,Space & Bedrooms,false
+H01347,Oakwood,318960,1262,1,2,10,1,0.14,false,true,E,7,7,5,4,11/14/22,5,B01347,360182,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H06083,Oakwood,347397,1739,3,3,1,1,0.27,false,false,F,7,7,5,4,11/21/22,32,B06083,373170,35-44,2,medium,false,Full-time employed,Modern & Updated,false
+H02324,Oakwood,411136,2220,3,3,23,2,0.16,true,false,C,7,7,5,4,11/21/22,15,B02324,447670,35-44,3,medium,false,Full-time employed,Affordability,false
+H03544,Oakwood,347161,1864,4,3,36,1,0.13,true,false,B,7,7,5,4,11/22/22,1,B03544,368012,45-54,1,medium,false,Full-time employed,Low Maintenance,false
+H04118,Oakwood,302258,2060,3,3,5,2,0.16,false,false,F,7,7,5,4,11/27/22,12,B04118,322801,35-44,1,medium,false,Self-employed,Space & Bedrooms,false
+H00017,Oakwood,522180,2812,5,5,30,2,0.15,false,false,B,7,7,5,4,12/1/22,5,B00017,563257,45-54,3,medium,true,Full-time employed,Space & Bedrooms,false
+H04829,Oakwood,221137,802,1,1,5,2,0.08,true,false,E,7,7,5,4,12/5/22,180,B04829,244117,25-34,1,low,false,Full-time employed,Affordability,false
+H03411,Oakwood,180372,1034,2,2,0,1,0.1,false,false,F,7,7,5,4,12/6/22,51,B03411,212353,35-44,1,low,false,Dual income,Modern & Updated,false
+H07642,Oakwood,299993,1638,3,3,4,1,0.18,false,false,F,7,7,5,4,12/6/22,38,B07642,327960,45-54,3,medium,true,Full-time employed,Affordability,false
+H02910,Oakwood,307470,1320,2,2,2,1,0.18,true,false,F,7,7,5,4,12/7/22,112,B02910,347822,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H03073,Oakwood,288270,1411,1,1,3,1,0.11,true,false,F,7,7,5,4,12/10/22,108,B03073,308073,55-64,1,medium,false,Retired,Space & Bedrooms,false
+H01731,Oakwood,526453,3173,5,5,57,2,0.26,true,false,B,7,7,5,4,12/11/22,2,B01731,588150,35-44,3,medium,false,Full-time employed,Location & Schools,false
+H06407,Oakwood,861943,4500,6,5,8,2,0.15,true,false,F,7,7,5,4,12/11/22,7,B06407,922603,35-44,4,high,true,Dual income,Location & Schools,false
+H05225,Oakwood,343150,2283,5,5,60,1,0.17,true,true,B,7,7,5,4,12/13/22,29,B05225,378794,35-44,3,medium,true,Full-time employed,Location & Schools,false
+H02630,Oakwood,312880,2193,4,4,60,1,0.11,false,false,A,7,7,5,4,12/15/22,60,B02630,349630,55-64,2,medium,false,Dual income,Affordability,true
+H07113,Oakwood,372335,1952,3,3,0,2,0.18,false,false,F,7,7,5,4,12/16/22,4,B07113,430819,65+,1,medium,false,Retired,Low Maintenance,false
+H05464,Oakwood,412335,2628,5,5,1,1,0.15,false,false,F,7,7,5,4,12/18/22,80,B05464,458282,25-34,2,medium,false,Full-time employed,Affordability,false
+H02446,Oakwood,314198,1837,4,3,7,2,0.14,true,false,E,7,7,5,4,12/19/22,20,B02446,337046,35-44,2,medium,false,Dual income,Space & Bedrooms,false
+H04920,Oakwood,357832,1839,3,3,25,1,0.14,false,false,D,7,7,5,4,12/19/22,31,B04920,396341,25-34,2,medium,false,Full-time employed,Low Maintenance,false
+H05698,Oakwood,331234,1302,1,1,4,1,0.17,true,false,E,7,7,5,4,12/20/22,54,B05698,354088,55-64,2,medium,false,Self-employed,Space & Bedrooms,false
+H01924,Oakwood,325306,1672,3,3,12,1,0.11,false,false,F,7,7,5,4,12/21/22,10,B01924,357150,45-54,1,medium,false,Self-employed,Space & Bedrooms,false
+H06497,Oakwood,141723,800,1,1,5,1,0.14,true,false,E,7,7,5,4,12/23/22,21,B06497,150833,25-34,1,low,false,Dual income,Space & Bedrooms,false
+H05716,Oakwood,233917,1476,2,2,32,1,0.19,false,false,C,7,7,5,4,12/25/22,28,B05716,263326,35-44,1,low,false,Self-employed,Modern & Updated,false
+H05068,Oakwood,578137,3047,4,4,5,3,0.15,false,false,D,7,7,5,4,12/26/22,29,B05068,634474,45-54,2,high,false,Self-employed,Affordability,false
+H05232,Oakwood,233833,807,1,1,6,1,0.19,true,false,F,7,7,5,4,12/27/22,27,B05232,273807,45-54,1,low,false,Full-time employed,Space & Bedrooms,false
+H00139,Oakwood,130360,800,2,2,2,0,0.16,false,false,F,7,7,5,4,1/3/23,26,B00139,153553,35-44,1,low,false,Dual income,Affordability,false
+H02438,Oakwood,201752,877,1,1,19,1,0.13,false,false,F,7,7,5,4,1/5/23,15,B02438,233922,55-64,1,low,false,Retired,Affordability,false
+H02148,Oakwood,490381,2317,5,5,2,2,0.18,true,true,F,7,7,5,4,1/11/23,80,B02148,547368,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H05136,Oakwood,472885,3065,5,5,23,2,0.2,false,false,D,7,7,5,4,1/12/23,7,B05136,505632,25-34,3,medium,false,Dual income,Low Maintenance,false
+H00517,Oakwood,373050,2051,4,4,5,2,0.12,true,false,F,7,7,5,4,1/13/23,24,B00517,427195,35-44,3,medium,true,Dual income,Space & Bedrooms,false
+H07492,Oakwood,437038,2220,3,3,13,2,0.17,true,false,E,7,7,5,4,1/13/23,7,B07492,498795,55-64,1,medium,false,Full-time employed,Location & Schools,true
+H06235,Oakwood,442792,2611,4,4,21,1,0.12,true,false,B,7,7,5,4,1/13/23,16,B06235,476177,45-54,3,medium,false,Full-time employed,Affordability,false
+H01703,Oakwood,547647,3067,5,5,3,2,0.17,false,false,F,7,7,5,4,1/13/23,5,B01703,590597,65+,1,medium,false,Retired,Affordability,false
+H02338,Oakwood,342087,1564,3,3,12,2,0.25,false,false,E,7,7,5,4,1/14/23,21,B02338,402312,45-54,2,medium,false,Full-time employed,Location & Schools,false
+H01236,Oakwood,120000,800,1,1,16,1,0.14,false,false,E,7,7,5,4,1/15/23,78,B01236,139007,45-54,1,low,false,Dual income,Location & Schools,false
+H03381,Oakwood,531344,2836,6,5,1,2,0.23,false,false,F,7,7,5,4,1/15/23,2,B03381,590103,45-54,3,medium,true,Self-employed,Space & Bedrooms,false
+H06454,Oakwood,317046,1736,3,3,60,1,0.18,false,true,B,7,7,5,4,1/15/23,12,B06454,343308,45-54,2,medium,false,Full-time employed,Low Maintenance,false
+H07162,Oakwood,219545,1174,1,2,60,1,0.1,false,true,C,7,7,5,4,1/16/23,32,B07162,253720,35-44,1,low,false,Dual income,Location & Schools,false
+H00608,Oakwood,234731,1346,2,2,23,2,0.15,false,false,E,7,7,5,4,1/18/23,19,B00608,275619,25-34,1,low,false,Dual income,Location & Schools,false
+H02016,Oakwood,508150,2720,4,4,0,2,0.13,true,false,F,7,7,5,4,1/19/23,55,B02016,545475,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H07378,Oakwood,335820,2068,4,4,10,1,0.19,false,false,E,7,7,5,4,1/21/23,101,B07378,377813,35-44,1,medium,false,Full-time employed,Location & Schools,false
+H06324,Oakwood,352795,2393,4,4,26,1,0.07,false,false,D,7,7,5,4,1/22/23,47,B06324,396266,35-44,4,medium,false,Self-employed,Modern & Updated,false
+H04319,Oakwood,335667,1719,4,4,1,1,0.15,true,false,E,7,7,5,4,1/22/23,1,B04319,366708,55-64,3,medium,true,Self-employed,Modern & Updated,false
+H03307,Oakwood,170161,921,1,1,5,2,0.1,true,false,F,7,7,5,4,1/27/23,26,B03307,186022,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
+H03394,Oakwood,207873,1421,2,2,18,0,0.11,true,false,D,7,7,5,4,1/28/23,5,B03394,222289,45-54,1,low,false,Full-time employed,Modern & Updated,false
+H03417,Oakwood,368901,2525,4,4,15,1,0.1,true,false,E,7,7,5,4,1/28/23,13,B03417,420389,55-64,3,medium,false,Full-time employed,Affordability,true
+H01142,Oakwood,482170,2678,5,5,13,1,0.18,true,false,D,7,7,5,4,2/1/23,29,B01142,531056,35-44,4,medium,true,Dual income,Location & Schools,false
+H04951,Oakwood,240289,1371,2,2,9,1,0.18,false,false,E,7,7,5,4,2/1/23,18,B04951,253909,35-44,1,low,false,Full-time employed,Modern & Updated,false
+H01604,Oakwood,313811,1996,3,3,10,1,0.17,false,false,E,7,7,5,4,2/3/23,4,B01604,352129,35-44,3,medium,true,Full-time employed,Location & Schools,false
+H04179,Oakwood,451345,2931,5,5,7,2,0.13,false,false,F,7,7,5,4,2/6/23,60,B04179,498176,35-44,2,medium,false,Full-time employed,Location & Schools,false
+H01309,Oakwood,443521,2240,3,3,0,2,0.14,true,false,F,7,7,5,4,2/6/23,57,B01309,502421,55-64,3,medium,false,Retired,Affordability,false
+H03678,Oakwood,174213,800,2,2,60,2,0.12,false,true,A,7,7,5,4,2/7/23,16,B03678,196752,65+,1,low,false,Retired,Affordability,false
+H07521,Oakwood,451515,2023,3,3,9,2,0.11,false,false,F,7,7,5,4,2/7/23,46,B07521,484902,35-44,2,medium,false,Full-time employed,Location & Schools,false
+H03918,Oakwood,435256,2466,4,4,30,1,0.11,false,true,F,7,7,5,4,2/8/23,5,B03918,461882,35-44,2,medium,false,Full-time employed,Affordability,false
+H04611,Oakwood,120000,913,1,1,8,1,0.11,false,false,F,7,7,5,4,2/8/23,3,B04611,138857,25-34,1,low,false,Self-employed,Space & Bedrooms,false
+H05151,Oakwood,137630,800,2,2,8,1,0.11,false,false,E,7,7,5,4,2/13/23,9,B05151,151138,45-54,1,low,false,Full-time employed,Space & Bedrooms,false
+H04545,Oakwood,585326,3060,5,5,6,2,0.08,true,false,E,7,7,5,4,2/15/23,82,B04545,628938,25-34,3,medium,true,Full-time employed,Space & Bedrooms,false
+H06202,Oakwood,202069,1276,2,2,4,2,0.18,false,false,F,7,7,5,4,2/15/23,84,B06202,222398,45-54,2,low,false,Dual income,Location & Schools,false
+H02151,Oakwood,238818,1350,2,2,6,2,0.24,true,false,F,7,7,5,4,2/17/23,21,B02151,262674,25-34,1,low,false,Full-time employed,Location & Schools,false
+H05396,Oakwood,231114,1075,1,1,1,1,0.13,true,false,F,7,7,5,4,2/21/23,7,B05396,272165,55-64,1,low,false,Full-time employed,Affordability,false
+H02726,Oakwood,540707,2903,5,5,19,2,0.09,false,false,D,7,7,5,4,2/21/23,88,B02726,568299,45-54,4,medium,true,Full-time employed,Affordability,false
+H06968,Oakwood,355389,2080,4,4,6,1,0.21,false,false,E,7,7,5,4,2/24/23,30,B06968,381863,25-34,1,medium,false,Full-time employed,Location & Schools,false
+H06300,Oakwood,405057,1955,3,3,5,1,0.19,true,false,E,7,7,5,4,2/24/23,8,B06300,428457,45-54,2,medium,false,Dual income,Affordability,false
+H03749,Oakwood,120000,800,1,1,23,0,0.2,false,false,E,7,7,5,4,2/24/23,17,B03749,130507,25-34,1,low,false,Dual income,Space & Bedrooms,false
+H03248,Oakwood,120000,800,1,1,29,0,0.15,true,true,E,7,7,5,4,2/27/23,2,B03248,133822,35-44,1,low,false,Self-employed,Affordability,false
+H02975,Oakwood,267569,1716,3,3,0,1,0.15,false,false,F,7,7,5,4,2/27/23,5,B02975,309044,35-44,2,medium,false,Dual income,Affordability,false
+H04419,Oakwood,310648,1900,3,3,15,2,0.12,false,false,F,7,7,5,4,2/27/23,36,B04419,339850,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H03170,Oakwood,611836,3303,6,5,9,2,0.22,false,false,E,7,7,5,4,2/28/23,17,B03170,675450,35-44,5,high,true,Self-employed,Location & Schools,false
+H03940,Oakwood,255067,1540,2,2,10,0,0.23,false,false,E,7,7,5,4,3/2/23,4,B03940,292350,25-34,1,medium,false,Dual income,Affordability,false
+H05004,Oakwood,325830,1617,3,3,6,1,0.14,true,false,E,7,7,5,4,3/2/23,17,B05004,378387,35-44,1,medium,false,Self-employed,Location & Schools,false
+H03583,Oakwood,454416,2485,4,4,6,1,0.16,false,false,F,7,7,5,4,3/2/23,10,B03583,525271,25-34,2,medium,false,Dual income,Investment,true
+H02904,Oakwood,136906,800,1,1,18,1,0.09,false,false,E,7,7,5,4,3/2/23,3,B02904,145635,35-44,1,low,false,Dual income,Modern & Updated,false
+H07665,Oakwood,535228,2843,5,5,11,2,0.15,true,false,D,7,7,5,4,3/3/23,30,B07665,598330,45-54,3,medium,false,Full-time employed,Space & Bedrooms,false
+H06208,Oakwood,419129,2491,3,3,21,1,0.15,true,false,D,7,7,5,4,3/3/23,74,B06208,448191,25-34,1,medium,false,Full-time employed,Low Maintenance,false
+H06137,Oakwood,395846,2236,4,4,4,1,0.14,false,false,D,7,7,5,4,3/3/23,41,B06137,463813,45-54,3,medium,true,Dual income,Location & Schools,false
+H07277,Oakwood,120000,800,1,1,18,0,0.16,true,false,F,7,7,5,4,3/3/23,180,B07277,134515,25-34,1,low,false,Full-time employed,Affordability,false
+H00762,Oakwood,381282,2146,3,3,60,2,0.14,true,true,A,7,7,5,4,3/4/23,44,B00762,400662,45-54,3,medium,true,Dual income,Low Maintenance,true
+H05251,Oakwood,472857,2986,5,5,20,2,0.19,true,false,F,7,7,5,4,3/4/23,31,B05251,551676,25-34,1,medium,false,Full-time employed,Affordability,false
+H00565,Oakwood,527767,2921,5,5,8,2,0.14,false,false,F,7,7,5,4,3/6/23,27,B00565,576775,35-44,2,medium,false,Self-employed,Modern & Updated,false
+H03857,Oakwood,444162,2452,5,5,27,2,0.22,false,false,E,7,7,5,4,3/6/23,61,B03857,503587,45-54,3,medium,true,Self-employed,Location & Schools,false
+H05420,Oakwood,278053,1257,2,2,0,1,0.18,true,false,F,7,7,5,4,3/8/23,4,B05420,323076,35-44,1,medium,false,Full-time employed,Affordability,false
+H03922,Oakwood,504506,2394,4,4,22,2,0.16,true,false,C,7,7,5,4,3/9/23,103,B03922,583868,45-54,2,medium,false,Self-employed,Modern & Updated,false
+H04599,Oakwood,220658,1318,2,2,13,2,0.16,false,false,D,7,7,5,4,3/9/23,95,B04599,259955,55-64,1,low,false,Full-time employed,Location & Schools,false
+H05595,Oakwood,304107,1790,3,3,6,1,0.22,false,false,F,7,7,5,4,3/13/23,19,B05595,339486,55-64,2,medium,false,Self-employed,Space & Bedrooms,false
+H05826,Oakwood,514234,2676,4,4,3,1,0.15,true,false,F,7,7,5,4,3/13/23,6,B05826,589203,35-44,3,medium,true,Full-time employed,Location & Schools,false
+H06103,Oakwood,203114,800,1,1,4,1,0.21,false,true,F,7,7,5,4,3/13/23,24,B06103,239280,35-44,1,low,false,Full-time employed,Modern & Updated,false
+H07804,Oakwood,643807,3860,5,5,4,2,0.13,false,false,E,7,7,5,4,3/16/23,12,B07804,698953,45-54,3,high,true,Full-time employed,Investment,false
+H07475,Oakwood,453489,1726,2,2,13,1,0.11,true,true,D,7,7,5,4,3/17/23,10,B07475,521337,45-54,1,medium,false,Dual income,Location & Schools,false
+H03024,Oakwood,406629,2340,4,4,25,1,0.2,true,false,C,7,7,5,4,3/17/23,1,B03024,444523,45-54,3,medium,true,Full-time employed,Modern & Updated,true
+H00444,Oakwood,210684,1321,2,2,14,1,0.14,false,false,F,7,7,5,4,3/17/23,49,B00444,228617,35-44,1,low,false,Self-employed,Affordability,false
+H07909,Oakwood,354314,1935,4,4,2,2,0.1,false,false,F,7,7,5,4,3/18/23,18,B07909,386468,35-44,2,medium,false,Dual income,Space & Bedrooms,false
+H07493,Oakwood,291197,1417,2,3,19,2,0.16,false,true,F,7,7,5,4,3/19/23,35,B07493,306791,35-44,1,medium,false,Full-time employed,Investment,false
+H01267,Oakwood,582093,2986,4,4,7,1,0.18,false,false,D,7,7,5,4,3/22/23,178,B01267,672242,45-54,2,high,false,Full-time employed,Modern & Updated,false
+H04148,Oakwood,314621,1874,3,3,13,2,0.2,false,false,F,7,7,5,4,3/23/23,3,B04148,359980,65+,1,medium,false,Retired,Space & Bedrooms,false
+H05240,Oakwood,539039,2934,6,5,34,2,0.11,true,false,B,7,7,5,4,3/23/23,18,B05240,582954,45-54,4,medium,true,Dual income,Location & Schools,false
+H00691,Oakwood,535663,2803,5,5,14,2,0.15,true,false,C,7,7,5,4,3/24/23,43,B00691,577727,45-54,4,medium,true,Self-employed,Location & Schools,false
+H02963,Oakwood,294412,1313,3,3,6,2,0.11,true,false,F,7,7,5,4,3/25/23,90,B02963,342384,35-44,2,medium,false,Dual income,Affordability,false
+H02524,Oakwood,145274,969,2,2,60,1,0.14,false,true,C,7,7,5,4,3/26/23,40,B02524,163162,35-44,1,low,false,Full-time employed,Space & Bedrooms,false
+H06021,Oakwood,189254,800,1,1,2,0,0.13,false,false,F,7,7,5,4,3/26/23,16,B06021,222328,25-34,1,low,false,Self-employed,Space & Bedrooms,true
+H03044,Oakwood,336853,1924,3,3,42,2,0.15,true,true,D,7,7,5,4,3/27/23,24,B03044,390906,45-54,3,medium,true,Full-time employed,Location & Schools,false
+H04724,Oakwood,604462,3321,6,5,19,2,0.23,true,false,D,7,7,5,4,3/27/23,20,B04724,694134,25-34,3,high,true,Full-time employed,Modern & Updated,false
+H00707,Oakwood,557944,3121,4,4,27,3,0.1,true,false,C,7,7,5,4,3/28/23,31,B00707,637001,45-54,3,high,true,Full-time employed,Location & Schools,false
+H03279,Oakwood,542843,3216,6,5,4,3,0.18,true,false,E,7,7,5,4,4/1/23,5,B03279,580872,55-64,4,medium,false,Full-time employed,Investment,false
+H07351,Oakwood,601659,3118,5,5,11,3,0.23,false,true,E,7,7,5,4,4/2/23,26,B07351,657930,35-44,3,high,true,Dual income,Modern & Updated,false
+H04459,Oakwood,514480,2794,5,5,22,2,0.13,true,false,D,7,7,5,4,4/3/23,72,B04459,572757,55-64,3,medium,true,Self-employed,Location & Schools,false
+H02340,Oakwood,255924,1442,3,3,12,0,0.14,true,false,F,7,7,5,4,4/3/23,27,B02340,270488,35-44,2,low,false,Full-time employed,Space & Bedrooms,false
+H05018,Oakwood,240805,1420,3,3,7,0,0.23,false,false,E,7,7,5,4,4/3/23,48,B05018,266021,25-34,1,low,false,Full-time employed,Affordability,false
+H02259,Oakwood,301270,1735,3,3,14,1,0.16,true,false,D,7,7,5,4,4/6/23,30,B02259,336284,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H02391,Oakwood,435810,2474,4,3,7,1,0.14,false,false,E,7,7,5,4,4/7/23,1,B02391,511073,45-54,3,medium,true,Self-employed,Investment,false
+H02672,Oakwood,543975,3107,5,5,1,2,0.1,true,false,F,7,7,5,4,4/7/23,8,B02672,580921,35-44,3,medium,true,Full-time employed,Modern & Updated,false
+H07868,Oakwood,672962,3708,6,5,17,3,0.19,true,false,E,7,7,5,4,4/9/23,13,B07868,744038,35-44,4,high,false,Full-time employed,Location & Schools,false
+H03908,Oakwood,326159,1506,3,3,8,1,0.12,true,false,F,7,7,5,4,4/9/23,49,B03908,374712,25-34,1,medium,false,Dual income,Location & Schools,false
+H03026,Oakwood,457591,2905,5,5,8,1,0.15,false,false,F,7,7,5,4,4/9/23,62,B03026,515361,25-34,2,medium,false,Self-employed,Modern & Updated,true
+H00820,Oakwood,292505,1385,2,2,24,1,0.12,true,false,C,7,7,5,4,4/10/23,2,B00820,339787,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H02930,Oakwood,452041,2571,5,5,21,2,0.17,true,false,C,7,7,5,4,4/11/23,23,B02930,494173,35-44,3,medium,true,Self-employed,Location & Schools,false
+H06631,Oakwood,451675,2801,3,3,5,1,0.16,false,false,F,7,7,5,4,4/11/23,1,B06631,521957,45-54,2,medium,false,Full-time employed,Affordability,false
+H00252,Oakwood,303425,1460,3,3,10,2,0.11,true,false,F,7,7,5,4,4/12/23,28,B00252,326104,35-44,2,medium,false,Dual income,Location & Schools,false
+H03725,Oakwood,444161,2248,4,4,11,2,0.19,true,true,F,7,7,5,4,4/13/23,99,B03725,522792,45-54,2,medium,false,Dual income,Space & Bedrooms,false
+H07688,Oakwood,248977,998,2,2,2,1,0.08,false,true,F,7,7,5,4,4/15/23,81,B07688,275044,35-44,1,low,false,Full-time employed,Location & Schools,false
+H07994,Oakwood,472395,2394,3,3,6,2,0.11,false,false,F,7,7,5,4,4/17/23,41,B07994,534201,45-54,2,medium,false,Full-time employed,Location & Schools,false
+H00283,Oakwood,658751,3318,5,5,4,3,0.22,true,false,E,7,7,5,4,4/18/23,64,B00283,748437,35-44,3,high,true,Full-time employed,Space & Bedrooms,false
+H06077,Oakwood,335526,2414,5,5,60,1,0.17,false,false,A,7,7,5,4,4/18/23,84,B06077,387559,35-44,3,medium,true,Self-employed,Space & Bedrooms,false
+H03518,Oakwood,587590,2932,4,4,1,2,0.22,true,false,F,7,7,5,4,4/19/23,15,B03518,688654,35-44,3,high,true,Full-time employed,Space & Bedrooms,false
+H00361,Oakwood,513796,2738,4,4,22,2,0.2,false,true,E,7,7,5,4,4/19/23,1,B00361,594754,55-64,1,medium,false,Full-time employed,Affordability,false
+H04466,Oakwood,580435,3305,6,5,3,2,0.3,false,false,F,7,7,5,4,4/21/23,2,B04466,654054,35-44,3,high,true,Full-time employed,Location & Schools,false
+H01776,Oakwood,533821,2954,5,5,36,2,0.17,true,false,C,7,7,5,4,4/21/23,1,B01776,599019,25-34,1,medium,false,Self-employed,Location & Schools,false
+H07912,Oakwood,347349,1931,2,2,30,2,0.19,true,false,C,7,7,5,4,4/21/23,14,B07912,365824,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H05476,Oakwood,306236,1997,4,4,55,2,0.09,false,false,A,7,7,5,4,4/21/23,55,B05476,361336,35-44,2,medium,false,Full-time employed,Affordability,false
+H04998,Oakwood,330550,1698,2,2,11,0,0.22,false,false,E,7,7,5,4,4/22/23,9,B04998,353953,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H06698,Oakwood,233946,1076,1,1,3,1,0.17,true,false,E,7,7,5,4,4/23/23,6,B06698,270925,25-34,1,low,false,Full-time employed,Location & Schools,false
+H04372,Oakwood,289110,1323,2,2,11,1,0.21,false,false,D,7,7,5,4,4/24/23,42,B04372,333443,45-54,1,medium,false,Dual income,Location & Schools,false
+H00405,Oakwood,334451,1725,3,3,19,1,0.11,false,true,F,7,7,5,4,4/25/23,13,B00405,356186,25-34,1,medium,false,Dual income,Space & Bedrooms,false
+H01043,Oakwood,369694,1695,3,3,3,1,0.13,true,false,E,7,7,5,4,4/26/23,15,B01043,408649,35-44,1,medium,false,Self-employed,Space & Bedrooms,false
+H03093,Oakwood,418938,2188,4,4,10,1,0.24,true,false,E,7,7,5,4,4/26/23,47,B03093,462065,35-44,3,medium,true,Self-employed,Space & Bedrooms,false
+H04289,Oakwood,372963,1831,4,3,12,1,0.13,true,false,D,7,7,5,4,4/27/23,36,B04289,397950,25-34,2,medium,false,Dual income,Modern & Updated,false
+H00167,Oakwood,471128,2474,3,3,13,2,0.19,false,false,D,7,7,5,4,4/27/23,57,B00167,539621,25-34,1,medium,false,Dual income,Affordability,false
+H03716,Oakwood,374521,2416,3,4,21,1,0.15,true,false,E,7,7,5,4,4/27/23,38,B03716,398669,45-54,1,medium,false,Dual income,Affordability,false
+H04263,Oakwood,671361,3877,6,5,7,2,0.33,true,false,E,7,7,5,4,4/27/23,23,B04263,775736,45-54,3,high,false,Full-time employed,Location & Schools,false
+H00418,Oakwood,421838,2735,5,5,20,2,0.11,false,false,D,7,7,5,4,4/28/23,27,B00418,492126,45-54,4,medium,true,Retired,Modern & Updated,false
+H01659,Oakwood,218296,1553,2,2,38,1,0.14,false,false,C,7,7,5,4,4/28/23,22,B01659,253946,25-34,1,low,false,Full-time employed,Modern & Updated,false
+H04582,Oakwood,416694,2245,3,3,15,1,0.11,false,false,F,7,7,5,4,4/28/23,10,B04582,469197,45-54,2,medium,false,Full-time employed,Modern & Updated,false
+H01695,Oakwood,398456,2312,5,5,8,2,0.16,false,false,E,7,7,5,4,4/28/23,28,B01695,458555,45-54,2,medium,false,Full-time employed,Space & Bedrooms,false
+H02571,Oakwood,181582,800,1,1,7,1,0.15,true,false,D,7,7,5,4,4/28/23,9,B02571,209134,65+,1,low,false,Self-employed,Low Maintenance,false
+H05855,Oakwood,380994,2137,3,3,20,2,0.15,false,false,D,7,7,5,4,5/1/23,18,B05855,424502,45-54,2,medium,false,Self-employed,Affordability,false
+H05107,Oakwood,282732,1803,3,3,10,1,0.12,false,false,F,7,7,5,4,5/1/23,6,B05107,325317,45-54,2,medium,false,Self-employed,Space & Bedrooms,false
+H07019,Oakwood,287417,1462,3,3,5,1,0.16,false,false,F,7,7,5,4,5/2/23,25,B07019,314940,45-54,1,medium,false,Dual income,Location & Schools,false
+H04027,Oakwood,448442,2462,5,5,2,1,0.16,false,false,F,7,7,5,4,5/3/23,43,B04027,503457,55-64,4,medium,true,Full-time employed,Space & Bedrooms,false
+H05105,Oakwood,233735,1441,2,2,37,1,0.2,false,false,B,7,7,5,4,5/4/23,55,B05105,254585,25-34,1,low,false,Full-time employed,Location & Schools,false
+H01770,Oakwood,512442,2588,3,4,15,2,0.09,true,false,F,7,7,5,4,5/4/23,14,B01770,555265,65+,1,medium,false,Retired,Low Maintenance,false
+H06311,Oakwood,253910,840,1,2,18,1,0.15,true,true,D,7,7,5,4,5/6/23,9,B06311,293909,35-44,1,medium,false,Full-time employed,Affordability,false
+H06784,Oakwood,305991,1718,3,3,11,2,0.16,false,false,F,7,7,5,4,5/9/23,29,B06784,336758,35-44,1,medium,false,Self-employed,Modern & Updated,false
+H07890,Oakwood,334299,2201,4,4,9,1,0.12,false,false,F,7,7,5,4,5/11/23,27,B07890,377046,25-34,3,medium,true,Self-employed,Modern & Updated,false
+H02310,Oakwood,471022,2514,4,3,13,2,0.17,false,false,E,7,7,5,4,5/12/23,6,B02310,549399,45-54,1,medium,false,Full-time employed,Space & Bedrooms,false
+H01485,Oakwood,395099,2137,3,3,19,2,0.17,false,false,F,7,7,5,4,5/12/23,72,B01485,463464,55-64,1,medium,false,Dual income,Investment,false
+H03511,Oakwood,416228,2358,4,4,36,1,0.09,true,false,C,7,7,5,4,5/12/23,10,B03511,441597,35-44,3,medium,false,Full-time employed,Modern & Updated,false
+H07424,Oakwood,475507,2642,4,4,19,1,0.16,true,false,E,7,7,5,4,5/14/23,9,B07424,506445,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H03358,Oakwood,419798,2160,4,4,0,2,0.1,false,false,F,7,7,5,4,5/15/23,2,B03358,479686,35-44,3,medium,true,Full-time employed,Modern & Updated,false
+H03962,Oakwood,386043,1929,3,3,2,2,0.17,true,false,E,7,7,5,4,5/15/23,40,B03962,446235,35-44,2,medium,false,Self-employed,Space & Bedrooms,false
+H07255,Oakwood,128377,800,2,2,60,0,0.22,true,true,B,7,7,5,4,5/15/23,1,B07255,151350,55-64,1,low,false,Full-time employed,Affordability,false
+H01523,Oakwood,408082,2816,6,5,31,1,0.13,false,false,C,7,7,5,4,5/17/23,30,B01523,466242,25-34,2,medium,false,Full-time employed,Location & Schools,false
+H06684,Oakwood,123501,800,1,1,2,2,0.14,false,false,F,7,7,5,4,5/18/23,62,B06684,133307,25-34,1,low,false,Full-time employed,Affordability,false
+H01949,Oakwood,298407,1728,3,3,6,1,0.08,false,false,F,7,7,5,4,5/18/23,27,B01949,336887,25-34,2,medium,false,Self-employed,Affordability,false
+H06271,Oakwood,447905,2306,3,3,43,2,0.16,true,false,C,7,7,5,4,5/18/23,66,B06271,489331,45-54,2,medium,false,Dual income,Affordability,false
+H01386,Oakwood,396358,2484,4,4,22,2,0.15,false,false,E,7,7,5,4,5/18/23,36,B01386,440087,45-54,1,medium,false,Full-time employed,Modern & Updated,false
+H05776,Oakwood,440857,2402,4,4,10,1,0.13,true,false,E,7,7,5,4,5/19/23,11,B05776,507838,35-44,3,medium,false,Full-time employed,Location & Schools,false
+H02036,Oakwood,170969,980,1,1,1,1,0.19,false,false,F,7,7,5,4,5/20/23,36,B02036,194131,35-44,1,low,false,Self-employed,Location & Schools,true
+H00573,Oakwood,127299,984,2,2,8,2,0.13,false,false,E,7,7,5,4,5/20/23,44,B00573,145775,35-44,2,low,false,Dual income,Location & Schools,false
+H06753,Oakwood,228534,1340,1,2,18,1,0.14,false,false,D,7,7,5,4,5/20/23,31,B06753,256605,55-64,1,low,false,Retired,Modern & Updated,false
+H04627,Oakwood,342771,1223,2,2,35,0,0.16,true,true,D,7,7,5,4,5/20/23,60,B04627,383653,65+,1,medium,false,Retired,Modern & Updated,true
+H02344,Oakwood,191038,800,2,2,31,1,0.19,true,true,C,7,7,5,4,5/20/23,55,B02344,211756,55-64,1,low,false,Self-employed,Affordability,false
+H07366,Oakwood,543902,3280,5,5,14,2,0.14,true,false,D,7,7,5,4,5/20/23,6,B07366,631993,35-44,4,high,true,Self-employed,Location & Schools,false
+H07774,Oakwood,336840,1652,3,3,33,1,0.1,true,true,E,7,7,5,4,5/21/23,1,B07774,355249,25-34,1,medium,false,Full-time employed,Affordability,false
+H03997,Oakwood,517202,2915,5,5,5,2,0.12,false,false,F,7,7,5,4,5/21/23,3,B03997,562336,35-44,4,medium,false,Full-time employed,Modern & Updated,false
+H05644,Oakwood,362933,2088,3,3,9,1,0.12,true,false,E,7,7,5,4,5/21/23,13,B05644,393450,65+,1,medium,false,Retired,Investment,false
+H03834,Oakwood,248489,1676,2,2,10,0,0.16,false,false,E,7,7,5,4,5/22/23,1,B03834,264550,35-44,1,low,false,Self-employed,Modern & Updated,false
+H01107,Oakwood,179169,800,1,1,49,2,0.21,true,false,C,7,7,5,4,5/22/23,1,B01107,210149,55-64,2,low,false,Dual income,Affordability,false
+H01040,Oakwood,432478,2380,4,4,47,1,0.23,false,false,A,7,7,5,4,5/23/23,7,B01040,492731,35-44,3,medium,true,Self-employed,Space & Bedrooms,false
+H07670,Oakwood,395000,2637,4,4,60,2,0.14,false,false,A,7,7,5,4,5/23/23,10,B07670,464706,45-54,3,medium,true,Full-time employed,Location & Schools,false
+H07617,Oakwood,497931,2668,5,4,1,2,0.17,true,false,E,7,7,5,4,5/26/23,47,B07617,552011,35-44,3,medium,false,Full-time employed,Space & Bedrooms,false
+H06716,Oakwood,570860,2906,5,5,5,1,0.28,true,false,E,7,7,5,4,5/26/23,6,B06716,637932,55-64,3,high,true,Retired,Location & Schools,false
+H03817,Oakwood,287405,1455,3,2,60,2,0.07,true,true,A,7,7,5,4,5/27/23,29,B03817,329352,45-54,3,medium,false,Dual income,Space & Bedrooms,false
+H05356,Oakwood,488769,2920,4,4,3,2,0.19,false,false,E,7,7,5,4,5/27/23,48,B05356,538763,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H07633,Oakwood,363187,2218,4,4,50,2,0.08,true,false,C,7,7,5,4,5/28/23,15,B07633,419487,35-44,2,medium,false,Full-time employed,Investment,false
+H06956,Oakwood,436905,2353,4,4,19,2,0.16,false,false,D,7,7,5,4,6/1/23,4,B06956,474340,25-34,1,medium,false,Full-time employed,Affordability,false
+H02320,Oakwood,480312,2602,4,4,7,2,0.16,true,false,F,7,7,5,4,6/2/23,7,B02320,519980,35-44,4,medium,true,Full-time employed,Location & Schools,false
+H04339,Oakwood,348940,2270,4,4,60,2,0.15,false,false,A,7,7,5,4,6/6/23,141,B04339,390856,35-44,3,medium,true,Self-employed,Low Maintenance,false
+H05963,Oakwood,161933,857,1,1,19,0,0.08,true,false,E,7,7,5,4,6/7/23,50,B05963,190059,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
+H07466,Oakwood,163284,800,1,1,6,1,0.16,true,false,F,7,7,5,4,6/9/23,3,B07466,176861,25-34,1,low,false,Full-time employed,Location & Schools,false
+H07235,Oakwood,228264,1350,3,4,14,0,0.2,true,false,F,7,7,5,4,6/10/23,75,B07235,242079,45-54,2,low,false,Retired,Affordability,false
+H02850,Oakwood,330797,2237,5,4,32,1,0.19,false,false,B,7,7,5,4,6/11/23,112,B02850,365158,25-34,2,medium,false,Full-time employed,Modern & Updated,false
+H05760,Oakwood,145676,1000,1,1,12,1,0.18,false,false,E,7,7,5,4,6/13/23,172,B05760,154102,35-44,1,low,false,Self-employed,Affordability,false
+H05311,Oakwood,435814,2432,4,4,17,1,0.17,false,false,E,7,7,5,4,6/14/23,21,B05311,483159,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H01531,Oakwood,420921,2562,4,4,36,2,0.13,false,false,B,7,7,5,4,6/14/23,28,B01531,477757,35-44,3,medium,false,Self-employed,Affordability,false
+H03309,Oakwood,394633,2154,3,3,9,2,0.07,true,false,F,7,7,5,4,6/14/23,14,B03309,457261,35-44,1,medium,false,Full-time employed,Space & Bedrooms,true
+H02272,Oakwood,515488,3016,5,5,3,3,0.16,false,false,F,7,7,5,4,6/18/23,10,B02272,560194,35-44,3,medium,true,Full-time employed,Space & Bedrooms,false
+H03958,Oakwood,428029,2027,4,3,19,2,0.15,false,false,D,7,7,5,4,6/19/23,50,B03958,458516,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H00317,Oakwood,157000,911,2,2,18,0,0.17,false,false,C,7,7,5,4,6/19/23,4,B00317,175707,65+,1,low,false,Self-employed,Low Maintenance,false
+H01129,Oakwood,308819,2084,3,3,1,1,0.16,false,false,F,7,7,5,4,6/20/23,72,B01129,339866,55-64,2,medium,false,Full-time employed,Affordability,false
+H01487,Oakwood,414670,2007,3,3,8,2,0.16,false,false,D,7,7,5,4,6/21/23,43,B01487,486872,45-54,2,medium,false,Full-time employed,Modern & Updated,false
+H05941,Oakwood,374439,2568,4,5,30,1,0.07,false,false,F,7,7,5,4,6/21/23,12,B05941,411025,25-34,3,medium,true,Dual income,Space & Bedrooms,false
+H07582,Oakwood,739786,3618,6,5,22,2,0.19,true,true,D,7,7,5,4,6/24/23,78,B07582,793073,55-64,5,high,true,Dual income,Space & Bedrooms,false
+H02200,Oakwood,317289,1695,3,3,0,1,0.26,true,false,F,7,7,5,4,6/25/23,19,B02200,355664,45-54,2,medium,false,Dual income,Affordability,true
+H03782,Oakwood,623341,3296,6,5,32,3,0.16,true,true,D,7,7,5,4,6/26/23,68,B03782,658020,45-54,4,high,true,Full-time employed,Location & Schools,false
+H06888,Oakwood,310104,2042,3,3,40,2,0.15,false,true,E,7,7,5,4,6/26/23,1,B06888,328762,35-44,1,medium,false,Full-time employed,Affordability,false
+H00914,Oakwood,382047,2500,5,5,39,2,0.17,false,false,B,7,7,5,4,6/27/23,14,B00914,439958,35-44,3,medium,false,Dual income,Low Maintenance,false
+H06224,Oakwood,421519,2571,3,3,26,2,0.1,true,false,D,7,7,5,4,6/28/23,4,B06224,450020,35-44,1,medium,false,Full-time employed,Affordability,false
+H01632,Oakwood,569666,3132,6,5,4,3,0.23,true,false,F,7,7,5,4,7/1/23,81,B01632,615754,65+,2,medium,false,Retired,Modern & Updated,false
+H01163,Oakwood,679014,3728,6,5,21,2,0.16,false,false,E,7,7,5,4,7/3/23,61,B01163,713173,45-54,3,high,false,Dual income,Location & Schools,false
+H04251,Oakwood,220215,1023,2,1,34,0,0.25,true,false,B,7,7,5,4,7/3/23,108,B04251,257730,55-64,1,low,false,Full-time employed,Space & Bedrooms,false
+H03876,Oakwood,419505,2489,4,4,30,2,0.12,false,false,D,7,7,5,4,7/3/23,35,B03876,442440,25-34,2,medium,false,Full-time employed,Affordability,false
+H06658,Oakwood,280080,1044,2,2,2,1,0.19,false,false,E,7,7,5,4,7/4/23,1,B06658,306891,35-44,1,medium,false,Full-time employed,Investment,false
+H07445,Oakwood,169195,800,1,1,1,0,0.15,false,false,F,7,7,5,4,7/4/23,23,B07445,178378,25-34,1,low,false,Dual income,Space & Bedrooms,false
+H00661,Oakwood,476498,2449,4,4,3,1,0.24,false,false,F,7,7,5,4,7/7/23,53,B00661,554431,25-34,2,medium,false,Dual income,Affordability,false
+H05064,Oakwood,451236,2568,4,4,9,2,0.12,false,false,E,7,7,5,4,7/8/23,21,B05064,525982,55-64,3,medium,true,Self-employed,Location & Schools,false
+H04116,Oakwood,336888,2225,4,4,39,2,0.09,false,false,C,7,7,5,4,7/10/23,61,B04116,386876,45-54,1,medium,false,Full-time employed,Location & Schools,false
+H06622,Oakwood,121015,800,1,1,12,1,0.23,false,false,D,7,7,5,4,7/11/23,99,B06622,131546,25-34,1,low,false,Full-time employed,Affordability,false
+H06305,Oakwood,367947,2284,4,4,10,1,0.14,false,false,D,7,7,5,4,7/12/23,11,B06305,431499,35-44,3,medium,true,Self-employed,Location & Schools,false
+H05582,Oakwood,421411,2117,4,3,8,2,0.2,true,false,E,7,7,5,4,7/13/23,86,B05582,461895,65+,1,medium,false,Full-time employed,Low Maintenance,false
+H07587,Oakwood,183200,1591,3,3,34,0,0.18,false,false,C,7,7,5,4,7/14/23,9,B07587,201567,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
+H04891,Oakwood,335478,1830,3,3,35,2,0.23,true,false,D,7,7,5,4,7/15/23,13,B04891,372091,55-64,1,medium,false,Full-time employed,Modern & Updated,false
+H06372,Oakwood,298627,1916,4,4,60,1,0.14,true,false,A,7,7,5,4,7/17/23,24,B06372,330694,45-54,3,medium,true,Self-employed,Space & Bedrooms,false
+H00715,Oakwood,370127,2025,3,3,2,1,0.13,false,false,E,7,7,5,4,7/18/23,34,B00715,418414,45-54,2,medium,false,Dual income,Modern & Updated,false
+H06294,Oakwood,251638,1421,2,2,43,1,0.12,false,false,B,7,7,5,4,7/19/23,104,B06294,295170,55-64,1,medium,false,Retired,Investment,false
+H07865,Oakwood,417664,2400,3,4,28,1,0.15,false,true,E,7,7,5,4,7/19/23,41,B07865,478657,35-44,1,medium,false,Dual income,Space & Bedrooms,false
+H02653,Oakwood,322090,1829,4,3,6,1,0.11,false,false,F,7,7,5,4,7/21/23,21,B02653,350541,35-44,4,medium,true,Self-employed,Location & Schools,false
+H06830,Oakwood,567526,3018,5,5,2,2,0.13,false,false,F,7,7,5,4,7/22/23,24,B06830,665074,35-44,3,high,false,Self-employed,Investment,false
+H06269,Oakwood,228062,1204,3,3,8,2,0.15,true,false,E,7,7,5,4,7/23/23,41,B06269,257218,65+,1,low,false,Retired,Modern & Updated,false
+H01841,Oakwood,205006,905,1,1,5,1,0.1,false,false,F,7,7,5,4,7/23/23,9,B01841,230694,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
+H07201,Oakwood,442237,2661,5,4,46,1,0.21,true,false,B,7,7,5,4,7/23/23,4,B07201,481630,45-54,4,medium,true,Self-employed,Investment,false
+H05405,Oakwood,291121,1451,2,2,13,1,0.18,false,false,D,7,7,5,4,7/24/23,7,B05405,336325,45-54,2,medium,false,Self-employed,Space & Bedrooms,true
+H00894,Oakwood,383054,2289,3,3,44,1,0.14,true,false,B,7,7,5,4,7/25/23,62,B00894,433080,35-44,2,medium,false,Dual income,Space & Bedrooms,false
+H00024,Oakwood,125283,932,1,2,24,1,0.22,false,false,E,7,7,5,4,7/26/23,5,B00024,142197,55-64,1,low,false,Retired,Location & Schools,false
+H03146,Oakwood,300250,1614,3,4,35,0,0.07,false,true,F,7,7,5,4,7/27/23,1,B03146,319023,45-54,2,medium,false,Full-time employed,Space & Bedrooms,true
+H03703,Oakwood,463334,3003,5,5,25,2,0.13,false,false,D,7,7,5,4,7/27/23,33,B03703,503238,35-44,3,medium,false,Full-time employed,Affordability,false
+H01193,Oakwood,222900,1213,1,2,6,0,0.11,false,true,F,7,7,5,4,8/1/23,48,B01193,248146,35-44,1,low,false,Dual income,Space & Bedrooms,false
+H01962,Oakwood,299361,1984,3,3,4,1,0.2,false,false,F,7,7,5,4,8/2/23,71,B01962,342078,35-44,2,medium,false,Self-employed,Affordability,false
+H07426,Oakwood,409209,2362,4,4,12,1,0.16,false,false,E,7,7,5,4,8/3/23,110,B07426,441317,35-44,3,medium,true,Dual income,Investment,false
+H05480,Oakwood,275122,1568,3,3,22,1,0.25,false,false,C,7,7,5,4,8/5/23,14,B05480,318706,65+,1,medium,false,Retired,Space & Bedrooms,false
+H04751,Oakwood,448092,2360,4,4,3,1,0.1,false,false,F,7,7,5,4,8/5/23,115,B04751,472373,45-54,2,medium,false,Self-employed,Low Maintenance,false
+H01602,Oakwood,173914,1122,2,2,46,2,0.14,false,false,B,7,7,5,4,8/5/23,2,B01602,205034,35-44,1,low,false,Full-time employed,Location & Schools,false
+H04295,Oakwood,364113,2449,4,4,37,1,0.16,false,false,C,7,7,5,4,8/7/23,22,B04295,425912,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H01968,Oakwood,488755,2682,4,4,7,2,0.14,false,false,F,7,7,5,4,8/8/23,16,B01968,557203,55-64,2,medium,false,Dual income,Affordability,false
+H04852,Oakwood,120000,800,2,2,2,1,0.23,false,false,F,7,7,5,4,8/8/23,11,B04852,141529,35-44,2,low,false,Full-time employed,Location & Schools,false
+H06075,Oakwood,344222,2190,4,4,28,2,0.12,false,false,D,7,7,5,4,8/9/23,28,B06075,389433,45-54,2,medium,false,Self-employed,Affordability,false
+H05454,Oakwood,582423,3033,5,5,16,3,0.11,true,false,E,7,7,5,4,8/10/23,18,B05454,612540,25-34,2,medium,false,Self-employed,Space & Bedrooms,false
+H01182,Oakwood,277140,1805,3,3,18,1,0.16,false,false,E,7,7,5,4,8/11/23,24,B01182,324023,55-64,3,medium,true,Full-time employed,Location & Schools,true
+H03299,Oakwood,205634,800,1,1,16,1,0.15,true,false,D,7,7,5,4,8/11/23,40,B03299,232323,25-34,1,low,false,Full-time employed,Affordability,false
+H02920,Oakwood,398150,1903,4,4,0,2,0.13,false,false,F,7,7,5,4,8/12/23,5,B02920,469113,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H07787,Oakwood,255517,1523,3,3,23,2,0.15,false,false,D,7,7,5,4,8/12/23,54,B07787,291043,55-64,3,medium,true,Full-time employed,Space & Bedrooms,false
+H05424,Oakwood,275207,1501,2,2,11,0,0.12,false,false,D,7,7,5,4,8/15/23,14,B05424,321252,25-34,1,medium,false,Dual income,Affordability,false
+H00393,Oakwood,495406,2466,4,4,16,2,0.12,true,true,F,7,7,5,4,8/16/23,54,B00393,545452,45-54,2,medium,false,Full-time employed,Affordability,false
+H05372,Oakwood,678425,3723,6,5,9,3,0.13,false,false,D,7,7,5,4,8/16/23,47,B05372,787847,35-44,4,high,true,Full-time employed,Location & Schools,false
+H04904,Oakwood,355545,2016,3,3,31,2,0.15,true,false,D,7,7,5,4,8/17/23,6,B04904,394248,45-54,1,medium,false,Self-employed,Location & Schools,false
+H04242,Oakwood,120000,800,1,1,40,1,0.19,false,false,C,7,7,5,4,8/18/23,38,B04242,131178,25-34,1,low,false,Full-time employed,Affordability,false
+H07314,Oakwood,392472,2161,3,3,2,2,0.2,false,false,F,7,7,5,4,8/19/23,4,B07314,421170,45-54,1,medium,false,Full-time employed,Location & Schools,false
+H02377,Oakwood,495619,2389,4,4,2,2,0.09,true,false,F,7,7,5,4,8/19/23,5,B02377,536933,35-44,2,medium,false,Full-time employed,Space & Bedrooms,true
+H05946,Oakwood,289162,1527,3,2,12,2,0.17,false,false,F,7,7,5,4,8/20/23,16,B05946,316357,55-64,2,medium,false,Retired,Investment,false
+H05191,Oakwood,457110,2233,4,4,0,1,0.22,true,false,F,7,7,5,4,8/22/23,1,B05191,529750,45-54,2,medium,false,Self-employed,Space & Bedrooms,false
+H03916,Oakwood,205283,800,1,1,4,1,0.31,true,false,F,7,7,5,4,8/23/23,10,B03916,228615,25-34,1,low,false,Full-time employed,Location & Schools,false
+H06579,Oakwood,489533,2296,4,3,9,2,0.13,false,false,F,7,7,5,4,8/27/23,74,B06579,569333,55-64,1,medium,false,Retired,Space & Bedrooms,false
+H06278,Oakwood,179630,1147,2,2,8,2,0.17,false,false,F,7,7,5,4,8/28/23,1,B06278,207608,35-44,2,low,false,Full-time employed,Affordability,false
+H04691,Oakwood,239361,1581,3,3,8,1,0.11,false,false,E,7,7,5,4,9/2/23,71,B04691,260362,25-34,1,low,false,Self-employed,Location & Schools,false
+H06734,Oakwood,569849,2731,5,5,3,2,0.21,true,false,D,7,7,5,4,9/4/23,10,B06734,670524,25-34,2,high,false,Full-time employed,Investment,false
+H04785,Oakwood,403311,2228,4,4,9,1,0.13,false,false,D,7,7,5,4,9/6/23,30,B04785,474044,35-44,3,medium,true,Self-employed,Affordability,false
+H00594,Oakwood,306429,1625,3,3,8,0,0.14,true,false,E,7,7,5,4,9/6/23,1,B00594,355096,45-54,2,medium,false,Dual income,Location & Schools,true
+H04437,Oakwood,330427,1726,4,4,19,1,0.24,false,true,D,7,7,5,4,9/7/23,35,B04437,360052,35-44,2,medium,false,Full-time employed,Location & Schools,false
+H06112,Oakwood,406089,2532,3,4,55,2,0.11,false,false,A,7,7,5,4,9/7/23,8,B06112,463302,45-54,1,medium,false,Full-time employed,Modern & Updated,false
+H00047,Oakwood,219250,1125,3,3,21,1,0.13,true,false,E,7,7,5,4,9/10/23,62,B00047,230913,45-54,2,low,false,Full-time employed,Affordability,false
+H05378,Oakwood,269024,1293,3,3,30,0,0.19,true,true,D,7,7,5,4,9/10/23,37,B05378,312678,45-54,2,medium,false,Dual income,Location & Schools,false
+H00640,Oakwood,465947,2818,5,5,7,2,0.11,false,false,F,7,7,5,4,9/10/23,1,B00640,498112,35-44,3,medium,false,Dual income,Location & Schools,false
+H06214,Oakwood,397680,2006,3,4,0,2,0.15,false,false,D,7,7,5,4,9/10/23,34,B06214,424555,45-54,1,medium,false,Self-employed,Affordability,true
+H01588,Oakwood,293909,1840,4,3,12,2,0.2,false,false,D,7,7,5,4,9/13/23,5,B01588,328370,45-54,3,medium,true,Self-employed,Location & Schools,true
+H07704,Oakwood,286578,1659,2,2,0,1,0.19,false,false,F,7,7,5,4,9/14/23,7,B07704,302963,45-54,3,medium,true,Self-employed,Space & Bedrooms,false
+H03404,Oakwood,261314,1411,3,2,36,1,0.14,false,false,C,7,7,5,4,9/14/23,21,B03404,281974,35-44,1,medium,false,Full-time employed,Affordability,true
+H01077,Oakwood,460025,2507,5,5,21,2,0.11,true,true,F,7,7,5,4,9/16/23,40,B01077,530619,35-44,3,medium,false,Dual income,Modern & Updated,true
+H06569,Oakwood,315729,2209,3,3,26,1,0.17,false,false,F,7,7,5,4,9/16/23,53,B06569,336546,45-54,2,medium,false,Full-time employed,Modern & Updated,false
+H05409,Oakwood,648341,3641,6,5,14,2,0.14,false,false,E,7,7,5,4,9/18/23,39,B05409,682929,35-44,3,high,false,Full-time employed,Space & Bedrooms,false
+H03599,Oakwood,435152,2794,4,4,11,1,0.15,false,false,D,7,7,5,4,9/19/23,56,B03599,461568,35-44,4,medium,false,Dual income,Location & Schools,false
+H06809,Oakwood,523952,3061,5,5,3,2,0.19,false,false,F,7,7,5,4,9/19/23,8,B06809,588519,35-44,4,medium,true,Full-time employed,Space & Bedrooms,true
+H04012,Oakwood,485442,2696,5,5,7,2,0.18,true,false,F,7,7,5,4,9/21/23,38,B04012,554139,55-64,2,medium,false,Self-employed,Affordability,false
+H04721,Oakwood,422413,2658,4,4,29,1,0.18,false,false,C,7,7,5,4,9/21/23,75,B04721,474596,35-44,2,medium,false,Self-employed,Location & Schools,false
+H00644,Oakwood,474673,2912,6,5,39,1,0.16,false,false,B,7,7,5,4,9/22/23,9,B00644,505716,25-34,3,medium,true,Full-time employed,Location & Schools,false
+H00161,Oakwood,358909,1919,3,3,6,1,0.15,false,false,F,7,7,5,4,9/22/23,60,B00161,418934,25-34,1,medium,false,Full-time employed,Affordability,false
+H00144,Oakwood,289520,1340,2,2,0,2,0.1,false,false,F,7,7,5,4,9/22/23,14,B00144,310757,45-54,1,medium,false,Self-employed,Location & Schools,false
+H01475,Oakwood,570637,2878,6,5,6,1,0.09,true,false,E,7,7,5,4,9/23/23,10,B01475,659824,45-54,4,high,false,Full-time employed,Location & Schools,false
+H02227,Oakwood,477125,2854,5,5,5,2,0.15,false,false,E,7,7,5,4,9/23/23,51,B02227,525418,25-34,2,medium,false,Self-employed,Modern & Updated,false
+H05104,Oakwood,442592,2506,3,3,14,2,0.16,true,false,D,7,7,5,4,9/23/23,26,B05104,502717,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H02971,Oakwood,226563,1259,2,3,10,2,0.16,true,false,F,7,7,5,4,9/27/23,2,B02971,257693,35-44,1,low,false,Full-time employed,Low Maintenance,false
+H02184,Oakwood,514565,2654,4,4,1,1,0.19,true,false,F,7,7,5,4,9/27/23,18,B02184,548420,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H03304,Oakwood,640839,3262,5,5,10,2,0.17,true,false,D,7,7,5,4,9/28/23,18,B03304,714160,45-54,4,high,true,Self-employed,Affordability,false
+H07188,Oakwood,199602,1579,2,2,26,1,0.23,false,false,C,7,7,5,4,9/28/23,33,B07188,212173,25-34,1,low,false,Full-time employed,Affordability,false
+H02282,Oakwood,435247,2552,5,5,37,1,0.27,false,false,A,7,7,5,4,10/2/23,60,B02282,461814,35-44,3,medium,true,Dual income,Space & Bedrooms,false
+H04474,Oakwood,388127,2225,4,4,45,1,0.12,false,false,B,7,7,5,4,10/5/23,36,B04474,449352,45-54,3,medium,true,Full-time employed,Location & Schools,false
+H01230,Oakwood,487218,2542,5,5,0,2,0.2,false,false,E,7,7,5,4,10/5/23,16,B01230,564773,25-34,3,medium,false,Full-time employed,Location & Schools,false
+H03821,Oakwood,444203,2608,4,5,6,2,0.12,false,false,F,7,7,5,4,10/5/23,4,B03821,499167,65+,1,medium,false,Retired,Affordability,false
+H01535,Oakwood,529535,2611,4,4,2,2,0.18,true,false,F,7,7,5,4,10/8/23,7,B01535,590382,25-34,1,medium,false,Dual income,Space & Bedrooms,false
+H06837,Oakwood,461705,2537,4,4,4,1,0.1,true,false,F,7,7,5,4,10/9/23,10,B06837,531475,35-44,3,medium,true,Full-time employed,Location & Schools,false
+H05914,Oakwood,230317,1709,2,2,50,2,0.11,true,false,C,7,7,5,4,10/9/23,5,B05914,263937,25-34,1,low,false,Self-employed,Modern & Updated,false
+H01083,Oakwood,325315,1855,4,4,14,2,0.12,false,false,E,7,7,5,4,10/11/23,48,B01083,375066,45-54,4,medium,false,Full-time employed,Affordability,false
+H00131,Oakwood,140992,877,2,1,31,1,0.16,false,false,C,7,7,5,4,10/11/23,25,B00131,156462,25-34,1,low,false,Full-time employed,Location & Schools,false
+H06810,Oakwood,362320,2313,3,3,56,1,0.16,false,false,A,7,7,5,4,10/13/23,13,B06810,415703,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H04444,Oakwood,258182,1995,3,3,27,1,0.17,false,false,C,7,7,5,4,10/18/23,85,B04444,302483,35-44,1,medium,false,Full-time employed,Affordability,false
+H03487,Oakwood,160560,811,1,1,1,0,0.16,false,false,F,7,7,5,4,10/18/23,43,B03487,169382,25-34,1,low,false,Dual income,Location & Schools,true
+H07878,Oakwood,307300,1665,3,3,1,1,0.22,true,false,F,7,7,5,4,10/20/23,8,B07878,343780,25-34,1,medium,false,Full-time employed,Location & Schools,false
+H01739,Oakwood,346682,1892,3,3,5,1,0.16,false,false,F,7,7,5,4,10/23/23,1,B01739,389614,35-44,1,medium,false,Full-time employed,Investment,false
+H05156,Oakwood,542088,2711,5,5,0,2,0.1,false,false,E,7,7,5,4,10/24/23,38,B05156,590133,45-54,1,medium,false,Full-time employed,Investment,false
+H00964,Oakwood,309730,1532,4,4,19,1,0.17,true,false,D,7,7,5,4,10/25/23,47,B00964,353220,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H01745,Oakwood,250061,1554,2,2,37,1,0.11,true,false,D,7,7,5,4,10/25/23,1,B01745,277921,45-54,1,low,false,Full-time employed,Affordability,false
+H04616,Oakwood,337056,1635,3,3,1,0,0.15,false,false,F,7,7,5,4,10/25/23,28,B04616,383888,55-64,2,medium,false,Full-time employed,Investment,false
+H04221,Oakwood,171792,800,1,2,15,1,0.13,true,false,E,7,7,5,4,10/26/23,40,B04221,186122,25-34,1,low,false,Self-employed,Modern & Updated,false
+H01805,Oakwood,365571,2022,3,3,14,1,0.09,false,false,D,7,7,5,4,10/27/23,48,B01805,384722,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H07538,Oakwood,402566,2434,5,5,11,1,0.14,false,false,E,7,7,5,4,11/1/23,96,B07538,436930,35-44,4,medium,true,Self-employed,Location & Schools,false
+H06794,Oakwood,438906,2558,5,5,34,2,0.12,false,false,B,7,7,5,4,11/1/23,53,B06794,513076,35-44,3,medium,true,Dual income,Location & Schools,true
+H00217,Oakwood,120000,800,2,2,29,1,0.1,true,false,C,7,7,5,4,11/2/23,24,B00217,132866,25-34,1,low,false,Full-time employed,Low Maintenance,false
+H06164,Oakwood,296051,1824,2,2,3,2,0.19,false,false,E,7,7,5,4,11/5/23,50,B06164,317368,35-44,2,medium,false,Full-time employed,Investment,false
+H07649,Oakwood,213640,1553,2,2,16,0,0.14,false,false,E,7,7,5,4,11/6/23,3,B07649,236979,25-34,1,low,false,Self-employed,Affordability,false
+H07552,Oakwood,266290,1516,3,3,44,0,0.14,false,false,A,7,7,5,4,11/8/23,55,B07552,281982,35-44,2,medium,false,Self-employed,Affordability,false
+H06167,Oakwood,542168,3264,6,5,60,2,0.12,true,false,A,7,7,5,4,11/9/23,24,B06167,630209,45-54,5,high,true,Self-employed,Location & Schools,false
+H04775,Oakwood,251216,1614,3,2,17,1,0.37,false,false,F,7,7,5,4,11/15/23,19,B04775,263879,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
+H06603,Oakwood,135679,800,2,2,7,2,0.14,false,false,F,7,7,5,4,11/15/23,6,B06603,145680,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
+H03977,Oakwood,379349,2162,3,3,2,1,0.24,true,false,F,7,7,5,4,11/18/23,32,B03977,403237,45-54,1,medium,false,Dual income,Location & Schools,true
+H01582,Oakwood,320729,2008,4,4,10,1,0.14,false,false,F,7,7,5,4,11/18/23,6,B01582,370957,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H05472,Oakwood,413486,2423,4,4,18,1,0.16,true,false,E,7,7,5,4,11/19/23,2,B05472,486002,55-64,2,medium,false,Retired,Modern & Updated,false
+H07173,Oakwood,120000,859,1,1,49,2,0.11,false,false,C,7,7,5,4,11/19/23,59,B07173,133860,25-34,1,low,false,Full-time employed,Location & Schools,false
+H06417,Oakwood,612468,3590,6,5,43,2,0.23,true,false,C,7,7,5,4,11/21/23,26,B06417,719663,55-64,3,high,false,Retired,Location & Schools,false
+H01069,Oakwood,431474,2219,3,4,27,1,0.24,true,false,C,7,7,5,4,11/24/23,24,B01069,482383,45-54,1,medium,false,Full-time employed,Location & Schools,true
+H00376,Oakwood,143960,1341,2,2,60,1,0.18,true,false,B,7,7,5,4,11/25/23,19,B00376,167715,45-54,2,low,false,Full-time employed,Investment,true
+H06793,Oakwood,574638,3033,6,5,26,2,0.13,true,false,E,7,7,5,4,11/28/23,16,B06793,634834,35-44,5,high,true,Full-time employed,Space & Bedrooms,false
+H06398,Oakwood,336305,1637,3,3,38,2,0.35,false,false,B,7,7,5,4,12/3/23,16,B06398,362162,35-44,2,medium,false,Full-time employed,Space & Bedrooms,true
+H00178,Oakwood,445515,2287,4,3,0,1,0.19,false,true,F,7,7,5,4,12/4/23,23,B00178,524572,45-54,2,medium,false,Full-time employed,Location & Schools,false
+H05399,Oakwood,462058,2532,4,4,3,1,0.13,false,false,F,7,7,5,4,12/6/23,62,B05399,487678,35-44,3,medium,false,Full-time employed,Affordability,false
+H04716,Oakwood,299905,1460,2,2,1,0,0.13,false,false,F,7,7,5,4,12/17/23,6,B04716,348392,45-54,3,medium,true,Full-time employed,Space & Bedrooms,false
+H02615,Oakwood,628031,3451,5,5,10,2,0.18,false,true,E,7,7,5,4,12/17/23,31,B02615,694126,55-64,2,high,false,Dual income,Space & Bedrooms,false
+H07159,Oakwood,219258,1743,3,3,50,0,0.14,false,false,B,7,7,5,4,12/19/23,25,B07159,253836,45-54,2,low,false,Self-employed,Space & Bedrooms,false
+H04637,Oakwood,165725,800,2,2,9,0,0.09,false,false,F,7,7,5,4,12/20/23,99,B04637,192645,25-34,1,low,false,Self-employed,Affordability,false
+H04619,Oakwood,597208,3342,6,5,8,2,0.22,false,false,D,7,7,5,4,12/21/23,100,B04619,663013,35-44,5,high,true,Dual income,Space & Bedrooms,false
+H04264,Oakwood,255653,909,1,1,16,0,0.12,true,true,F,7,7,5,4,12/21/23,5,B04264,287752,25-34,1,medium,false,Full-time employed,Affordability,false
+H03306,Oakwood,433778,2397,4,5,32,1,0.22,true,false,C,7,7,5,4,12/22/23,28,B03306,510074,45-54,2,medium,false,Full-time employed,Location & Schools,false
+H05674,Oakwood,212478,962,2,2,5,1,0.18,false,false,F,7,7,5,4,12/24/23,60,B05674,228463,35-44,1,low,false,Dual income,Low Maintenance,true
+H04353,Oakwood,248627,1378,2,2,3,0,0.11,false,false,F,7,7,5,4,1/2/24,26,B04353,291421,35-44,1,medium,false,Self-employed,Low Maintenance,false
+H01128,Oakwood,211312,818,2,2,0,2,0.27,true,false,F,7,7,5,4,1/2/24,5,B01128,242032,25-34,1,low,false,Full-time employed,Affordability,false
+H04259,Oakwood,339540,1705,2,2,9,1,0.15,false,false,E,7,7,5,4,1/5/24,56,B04259,384459,35-44,2,medium,false,Full-time employed,Modern & Updated,false
+H06218,Oakwood,382692,1983,2,2,9,2,0.29,false,false,E,7,7,5,4,1/6/24,43,B06218,437597,45-54,1,medium,false,Dual income,Space & Bedrooms,false
+H04917,Oakwood,433996,2562,5,5,39,1,0.23,false,false,C,7,7,5,4,1/6/24,10,B04917,494337,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H06592,Oakwood,278652,1441,2,2,33,0,0.17,true,true,C,7,7,5,4,1/7/24,8,B06592,294116,55-64,1,medium,false,Self-employed,Affordability,false
+H06162,Oakwood,288663,1924,4,3,29,2,0.14,false,true,D,7,7,5,4,1/15/24,9,B06162,306337,45-54,2,medium,false,Dual income,Affordability,false
+H01505,Oakwood,370687,2392,3,3,43,1,0.09,false,false,B,7,7,5,4,1/15/24,36,B01505,406870,35-44,3,medium,true,Dual income,Location & Schools,false
+H02617,Oakwood,120000,800,1,1,60,0,0.14,true,false,A,7,7,5,4,1/16/24,3,B02617,135484,45-54,1,low,false,Self-employed,Space & Bedrooms,false
+H07609,Oakwood,262336,1371,2,2,0,1,0.11,false,false,F,7,7,5,4,1/18/24,45,B07609,308954,25-34,1,medium,false,Full-time employed,Affordability,false
+H06551,Oakwood,313609,1432,3,3,4,1,0.23,false,false,F,7,7,5,4,1/19/24,65,B06551,352025,25-34,1,medium,false,Self-employed,Space & Bedrooms,false
+H03549,Oakwood,298119,1546,2,2,2,0,0.2,true,false,F,7,7,5,4,1/19/24,11,B03549,316981,45-54,1,medium,false,Self-employed,Space & Bedrooms,false
+H03808,Oakwood,560707,3095,5,5,54,3,0.25,false,false,A,7,7,5,4,1/20/24,5,B03808,593309,65+,2,medium,false,Dual income,Space & Bedrooms,false
+H03822,Oakwood,149199,800,2,2,15,1,0.14,false,false,C,7,7,5,4,1/22/24,41,B03822,168850,35-44,1,low,false,Full-time employed,Modern & Updated,false
+H06986,Oakwood,339954,2256,4,4,9,1,0.17,false,false,D,7,7,5,4,1/24/24,47,B06986,377198,25-34,1,medium,false,Full-time employed,Affordability,false
+H06562,Oakwood,212555,899,1,1,0,0,0.13,true,true,F,7,7,5,4,1/24/24,14,B06562,240508,35-44,1,low,false,Self-employed,Space & Bedrooms,false
+H06927,Oakwood,269575,1588,2,2,7,2,0.13,false,false,F,7,7,5,4,1/26/24,8,B06927,302474,35-44,2,medium,false,Self-employed,Location & Schools,true
+H07749,Oakwood,443768,2280,5,4,7,2,0.14,false,false,D,7,7,5,4,1/26/24,7,B07749,501586,35-44,4,medium,true,Dual income,Affordability,false
+H06847,Oakwood,295973,1593,4,4,0,2,0.2,true,false,F,7,7,5,4,1/27/24,62,B06847,322133,35-44,4,medium,true,Full-time employed,Location & Schools,false
+H02467,Oakwood,346299,2094,3,3,28,2,0.16,true,false,C,7,7,5,4,1/27/24,14,B02467,394891,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
+H00956,Oakwood,394435,2568,5,4,27,1,0.1,false,false,D,7,7,5,4,2/2/24,4,B00956,452139,35-44,3,medium,true,Dual income,Space & Bedrooms,true
+H07508,Oakwood,490441,2811,5,5,0,2,0.18,true,false,E,7,7,5,4,2/3/24,1,B07508,547150,45-54,2,medium,false,Self-employed,Affordability,false
+H05496,Oakwood,337102,1450,2,2,11,0,0.23,true,true,F,7,7,5,4,2/5/24,29,B05496,385380,35-44,2,medium,false,Full-time employed,Location & Schools,false
+H07417,Oakwood,381431,2057,3,3,1,2,0.12,false,false,F,7,7,5,4,2/6/24,36,B07417,423263,35-44,1,medium,false,Full-time employed,Space & Bedrooms,true
+H02407,Oakwood,591623,3175,6,5,11,3,0.26,false,true,F,7,7,5,4,2/6/24,18,B02407,681107,45-54,4,high,true,Full-time employed,Location & Schools,false
+H05036,Oakwood,266471,1478,3,3,52,0,0.16,false,false,A,7,7,5,4,2/8/24,5,B05036,293548,45-54,1,medium,false,Self-employed,Affordability,false
+H06367,Oakwood,419954,2451,3,3,14,1,0.09,true,false,C,7,7,5,4,2/8/24,14,B06367,481279,45-54,2,medium,false,Full-time employed,Low Maintenance,false
+H00060,Oakwood,412543,2945,5,5,13,1,0.18,false,false,E,7,7,5,4,2/9/24,84,B00060,434929,65+,1,medium,false,Dual income,Affordability,false
+H06646,Oakwood,252841,1280,2,2,6,1,0.16,false,false,E,7,7,5,4,2/9/24,18,B06646,282288,55-64,1,medium,false,Retired,Space & Bedrooms,false
+H03032,Oakwood,479541,2744,5,5,8,1,0.2,false,false,F,7,7,5,4,2/10/24,71,B03032,543866,45-54,4,medium,false,Dual income,Space & Bedrooms,false
+H04449,Oakwood,412246,2311,3,4,6,1,0.23,false,false,D,7,7,5,4,2/11/24,5,B04449,447006,55-64,2,medium,false,Retired,Affordability,false
+H07485,Oakwood,141613,800,1,1,1,1,0.18,false,false,F,7,7,5,4,2/14/24,20,B07485,154047,25-34,1,low,false,Full-time employed,Affordability,false
+H05337,Oakwood,331214,1887,3,3,49,1,0.1,false,false,A,7,7,5,4,2/18/24,6,B05337,370436,45-54,1,medium,false,Full-time employed,Location & Schools,false
+H00623,Oakwood,160687,800,1,1,10,0,0.14,false,false,E,7,7,5,4,2/19/24,38,B00623,180441,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
+H07224,Oakwood,468216,2614,5,5,3,1,0.13,false,false,F,7,7,5,4,2/19/24,61,B07224,545939,45-54,4,medium,false,Full-time employed,Affordability,false
+H07081,Oakwood,457091,2470,5,5,52,1,0.12,false,true,B,7,7,5,4,2/21/24,2,B07081,487212,25-34,2,medium,false,Full-time employed,Location & Schools,false
+H04587,Oakwood,581252,3097,5,5,6,2,0.12,true,true,F,7,7,5,4,2/22/24,50,B04587,668831,55-64,4,high,false,Self-employed,Location & Schools,true
+H04071,Oakwood,420538,2315,4,4,22,1,0.21,false,false,D,7,7,5,4,2/24/24,42,B04071,485490,25-34,2,medium,false,Dual income,Space & Bedrooms,false
+H00496,Oakwood,572853,3300,6,5,13,3,0.11,false,false,E,7,7,5,4,2/26/24,16,B00496,612673,55-64,5,medium,true,Full-time employed,Location & Schools,false
+H03851,Oakwood,332684,1690,2,2,8,1,0.12,false,false,D,7,7,5,4,3/4/24,70,B03851,365859,35-44,1,medium,false,Full-time employed,Location & Schools,false
+H05457,Oakwood,443929,2381,5,5,11,1,0.16,false,false,E,7,7,5,4,3/4/24,1,B05457,505124,35-44,3,medium,true,Dual income,Affordability,false
+H05259,Oakwood,372525,2189,3,3,11,1,0.14,false,false,E,7,7,5,4,3/5/24,57,B05259,407695,45-54,1,medium,false,Self-employed,Modern & Updated,false
+H03235,Oakwood,292322,1420,3,2,0,1,0.17,false,false,E,7,7,5,4,3/6/24,18,B03235,336599,55-64,3,medium,false,Retired,Modern & Updated,false
+H07941,Oakwood,165991,800,1,1,12,1,0.2,true,false,F,7,7,5,4,3/7/24,1,B07941,188339,25-34,1,low,false,Full-time employed,Affordability,false
+H02754,Oakwood,295853,1505,4,3,1,0,0.18,false,false,E,7,7,5,4,3/10/24,6,B02754,326370,45-54,3,medium,true,Full-time employed,Space & Bedrooms,false
+H03538,Oakwood,198247,1083,2,2,17,2,0.13,false,false,C,7,7,5,4,3/10/24,4,B03538,226823,25-34,1,low,false,Dual income,Location & Schools,false
+H06920,Oakwood,581631,3192,6,5,22,2,0.13,false,true,E,7,7,5,4,3/12/24,50,B06920,671246,45-54,3,high,true,Full-time employed,Space & Bedrooms,false
+H06308,Oakwood,483416,2299,3,3,7,2,0.15,true,false,E,7,7,5,4,3/17/24,14,B06308,568242,45-54,1,medium,false,Dual income,Space & Bedrooms,false
+H00754,Oakwood,124757,800,1,1,16,1,0.11,false,true,F,7,7,5,4,3/18/24,1,B00754,133750,35-44,1,low,false,Full-time employed,Location & Schools,false
+H04711,Oakwood,372133,1947,3,3,7,2,0.07,false,false,E,7,7,5,4,3/19/24,19,B04711,426096,25-34,1,medium,false,Full-time employed,Space & Bedrooms,true
+H02962,Oakwood,301084,1445,3,2,6,2,0.09,false,false,E,7,7,5,4,3/21/24,5,B02962,317803,25-34,1,medium,false,Full-time employed,Affordability,false
+H06032,Oakwood,453373,2585,5,5,3,1,0.13,false,false,F,7,7,5,4,3/23/24,41,B06032,511574,25-34,4,medium,true,Self-employed,Modern & Updated,false
+H00823,Oakwood,545414,3118,5,5,16,3,0.17,false,true,F,7,7,5,4,3/24/24,4,B00823,619555,45-54,2,medium,false,Full-time employed,Location & Schools,false
+H02106,Oakwood,163903,800,1,1,12,1,0.22,false,true,F,7,7,5,4,3/26/24,5,B02106,187408,45-54,1,low,false,Dual income,Location & Schools,false
+H00107,Oakwood,259810,1706,2,3,14,1,0.11,false,false,F,7,7,5,4,3/26/24,154,B00107,298094,45-54,1,medium,false,Self-employed,Modern & Updated,false
+H07271,Oakwood,396986,2116,3,3,22,2,0.1,true,false,D,7,7,5,4,3/26/24,116,B07271,461641,45-54,1,medium,false,Dual income,Space & Bedrooms,false
+H03652,Oakwood,220273,1291,2,2,5,1,0.15,false,false,E,7,7,5,4,3/28/24,60,B03652,244359,25-34,1,low,false,Full-time employed,Location & Schools,false
+H05883,Oakwood,502138,2460,4,5,10,1,0.25,false,true,F,7,7,5,4,4/1/24,43,B05883,590008,25-34,2,medium,false,Full-time employed,Affordability,true
+H05602,Oakwood,263579,1278,2,2,3,2,0.18,false,false,F,7,7,5,4,4/2/24,2,B05602,295864,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H04895,Oakwood,173551,800,2,1,2,1,0.15,false,false,F,7,7,5,4,4/2/24,28,B04895,191659,35-44,1,low,false,Full-time employed,Location & Schools,false
+H03391,Oakwood,675451,4060,6,5,11,2,0.13,false,false,E,7,7,5,4,4/3/24,65,B03391,729238,45-54,5,high,true,Full-time employed,Location & Schools,false
+H05477,Oakwood,355575,1777,3,3,5,2,0.21,false,true,F,7,7,5,4,4/3/24,1,B05477,410053,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H03255,Oakwood,151878,885,2,2,2,2,0.24,false,false,E,7,7,5,4,4/3/24,3,B03255,162818,25-34,1,low,false,Full-time employed,Modern & Updated,false
+H06529,Oakwood,465832,2798,5,5,34,1,0.23,true,false,B,7,7,5,4,4/4/24,29,B06529,513564,45-54,3,medium,false,Full-time employed,Affordability,true
+H00134,Oakwood,233880,1794,4,4,32,1,0.09,false,false,C,7,7,5,4,4/5/24,32,B00134,247256,25-34,2,low,false,Full-time employed,Modern & Updated,false
+H04738,Oakwood,227079,1464,3,3,26,0,0.09,true,false,D,7,7,5,4,4/6/24,25,B04738,263280,55-64,2,low,false,Retired,Location & Schools,false
+H06618,Oakwood,120000,1192,2,2,60,0,0.14,true,false,A,7,7,5,4,4/7/24,12,B06618,140776,35-44,2,low,false,Self-employed,Location & Schools,true
+H00788,Oakwood,483570,2739,3,3,60,1,0.13,true,true,B,7,7,5,4,4/8/24,28,B00788,516506,25-34,1,medium,false,Full-time employed,Affordability,true
+H00658,Oakwood,345991,2130,4,3,1,2,0.14,false,false,F,7,7,5,4,4/9/24,16,B00658,386455,35-44,1,medium,false,Full-time employed,Affordability,false
+H06931,Oakwood,362483,2355,4,4,16,1,0.23,false,false,C,7,7,5,4,4/11/24,74,B06931,404915,25-34,1,medium,false,Full-time employed,Affordability,false
+H00995,Oakwood,274073,1399,2,2,7,1,0.21,false,false,F,7,7,5,4,4/12/24,26,B00995,301568,25-34,1,medium,false,Self-employed,Affordability,false
+H07540,Oakwood,402689,2133,2,2,4,2,0.11,false,false,F,7,7,5,4,4/13/24,14,B07540,442345,45-54,1,medium,false,Full-time employed,Affordability,true
+H06493,Oakwood,726056,4039,6,5,0,2,0.15,false,false,F,7,7,5,4,4/13/24,11,B06493,829559,55-64,2,high,false,Full-time employed,Low Maintenance,false
+H01693,Oakwood,239499,1492,2,2,25,1,0.16,false,false,C,7,7,5,4,4/14/24,121,B01693,273935,65+,1,low,false,Retired,Low Maintenance,true
+H05947,Oakwood,368276,2412,4,4,10,1,0.12,false,false,F,7,7,5,4,4/14/24,75,B05947,404416,45-54,2,medium,false,Dual income,Modern & Updated,false
+H04749,Oakwood,574417,3199,5,5,21,3,0.18,false,false,F,7,7,5,4,4/16/24,153,B04749,633085,45-54,3,high,false,Self-employed,Location & Schools,false
+H01395,Oakwood,485878,2871,5,5,11,2,0.14,true,false,F,7,7,5,4,4/18/24,55,B01395,523295,45-54,3,medium,true,Self-employed,Location & Schools,false
+H06080,Oakwood,694903,3937,5,5,1,3,0.19,false,false,F,7,7,5,4,4/19/24,12,B06080,806770,65+,2,high,false,Self-employed,Modern & Updated,false
+H04169,Oakwood,487235,2469,4,4,22,2,0.12,true,false,B,7,7,5,4,4/19/24,42,B04169,557600,65+,1,medium,false,Retired,Location & Schools,false
+H05591,Oakwood,213551,1329,2,2,25,0,0.17,false,false,C,7,7,5,4,4/19/24,47,B05591,250312,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
+H05332,Oakwood,413854,2345,4,4,18,2,0.23,false,false,D,7,7,5,4,4/20/24,42,B05332,450623,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H00871,Oakwood,274649,1919,3,3,60,2,0.15,true,false,C,7,7,5,4,4/20/24,7,B00871,312323,55-64,2,medium,false,Full-time employed,Affordability,false
+H07525,Oakwood,512260,2968,5,5,60,1,0.11,false,true,B,7,7,5,4,4/20/24,58,B07525,540675,45-54,3,medium,true,Dual income,Location & Schools,false
+H04577,Oakwood,191368,991,2,2,9,1,0.18,true,false,F,7,7,5,4,4/20/24,4,B04577,205735,35-44,3,low,true,Full-time employed,Affordability,false
+H07006,Oakwood,131286,800,1,1,14,2,0.1,false,false,E,7,7,5,4,4/21/24,25,B07006,143821,65+,1,low,false,Retired,Low Maintenance,false
+H01227,Oakwood,169352,875,1,1,10,1,0.14,false,false,F,7,7,5,4,4/21/24,1,B01227,183870,25-34,1,low,false,Full-time employed,Investment,false
+H05654,Oakwood,329372,1663,2,2,1,1,0.14,false,false,E,7,7,5,4,4/22/24,41,B05654,376123,35-44,1,medium,false,Self-employed,Modern & Updated,false
+H06703,Oakwood,348096,1935,3,3,45,2,0.21,false,false,A,7,7,5,4,4/22/24,2,B06703,378075,25-34,1,medium,false,Self-employed,Modern & Updated,false
+H02348,Oakwood,196250,1160,2,2,13,1,0.13,false,false,E,7,7,5,4,4/23/24,17,B02348,216885,25-34,1,low,false,Full-time employed,Location & Schools,false
+H01899,Oakwood,128568,800,2,1,19,2,0.16,false,false,F,7,7,5,4,4/23/24,21,B01899,140057,25-34,1,low,false,Dual income,Affordability,false
+H06586,Oakwood,381717,2062,3,3,7,1,0.09,true,false,D,7,7,5,4,4/23/24,9,B06586,424864,25-34,1,medium,false,Full-time employed,Location & Schools,false
+H04843,Oakwood,468073,2993,6,5,6,1,0.11,false,false,F,7,7,5,4,4/23/24,15,B04843,517937,25-34,2,medium,false,Full-time employed,Modern & Updated,false
+H06458,Oakwood,318562,1839,3,3,5,2,0.14,true,false,E,7,7,5,4,4/23/24,8,B06458,370552,55-64,1,medium,false,Self-employed,Location & Schools,false
+H02401,Oakwood,128506,908,2,2,7,1,0.2,false,false,D,7,7,5,4,4/25/24,4,B02401,139118,25-34,1,low,false,Self-employed,Affordability,false
+H01919,Oakwood,165100,800,1,1,1,1,0.26,true,false,F,7,7,5,4,4/25/24,11,B01919,183329,45-54,1,low,false,Retired,Space & Bedrooms,false
+H06072,Oakwood,133109,1297,2,2,35,1,0.15,false,false,C,7,7,5,4,4/25/24,55,B06072,144656,25-34,1,low,false,Self-employed,Affordability,true
+H07386,Oakwood,506995,2918,5,5,31,2,0.2,false,false,C,7,7,5,4,4/27/24,6,B07386,589266,45-54,3,medium,false,Self-employed,Affordability,false
+H02698,Oakwood,486107,2688,5,5,41,2,0.13,false,true,B,7,7,5,4,5/1/24,40,B02698,555012,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H00865,Oakwood,640044,3558,5,5,24,2,0.23,true,true,F,7,7,5,4,5/1/24,27,B00865,732499,45-54,4,high,true,Self-employed,Affordability,false
+H07042,Oakwood,341393,1914,3,3,45,1,0.13,false,false,A,7,7,5,4,5/2/24,42,B07042,376224,35-44,3,medium,true,Self-employed,Location & Schools,false
+H01100,Oakwood,404489,2508,5,5,2,1,0.12,true,false,F,7,7,5,4,5/2/24,109,B01100,432489,45-54,4,medium,false,Dual income,Affordability,false
+H00366,Oakwood,351749,1882,4,4,12,2,0.17,false,false,E,7,7,5,4,5/2/24,5,B00366,386309,35-44,2,medium,false,Full-time employed,Affordability,false
+H06180,Oakwood,391673,1946,3,3,10,1,0.14,true,false,E,7,7,5,4,5/3/24,13,B06180,438771,45-54,1,medium,false,Dual income,Space & Bedrooms,false
+H06687,Oakwood,282318,1686,3,3,39,1,0.15,true,false,B,7,7,5,4,5/5/24,21,B06687,329098,25-34,1,medium,false,Dual income,Space & Bedrooms,true
+H00282,Oakwood,150853,828,1,1,2,1,0.1,true,false,F,7,7,5,4,5/6/24,22,B00282,165029,25-34,1,low,false,Dual income,Affordability,false
+H02841,Oakwood,408732,2250,3,4,8,1,0.11,true,false,E,7,7,5,4,5/7/24,4,B02841,451326,35-44,1,medium,false,Full-time employed,Location & Schools,false
+H06253,Oakwood,290370,1708,3,3,42,1,0.18,true,false,B,7,7,5,4,5/8/24,47,B06253,326325,25-34,1,medium,false,Full-time employed,Affordability,false
+H03613,Oakwood,456617,2572,4,4,21,1,0.16,false,false,D,7,7,5,4,5/8/24,46,B03613,509959,35-44,2,medium,false,Dual income,Space & Bedrooms,true
+H07110,Oakwood,442820,2385,4,4,5,2,0.16,false,false,E,7,7,5,4,5/9/24,15,B07110,483661,35-44,1,medium,false,Full-time employed,Affordability,false
+H05049,Oakwood,173186,989,2,2,2,0,0.16,false,false,F,7,7,5,4,5/11/24,7,B05049,193208,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
+H01064,Oakwood,436116,2659,4,4,10,1,0.19,false,false,E,7,7,5,4,5/12/24,16,B01064,506571,25-34,1,medium,false,Self-employed,Location & Schools,true
+H04824,Oakwood,464387,2766,4,3,19,1,0.16,false,false,D,7,7,5,4,5/13/24,71,B04824,519356,55-64,3,medium,false,Retired,Space & Bedrooms,false
+H07209,Oakwood,370443,1864,2,2,3,2,0.13,true,false,F,7,7,5,4,5/13/24,31,B07209,424952,35-44,2,medium,false,Self-employed,Affordability,false
+H05561,Oakwood,488916,2547,5,5,4,1,0.14,false,false,E,7,7,5,4,5/15/24,83,B05561,554630,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H06727,Oakwood,349034,1587,2,2,12,1,0.17,false,false,E,7,7,5,4,5/15/24,54,B06727,395011,45-54,2,medium,false,Full-time employed,Location & Schools,false
+H01225,Oakwood,471498,2859,5,5,6,1,0.29,false,false,F,7,7,5,4,5/17/24,7,B01225,506788,35-44,2,medium,false,Full-time employed,Affordability,false
+H00966,Oakwood,320133,2115,4,4,17,2,0.13,false,false,D,7,7,5,4,5/17/24,47,B00966,377604,55-64,4,medium,false,Self-employed,Space & Bedrooms,false
+H03688,Oakwood,262971,1441,3,3,27,1,0.28,false,false,E,7,7,5,4,5/17/24,1,B03688,301989,35-44,1,medium,false,Full-time employed,Location & Schools,false
+H06894,Oakwood,120000,877,1,1,7,1,0.09,false,false,F,7,7,5,4,5/19/24,5,B06894,130000,45-54,2,low,false,Self-employed,Affordability,false
+H02874,Oakwood,361467,1753,4,3,16,0,0.2,true,false,D,7,7,5,4,5/20/24,92,B02874,412182,45-54,2,medium,false,Self-employed,Location & Schools,false
+H03866,Oakwood,443803,2145,4,4,18,2,0.28,true,false,E,7,7,5,4,5/20/24,11,B03866,490999,45-54,2,medium,false,Self-employed,Modern & Updated,false
+H05957,Oakwood,157239,1044,3,2,25,1,0.2,true,false,E,7,7,5,4,5/21/24,24,B05957,185426,25-34,1,low,false,Self-employed,Affordability,false
+H04007,Oakwood,395334,1930,4,4,5,1,0.11,false,true,F,7,7,5,4,5/21/24,16,B04007,453237,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H03944,Oakwood,260712,1640,3,3,6,1,0.23,false,false,E,7,7,5,4,5/21/24,11,B03944,298346,45-54,2,medium,false,Self-employed,Space & Bedrooms,false
+H04671,Oakwood,626426,3505,6,5,4,2,0.18,true,false,F,7,7,5,4,5/22/24,42,B04671,676147,45-54,4,high,false,Self-employed,Modern & Updated,false
+H03585,Oakwood,391883,1942,3,4,26,1,0.27,true,true,F,7,7,5,4,5/22/24,96,B03585,435956,35-44,1,medium,false,Full-time employed,Location & Schools,false
+H07823,Oakwood,628197,3753,6,5,54,2,0.17,false,true,A,7,7,5,4,5/22/24,1,B07823,713930,35-44,3,high,true,Full-time employed,Location & Schools,true
+H02652,Oakwood,326751,1619,4,3,0,1,0.14,false,false,F,7,7,5,4,5/23/24,15,B02652,381899,25-34,2,medium,false,Full-time employed,Location & Schools,true
+H02565,Oakwood,391898,2273,5,5,30,1,0.18,false,true,E,7,7,5,4,5/25/24,44,B02565,456456,35-44,3,medium,false,Full-time employed,Modern & Updated,false
+H05278,Oakwood,270916,1482,3,4,12,2,0.12,false,false,E,7,7,5,4,5/28/24,44,B05278,284948,35-44,1,medium,false,Dual income,Affordability,false
+H03989,Oakwood,128718,1261,2,2,17,0,0.18,false,false,E,7,7,5,4,5/28/24,77,B03989,142817,35-44,1,low,false,Self-employed,Affordability,false
+H04047,Oakwood,497082,2673,5,5,25,1,0.09,true,false,C,7,7,5,4,5/28/24,60,B04047,538342,35-44,3,medium,true,Dual income,Space & Bedrooms,false
+H03970,Oakwood,263347,1743,4,4,17,0,0.1,false,false,E,7,7,5,4,5/28/24,1,B03970,302462,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H07851,Oakwood,528685,2979,5,5,24,1,0.15,false,true,F,7,7,5,4,6/1/24,10,B07851,592629,35-44,3,medium,false,Self-employed,Low Maintenance,false
+H03195,Oakwood,558082,3039,5,5,30,2,0.09,true,false,D,7,7,5,4,6/2/24,54,B03195,600512,35-44,4,medium,true,Dual income,Affordability,false
+H02891,Oakwood,508134,2543,4,4,51,1,0.13,true,true,B,7,7,5,4,6/3/24,9,B02891,572779,25-34,2,medium,false,Dual income,Affordability,false
+H01468,Oakwood,432937,2978,5,5,48,1,0.14,false,false,A,7,7,5,4,6/4/24,4,B01468,477819,45-54,3,medium,true,Full-time employed,Location & Schools,false
+H03634,Oakwood,293639,2151,3,4,43,2,0.11,false,false,C,7,7,5,4,6/4/24,52,B03634,316031,55-64,2,medium,false,Retired,Location & Schools,false
+H03533,Oakwood,664469,3771,6,5,8,2,0.2,false,false,F,7,7,5,4,6/6/24,1,B03533,707935,35-44,4,high,true,Full-time employed,Location & Schools,false
+H05181,Oakwood,386214,1756,1,2,15,1,0.13,true,false,F,7,7,5,4,6/7/24,33,B05181,442958,35-44,1,medium,false,Dual income,Modern & Updated,false
+H02751,Oakwood,308469,1997,5,4,8,2,0.22,false,false,F,7,7,5,4,6/8/24,50,B02751,358915,55-64,3,medium,false,Retired,Space & Bedrooms,false
+H04823,Oakwood,495011,2894,4,4,12,1,0.13,false,false,D,7,7,5,4,6/8/24,12,B04823,552695,45-54,2,medium,false,Full-time employed,Modern & Updated,true
+H02385,Oakwood,202129,1163,2,2,2,0,0.2,true,false,F,7,7,5,4,6/9/24,6,B02385,224590,65+,1,low,false,Retired,Low Maintenance,false
+H00570,Oakwood,427306,2582,5,5,31,2,0.16,false,true,E,7,7,5,4,6/10/24,74,B00570,489688,55-64,2,medium,false,Full-time employed,Space & Bedrooms,false
+H02163,Oakwood,398045,2837,4,4,27,2,0.15,false,false,D,7,7,5,4,6/11/24,17,B02163,443283,45-54,3,medium,true,Dual income,Location & Schools,false
+H02604,Oakwood,258670,1445,3,2,1,1,0.14,false,false,F,7,7,5,4,6/12/24,10,B02604,284776,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
+H03141,Oakwood,200282,1282,2,2,19,0,0.08,false,false,E,7,7,5,4,6/13/24,14,B03141,234052,35-44,1,low,false,Full-time employed,Location & Schools,false
+H00908,Oakwood,503386,2969,5,4,8,2,0.11,false,false,F,7,7,5,4,6/13/24,21,B00908,576162,45-54,5,medium,true,Full-time employed,Modern & Updated,false
+H06128,Oakwood,395197,1836,3,3,5,2,0.17,false,false,D,7,7,5,4,6/14/24,9,B06128,421248,35-44,1,medium,false,Full-time employed,Location & Schools,false
+H04417,Oakwood,574327,3238,6,5,15,3,0.09,false,false,F,7,7,5,4,6/15/24,57,B04417,641440,25-34,3,high,false,Full-time employed,Modern & Updated,true
+H06688,Oakwood,504380,2414,4,3,29,2,0.12,true,false,D,7,7,5,4,6/16/24,9,B06688,568332,35-44,2,medium,false,Dual income,Space & Bedrooms,false
+H06856,Oakwood,580751,3549,6,5,41,2,0.1,false,true,C,7,7,5,4,6/16/24,49,B06856,682261,45-54,4,high,true,Full-time employed,Investment,false
+H02300,Oakwood,265502,1448,2,2,6,1,0.15,false,false,F,7,7,5,4,6/17/24,33,B02300,310870,45-54,1,medium,false,Retired,Affordability,false
+H04686,Oakwood,333595,1911,4,4,16,2,0.22,false,false,D,7,7,5,4,6/18/24,16,B04686,370953,65+,1,medium,false,Retired,Investment,false
+H07828,Oakwood,182790,800,1,1,14,1,0.13,true,false,E,7,7,5,4,6/18/24,2,B07828,209545,45-54,1,low,false,Self-employed,Space & Bedrooms,true
+H03717,Oakwood,242242,1486,2,2,19,1,0.17,false,false,D,7,7,5,4,6/19/24,4,B03717,277691,25-34,1,low,false,Dual income,Space & Bedrooms,false
+H07182,Oakwood,370133,2332,4,4,5,2,0.2,true,false,F,7,7,5,4,6/19/24,9,B07182,418205,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H01676,Oakwood,477016,2626,4,4,0,1,0.13,true,false,F,7,7,5,4,6/22/24,20,B01676,546574,45-54,2,medium,false,Self-employed,Modern & Updated,false
+H00085,Oakwood,422541,2033,3,3,8,2,0.14,false,false,E,7,7,5,4,6/24/24,158,B00085,476750,25-34,1,medium,false,Self-employed,Space & Bedrooms,false
+H00395,Oakwood,550654,2844,5,5,7,2,0.11,true,false,F,7,7,5,4,6/24/24,24,B00395,586098,55-64,3,medium,true,Full-time employed,Affordability,false
+H03480,Oakwood,463493,2903,4,5,19,2,0.11,false,false,D,7,7,5,4,6/25/24,3,B03480,519802,55-64,3,medium,false,Self-employed,Modern & Updated,false
+H03293,Oakwood,406844,2135,2,3,1,2,0.16,false,false,E,7,7,5,4,6/25/24,56,B03293,455409,25-34,1,medium,false,Full-time employed,Affordability,false
+H00981,Oakwood,619001,3613,6,5,5,3,0.23,false,false,E,7,7,5,4,6/25/24,46,B00981,673456,55-64,3,high,false,Retired,Location & Schools,false
+H02684,Oakwood,531404,3375,6,5,46,3,0.12,false,false,C,7,7,5,4,6/26/24,48,B02684,584074,55-64,5,medium,true,Full-time employed,Location & Schools,false
+H02656,Oakwood,324997,1769,3,3,25,2,0.08,true,false,C,7,7,5,4,6/26/24,83,B02656,382973,45-54,1,medium,false,Dual income,Affordability,false
+H01291,Oakwood,304893,1453,2,2,44,1,0.26,true,false,B,7,7,5,4,6/26/24,61,B01291,322981,55-64,1,medium,false,Retired,Location & Schools,false
+H02921,Oakwood,447424,2798,5,5,11,2,0.19,false,false,F,7,7,5,4,6/26/24,52,B02921,492777,45-54,2,medium,false,Full-time employed,Affordability,false
+H03871,Oakwood,490698,2561,4,4,2,2,0.21,false,false,F,7,7,5,4,6/26/24,18,B03871,564288,45-54,3,medium,true,Full-time employed,Space & Bedrooms,false
+H05121,Oakwood,382511,1869,3,3,4,2,0.11,false,false,F,7,7,5,4,6/27/24,61,B05121,450970,55-64,3,medium,true,Self-employed,Modern & Updated,false
+H01489,Oakwood,333257,2143,4,4,60,2,0.17,true,false,A,7,7,5,4,6/27/24,33,B01489,354594,45-54,1,medium,false,Full-time employed,Location & Schools,false
+H07481,Oakwood,302013,1800,2,2,8,1,0.2,true,false,F,7,7,5,4,6/27/24,30,B07481,348246,55-64,1,medium,false,Retired,Location & Schools,false
+H07005,Oakwood,327253,1668,4,4,5,1,0.16,true,false,E,7,7,5,4,6/28/24,26,B07005,345062,45-54,3,medium,false,Full-time employed,Location & Schools,false
+H03657,Oakwood,480264,2569,5,5,14,2,0.19,false,false,E,7,7,5,4,7/1/24,41,B03657,522024,45-54,3,medium,true,Dual income,Location & Schools,false
+H01285,Oakwood,299613,1228,2,2,2,1,0.26,true,false,F,7,7,5,4,7/1/24,21,B01285,323889,25-34,1,medium,false,Full-time employed,Affordability,false
+H05597,Oakwood,120000,800,2,2,10,2,0.26,false,false,E,7,7,5,4,7/2/24,7,B05597,132309,35-44,2,low,false,Self-employed,Space & Bedrooms,false
+H07945,Oakwood,600029,3259,6,5,2,2,0.29,true,false,E,7,7,5,4,7/2/24,9,B07945,633132,35-44,5,high,false,Full-time employed,Investment,false
+H06142,Oakwood,177191,911,1,1,44,1,0.2,true,false,B,7,7,5,4,7/2/24,44,B06142,192509,65+,1,low,false,Dual income,Affordability,false
+H01037,Oakwood,369253,2067,3,3,14,2,0.19,true,false,F,7,7,5,4,7/3/24,6,B01037,416686,55-64,1,medium,false,Retired,Modern & Updated,true
+H07507,Oakwood,649002,3311,4,4,8,2,0.15,true,false,F,7,7,5,4,7/3/24,44,B07507,700459,45-54,3,high,false,Self-employed,Modern & Updated,false
+H04141,Oakwood,298688,1984,3,3,42,1,0.13,true,false,B,7,7,5,4,7/4/24,15,B04141,320260,35-44,2,medium,false,Self-employed,Modern & Updated,false
+H03586,Oakwood,320563,1787,3,3,12,1,0.18,false,false,E,7,7,5,4,7/4/24,44,B03586,351465,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H05416,Oakwood,220577,1470,2,3,29,0,0.17,false,false,D,7,7,5,4,7/6/24,46,B05416,246623,25-34,1,low,false,Full-time employed,Affordability,false
+H04277,Oakwood,397354,2361,5,5,2,1,0.15,false,false,F,7,7,5,4,7/6/24,4,B04277,439638,25-34,3,medium,true,Dual income,Modern & Updated,true
+H05898,Oakwood,350091,2067,3,3,35,1,0.09,true,false,D,7,7,5,4,7/6/24,14,B05898,386687,45-54,2,medium,false,Full-time employed,Space & Bedrooms,false
+H01506,Oakwood,635536,3420,5,5,16,3,0.14,false,false,C,7,7,5,4,7/6/24,52,B01506,682163,35-44,5,high,false,Full-time employed,Location & Schools,false
+H07962,Oakwood,505562,2773,5,5,23,2,0.2,false,true,F,7,7,5,4,7/7/24,5,B07962,570893,55-64,3,medium,true,Full-time employed,Location & Schools,false
+H04030,Oakwood,297804,1630,3,3,11,2,0.14,false,false,E,7,7,5,4,7/10/24,39,B04030,347922,25-34,1,medium,false,Self-employed,Modern & Updated,false
+H04374,Oakwood,279931,1648,3,3,31,0,0.27,false,false,D,7,7,5,4,7/11/24,29,B04374,299707,45-54,2,medium,false,Self-employed,Modern & Updated,false
+H07920,Oakwood,507837,2784,5,5,11,2,0.25,false,false,E,7,7,5,4,7/15/24,28,B07920,542494,45-54,3,medium,true,Dual income,Space & Bedrooms,false
+H03859,Oakwood,187289,868,2,2,38,2,0.12,false,false,C,7,7,5,4,7/15/24,13,B03859,196722,35-44,2,low,false,Self-employed,Space & Bedrooms,false
+H04260,Oakwood,471839,2538,4,4,2,1,0.13,false,false,E,7,7,5,4,7/16/24,7,B04260,509335,35-44,3,medium,true,Self-employed,Modern & Updated,false
+H06770,Oakwood,434643,2415,5,5,56,1,0.16,false,true,B,7,7,5,4,7/16/24,102,B06770,474720,35-44,4,medium,false,Self-employed,Location & Schools,false
+H01969,Oakwood,125774,881,1,1,29,1,0.21,false,false,E,7,7,5,4,7/17/24,32,B01969,148383,35-44,1,low,false,Full-time employed,Space & Bedrooms,false
+H06091,Oakwood,560081,3112,5,5,42,2,0.28,false,true,C,7,7,5,4,7/17/24,33,B06091,630444,45-54,3,high,true,Self-employed,Space & Bedrooms,false
+H06297,Oakwood,436356,2675,4,4,28,1,0.07,false,false,D,7,7,5,4,7/18/24,13,B06297,498455,25-34,2,medium,false,Full-time employed,Affordability,false
+H03187,Oakwood,317697,1672,2,3,22,1,0.15,false,true,C,7,7,5,4,7/19/24,49,B03187,343860,45-54,2,medium,false,Full-time employed,Modern & Updated,false
+H02306,Oakwood,670837,3443,6,5,5,2,0.14,true,false,E,7,7,5,4,7/20/24,13,B02306,705048,45-54,5,high,true,Full-time employed,Location & Schools,false
+H02436,Oakwood,340898,1863,3,3,15,1,0.28,true,false,D,7,7,5,4,7/20/24,37,B02436,394782,25-34,2,medium,false,Full-time employed,Affordability,false
+H01326,Oakwood,448811,2443,4,4,16,1,0.08,false,false,F,7,7,5,4,7/21/24,42,B01326,494250,45-54,3,medium,true,Retired,Location & Schools,false
+H02025,Oakwood,401701,1926,4,3,0,2,0.22,false,false,F,7,7,5,4,7/21/24,7,B02025,434220,55-64,4,medium,true,Full-time employed,Investment,false
+H04594,Oakwood,402076,2266,4,4,57,2,0.19,true,false,A,7,7,5,4,7/22/24,32,B04594,440580,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H02420,Oakwood,409196,2205,3,3,6,1,0.15,false,false,E,7,7,5,4,7/23/24,38,B02420,430719,45-54,2,medium,false,Full-time employed,Affordability,false
+H03561,Oakwood,451840,2474,4,4,3,1,0.1,true,false,F,7,7,5,4,7/23/24,39,B03561,525421,35-44,4,medium,false,Full-time employed,Space & Bedrooms,false
+H07832,Oakwood,258688,1244,1,2,7,0,0.13,true,false,E,7,7,5,4,7/24/24,55,B07832,299863,35-44,1,medium,false,Full-time employed,Space & Bedrooms,true
+H06101,Oakwood,359715,1894,4,3,5,2,0.13,false,false,F,7,7,5,4,7/24/24,11,B06101,402346,25-34,1,medium,false,Full-time employed,Affordability,false
+H03824,Oakwood,393898,1952,4,3,21,2,0.17,false,true,E,7,7,5,4,7/25/24,2,B03824,441505,25-34,2,medium,false,Full-time employed,Location & Schools,false
+H04693,Oakwood,126885,1012,1,1,12,1,0.12,false,false,E,7,7,5,4,7/26/24,22,B04693,140950,25-34,1,low,false,Full-time employed,Affordability,true
+H00392,Oakwood,432210,2423,5,5,42,1,0.1,true,false,B,7,7,5,4,7/28/24,35,B00392,489655,35-44,4,medium,true,Full-time employed,Location & Schools,false
+H04941,Oakwood,312283,1772,2,2,11,1,0.15,true,false,D,7,7,5,4,8/1/24,72,B04941,362787,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H07462,Oakwood,340744,1856,2,3,4,2,0.08,false,false,F,7,7,5,4,8/2/24,180,B07462,377849,45-54,1,medium,false,Full-time employed,Space & Bedrooms,false
+H02625,Oakwood,201160,981,1,1,4,1,0.19,false,true,E,7,7,5,4,8/2/24,36,B02625,224044,35-44,1,low,false,Full-time employed,Space & Bedrooms,false
+H02216,Oakwood,487142,3075,5,5,53,3,0.11,false,false,A,7,7,5,4,8/3/24,32,B02216,526345,25-34,2,medium,false,Dual income,Modern & Updated,false
+H02500,Oakwood,178298,1138,2,2,49,0,0.19,false,false,B,7,7,5,4,8/7/24,16,B02500,200427,25-34,1,low,false,Full-time employed,Affordability,false
+H04240,Oakwood,385226,2199,4,4,23,2,0.26,true,false,F,7,7,5,4,8/7/24,37,B04240,405412,25-34,1,medium,false,Full-time employed,Modern & Updated,true
+H00678,Oakwood,120000,800,2,1,47,1,0.14,false,false,B,7,7,5,4,8/8/24,29,B00678,139807,35-44,1,low,false,Full-time employed,Location & Schools,false
+H04154,Oakwood,292459,1663,3,3,23,2,0.11,false,false,D,7,7,5,4,8/9/24,75,B04154,342609,25-34,1,medium,false,Full-time employed,Low Maintenance,false
+H04236,Oakwood,143952,1123,2,2,49,0,0.16,false,false,A,7,7,5,4,8/9/24,5,B04236,159760,35-44,1,low,false,Dual income,Low Maintenance,false
+H06255,Oakwood,394848,2059,3,3,12,2,0.13,false,true,F,7,7,5,4,8/10/24,1,B06255,440352,25-34,1,medium,false,Full-time employed,Location & Schools,true
+H00584,Oakwood,221592,1406,3,3,4,1,0.35,false,false,F,7,7,5,4,8/10/24,69,B00584,244407,45-54,2,low,false,Full-time employed,Space & Bedrooms,false
+H00443,Oakwood,170407,1258,2,2,18,1,0.1,true,false,C,7,7,5,4,8/13/24,31,B00443,185985,35-44,1,low,false,Full-time employed,Affordability,false
+H05417,Oakwood,228486,1381,3,3,4,2,0.21,false,false,F,7,7,5,4,8/13/24,59,B05417,253846,45-54,1,low,false,Full-time employed,Affordability,false
+H04425,Oakwood,359656,1708,2,2,13,2,0.09,false,false,D,7,7,5,4,8/14/24,14,B04425,404484,35-44,1,medium,false,Self-employed,Location & Schools,false
+H00838,Oakwood,569984,3126,6,5,24,3,0.11,false,true,C,7,7,5,4,8/14/24,26,B00838,622846,45-54,5,medium,true,Full-time employed,Space & Bedrooms,false
+H04278,Oakwood,360862,1840,3,3,5,2,0.15,false,false,F,7,7,5,4,8/14/24,19,B04278,401969,25-34,1,medium,false,Full-time employed,Affordability,false
+H06392,Oakwood,331128,2077,4,3,4,1,0.11,false,false,F,7,7,5,4,8/19/24,9,B06392,349001,45-54,3,medium,false,Dual income,Investment,false
+H02725,Oakwood,295886,1707,3,3,19,1,0.09,false,true,D,7,7,5,4,8/19/24,20,B02725,341011,45-54,3,medium,true,Dual income,Location & Schools,false
+H05718,Oakwood,404705,2222,5,5,5,1,0.29,false,false,F,7,7,5,4,8/20/24,48,B05718,451047,45-54,4,medium,true,Self-employed,Location & Schools,false
+H03436,Oakwood,296779,1659,3,3,27,1,0.18,true,false,D,7,7,5,4,8/20/24,35,B03436,319056,45-54,4,medium,true,Full-time employed,Location & Schools,false
+H06917,Oakwood,353115,1957,3,3,11,1,0.09,false,false,F,7,7,5,4,8/20/24,10,B06917,382672,35-44,2,medium,false,Self-employed,Modern & Updated,false
+H02888,Oakwood,602910,3330,6,5,2,2,0.1,false,false,F,7,7,5,4,8/22/24,24,B02888,693920,35-44,3,high,true,Dual income,Location & Schools,false
+H05224,Oakwood,456846,2320,5,5,20,1,0.11,true,true,F,7,7,5,4,8/24/24,69,B05224,507178,45-54,4,medium,true,Full-time employed,Location & Schools,false
+H02387,Oakwood,689052,3669,6,5,15,2,0.17,true,false,D,7,7,5,4,8/24/24,23,B02387,752630,45-54,4,high,true,Full-time employed,Location & Schools,false
+H06663,Oakwood,205272,897,2,2,6,0,0.2,false,false,D,7,7,5,4,8/24/24,15,B06663,219266,65+,1,low,false,Retired,Space & Bedrooms,true
+H01461,Oakwood,246252,1239,3,3,4,2,0.21,false,false,F,7,7,5,4,8/25/24,58,B01461,269857,55-64,1,low,false,Retired,Space & Bedrooms,false
+H06307,Oakwood,120000,800,2,2,29,0,0.11,false,false,D,7,7,5,4,8/25/24,40,B06307,132421,35-44,1,low,false,Full-time employed,Affordability,false
+H02318,Oakwood,548264,3310,5,5,13,3,0.15,false,false,E,7,7,5,4,8/26/24,33,B02318,581572,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H05199,Oakwood,458725,2492,4,4,4,2,0.17,false,false,E,7,7,5,4,8/26/24,30,B05199,513792,35-44,3,medium,true,Full-time employed,Modern & Updated,false
+H00136,Oakwood,297009,1830,3,3,20,2,0.12,false,false,C,7,7,5,4,8/26/24,40,B00136,336472,25-34,1,medium,false,Self-employed,Location & Schools,false
+H06667,Oakwood,367453,2262,4,4,11,2,0.27,false,false,D,7,7,5,4,8/26/24,2,B06667,387895,45-54,2,medium,false,Self-employed,Location & Schools,false
+H03188,Oakwood,468524,2266,4,4,23,2,0.14,false,true,F,7,7,5,4,8/27/24,8,B03188,499878,25-34,2,medium,false,Dual income,Modern & Updated,false
+H02835,Oakwood,309968,1900,4,4,4,1,0.22,false,false,F,7,7,5,4,8/27/24,15,B02835,331771,35-44,3,medium,true,Full-time employed,Location & Schools,false
+H07939,Oakwood,272463,1684,2,2,3,0,0.22,true,false,F,7,7,5,4,8/27/24,21,B07939,316043,55-64,1,medium,false,Full-time employed,Space & Bedrooms,false
+H00228,Oakwood,264653,1416,2,2,23,0,0.13,false,false,C,7,7,5,4,9/1/24,14,B00228,303266,25-34,1,medium,false,Full-time employed,Location & Schools,false
+H03998,Oakwood,454185,2406,5,5,9,2,0.2,false,false,F,7,7,5,4,9/2/24,3,B03998,484248,35-44,2,medium,false,Full-time employed,Location & Schools,false
+H01766,Oakwood,481285,2787,4,4,10,1,0.13,true,false,E,7,7,5,4,9/2/24,118,B01766,517065,35-44,3,medium,false,Dual income,Modern & Updated,false
+H05508,Oakwood,455686,2743,5,5,32,1,0.21,false,false,D,7,7,5,4,9/2/24,37,B05508,510951,45-54,2,medium,false,Self-employed,Investment,false
+H05838,Oakwood,527038,2838,5,5,5,1,0.2,false,false,E,7,7,5,4,9/4/24,48,B05838,586709,45-54,2,medium,false,Full-time employed,Investment,false
+H01820,Oakwood,223892,1117,1,1,1,1,0.18,true,false,E,7,7,5,4,9/4/24,39,B01820,260619,35-44,1,low,false,Full-time employed,Space & Bedrooms,false
+H01189,Oakwood,338589,1843,2,2,8,2,0.15,false,false,D,7,7,5,4,9/8/24,66,B01189,370594,25-34,1,medium,false,Full-time employed,Affordability,false
+H00774,Oakwood,634574,3048,5,5,0,3,0.1,true,false,E,7,7,5,4,9/9/24,49,B00774,696183,35-44,5,high,true,Full-time employed,Location & Schools,false
+H07313,Oakwood,659022,4025,6,5,15,2,0.15,false,false,E,7,7,5,4,9/9/24,27,B07313,735115,35-44,5,high,true,Full-time employed,Space & Bedrooms,false
+H07095,Oakwood,422344,2277,3,3,25,1,0.23,true,false,D,7,7,5,4,9/10/24,10,B07095,452284,35-44,1,medium,false,Full-time employed,Affordability,false
+H05234,Oakwood,570875,3160,5,4,11,2,0.1,false,false,F,7,7,5,4,9/13/24,21,B05234,627103,35-44,4,medium,true,Self-employed,Location & Schools,false
+H07857,Oakwood,541007,3041,5,5,4,2,0.12,false,false,E,7,7,5,4,9/14/24,14,B07857,615597,35-44,1,medium,false,Self-employed,Location & Schools,false
+H01558,Oakwood,398133,2485,4,4,11,1,0.26,false,false,F,7,7,5,4,9/16/24,3,B01558,463760,45-54,1,medium,false,Self-employed,Modern & Updated,true
+H04184,Oakwood,348176,2110,4,4,19,1,0.21,false,false,C,7,7,5,4,9/17/24,31,B04184,398170,35-44,2,medium,false,Full-time employed,Space & Bedrooms,false
+H02170,Oakwood,561162,3273,6,5,10,2,0.14,false,false,F,7,7,5,4,9/17/24,3,B02170,627365,65+,1,medium,false,Dual income,Modern & Updated,false
+H04404,Oakwood,175181,1492,3,3,9,1,0.19,false,false,E,7,7,5,4,9/19/24,1,B04404,187966,45-54,2,low,false,Dual income,Affordability,true
+H02685,Oakwood,365352,1515,3,3,39,1,0.21,true,true,C,7,7,5,4,9/19/24,11,B02685,409770,25-34,1,medium,false,Full-time employed,Modern & Updated,false
+H00294,Oakwood,601476,3107,4,5,9,3,0.1,false,false,F,7,7,5,4,9/20/24,41,B00294,695318,35-44,2,high,false,Dual income,Modern & Updated,false
+H05696,Oakwood,530344,2718,5,5,4,2,0.16,false,false,E,7,7,5,4,9/20/24,31,B05696,568686,45-54,2,medium,false,Dual income,Location & Schools,false
+H03241,Oakwood,517114,2674,6,5,6,2,0.14,false,false,F,7,7,5,4,9/25/24,51,B03241,543580,25-34,2,medium,false,Full-time employed,Space & Bedrooms,true
+H02646,Oakwood,430216,2199,3,3,2,1,0.18,true,false,F,7,7,5,4,9/25/24,97,B02646,481230,35-44,2,medium,false,Dual income,Space & Bedrooms,false
+H00824,Oakwood,120000,800,1,1,22,1,0.09,false,false,E,7,7,5,4,9/25/24,17,B00824,141053,45-54,1,low,false,Full-time employed,Location & Schools,false
+H06671,Oakwood,333908,1872,3,3,0,2,0.21,false,false,F,7,7,5,4,9/28/24,26,B06671,364749,65+,1,medium,false,Retired,Investment,false
+H06230,Oakwood,309088,1611,2,2,4,1,0.19,true,false,F,7,7,5,4,9/28/24,15,B06230,329576,35-44,1,medium,false,Full-time employed,Affordability,false
+H03564,Oakwood,377560,2029,3,3,23,2,0.34,false,true,D,7,7,5,4,10/1/24,60,B03564,440265,65+,1,medium,false,Dual income,Low Maintenance,false
+H02949,Oakwood,325923,1413,1,2,2,2,0.16,true,false,F,7,7,5,4,10/2/24,42,B02949,350348,45-54,1,medium,false,Full-time employed,Affordability,false
+H04944,Oakwood,291680,1990,3,3,27,1,0.13,false,false,C,7,7,5,4,10/4/24,10,B04944,335062,55-64,1,medium,false,Retired,Modern & Updated,false
+H07611,Oakwood,583711,3341,6,5,14,2,0.22,true,true,F,7,7,5,4,10/4/24,9,B07611,667307,35-44,4,high,true,Full-time employed,Affordability,false
+H06656,Oakwood,502125,2679,5,5,9,1,0.24,false,false,D,7,7,5,4,10/5/24,1,B06656,566357,55-64,5,medium,false,Retired,Space & Bedrooms,false
+H02573,Oakwood,488367,2420,3,3,1,1,0.11,true,true,F,7,7,5,4,10/7/24,1,B02573,559347,35-44,2,medium,false,Full-time employed,Location & Schools,false
+H02870,Oakwood,440621,2088,4,4,1,2,0.16,true,false,F,7,7,5,4,10/8/24,37,B02870,465098,55-64,3,medium,false,Full-time employed,Location & Schools,false
+H07777,Oakwood,300483,1610,4,3,19,1,0.09,false,false,C,7,7,5,4,10/9/24,1,B07777,328947,35-44,3,medium,true,Dual income,Location & Schools,false
+H00308,Oakwood,394980,2214,5,5,17,2,0.19,true,false,D,7,7,5,4,10/12/24,4,B00308,426642,45-54,3,medium,true,Full-time employed,Location & Schools,false
+H04864,Oakwood,370595,2202,5,5,19,1,0.25,false,false,E,7,7,5,4,10/13/24,2,B04864,398865,35-44,3,medium,true,Dual income,Affordability,false
+H05368,Oakwood,193613,800,1,1,5,1,0.18,false,false,D,7,7,5,4,10/14/24,43,B05368,207273,35-44,1,low,false,Dual income,Affordability,false
+H05206,Oakwood,265877,1774,4,3,7,1,0.13,false,false,F,7,7,5,4,10/14/24,111,B05206,312097,35-44,2,medium,false,Self-employed,Modern & Updated,false
+H04778,Oakwood,545085,3292,5,5,20,2,0.09,false,false,E,7,7,5,4,10/15/24,68,B04778,641487,35-44,4,high,true,Full-time employed,Location & Schools,false
+H06328,Oakwood,186184,916,1,1,40,2,0.19,false,true,C,7,7,5,4,10/18/24,29,B06328,217198,25-34,1,low,false,Dual income,Space & Bedrooms,false
+H06131,Oakwood,173681,800,1,2,20,0,0.14,true,false,D,7,7,5,4,10/18/24,25,B06131,191384,25-34,1,low,false,Full-time employed,Affordability,true
+H06962,Oakwood,326496,2185,3,3,1,2,0.22,false,false,D,7,7,5,4,10/19/24,44,B06962,367335,35-44,3,medium,true,Full-time employed,Affordability,false
+H03935,Oakwood,567110,2974,4,4,12,2,0.13,true,false,F,7,7,5,4,10/22/24,25,B03935,619906,35-44,2,medium,false,Full-time employed,Affordability,false
+H02825,Oakwood,477618,2506,4,4,4,2,0.12,false,false,E,7,7,5,4,10/22/24,14,B02825,520813,35-44,2,medium,false,Dual income,Space & Bedrooms,false
+H04772,Oakwood,374556,2111,3,3,24,2,0.11,true,false,C,7,7,5,4,10/24/24,108,B04772,419881,45-54,2,medium,false,Retired,Low Maintenance,false
+H03367,Oakwood,225924,1319,2,2,28,2,0.17,false,false,D,7,7,5,4,10/25/24,54,B03367,262635,25-34,1,low,false,Full-time employed,Location & Schools,false
+H01723,Oakwood,144650,800,1,1,60,0,0.08,false,false,A,7,7,5,4,10/25/24,11,B01723,154531,55-64,1,low,false,Dual income,Affordability,false
+H01681,Oakwood,343349,1995,4,3,4,1,0.16,true,false,F,7,7,5,4,10/26/24,11,B01681,375642,25-34,2,medium,false,Full-time employed,Investment,false
+H04957,Oakwood,268833,1688,3,3,33,1,0.14,false,false,B,7,7,5,4,10/26/24,11,B04957,290469,35-44,2,medium,false,Self-employed,Affordability,false
+H04796,Oakwood,417878,2200,3,3,12,2,0.21,false,false,E,7,7,5,4,10/27/24,1,B04796,466596,55-64,2,medium,false,Full-time employed,Modern & Updated,true
+H00522,Oakwood,411316,2495,4,4,15,2,0.18,false,false,E,7,7,5,4,10/28/24,23,B00522,432381,35-44,3,medium,true,Self-employed,Affordability,false
+H01678,Oakwood,120000,800,2,2,23,1,0.15,false,true,F,7,7,5,4,10/28/24,35,B01678,130000,55-64,1,low,false,Retired,Space & Bedrooms,false
+H06209,Oakwood,253788,1434,3,3,18,1,0.21,true,true,F,7,7,5,4,11/2/24,35,B06209,294726,65+,1,medium,false,Retired,Low Maintenance,false
+H00244,Oakwood,280821,1760,2,2,22,0,0.11,false,false,E,7,7,5,4,11/3/24,22,B00244,313126,35-44,1,medium,false,Full-time employed,Affordability,false
+H03571,Oakwood,374454,1799,4,4,4,2,0.22,true,false,E,7,7,5,4,11/5/24,1,B03571,419642,45-54,2,medium,false,Self-employed,Modern & Updated,false
+H00836,Oakwood,261345,1568,3,2,11,2,0.19,false,false,D,7,7,5,4,11/5/24,30,B00836,298305,45-54,3,medium,true,Self-employed,Space & Bedrooms,false
+H07763,Oakwood,349796,2011,4,4,28,2,0.22,false,false,D,7,7,5,4,11/5/24,22,B07763,412069,25-34,1,medium,false,Full-time employed,Space & Bedrooms,true
+H04138,Oakwood,256985,1530,3,3,10,1,0.15,false,false,F,7,7,5,4,11/6/24,81,B04138,289826,25-34,1,medium,false,Full-time employed,Affordability,false
+H01437,Oakwood,409576,2219,4,3,20,1,0.11,false,false,D,7,7,5,4,11/7/24,13,B01437,446297,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
+H01288,Oakwood,392648,2187,3,3,21,1,0.13,true,false,E,7,7,5,4,11/11/24,11,B01288,439980,65+,1,medium,false,Full-time employed,Low Maintenance,false
+H01908,Oakwood,400510,2325,3,3,10,1,0.12,false,false,F,7,7,5,4,11/12/24,1,B01908,467136,45-54,3,medium,true,Self-employed,Low Maintenance,false
+H00123,Oakwood,273314,1616,2,2,53,1,0.13,true,false,A,7,7,5,4,11/12/24,47,B00123,292930,55-64,1,medium,false,Full-time employed,Location & Schools,false
+H01942,Oakwood,570337,3115,4,4,23,2,0.12,true,false,D,7,7,5,4,11/13/24,13,B01942,602863,35-44,2,medium,false,Self-employed,Investment,false
+H03087,Oakwood,468124,2868,6,5,33,2,0.18,false,false,A,7,7,5,4,11/15/24,12,B03087,495367,35-44,2,medium,false,Self-employed,Space & Bedrooms,false
+H00827,Oakwood,395498,2206,4,4,20,2,0.13,false,false,C,7,7,5,4,11/16/24,16,B00827,419290,35-44,3,medium,true,Full-time employed,Location & Schools,false
+H04227,Oakwood,506774,2950,4,4,23,2,0.14,false,false,E,7,7,5,4,11/18/24,50,B04227,532133,25-34,1,medium,false,Dual income,Space & Bedrooms,false
+H03287,Oakwood,169769,800,1,2,3,1,0.15,true,false,F,7,7,5,4,11/19/24,10,B03287,189733,35-44,2,low,false,Full-time employed,Modern & Updated,false
+H05782,Oakwood,362315,2007,4,3,47,2,0.13,false,false,B,7,7,5,4,11/23/24,33,B05782,395088,35-44,2,medium,false,Full-time employed,Affordability,false
+H06899,Oakwood,383004,2185,5,4,10,1,0.09,false,false,E,7,7,5,4,11/23/24,24,B06899,445004,55-64,3,medium,true,Self-employed,Space & Bedrooms,true
+H04993,Oakwood,199530,800,1,1,9,2,0.14,true,false,F,7,7,5,4,11/25/24,180,B04993,228326,25-34,1,low,false,Full-time employed,Modern & Updated,false
+H05643,Oakwood,671103,3654,6,5,28,3,0.23,true,false,B,7,7,5,4,11/25/24,53,B05643,757373,55-64,5,high,true,Full-time employed,Space & Bedrooms,false
+H07405,Oakwood,252592,884,2,2,8,1,0.18,true,false,D,7,7,5,4,11/26/24,6,B07405,266775,25-34,1,low,false,Full-time employed,Location & Schools,false
+H00001,Oakwood,502200,2813,6,5,11,2,0.12,false,false,E,7,7,5,4,11/26/24,13,B00001,553542,35-44,4,medium,true,Dual income,Space & Bedrooms,false
+H00742,Oakwood,164914,845,1,1,16,1,0.16,false,false,D,7,7,5,4,11/27/24,107,B00742,189527,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
+H06061,Oakwood,406592,2466,5,5,16,1,0.13,true,false,E,7,7,5,4,11/27/24,14,B06061,442839,45-54,2,medium,false,Self-employed,Space & Bedrooms,false
+H04953,Oakwood,297963,1811,4,4,28,2,0.15,false,false,E,7,7,5,4,12/1/24,41,B04953,346845,25-34,1,medium,false,Full-time employed,Space & Bedrooms,true
+H05163,Oakwood,876120,4500,6,5,17,2,0.25,true,true,F,7,7,5,4,12/1/24,14,B05163,925994,45-54,3,high,true,Self-employed,Location & Schools,false
+H05849,Oakwood,120000,800,1,1,25,2,0.1,false,false,D,7,7,5,4,12/1/24,77,B05849,140593,55-64,1,low,false,Dual income,Space & Bedrooms,false
+H05961,Oakwood,581899,2935,5,5,28,2,0.18,true,false,D,7,7,5,4,12/1/24,37,B05961,623698,35-44,3,medium,false,Full-time employed,Affordability,false
+H04675,Oakwood,485615,2650,5,5,48,2,0.17,true,true,C,7,7,5,4,12/3/24,69,B04675,565770,55-64,5,medium,false,Retired,Modern & Updated,false
+H05807,Oakwood,368479,2141,4,4,18,2,0.15,false,false,D,7,7,5,4,12/6/24,12,B05807,396140,45-54,3,medium,false,Full-time employed,Modern & Updated,false
+H02714,Oakwood,201617,1278,3,3,28,1,0.14,false,false,D,7,7,5,4,12/6/24,7,B02714,237187,25-34,1,low,false,Full-time employed,Location & Schools,false
+H02429,Oakwood,313719,1695,3,3,16,1,0.18,false,false,E,7,7,5,4,12/6/24,13,B02429,347560,45-54,1,medium,false,Retired,Affordability,false
+H02396,Oakwood,120000,942,2,2,0,0,0.12,false,false,F,7,7,5,4,12/7/24,1,B02396,131303,65+,1,low,false,Retired,Affordability,false
+H07125,Oakwood,246881,1262,2,2,3,1,0.19,false,false,E,7,7,5,4,12/10/24,17,B07125,274461,35-44,1,low,false,Dual income,Modern & Updated,false
+H06593,Oakwood,368197,1776,3,2,7,0,0.21,false,false,D,7,7,5,4,12/10/24,81,B06593,392956,25-34,2,medium,false,Self-employed,Affordability,false
+H05308,Oakwood,251306,1459,2,2,1,1,0.14,true,false,F,7,7,5,4,12/11/24,49,B05308,284431,35-44,2,medium,false,Full-time employed,Location & Schools,false
+H03937,Oakwood,159900,858,1,2,10,2,0.19,false,false,E,7,7,5,4,12/13/24,76,B03937,182038,25-34,1,low,false,Dual income,Affordability,false
+H02181,Oakwood,543252,3570,6,5,6,2,0.23,false,false,D,7,7,5,4,12/14/24,13,B02181,625221,55-64,3,medium,false,Dual income,Location & Schools,false
+H05280,Oakwood,404935,2419,4,4,42,1,0.22,true,false,D,7,7,5,4,12/15/24,92,B05280,470101,35-44,2,medium,false,Full-time employed,Affordability,true
+H03049,Oakwood,429838,2310,3,3,21,2,0.18,true,false,D,7,7,5,4,12/16/24,1,B03049,488124,25-34,2,medium,false,Self-employed,Modern & Updated,false
+H02494,Oakwood,120000,800,1,1,3,2,0.18,true,false,F,7,7,5,4,12/17/24,22,B02494,141501,65+,1,low,false,Self-employed,Space & Bedrooms,false
+H05841,Oakwood,484333,2344,3,3,2,1,0.1,false,false,E,7,7,5,4,12/18/24,16,B05841,564444,35-44,2,medium,false,Self-employed,Location & Schools,true
+H07423,Oakwood,246931,1495,3,3,19,1,0.14,false,false,D,7,7,5,4,12/19/24,28,B07423,283742,35-44,1,medium,false,Full-time employed,Affordability,false
+H07089,Oakwood,425108,2349,5,5,51,1,0.2,false,false,A,7,7,5,4,12/19/24,36,B07089,472192,25-34,3,medium,true,Dual income,Space & Bedrooms,false
+H02460,Oakwood,249477,1025,3,3,12,2,0.22,false,true,F,7,7,5,4,12/20/24,45,B02460,287185,25-34,1,medium,false,Self-employed,Space & Bedrooms,false
+H04426,Oakwood,140664,880,1,1,5,1,0.2,false,false,F,7,7,5,4,12/24/24,5,B04426,162801,25-34,1,low,false,Full-time employed,Modern & Updated,true
+H01421,Oakwood,428638,2184,3,3,19,2,0.27,true,false,C,7,7,5,4,12/25/24,7,B01421,493159,35-44,1,medium,false,Dual income,Space & Bedrooms,true
+H02404,Oakwood,462962,2579,4,4,12,2,0.15,false,false,D,7,7,5,4,12/25/24,14,B02404,542742,35-44,3,medium,true,Self-employed,Space & Bedrooms,false
+H03890,Oakwood,276986,1842,3,3,14,1,0.16,false,false,E,7,7,5,4,12/28/24,152,B03890,295345,35-44,1,medium,false,Self-employed,Affordability,false
+H01263,Oakwood,417301,2341,5,5,3,1,0.19,false,false,F,7,7,5,4,12/28/24,8,B01263,452871,55-64,3,medium,false,Self-employed,Space & Bedrooms,true
+H02840,Oakwood,228382,1912,5,5,51,2,0.14,false,false,A,7,7,5,4,12/28/24,13,B02840,252950,45-54,4,low,true,Dual income,Location & Schools,false
