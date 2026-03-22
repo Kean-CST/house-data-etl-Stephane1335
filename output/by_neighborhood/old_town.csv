@@ -1,539 +1,539 @@
 house_id,neighborhood,price,square_feet,num_bedrooms,num_bathrooms,house_age,garage_spaces,lot_size_acres,has_pool,recently_renovated,energy_rating,location_score,school_rating,crime_rate,distance_downtown_miles,sale_date,days_on_market,buyer_id,buyer_budget,buyer_age_group,buyer_family_size,buyer_income_level,has_children,employment_type,buyer_preference,first_time_buyer
-H06611,Old Town,272818,2453,4,4,4,1,0.21,false,false,D,5,5,7,6,1/4/22,4,B06611,295326,35-44,4,medium,true,Full-time employed,Location & Schools,false
-H03398,Old Town,120000,800,1,1,10,1,0.14,false,false,E,5,5,7,6,1/7/22,14,B03398,130000,25-34,1,low,false,Full-time employed,Location & Schools,false
-H02509,Old Town,199721,1548,3,3,3,0,0.16,false,false,F,5,5,7,6,1/9/22,1,B02509,232183,35-44,2,low,false,Full-time employed,Affordability,false
-H00717,Old Town,216997,2197,3,4,22,1,0.13,false,false,D,5,5,7,6,1/10/22,84,B00717,244014,25-34,1,low,false,Dual income,Space & Bedrooms,false
-H06059,Old Town,221415,2339,3,3,31,1,0.12,false,false,D,5,5,7,6,1/16/22,2,B06059,241629,25-34,1,low,false,Full-time employed,Affordability,false
-H03878,Old Town,285431,2100,4,4,26,2,0.07,false,false,D,5,5,7,6,1/19/22,93,B03878,312745,35-44,1,medium,false,Self-employed,Low Maintenance,false
-H06650,Old Town,120000,800,1,1,13,1,0.17,true,false,D,5,5,7,6,1/19/22,18,B06650,136748,45-54,1,low,false,Self-employed,Location & Schools,false
-H05626,Old Town,194419,1637,2,2,12,1,0.21,true,false,E,5,5,7,6,1/25/22,25,B05626,208879,55-64,1,low,false,Retired,Affordability,false
-H05005,Old Town,231685,1326,2,2,21,2,0.14,true,false,C,5,5,7,6,1/27/22,35,B05005,253683,45-54,1,low,false,Full-time employed,Affordability,false
-H00949,Old Town,164434,1657,3,3,10,1,0.15,false,false,D,5,5,7,6,1/28/22,13,B00949,181986,25-34,1,low,false,Full-time employed,Modern & Updated,false
-H00812,Old Town,120000,929,1,1,18,1,0.15,false,false,E,5,5,7,6,1/28/22,19,B00812,134780,65+,1,low,false,Retired,Low Maintenance,false
-H07627,Old Town,238766,2215,4,4,17,1,0.3,false,true,F,5,5,7,6,2/6/22,45,B07627,277378,25-34,1,low,false,Self-employed,Affordability,false
-H04158,Old Town,259365,2417,5,5,60,1,0.11,false,true,B,5,5,7,6,2/8/22,12,B04158,286150,65+,2,medium,false,Retired,Location & Schools,false
-H03076,Old Town,244378,2159,3,3,20,1,0.16,false,false,F,5,5,7,6,2/8/22,13,B03076,262399,35-44,2,low,false,Full-time employed,Space & Bedrooms,false
-H06949,Old Town,120000,1166,2,2,42,2,0.17,false,false,A,5,5,7,6,2/10/22,23,B06949,130000,55-64,2,low,false,Dual income,Affordability,false
-H01150,Old Town,266313,1736,3,4,6,1,0.27,true,false,F,5,5,7,6,2/12/22,18,B01150,307235,25-34,1,medium,false,Full-time employed,Location & Schools,false
-H05390,Old Town,351370,2465,4,4,0,1,0.14,true,false,F,5,5,7,6,2/12/22,60,B05390,383478,55-64,3,medium,true,Full-time employed,Space & Bedrooms,false
-H01008,Old Town,138092,915,1,1,11,2,0.29,true,false,E,5,5,7,6,2/14/22,58,B01008,149427,45-54,1,low,false,Self-employed,Space & Bedrooms,false
-H07290,Old Town,314489,2325,3,3,4,2,0.16,true,false,F,5,5,7,6,2/22/22,39,B07290,359085,35-44,2,medium,false,Full-time employed,Affordability,false
-H02918,Old Town,157496,1232,1,1,22,1,0.18,false,false,E,5,5,7,6,2/22/22,94,B02918,184002,25-34,1,low,false,Full-time employed,Affordability,false
-H06279,Old Town,128804,1663,3,3,9,2,0.12,false,false,F,5,5,7,6,2/27/22,7,B06279,135883,35-44,3,low,false,Full-time employed,Location & Schools,false
-H00250,Old Town,261555,2122,4,4,39,1,0.14,false,true,D,5,5,7,6,3/3/22,15,B00250,293482,45-54,3,medium,true,Full-time employed,Space & Bedrooms,false
-H07826,Old Town,120000,800,2,1,25,0,0.17,false,false,C,5,5,7,6,3/3/22,28,B07826,132918,25-34,1,low,false,Full-time employed,Location & Schools,false
-H05741,Old Town,125668,1411,1,1,22,0,0.21,false,false,D,5,5,7,6,3/8/22,13,B05741,133005,25-34,1,low,false,Full-time employed,Affordability,false
-H03178,Old Town,307595,2058,3,3,6,1,0.09,false,false,E,5,5,7,6,3/14/22,45,B03178,328969,25-34,1,medium,false,Full-time employed,Affordability,false
-H02041,Old Town,388826,2930,5,5,3,2,0.26,false,false,F,5,5,7,6,3/16/22,9,B02041,421657,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
-H00166,Old Town,120000,1192,2,2,24,1,0.07,false,false,E,5,5,7,6,3/16/22,34,B00166,130000,55-64,2,low,false,Dual income,Investment,false
-H03628,Old Town,214362,1777,3,3,4,1,0.17,false,false,E,5,5,7,6,3/17/22,22,B03628,229146,55-64,2,low,false,Retired,Space & Bedrooms,false
-H00397,Old Town,181264,826,2,2,3,1,0.11,true,false,E,5,5,7,6,3/19/22,10,B00397,207622,35-44,1,low,false,Self-employed,Affordability,false
-H06404,Old Town,182714,1998,2,2,27,2,0.15,false,false,D,5,5,7,6,3/21/22,52,B06404,215600,45-54,1,low,false,Self-employed,Space & Bedrooms,false
-H03575,Old Town,285807,2541,4,4,1,2,0.13,false,false,F,5,5,7,6,3/23/22,13,B03575,317114,25-34,1,medium,false,Dual income,Affordability,false
-H05569,Old Town,211538,2416,4,4,36,2,0.09,false,false,C,5,5,7,6,3/23/22,127,B05569,242772,35-44,3,low,true,Full-time employed,Space & Bedrooms,false
-H07137,Old Town,297014,1996,4,4,6,2,0.13,true,false,E,5,5,7,6,3/24/22,50,B07137,323308,25-34,1,medium,false,Full-time employed,Affordability,true
-H00081,Old Town,120000,1174,3,3,30,0,0.27,false,false,D,5,5,7,6,3/27/22,37,B00081,130000,25-34,1,low,false,Dual income,Space & Bedrooms,false
-H06400,Old Town,237718,1753,2,3,8,0,0.21,true,false,F,5,5,7,6,3/28/22,96,B06400,262559,35-44,1,low,false,Dual income,Affordability,false
-H03292,Old Town,203278,2110,4,4,3,1,0.22,false,false,F,5,5,7,6,4/1/22,39,B03292,239288,55-64,1,low,false,Self-employed,Location & Schools,false
-H06370,Old Town,153756,1541,3,3,1,1,0.09,false,false,E,5,5,7,6,4/2/22,41,B06370,169407,65+,1,low,false,Retired,Low Maintenance,false
-H01149,Old Town,120000,1207,3,3,29,2,0.22,false,false,C,5,5,7,6,4/3/22,13,B01149,130593,35-44,2,low,false,Self-employed,Location & Schools,false
-H01407,Old Town,120000,1054,1,1,5,1,0.12,true,false,F,5,5,7,6,4/5/22,2,B01407,131165,55-64,1,low,false,Retired,Affordability,false
-H01003,Old Town,231694,1725,3,3,9,0,0.18,true,false,F,5,5,7,6,4/10/22,31,B01003,259531,25-34,1,low,false,Full-time employed,Location & Schools,false
-H03860,Old Town,171207,1371,2,2,22,0,0.13,true,false,E,5,5,7,6,4/10/22,6,B03860,190088,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H01453,Old Town,208159,1497,2,2,60,0,0.13,true,false,A,5,5,7,6,4/11/22,11,B01453,239638,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H02996,Old Town,120000,1064,1,1,50,1,0.13,false,false,B,5,5,7,6,4/12/22,54,B02996,140385,55-64,1,low,false,Self-employed,Affordability,false
-H04696,Old Town,237318,2134,4,4,0,2,0.11,false,false,F,5,5,7,6,4/16/22,1,B04696,259851,45-54,3,low,true,Self-employed,Location & Schools,false
-H03829,Old Town,236938,1650,3,3,11,1,0.13,false,false,D,5,5,7,6,4/18/22,22,B03829,277997,45-54,2,low,false,Dual income,Affordability,false
-H06513,Old Town,158375,1780,4,3,60,2,0.16,false,true,A,5,5,7,6,4/18/22,9,B06513,169030,25-34,2,low,false,Full-time employed,Low Maintenance,false
-H04668,Old Town,204459,1735,2,2,8,2,0.14,false,false,F,5,5,7,6,4/26/22,27,B04668,234923,35-44,1,low,false,Full-time employed,Space & Bedrooms,false
-H04606,Old Town,168898,1657,2,2,13,0,0.08,false,false,E,5,5,7,6,5/1/22,5,B04606,181254,25-34,1,low,false,Full-time employed,Location & Schools,false
-H07238,Old Town,144243,1258,2,1,38,1,0.16,false,false,A,5,5,7,6,5/1/22,17,B07238,159788,25-34,1,low,false,Full-time employed,Modern & Updated,false
-H05304,Old Town,120000,855,1,1,17,1,0.1,true,false,E,5,5,7,6,5/2/22,54,B05304,135625,55-64,1,low,false,Retired,Space & Bedrooms,true
-H01874,Old Town,287366,2102,3,3,9,2,0.29,false,false,F,5,5,7,6,5/3/22,48,B01874,316160,35-44,2,medium,false,Full-time employed,Location & Schools,false
-H05616,Old Town,300209,1943,3,3,8,1,0.13,true,false,F,5,5,7,6,5/3/22,42,B05616,333772,35-44,1,medium,false,Full-time employed,Modern & Updated,false
-H01963,Old Town,191207,800,2,2,8,1,0.11,true,false,D,5,5,7,6,5/4/22,9,B01963,217059,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H07154,Old Town,240021,1552,2,3,4,0,0.15,false,false,F,5,5,7,6,5/7/22,138,B07154,268641,35-44,1,low,false,Full-time employed,Location & Schools,false
-H02721,Old Town,120000,879,2,2,17,2,0.2,true,true,E,5,5,7,6,5/9/22,70,B02721,130000,35-44,2,low,false,Dual income,Location & Schools,false
-H00089,Old Town,159257,800,1,1,28,1,0.13,true,true,C,5,5,7,6,5/11/22,18,B00089,175477,25-34,1,low,false,Full-time employed,Affordability,false
-H02174,Old Town,182784,1139,2,2,2,2,0.11,false,false,F,5,5,7,6,5/13/22,8,B02174,207462,35-44,1,low,false,Dual income,Modern & Updated,false
-H01356,Old Town,120000,800,1,1,30,1,0.18,true,false,D,5,5,7,6,5/14/22,62,B01356,130000,35-44,1,low,false,Self-employed,Affordability,false
-H07808,Old Town,120000,800,2,2,17,0,0.2,true,false,E,5,5,7,6,5/14/22,25,B07808,130589,25-34,1,low,false,Dual income,Low Maintenance,false
-H07759,Old Town,281961,2080,3,3,8,2,0.17,false,false,E,5,5,7,6,5/15/22,63,B07759,314266,65+,1,medium,false,Retired,Modern & Updated,false
-H06683,Old Town,288497,1928,3,3,4,2,0.24,false,false,E,5,5,7,6,5/15/22,18,B06683,317813,25-34,1,medium,false,Full-time employed,Location & Schools,false
-H01854,Old Town,221756,1247,2,2,3,2,0.18,false,false,E,5,5,7,6,5/15/22,70,B01854,258933,55-64,2,low,false,Dual income,Space & Bedrooms,false
-H03981,Old Town,289274,2057,3,3,48,2,0.08,true,false,A,5,5,7,6,5/16/22,27,B03981,311407,65+,1,medium,false,Retired,Investment,false
-H03667,Old Town,195859,1502,2,2,42,1,0.1,true,false,A,5,5,7,6,5/17/22,16,B03667,206281,25-34,1,low,false,Dual income,Affordability,false
-H02312,Old Town,190969,1372,2,2,21,0,0.18,false,false,E,5,5,7,6,5/18/22,3,B02312,209758,25-34,1,low,false,Full-time employed,Affordability,false
-H01373,Old Town,153517,991,1,1,24,1,0.06,false,true,E,5,5,7,6,5/18/22,28,B01373,163535,45-54,1,low,false,Self-employed,Low Maintenance,false
-H06967,Old Town,120000,1356,3,3,27,0,0.12,false,false,E,5,5,7,6,5/20/22,180,B06967,133689,35-44,2,low,false,Self-employed,Low Maintenance,false
-H01445,Old Town,285979,2270,5,5,9,1,0.25,false,false,E,5,5,7,6,5/20/22,16,B01445,320584,35-44,3,medium,true,Self-employed,Modern & Updated,false
-H07834,Old Town,195661,1786,3,3,23,1,0.21,true,false,C,5,5,7,6,5/20/22,74,B07834,213814,35-44,1,low,false,Full-time employed,Location & Schools,false
-H03283,Old Town,236948,2118,3,3,60,1,0.2,false,true,B,5,5,7,6,5/21/22,39,B03283,259610,35-44,1,low,false,Full-time employed,Space & Bedrooms,false
-H01917,Old Town,170424,1341,2,2,12,0,0.14,true,false,F,5,5,7,6,5/22/22,9,B01917,191765,35-44,1,low,false,Full-time employed,Space & Bedrooms,false
-H05538,Old Town,169495,1525,1,2,30,1,0.29,true,false,C,5,5,7,6,5/23/22,90,B05538,190975,25-34,1,low,false,Full-time employed,Affordability,false
-H05638,Old Town,308666,2406,4,4,5,1,0.15,true,false,F,5,5,7,6,5/24/22,34,B05638,363802,35-44,3,medium,false,Full-time employed,Affordability,false
-H02482,Old Town,129865,806,2,2,8,2,0.11,false,false,E,5,5,7,6,6/1/22,10,B02482,142408,25-34,1,low,false,Full-time employed,Location & Schools,false
-H02965,Old Town,170051,1326,3,3,9,0,0.18,false,false,F,5,5,7,6,6/3/22,28,B02965,180994,25-34,1,low,false,Full-time employed,Affordability,false
-H05821,Old Town,170864,1628,4,4,40,0,0.24,false,false,A,5,5,7,6,6/5/22,15,B05821,196346,25-34,2,low,false,Dual income,Affordability,false
-H02890,Old Town,120000,800,2,2,19,1,0.18,false,false,E,5,5,7,6,6/5/22,131,B02890,141260,35-44,1,low,false,Self-employed,Modern & Updated,false
-H02498,Old Town,316604,2139,3,4,44,2,0.11,false,true,C,5,5,7,6,6/6/22,38,B02498,352309,45-54,2,medium,false,Full-time employed,Modern & Updated,false
-H05083,Old Town,188833,1351,3,2,30,1,0.25,false,false,B,5,5,7,6,6/6/22,28,B05083,212428,35-44,1,low,false,Full-time employed,Space & Bedrooms,false
-H03249,Old Town,142298,1671,3,3,33,1,0.06,false,false,C,5,5,7,6,6/7/22,2,B03249,164474,35-44,2,low,false,Self-employed,Location & Schools,false
-H04787,Old Town,154047,800,1,1,60,1,0.17,true,true,A,5,5,7,6,6/10/22,28,B04787,174836,25-34,1,low,false,Full-time employed,Affordability,false
-H03275,Old Town,120000,800,1,1,55,1,0.17,true,false,A,5,5,7,6,6/12/22,65,B03275,130000,45-54,2,low,false,Full-time employed,Modern & Updated,false
-H04223,Old Town,218273,1596,3,3,9,1,0.25,false,false,E,5,5,7,6,6/13/22,4,B04223,238378,35-44,1,low,false,Full-time employed,Location & Schools,false
-H01853,Old Town,295126,1991,4,4,19,1,0.17,false,false,D,5,5,7,6,6/15/22,3,B01853,311860,35-44,3,medium,true,Dual income,Location & Schools,false
-H07003,Old Town,120000,800,1,2,45,1,0.07,false,false,B,5,5,7,6,6/16/22,15,B07003,130000,45-54,1,low,false,Dual income,Modern & Updated,false
-H06676,Old Town,120000,815,2,2,51,1,0.18,false,false,B,5,5,7,6,6/21/22,44,B06676,130000,25-34,1,low,false,Full-time employed,Location & Schools,false
-H04070,Old Town,275418,1339,2,2,30,0,0.2,true,false,A,5,5,7,6,6/27/22,15,B04070,313323,55-64,1,medium,false,Retired,Location & Schools,false
-H03000,Old Town,207844,1946,3,4,4,1,0.12,false,false,F,5,5,7,6,6/27/22,14,B03000,243369,55-64,3,low,true,Retired,Modern & Updated,false
-H07467,Old Town,208224,943,1,2,6,1,0.14,true,false,F,5,5,7,6,7/1/22,26,B07467,223051,25-34,1,low,false,Full-time employed,Modern & Updated,false
-H07692,Old Town,120000,800,1,1,13,2,0.09,false,false,E,5,5,7,6,7/3/22,123,B07692,138068,25-34,1,low,false,Self-employed,Affordability,false
-H05608,Old Town,299208,1436,2,2,0,0,0.22,true,false,F,5,5,7,6,7/3/22,5,B05608,326491,45-54,1,medium,false,Full-time employed,Affordability,false
-H01473,Old Town,213623,1928,4,4,33,2,0.17,false,false,B,5,5,7,6,7/5/22,14,B01473,229388,35-44,3,low,true,Self-employed,Investment,false
-H02176,Old Town,120000,800,1,1,6,0,0.11,false,false,C,5,5,7,6,7/6/22,9,B02176,138422,45-54,1,low,false,Full-time employed,Investment,false
-H07479,Old Town,368665,2774,5,4,29,1,0.12,false,true,C,5,5,7,6,7/8/22,1,B07479,424846,35-44,1,medium,false,Full-time employed,Location & Schools,true
-H03386,Old Town,120000,800,1,1,47,1,0.21,false,false,A,5,5,7,6,7/10/22,16,B03386,138692,35-44,1,low,false,Full-time employed,Modern & Updated,false
-H03780,Old Town,120000,800,1,1,51,2,0.1,false,false,A,5,5,7,6,7/11/22,8,B03780,131706,25-34,1,low,false,Self-employed,Space & Bedrooms,false
-H03956,Old Town,142315,1318,2,2,6,2,0.13,false,false,E,5,5,7,6,7/12/22,2,B03956,149683,25-34,1,low,false,Full-time employed,Location & Schools,false
-H02662,Old Town,120000,1337,2,2,20,0,0.14,false,false,D,5,5,7,6,7/12/22,1,B02662,136497,45-54,2,low,false,Self-employed,Modern & Updated,false
-H00672,Old Town,215468,2126,3,3,3,2,0.11,false,false,F,5,5,7,6,7/13/22,33,B00672,243859,35-44,2,low,false,Full-time employed,Modern & Updated,false
-H01666,Old Town,162367,1251,3,3,56,2,0.2,true,false,B,5,5,7,6,7/13/22,27,B01666,175209,25-34,1,low,false,Full-time employed,Space & Bedrooms,true
-H07248,Old Town,198751,1899,2,3,21,1,0.13,false,false,E,5,5,7,6,7/16/22,3,B07248,222282,35-44,1,low,false,Full-time employed,Space & Bedrooms,false
-H01642,Old Town,225365,1718,4,4,1,1,0.15,false,false,F,5,5,7,6,7/17/22,17,B01642,262225,25-34,1,low,false,Full-time employed,Modern & Updated,false
-H00893,Old Town,247517,1890,3,3,18,1,0.32,false,false,C,5,5,7,6,7/18/22,75,B00893,274708,35-44,1,low,false,Self-employed,Affordability,true
-H01559,Old Town,313428,2630,6,5,52,1,0.18,false,true,B,5,5,7,6,7/21/22,25,B01559,333318,25-34,3,medium,false,Dual income,Location & Schools,false
-H04812,Old Town,177771,1249,2,3,10,1,0.13,false,false,F,5,5,7,6,7/21/22,62,B04812,206667,35-44,1,low,false,Dual income,Affordability,false
-H01980,Old Town,323233,2245,3,3,2,1,0.12,true,false,D,5,5,7,6,7/21/22,17,B01980,344251,35-44,2,medium,false,Full-time employed,Modern & Updated,false
-H02977,Old Town,166087,1204,3,3,36,0,0.09,true,true,E,5,5,7,6,7/23/22,9,B02977,190816,25-34,2,low,false,Full-time employed,Location & Schools,false
-H03497,Old Town,153118,1401,2,2,13,0,0.19,false,false,E,5,5,7,6,7/24/22,12,B03497,176244,35-44,1,low,false,Self-employed,Location & Schools,false
-H00122,Old Town,150381,1544,2,2,5,0,0.11,false,false,F,5,5,7,6,7/24/22,40,B00122,159933,45-54,1,low,false,Self-employed,Space & Bedrooms,false
-H05974,Old Town,270190,2048,3,4,3,2,0.19,false,false,E,5,5,7,6,7/24/22,10,B05974,315064,45-54,1,medium,false,Full-time employed,Modern & Updated,false
-H02237,Old Town,195872,1654,1,1,9,1,0.15,false,true,F,5,5,7,6,7/25/22,20,B02237,217795,55-64,1,low,false,Full-time employed,Space & Bedrooms,true
-H05854,Old Town,131725,928,2,1,25,1,0.1,false,false,C,5,5,7,6,7/27/22,21,B05854,150541,25-34,1,low,false,Self-employed,Space & Bedrooms,false
-H03751,Old Town,120309,1086,3,2,60,0,0.19,true,true,B,5,5,7,6,7/28/22,15,B03751,130000,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H07109,Old Town,120000,1043,2,2,42,1,0.12,false,false,C,5,5,7,6,8/6/22,35,B07109,139172,35-44,1,low,false,Full-time employed,Location & Schools,false
-H07690,Old Town,120000,803,2,2,8,1,0.19,false,false,F,5,5,7,6,8/6/22,28,B07690,130000,45-54,1,low,false,Self-employed,Affordability,false
-H06198,Old Town,120000,810,1,1,32,1,0.28,true,false,C,5,5,7,6,8/6/22,51,B06198,133901,55-64,1,low,false,Full-time employed,Space & Bedrooms,false
-H07847,Old Town,231103,1876,3,2,12,1,0.11,false,false,D,5,5,7,6,8/7/22,7,B07847,264672,45-54,1,low,false,Self-employed,Modern & Updated,false
-H02476,Old Town,289613,2113,4,4,38,1,0.15,false,true,C,5,5,7,6,8/7/22,16,B02476,323178,25-34,2,medium,false,Full-time employed,Affordability,false
-H07594,Old Town,292787,1788,2,3,4,2,0.17,true,false,F,5,5,7,6,8/10/22,5,B07594,326324,25-34,1,medium,false,Dual income,Space & Bedrooms,false
-H02198,Old Town,268481,2069,4,4,0,1,0.18,true,false,F,5,5,7,6,8/11/22,10,B02198,305879,25-34,2,medium,false,Full-time employed,Location & Schools,false
-H06909,Old Town,246433,1985,3,3,24,2,0.11,false,false,D,5,5,7,6,8/12/22,42,B06909,260280,35-44,3,low,true,Self-employed,Location & Schools,true
-H02582,Old Town,120000,1247,2,2,14,0,0.13,false,false,E,5,5,7,6,8/18/22,7,B02582,130430,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H03494,Old Town,177210,2172,3,3,54,2,0.19,false,false,B,5,5,7,6,8/18/22,42,B03494,200340,25-34,1,low,false,Full-time employed,Modern & Updated,false
-H01912,Old Town,120421,912,3,2,43,2,0.13,false,false,A,5,5,7,6,8/18/22,38,B01912,136441,25-34,1,low,false,Full-time employed,Modern & Updated,false
-H07928,Old Town,227315,1813,3,3,4,2,0.17,false,false,E,5,5,7,6,8/20/22,3,B07928,254422,35-44,3,low,false,Full-time employed,Space & Bedrooms,false
-H07307,Old Town,144611,1207,2,2,30,1,0.16,false,false,D,5,5,7,6,8/23/22,14,B07307,162691,25-34,1,low,false,Self-employed,Space & Bedrooms,false
-H02782,Old Town,247461,1637,4,4,60,2,0.2,true,true,A,5,5,7,6,8/23/22,31,B02782,273818,25-34,2,low,false,Full-time employed,Space & Bedrooms,false
-H07398,Old Town,253158,1712,3,3,12,0,0.12,false,false,D,5,5,7,6,9/2/22,96,B07398,274194,45-54,2,low,false,Retired,Affordability,false
-H06769,Old Town,199028,1626,2,2,13,0,0.09,false,false,E,5,5,7,6,9/4/22,7,B06769,215615,25-34,1,low,false,Full-time employed,Location & Schools,false
-H03704,Old Town,129956,1029,2,2,7,2,0.11,false,false,E,5,5,7,6,9/4/22,30,B03704,151749,25-34,1,low,false,Self-employed,Modern & Updated,false
-H05020,Old Town,230196,1858,3,3,50,1,0.17,true,false,A,5,5,7,6,9/7/22,5,B05020,258391,65+,1,low,false,Retired,Low Maintenance,false
-H05513,Old Town,268774,1832,2,2,33,2,0.18,true,true,C,5,5,7,6,9/8/22,18,B05513,290212,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
-H01045,Old Town,156300,1000,2,2,3,1,0.09,false,false,F,5,5,7,6,9/9/22,27,B01045,181247,35-44,1,low,false,Full-time employed,Space & Bedrooms,false
-H03094,Old Town,345754,1864,3,2,17,1,0.16,true,true,E,5,5,7,6,9/11/22,26,B03094,382548,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
-H06896,Old Town,206610,1817,3,3,42,1,0.08,false,false,C,5,5,7,6,9/11/22,96,B06896,219798,35-44,3,low,true,Full-time employed,Space & Bedrooms,false
-H00759,Old Town,282959,2337,5,5,32,2,0.1,false,false,C,5,5,7,6,9/13/22,42,B00759,310592,35-44,3,medium,false,Self-employed,Space & Bedrooms,false
-H03277,Old Town,154197,853,1,1,3,2,0.14,false,false,F,5,5,7,6,9/14/22,40,B03277,173427,35-44,1,low,false,Dual income,Location & Schools,false
-H07498,Old Town,164929,800,1,1,57,1,0.21,true,true,B,5,5,7,6,9/15/22,39,B07498,177074,35-44,1,low,false,Self-employed,Location & Schools,false
-H05944,Old Town,359398,3135,4,5,3,3,0.12,false,false,F,5,5,7,6,9/15/22,74,B05944,386470,25-34,1,medium,false,Dual income,Location & Schools,false
-H03493,Old Town,125922,1131,3,2,24,1,0.29,true,false,D,5,5,7,6,9/16/22,42,B03493,143411,35-44,2,low,false,Full-time employed,Affordability,false
-H05112,Old Town,224034,1607,3,3,19,0,0.13,true,false,C,5,5,7,6,9/18/22,16,B05112,256131,55-64,2,low,false,Dual income,Investment,false
-H00921,Old Town,150077,1350,2,2,7,1,0.15,true,false,F,5,5,7,6,9/19/22,43,B00921,169747,25-34,1,low,false,Full-time employed,Location & Schools,true
-H02382,Old Town,295520,1937,2,2,11,2,0.21,true,false,E,5,5,7,6,9/21/22,15,B02382,319722,35-44,1,medium,false,Full-time employed,Affordability,false
-H00013,Old Town,325712,2090,4,4,0,2,0.28,true,false,E,5,5,7,6,9/23/22,158,B00013,343411,35-44,2,medium,false,Dual income,Space & Bedrooms,false
-H00315,Old Town,304722,2084,3,4,1,2,0.18,true,false,F,5,5,7,6,9/23/22,8,B00315,359258,45-54,2,medium,false,Full-time employed,Modern & Updated,false
-H03498,Old Town,120000,800,1,1,8,1,0.21,false,false,C,5,5,7,6,9/27/22,6,B03498,130000,35-44,1,low,false,Full-time employed,Location & Schools,false
-H00204,Old Town,175167,1320,2,2,19,1,0.13,false,false,D,5,5,7,6,9/27/22,37,B00204,184906,35-44,1,low,false,Self-employed,Location & Schools,false
-H02076,Old Town,149677,940,1,1,12,1,0.18,false,false,E,5,5,7,6,9/27/22,16,B02076,158821,35-44,1,low,false,Full-time employed,Affordability,true
-H03584,Old Town,120000,846,2,2,52,1,0.17,false,false,A,5,5,7,6,10/3/22,59,B03584,141497,35-44,2,low,false,Full-time employed,Location & Schools,false
-H01972,Old Town,120000,1246,1,1,53,2,0.14,false,false,A,5,5,7,6,10/8/22,36,B01972,130000,25-34,1,low,false,Self-employed,Affordability,false
-H05966,Old Town,228971,1823,3,3,3,2,0.23,false,false,F,5,5,7,6,10/10/22,4,B05966,253166,55-64,2,low,false,Retired,Location & Schools,false
-H06023,Old Town,191104,2004,3,4,0,1,0.12,true,false,F,5,5,7,6,10/12/22,69,B06023,213954,35-44,1,low,false,Self-employed,Modern & Updated,false
-H05148,Old Town,120000,800,1,1,5,1,0.16,true,false,F,5,5,7,6,10/15/22,1,B05148,130311,25-34,1,low,false,Dual income,Space & Bedrooms,false
-H06875,Old Town,120000,1353,3,3,42,1,0.09,false,false,B,5,5,7,6,10/22/22,45,B06875,131633,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H02430,Old Town,223215,1392,2,2,0,1,0.17,true,false,E,5,5,7,6,10/25/22,97,B02430,244625,35-44,2,low,false,Dual income,Space & Bedrooms,false
-H06985,Old Town,249835,2137,3,3,60,2,0.13,false,false,A,5,5,7,6,10/28/22,47,B06985,288067,55-64,3,medium,true,Full-time employed,Location & Schools,false
-H04089,Old Town,158120,800,1,1,1,0,0.26,true,false,F,5,5,7,6,11/2/22,49,B04089,183054,55-64,1,low,false,Full-time employed,Low Maintenance,false
-H07360,Old Town,257030,1795,3,3,22,2,0.13,true,false,E,5,5,7,6,11/4/22,27,B07360,289928,45-54,2,medium,false,Retired,Space & Bedrooms,false
-H04470,Old Town,328905,2361,4,4,25,1,0.11,true,false,D,5,5,7,6,11/9/22,53,B04470,381639,45-54,2,medium,false,Full-time employed,Modern & Updated,false
-H03130,Old Town,120000,996,3,3,40,1,0.11,false,false,C,5,5,7,6,11/9/22,15,B03130,139147,35-44,1,low,false,Dual income,Low Maintenance,false
-H01500,Old Town,120000,1081,2,1,5,0,0.1,false,false,F,5,5,7,6,11/13/22,1,B01500,130989,25-34,1,low,false,Dual income,Space & Bedrooms,false
-H01196,Old Town,313601,2670,5,5,60,2,0.15,true,false,A,5,5,7,6,11/18/22,86,B01196,360070,35-44,3,medium,false,Full-time employed,Affordability,false
-H07884,Old Town,148102,1732,3,3,22,1,0.1,false,false,D,5,5,7,6,11/21/22,3,B07884,172320,25-34,1,low,false,Dual income,Modern & Updated,false
-H04523,Old Town,120000,834,2,2,5,1,0.1,false,false,D,5,5,7,6,11/21/22,42,B04523,132316,25-34,2,low,false,Full-time employed,Space & Bedrooms,false
-H00008,Old Town,170965,1482,2,2,60,1,0.1,false,false,A,5,5,7,6,11/22/22,9,B00008,196382,55-64,1,low,false,Full-time employed,Modern & Updated,false
-H02045,Old Town,120000,1253,2,2,36,0,0.08,false,false,C,5,5,7,6,11/24/22,79,B02045,131714,35-44,1,low,false,Full-time employed,Investment,false
-H05440,Old Town,238304,1400,3,3,0,2,0.29,false,false,F,5,5,7,6,11/26/22,37,B05440,272260,25-34,1,low,false,Self-employed,Space & Bedrooms,true
-H04924,Old Town,120000,800,2,2,21,2,0.25,false,false,D,5,5,7,6,11/26/22,49,B04924,136144,65+,1,low,false,Retired,Location & Schools,false
-H07124,Old Town,303363,1981,3,3,3,1,0.17,false,false,E,5,5,7,6,11/28/22,27,B07124,345856,55-64,1,medium,false,Self-employed,Location & Schools,false
-H04059,Old Town,225341,1516,3,3,7,1,0.18,false,false,E,5,5,7,6,12/12/22,10,B04059,259202,25-34,2,low,false,Dual income,Modern & Updated,false
-H06144,Old Town,267322,2578,4,4,27,2,0.1,false,false,C,5,5,7,6,12/17/22,1,B06144,294587,45-54,1,medium,false,Self-employed,Modern & Updated,false
-H05097,Old Town,152268,1445,2,2,56,1,0.15,false,false,A,5,5,7,6,12/18/22,1,B05097,172197,55-64,1,low,false,Full-time employed,Space & Bedrooms,false
-H07332,Old Town,150455,1452,3,3,60,0,0.14,true,false,A,5,5,7,6,12/18/22,11,B07332,160233,35-44,1,low,false,Full-time employed,Location & Schools,false
-H06406,Old Town,120000,800,1,1,3,0,0.07,false,false,E,5,5,7,6,12/19/22,56,B06406,139287,65+,1,low,false,Retired,Affordability,false
-H02682,Old Town,273368,1934,3,3,14,1,0.19,false,false,E,5,5,7,6,12/23/22,54,B02682,316590,25-34,1,medium,false,Self-employed,Modern & Updated,false
-H04441,Old Town,121277,998,2,2,8,1,0.18,false,false,D,5,5,7,6,12/28/22,23,B04441,139584,25-34,1,low,false,Full-time employed,Location & Schools,false
-H01152,Old Town,261651,2045,4,4,11,1,0.21,false,false,C,5,5,7,6,1/1/23,33,B01152,289745,55-64,2,medium,false,Full-time employed,Investment,false
-H01312,Old Town,123724,1244,2,2,4,1,0.23,true,false,F,5,5,7,6,1/1/23,115,B01312,137572,35-44,1,low,false,Self-employed,Space & Bedrooms,false
-H02187,Old Town,214660,1790,4,4,5,1,0.16,true,false,F,5,5,7,6,1/3/23,29,B02187,250475,55-64,4,low,true,Self-employed,Location & Schools,false
-H03116,Old Town,156794,1684,3,3,1,1,0.12,false,false,F,5,5,7,6,1/4/23,71,B03116,177046,25-34,1,low,false,Dual income,Affordability,false
-H03284,Old Town,120000,800,3,2,16,1,0.17,false,false,C,5,5,7,6,1/11/23,128,B03284,131857,25-34,2,low,false,Full-time employed,Modern & Updated,false
-H04654,Old Town,230657,1380,2,3,0,1,0.1,false,false,F,5,5,7,6,1/12/23,68,B04654,263790,55-64,2,low,false,Retired,Location & Schools,false
-H01306,Old Town,141800,1105,2,2,5,0,0.16,false,false,F,5,5,7,6,1/12/23,18,B01306,151276,25-34,1,low,false,Full-time employed,Modern & Updated,false
-H00615,Old Town,120000,849,2,2,25,1,0.15,false,false,D,5,5,7,6,1/15/23,58,B00615,130000,25-34,1,low,false,Full-time employed,Affordability,false
-H06295,Old Town,208099,1478,3,2,14,0,0.15,true,false,E,5,5,7,6,1/15/23,40,B06295,224298,55-64,2,low,false,Full-time employed,Space & Bedrooms,true
-H01084,Old Town,180750,1644,3,3,7,1,0.13,false,true,F,5,5,7,6,1/19/23,9,B01084,205147,25-34,2,low,false,Dual income,Location & Schools,false
-H00192,Old Town,181637,1842,3,3,60,2,0.17,false,false,A,5,5,7,6,1/22/23,43,B00192,209314,35-44,1,low,false,Dual income,Affordability,false
-H03942,Old Town,253650,1758,2,2,12,1,0.22,true,false,F,5,5,7,6,1/22/23,85,B03942,293279,35-44,1,medium,false,Full-time employed,Space & Bedrooms,false
-H04378,Old Town,287188,1922,3,3,60,2,0.14,true,false,A,5,5,7,6,1/24/23,46,B04378,316742,35-44,1,medium,false,Full-time employed,Affordability,false
-H00524,Old Town,131694,1128,2,2,34,0,0.17,true,false,C,5,5,7,6,1/25/23,16,B00524,150178,65+,1,low,false,Retired,Low Maintenance,false
-H00119,Old Town,120000,822,1,1,43,0,0.09,false,false,B,5,5,7,6,1/26/23,76,B00119,133467,45-54,1,low,false,Dual income,Investment,false
-H02263,Old Town,134985,800,1,1,27,1,0.13,false,true,E,5,5,7,6,2/2/23,29,B02263,147726,25-34,1,low,false,Self-employed,Modern & Updated,false
-H04620,Old Town,120000,800,1,1,60,0,0.12,false,true,C,5,5,7,6,2/4/23,29,B04620,130000,25-34,1,low,false,Full-time employed,Affordability,false
-H07051,Old Town,296085,1981,3,3,2,2,0.12,true,false,E,5,5,7,6,2/4/23,98,B07051,342247,65+,1,medium,false,Self-employed,Investment,false
-H06652,Old Town,120000,800,2,1,2,1,0.19,false,false,F,5,5,7,6,2/6/23,39,B06652,133528,35-44,1,low,false,Full-time employed,Affordability,false
-H04657,Old Town,120000,1664,3,3,35,1,0.17,false,false,C,5,5,7,6,2/9/23,20,B04657,135822,45-54,2,low,false,Full-time employed,Space & Bedrooms,false
-H02120,Old Town,276769,2001,4,4,5,2,0.16,false,false,E,5,5,7,6,2/10/23,14,B02120,317651,35-44,2,medium,false,Self-employed,Location & Schools,false
-H00468,Old Town,120785,1110,1,1,60,2,0.21,false,true,C,5,5,7,6,2/11/23,137,B00468,130678,25-34,1,low,false,Full-time employed,Location & Schools,false
-H06296,Old Town,199433,1893,4,3,4,1,0.15,false,false,E,5,5,7,6,2/16/23,28,B06296,226356,65+,1,low,false,Dual income,Modern & Updated,true
-H06530,Old Town,120000,1086,1,1,53,1,0.17,false,true,C,5,5,7,6,2/19/23,18,B06530,130000,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H05284,Old Town,244861,2080,4,4,16,1,0.14,true,false,E,5,5,7,6,2/20/23,25,B05284,259167,25-34,2,low,false,Self-employed,Affordability,false
-H00646,Old Town,226292,1975,3,3,19,1,0.12,false,false,D,5,5,7,6,2/21/23,11,B00646,248991,25-34,1,low,false,Full-time employed,Affordability,false
-H00352,Old Town,246903,1658,2,2,5,0,0.12,true,false,E,5,5,7,6,2/23/23,1,B00352,269832,25-34,1,low,false,Self-employed,Space & Bedrooms,false
-H06100,Old Town,285284,1857,3,3,34,2,0.08,false,true,D,5,5,7,6,2/24/23,34,B06100,315524,25-34,2,medium,false,Full-time employed,Location & Schools,false
-H04201,Old Town,156188,1907,2,2,46,1,0.21,false,false,C,5,5,7,6,2/25/23,13,B04201,181057,25-34,1,low,false,Self-employed,Location & Schools,false
-H06380,Old Town,170306,1555,3,3,19,1,0.13,true,false,D,5,5,7,6,2/28/23,49,B06380,199962,25-34,1,low,false,Full-time employed,Modern & Updated,false
-H07779,Old Town,120000,1059,2,2,23,2,0.16,false,false,D,5,5,7,6,3/1/23,32,B07779,139777,55-64,1,low,false,Self-employed,Modern & Updated,false
-H02208,Old Town,241901,1803,3,3,1,2,0.15,false,false,E,5,5,7,6,3/9/23,45,B02208,270327,25-34,1,low,false,Full-time employed,Affordability,false
-H02255,Old Town,213845,1266,3,3,11,0,0.29,true,false,E,5,5,7,6,3/9/23,34,B02255,229360,35-44,2,low,false,Full-time employed,Affordability,false
-H07900,Old Town,198405,1569,3,3,9,2,0.18,true,true,F,5,5,7,6,3/15/23,76,B07900,222781,35-44,2,low,false,Full-time employed,Affordability,false
-H06262,Old Town,120000,1419,2,2,49,0,0.25,false,false,A,5,5,7,6,3/17/23,12,B06262,130423,25-34,1,low,false,Full-time employed,Affordability,true
-H04049,Old Town,209074,1546,2,2,21,1,0.22,false,false,E,5,5,7,6,3/20/23,7,B04049,227639,55-64,1,low,false,Retired,Modern & Updated,false
-H06517,Old Town,120000,827,2,2,21,1,0.14,false,false,E,5,5,7,6,3/22/23,76,B06517,140774,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H00198,Old Town,185994,1263,3,3,2,0,0.12,true,true,F,5,5,7,6,3/26/23,91,B00198,217389,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H07955,Old Town,262557,1943,3,3,25,2,0.14,true,false,C,5,5,7,6,3/28/23,7,B07955,283353,55-64,1,medium,false,Retired,Modern & Updated,true
-H07758,Old Town,120000,897,2,2,45,1,0.15,true,false,A,5,5,7,6,4/1/23,76,B07758,132972,25-34,1,low,false,Self-employed,Affordability,false
-H05393,Old Town,120000,1181,2,2,5,1,0.13,false,false,E,5,5,7,6,4/6/23,1,B05393,133639,35-44,2,low,false,Self-employed,Location & Schools,false
-H00337,Old Town,141449,1241,2,2,19,1,0.18,false,false,D,5,5,7,6,4/6/23,43,B00337,154194,25-34,1,low,false,Dual income,Modern & Updated,false
-H03990,Old Town,120000,800,1,1,22,0,0.11,false,false,E,5,5,7,6,4/7/23,66,B03990,138832,35-44,2,low,false,Dual income,Affordability,false
-H04521,Old Town,120000,800,3,2,2,0,0.13,false,false,E,5,5,7,6,4/9/23,16,B04521,130000,25-34,1,low,false,Full-time employed,Modern & Updated,false
-H05248,Old Town,120000,929,2,1,10,1,0.12,false,false,F,5,5,7,6,4/10/23,82,B05248,131691,45-54,2,low,false,Dual income,Affordability,false
-H04563,Old Town,147210,1438,2,2,10,2,0.2,false,false,E,5,5,7,6,4/10/23,29,B04563,156847,65+,1,low,false,Retired,Investment,false
-H00265,Old Town,258118,2302,3,3,36,2,0.22,false,false,A,5,5,7,6,4/12/23,104,B00265,294821,35-44,2,medium,false,Full-time employed,Affordability,false
-H03082,Old Town,120000,896,1,1,31,0,0.13,false,false,B,5,5,7,6,4/13/23,19,B03082,131587,25-34,1,low,false,Full-time employed,Space & Bedrooms,true
-H00525,Old Town,120000,800,2,2,17,1,0.13,false,false,E,5,5,7,6,4/13/23,17,B00525,140203,35-44,1,low,false,Full-time employed,Space & Bedrooms,false
-H05359,Old Town,120000,966,3,2,43,1,0.13,false,false,B,5,5,7,6,4/15/23,10,B05359,130000,25-34,2,low,false,Dual income,Space & Bedrooms,false
-H01137,Old Town,120000,800,1,2,3,1,0.15,false,false,F,5,5,7,6,4/15/23,20,B01137,135839,25-34,1,low,false,Self-employed,Space & Bedrooms,false
-H03226,Old Town,126481,1716,3,3,40,0,0.18,true,false,C,5,5,7,6,4/16/23,48,B03226,143572,55-64,1,low,false,Full-time employed,Location & Schools,false
-H04943,Old Town,198149,2201,4,4,41,1,0.19,false,false,B,5,5,7,6,4/19/23,17,B04943,221697,25-34,2,low,false,Full-time employed,Modern & Updated,false
-H01244,Old Town,259790,1733,3,3,5,0,0.15,true,false,E,5,5,7,6,4/20/23,10,B01244,273049,35-44,1,low,false,Self-employed,Modern & Updated,false
-H06240,Old Town,161666,1056,2,1,31,1,0.11,false,true,E,5,5,7,6,4/27/23,72,B06240,189270,25-34,1,low,false,Self-employed,Space & Bedrooms,false
-H04618,Old Town,158568,1304,2,2,38,1,0.12,false,true,D,5,5,7,6,4/27/23,21,B04618,173915,45-54,2,low,false,Full-time employed,Space & Bedrooms,false
-H04643,Old Town,245505,1986,3,3,26,2,0.14,false,true,E,5,5,7,6,4/27/23,1,B04643,278642,45-54,3,low,false,Self-employed,Location & Schools,false
-H05853,Old Town,220508,1863,4,4,0,1,0.27,false,false,F,5,5,7,6,5/3/23,24,B05853,254911,25-34,1,low,false,Full-time employed,Modern & Updated,false
-H07100,Old Town,120000,912,2,2,22,2,0.11,false,false,C,5,5,7,6,5/5/23,96,B07100,131211,65+,1,low,false,Retired,Low Maintenance,false
-H04810,Old Town,182732,2014,4,4,8,1,0.16,false,false,F,5,5,7,6,5/5/23,3,B04810,214094,25-34,2,low,false,Dual income,Location & Schools,false
-H01146,Old Town,120000,1192,1,1,12,0,0.28,false,false,E,5,5,7,6,5/5/23,1,B01146,130268,45-54,1,low,false,Dual income,Location & Schools,false
-H06038,Old Town,193736,1734,3,3,10,1,0.16,false,false,E,5,5,7,6,5/6/23,24,B06038,216407,35-44,1,low,false,Self-employed,Space & Bedrooms,false
-H05837,Old Town,129351,950,1,1,0,0,0.1,false,false,E,5,5,7,6,5/7/23,21,B05837,146360,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H03393,Old Town,137572,1335,3,3,6,1,0.3,false,false,F,5,5,7,6,5/8/23,70,B03393,153736,35-44,1,low,false,Full-time employed,Investment,false
-H06789,Old Town,172784,1210,1,1,5,0,0.18,true,false,E,5,5,7,6,5/8/23,9,B06789,189912,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H05668,Old Town,120000,800,1,1,0,0,0.21,false,false,F,5,5,7,6,5/11/23,30,B05668,138651,35-44,1,low,false,Full-time employed,Modern & Updated,false
-H03429,Old Town,120000,800,1,1,60,0,0.12,false,false,A,5,5,7,6,5/12/23,28,B03429,132674,65+,1,low,false,Retired,Location & Schools,true
-H04607,Old Town,190291,1158,2,2,0,0,0.26,false,false,F,5,5,7,6,5/16/23,32,B04607,210895,35-44,1,low,false,Full-time employed,Space & Bedrooms,false
-H02619,Old Town,306236,2420,5,5,30,1,0.11,false,true,C,5,5,7,6,5/18/23,7,B02619,361274,35-44,3,medium,true,Dual income,Modern & Updated,false
-H01849,Old Town,161335,1731,3,3,24,1,0.11,false,false,D,5,5,7,6,5/18/23,55,B01849,185600,45-54,1,low,false,Dual income,Space & Bedrooms,false
-H00923,Old Town,120000,1459,3,3,52,1,0.23,false,false,A,5,5,7,6,5/18/23,24,B00923,140403,35-44,3,low,false,Full-time employed,Location & Schools,false
-H04672,Old Town,188211,1746,3,3,6,1,0.08,true,false,F,5,5,7,6,5/20/23,19,B04672,220232,35-44,2,low,false,Dual income,Affordability,false
-H02136,Old Town,189735,1577,2,2,60,1,0.19,false,true,A,5,5,7,6,5/21/23,41,B02136,211431,35-44,2,low,false,Full-time employed,Affordability,false
-H00746,Old Town,168563,1414,2,2,13,0,0.31,false,false,E,5,5,7,6,5/21/23,31,B00746,191204,25-34,1,low,false,Self-employed,Low Maintenance,false
-H04570,Old Town,154463,1626,3,3,20,2,0.12,false,false,D,5,5,7,6,5/22/23,180,B04570,168940,25-34,2,low,false,Full-time employed,Space & Bedrooms,false
-H02114,Old Town,132408,1633,2,2,60,1,0.14,false,false,A,5,5,7,6,5/25/23,17,B02114,147657,55-64,1,low,false,Full-time employed,Investment,false
-H05845,Old Town,192251,2074,3,3,46,2,0.2,false,false,B,5,5,7,6,5/27/23,10,B05845,221591,25-34,2,low,false,Full-time employed,Space & Bedrooms,false
-H06022,Old Town,138035,1232,1,1,54,1,0.11,false,true,B,5,5,7,6,5/28/23,128,B06022,147061,25-34,1,low,false,Full-time employed,Affordability,false
-H04756,Old Town,120000,1083,2,2,17,1,0.15,false,false,C,5,5,7,6,5/28/23,61,B04756,130000,25-34,1,low,false,Full-time employed,Location & Schools,false
-H04755,Old Town,120000,990,1,1,19,1,0.16,false,false,D,5,5,7,6,6/1/23,40,B04755,130000,45-54,1,low,false,Full-time employed,Affordability,false
-H05209,Old Town,201689,2038,3,3,21,2,0.12,false,false,D,5,5,7,6,6/1/23,36,B05209,213300,35-44,3,low,false,Full-time employed,Modern & Updated,false
-H04819,Old Town,197655,1700,4,4,53,0,0.11,false,true,C,5,5,7,6,6/2/23,18,B04819,217281,25-34,2,low,false,Dual income,Affordability,false
-H05555,Old Town,120000,1332,2,2,30,1,0.19,false,false,C,5,5,7,6,6/3/23,106,B05555,133791,45-54,3,low,true,Full-time employed,Space & Bedrooms,false
-H04442,Old Town,186199,1244,2,2,33,1,0.21,false,false,C,5,5,7,6,6/5/23,20,B04442,197644,25-34,2,low,false,Full-time employed,Location & Schools,false
-H01376,Old Town,120000,800,1,1,17,2,0.12,true,false,F,5,5,7,6,6/8/23,29,B01376,136723,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H00768,Old Town,120000,800,1,1,60,0,0.24,false,false,A,5,5,7,6,6/10/23,43,B00768,130000,25-34,1,low,false,Full-time employed,Low Maintenance,false
-H00854,Old Town,120000,800,1,1,7,1,0.12,true,false,F,5,5,7,6,6/12/23,12,B00854,137224,25-34,1,low,false,Self-employed,Space & Bedrooms,true
-H01123,Old Town,125364,800,1,1,13,2,0.07,false,false,E,5,5,7,6,6/12/23,6,B01123,139308,35-44,1,low,false,Self-employed,Affordability,false
-H03392,Old Town,156725,1337,2,2,17,0,0.14,true,false,E,5,5,7,6,6/12/23,40,B03392,166997,45-54,1,low,false,Full-time employed,Space & Bedrooms,false
-H04860,Old Town,120000,915,2,2,16,1,0.18,false,false,F,5,5,7,6,6/13/23,10,B04860,130000,25-34,1,low,false,Full-time employed,Location & Schools,false
-H07535,Old Town,277607,1977,3,3,6,2,0.15,true,false,F,5,5,7,6,6/13/23,14,B07535,302400,55-64,3,medium,true,Dual income,Space & Bedrooms,false
-H00253,Old Town,176605,1307,2,2,1,1,0.13,false,false,F,5,5,7,6,6/13/23,42,B00253,202762,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H07455,Old Town,342693,2420,4,4,3,1,0.23,false,false,F,5,5,7,6,6/14/23,39,B07455,395741,35-44,4,medium,true,Dual income,Space & Bedrooms,false
-H00514,Old Town,297707,1567,3,3,40,2,0.12,true,true,D,5,5,7,6,6/14/23,21,B00514,315976,35-44,2,medium,false,Self-employed,Investment,true
-H07710,Old Town,328998,2554,5,4,0,2,0.17,false,false,E,5,5,7,6,6/14/23,4,B07710,387683,45-54,3,medium,true,Full-time employed,Location & Schools,false
-H07172,Old Town,219352,2036,3,3,2,2,0.12,true,false,F,5,5,7,6,6/15/23,25,B07172,230528,35-44,2,low,false,Self-employed,Modern & Updated,true
-H05260,Old Town,120000,818,1,1,2,2,0.1,false,false,E,5,5,7,6,6/16/23,41,B05260,141077,35-44,1,low,false,Dual income,Affordability,false
-H03952,Old Town,142429,1031,2,2,60,2,0.3,true,false,A,5,5,7,6,6/16/23,63,B03952,157243,25-34,1,low,false,Full-time employed,Affordability,false
-H01736,Old Town,120000,800,1,1,42,0,0.1,false,false,A,5,5,7,6,6/17/23,58,B01736,140599,55-64,1,low,false,Retired,Space & Bedrooms,false
-H02395,Old Town,379114,2795,5,5,39,2,0.14,true,false,C,5,5,7,6,6/17/23,14,B02395,430640,45-54,4,medium,false,Self-employed,Affordability,false
-H02507,Old Town,206578,1742,3,3,53,1,0.17,false,false,B,5,5,7,6,6/17/23,18,B02507,235215,25-34,2,low,false,Full-time employed,Location & Schools,false
-H01237,Old Town,169155,1049,2,2,22,0,0.16,true,false,E,5,5,7,6,6/18/23,27,B01237,179844,35-44,1,low,false,Full-time employed,Affordability,false
-H03570,Old Town,120000,800,2,1,42,1,0.19,false,false,B,5,5,7,6,6/18/23,4,B03570,130064,25-34,1,low,false,Full-time employed,Location & Schools,false
-H00273,Old Town,159023,1556,2,2,16,1,0.13,false,false,D,5,5,7,6,6/20/23,29,B00273,187102,55-64,1,low,false,Full-time employed,Affordability,false
-H04767,Old Town,344612,2302,4,3,15,1,0.1,true,false,D,5,5,7,6,6/21/23,2,B04767,384999,25-34,1,medium,false,Full-time employed,Space & Bedrooms,false
-H01762,Old Town,259673,2030,2,3,16,1,0.2,false,false,D,5,5,7,6,6/22/23,4,B01762,275495,35-44,1,low,false,Full-time employed,Space & Bedrooms,false
-H07502,Old Town,120000,1201,3,3,4,0,0.13,false,false,F,5,5,7,6,6/22/23,34,B07502,140342,45-54,1,low,false,Full-time employed,Affordability,false
-H01118,Old Town,223124,1326,2,2,6,1,0.11,true,false,F,5,5,7,6,6/24/23,21,B01118,242480,35-44,2,low,false,Full-time employed,Modern & Updated,false
-H07621,Old Town,130352,1454,2,2,46,1,0.23,false,false,B,5,5,7,6,6/24/23,92,B07621,137835,35-44,1,low,false,Dual income,Modern & Updated,false
-H00632,Old Town,186958,1461,4,3,29,0,0.09,true,false,D,5,5,7,6,6/26/23,3,B00632,197101,35-44,5,low,false,Full-time employed,Location & Schools,false
-H04041,Old Town,190004,1097,2,2,1,2,0.18,false,false,F,5,5,7,6,6/26/23,50,B04041,205851,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H05438,Old Town,176171,1543,2,2,6,1,0.16,false,false,F,5,5,7,6,7/2/23,2,B05438,207141,25-34,1,low,false,Full-time employed,Affordability,false
-H00474,Old Town,228798,1932,3,3,19,2,0.15,false,false,D,5,5,7,6,7/3/23,67,B00474,265310,25-34,1,low,false,Full-time employed,Modern & Updated,true
-H00377,Old Town,120000,1096,3,2,11,0,0.16,false,false,E,5,5,7,6,7/4/23,8,B00377,135638,25-34,1,low,false,Full-time employed,Low Maintenance,false
-H00932,Old Town,255530,1878,3,3,10,2,0.12,false,false,D,5,5,7,6,7/4/23,50,B00932,283862,25-34,1,medium,false,Full-time employed,Affordability,false
-H03425,Old Town,125868,1467,3,3,48,2,0.18,true,false,B,5,5,7,6,7/5/23,37,B03425,142371,25-34,2,low,false,Dual income,Space & Bedrooms,false
-H05269,Old Town,306872,2029,3,3,7,2,0.13,true,false,D,5,5,7,6,7/6/23,71,B05269,342576,35-44,1,medium,false,Dual income,Location & Schools,false
-H04262,Old Town,210960,1380,3,2,28,0,0.21,true,false,D,5,5,7,6,7/8/23,16,B04262,247982,35-44,1,low,false,Full-time employed,Investment,false
-H02826,Old Town,156170,1005,2,2,14,1,0.09,false,false,D,5,5,7,6,7/11/23,1,B02826,167090,35-44,1,low,false,Dual income,Affordability,false
-H06594,Old Town,240080,2029,2,2,31,1,0.1,false,false,C,5,5,7,6,7/12/23,32,B06594,259088,55-64,2,low,false,Retired,Modern & Updated,false
-H06027,Old Town,151794,1259,3,3,5,1,0.16,false,false,E,5,5,7,6,7/13/23,18,B06027,176784,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H00906,Old Town,283401,2310,4,5,13,1,0.21,false,false,D,5,5,7,6,7/20/23,1,B00906,312825,45-54,3,medium,true,Dual income,Modern & Updated,false
-H02444,Old Town,185280,1073,2,2,51,1,0.22,true,true,D,5,5,7,6,7/23/23,22,B02444,214026,35-44,1,low,false,Full-time employed,Space & Bedrooms,false
-H02990,Old Town,198593,1657,4,4,30,0,0.21,false,false,B,5,5,7,6,7/26/23,20,B02990,226138,25-34,2,low,false,Self-employed,Location & Schools,false
-H02543,Old Town,139502,1713,3,2,60,0,0.14,false,true,A,5,5,7,6,7/27/23,10,B02543,153512,25-34,1,low,false,Full-time employed,Investment,false
-H07016,Old Town,173942,1695,3,3,4,0,0.24,true,false,E,5,5,7,6,7/27/23,6,B07016,195279,25-34,1,low,false,Full-time employed,Space & Bedrooms,true
-H06819,Old Town,171245,1645,3,2,45,2,0.15,true,false,C,5,5,7,6,8/1/23,1,B06819,192502,45-54,3,low,true,Full-time employed,Space & Bedrooms,false
-H06098,Old Town,161448,1182,2,2,11,0,0.22,true,false,D,5,5,7,6,8/1/23,34,B06098,185764,45-54,1,low,false,Self-employed,Location & Schools,false
-H05177,Old Town,120000,800,1,1,21,0,0.29,false,false,D,5,5,7,6,8/2/23,6,B05177,133286,25-34,1,low,false,Full-time employed,Affordability,false
-H06451,Old Town,120000,800,1,1,5,1,0.13,false,false,F,5,5,7,6,8/3/23,34,B06451,131635,25-34,1,low,false,Dual income,Affordability,false
-H03505,Old Town,246343,1555,3,3,44,1,0.18,true,true,C,5,5,7,6,8/6/23,87,B03505,280775,65+,1,medium,false,Retired,Location & Schools,false
-H02248,Old Town,140144,1290,3,3,13,2,0.09,true,false,F,5,5,7,6,8/8/23,45,B02248,154543,55-64,1,low,false,Full-time employed,Space & Bedrooms,false
-H06433,Old Town,120000,1237,3,3,29,0,0.11,true,false,C,5,5,7,6,8/10/23,25,B06433,132778,25-34,1,low,false,Full-time employed,Location & Schools,false
-H04972,Old Town,193730,1910,4,4,4,2,0.15,false,false,F,5,5,7,6,8/10/23,70,B04972,224891,25-34,1,low,false,Full-time employed,Investment,true
-H06644,Old Town,265670,1938,3,3,6,1,0.12,false,false,E,5,5,7,6,8/11/23,6,B06644,303871,35-44,2,medium,false,Dual income,Affordability,false
-H00736,Old Town,120000,938,1,1,24,0,0.1,false,false,E,5,5,7,6,8/17/23,31,B00736,133750,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H00595,Old Town,221208,1058,2,2,2,1,0.2,true,false,E,5,5,7,6,8/25/23,42,B00595,255268,25-34,1,low,false,Self-employed,Modern & Updated,false
-H03475,Old Town,167891,1693,3,3,21,1,0.15,false,false,D,5,5,7,6,8/25/23,9,B03475,184302,25-34,1,low,false,Full-time employed,Affordability,false
-H06239,Old Town,120000,979,2,2,48,0,0.14,false,false,A,5,5,7,6,9/1/23,46,B06239,130000,35-44,1,low,false,Full-time employed,Space & Bedrooms,false
-H04676,Old Town,120000,1133,3,3,44,1,0.09,false,false,B,5,5,7,6,9/2/23,9,B04676,137416,35-44,3,low,true,Full-time employed,Investment,false
-H00537,Old Town,136380,1139,2,3,8,1,0.12,false,false,E,5,5,7,6,9/3/23,39,B00537,160529,45-54,1,low,false,Full-time employed,Space & Bedrooms,false
-H01448,Old Town,288828,2255,3,4,25,2,0.19,true,false,E,5,5,7,6,9/3/23,11,B01448,326879,25-34,1,medium,false,Full-time employed,Location & Schools,false
-H05743,Old Town,326094,2413,4,4,12,2,0.11,true,false,E,5,5,7,6,9/4/23,6,B05743,364253,55-64,2,medium,false,Full-time employed,Affordability,false
-H07473,Old Town,195942,1374,3,2,0,2,0.11,false,false,E,5,5,7,6,9/4/23,8,B07473,225087,25-34,1,low,false,Dual income,Modern & Updated,false
-H01600,Old Town,120000,829,1,1,20,0,0.15,false,false,C,5,5,7,6,9/6/23,23,B01600,139219,25-34,1,low,false,Dual income,Location & Schools,false
-H06160,Old Town,326510,2704,3,3,4,1,0.12,false,false,F,5,5,7,6,9/10/23,6,B06160,344463,45-54,3,medium,true,Full-time employed,Space & Bedrooms,false
-H06757,Old Town,172358,1379,2,2,52,2,0.08,false,true,B,5,5,7,6,9/17/23,6,B06757,200598,35-44,2,low,false,Full-time employed,Affordability,false
-H04950,Old Town,245046,1407,2,2,10,1,0.14,true,false,D,5,5,7,6,9/19/23,13,B04950,264774,45-54,2,low,false,Full-time employed,Affordability,false
-H05469,Old Town,120000,800,1,1,4,0,0.11,false,false,E,5,5,7,6,9/20/23,48,B05469,131634,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H06287,Old Town,120000,800,2,2,34,1,0.15,true,false,B,5,5,7,6,9/22/23,40,B06287,130000,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H03618,Old Town,182214,1520,3,3,13,1,0.18,true,false,F,5,5,7,6,9/22/23,106,B03618,208166,55-64,1,low,false,Dual income,Modern & Updated,false
-H00116,Old Town,267202,2302,5,5,60,1,0.15,false,true,B,5,5,7,6,9/25/23,74,B00116,293260,65+,2,medium,false,Retired,Location & Schools,false
-H01518,Old Town,194619,1599,3,3,10,1,0.25,true,false,E,5,5,7,6,9/28/23,98,B01518,213120,45-54,2,low,false,Dual income,Location & Schools,true
-H04554,Old Town,154461,1030,3,3,10,2,0.1,true,false,E,5,5,7,6,10/10/23,58,B04554,181495,25-34,3,low,false,Dual income,Investment,false
-H01611,Old Town,160518,1346,2,2,37,0,0.14,false,true,C,5,5,7,6,10/13/23,19,B01611,184888,25-34,1,low,false,Full-time employed,Affordability,false
-H07227,Old Town,363168,2476,5,5,1,1,0.18,true,false,F,5,5,7,6,10/14/23,14,B07227,384895,65+,1,medium,false,Dual income,Affordability,false
-H05671,Old Town,120000,919,1,1,14,2,0.12,false,false,E,5,5,7,6,10/15/23,85,B05671,138035,25-34,1,low,false,Full-time employed,Modern & Updated,false
-H05607,Old Town,152903,1075,2,2,12,2,0.13,false,false,E,5,5,7,6,10/17/23,24,B05607,172181,25-34,1,low,false,Full-time employed,Modern & Updated,false
-H01028,Old Town,150004,1198,2,2,27,0,0.14,false,true,C,5,5,7,6,10/19/23,13,B01028,172110,35-44,1,low,false,Full-time employed,Modern & Updated,false
-H02758,Old Town,276520,2119,3,3,17,2,0.22,false,false,D,5,5,7,6,10/25/23,7,B02758,321428,35-44,4,medium,true,Dual income,Space & Bedrooms,false
-H05309,Old Town,262207,1842,3,3,16,1,0.08,false,false,C,5,5,7,6,10/25/23,17,B05309,277146,25-34,1,low,false,Full-time employed,Location & Schools,false
-H05617,Old Town,205368,1792,3,3,30,1,0.25,true,false,C,5,5,7,6,10/26/23,64,B05617,226009,45-54,1,low,false,Full-time employed,Affordability,false
-H07364,Old Town,120000,1174,1,1,47,1,0.18,false,true,B,5,5,7,6,10/28/23,7,B07364,130000,25-34,1,low,false,Full-time employed,Affordability,false
-H04518,Old Town,382671,2433,4,3,15,2,0.2,false,true,E,5,5,7,6,11/2/23,12,B04518,409137,35-44,2,medium,false,Dual income,Space & Bedrooms,false
-H01859,Old Town,133066,1386,2,2,1,1,0.09,false,false,E,5,5,7,6,11/3/23,25,B01859,142545,55-64,1,low,false,Full-time employed,Investment,false
-H04065,Old Town,126531,891,2,1,1,2,0.14,false,false,F,5,5,7,6,11/3/23,8,B04065,134586,55-64,2,low,false,Retired,Affordability,false
-H06647,Old Town,374820,2590,4,4,3,1,0.2,true,false,F,5,5,7,6,11/4/23,9,B06647,398079,55-64,4,medium,true,Retired,Location & Schools,false
-H04144,Old Town,181450,1578,3,3,30,1,0.13,true,true,D,5,5,7,6,11/8/23,4,B04144,196324,65+,1,low,false,Dual income,Location & Schools,false
-H03260,Old Town,120000,1011,3,2,18,0,0.16,false,false,D,5,5,7,6,11/12/23,63,B03260,134745,65+,1,low,false,Full-time employed,Investment,false
-H07436,Old Town,187056,2099,4,4,52,2,0.1,false,false,A,5,5,7,6,11/15/23,21,B07436,211100,35-44,2,low,false,Full-time employed,Space & Bedrooms,false
-H04192,Old Town,198644,1078,1,2,9,1,0.09,true,true,F,5,5,7,6,11/15/23,47,B04192,213235,65+,1,low,false,Retired,Low Maintenance,false
-H04314,Old Town,158342,1633,3,2,5,0,0.14,false,false,F,5,5,7,6,11/24/23,2,B04314,167646,45-54,3,low,true,Full-time employed,Affordability,false
-H07251,Old Town,176887,1169,2,2,9,2,0.16,false,false,D,5,5,7,6,11/28/23,47,B07251,203009,55-64,2,low,false,Retired,Modern & Updated,false
-H07871,Old Town,151810,2155,4,4,34,1,0.3,false,false,C,5,5,7,6,12/3/23,20,B07871,166663,25-34,2,low,false,Full-time employed,Location & Schools,true
-H01103,Old Town,120000,1029,2,2,35,2,0.17,false,true,C,5,5,7,6,12/4/23,2,B01103,135849,25-34,1,low,false,Full-time employed,Affordability,false
-H01272,Old Town,255406,2307,4,4,55,2,0.13,true,false,A,5,5,7,6,12/6/23,120,B01272,288356,45-54,2,medium,false,Self-employed,Space & Bedrooms,false
-H01673,Old Town,194227,1511,3,3,56,2,0.15,true,true,B,5,5,7,6,12/12/23,10,B01673,209553,55-64,1,low,false,Full-time employed,Low Maintenance,true
-H01343,Old Town,262127,2002,4,4,3,1,0.2,true,false,F,5,5,7,6,12/13/23,47,B01343,286700,25-34,1,medium,false,Full-time employed,Modern & Updated,false
-H06772,Old Town,254500,1727,3,3,17,2,0.17,true,false,E,5,5,7,6,12/17/23,13,B06772,283634,45-54,3,medium,false,Full-time employed,Low Maintenance,false
-H02107,Old Town,189319,1111,2,2,45,1,0.12,true,true,B,5,5,7,6,12/28/23,37,B02107,202247,25-34,2,low,false,Self-employed,Modern & Updated,false
-H02512,Old Town,246575,1855,2,2,0,1,0.17,false,false,E,5,5,7,6,1/7/24,138,B02512,280757,45-54,2,medium,false,Dual income,Investment,false
-H00128,Old Town,168790,1202,3,3,28,1,0.17,false,false,C,5,5,7,6,1/15/24,7,B00128,178726,25-34,1,low,false,Full-time employed,Affordability,false
-H07036,Old Town,139689,1126,3,3,4,0,0.17,false,false,F,5,5,7,6,1/16/24,24,B07036,147690,45-54,1,low,false,Self-employed,Affordability,true
-H00406,Old Town,120000,1485,3,3,49,1,0.17,false,false,C,5,5,7,6,1/19/24,56,B00406,139197,45-54,2,low,false,Full-time employed,Affordability,false
-H03341,Old Town,150121,1616,3,3,15,1,0.13,false,false,E,5,5,7,6,1/20/24,38,B03341,164590,55-64,1,low,false,Dual income,Affordability,false
-H07167,Old Town,240844,1829,3,3,22,1,0.14,false,false,D,5,5,7,6,1/23/24,125,B07167,254536,25-34,1,low,false,Dual income,Location & Schools,false
-H06055,Old Town,120000,1185,2,2,54,1,0.2,false,false,A,5,5,7,6,1/23/24,13,B06055,130991,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H00680,Old Town,326376,2208,3,3,1,2,0.12,true,false,F,5,5,7,6,1/24/24,71,B00680,358129,35-44,2,medium,false,Self-employed,Location & Schools,false
-H01780,Old Town,283455,2111,3,3,4,2,0.16,false,false,E,5,5,7,6,1/27/24,13,B01780,300749,35-44,3,medium,true,Dual income,Space & Bedrooms,false
-H05008,Old Town,192954,825,1,1,7,2,0.1,false,false,F,5,5,7,6,2/3/24,97,B05008,214794,45-54,1,low,false,Retired,Low Maintenance,false
-H01159,Old Town,173305,1123,1,1,34,0,0.14,true,false,C,5,5,7,6,2/8/24,44,B01159,196427,35-44,2,low,false,Full-time employed,Modern & Updated,false
-H04911,Old Town,232526,1849,2,3,33,1,0.14,false,false,B,5,5,7,6,2/9/24,1,B04911,252461,35-44,1,low,false,Self-employed,Space & Bedrooms,false
-H04566,Old Town,120000,1016,1,1,3,1,0.18,false,false,E,5,5,7,6,2/15/24,44,B04566,130046,35-44,1,low,false,Full-time employed,Space & Bedrooms,true
-H03750,Old Town,268175,1827,3,4,11,2,0.17,false,false,F,5,5,7,6,2/16/24,11,B03750,290001,35-44,1,medium,false,Full-time employed,Location & Schools,false
-H02719,Old Town,133095,1573,3,3,60,0,0.13,false,false,A,5,5,7,6,2/18/24,55,B02719,151449,25-34,1,low,false,Dual income,Affordability,false
-H04728,Old Town,191214,1605,3,3,50,0,0.13,false,true,B,5,5,7,6,2/21/24,47,B04728,202717,45-54,4,low,false,Full-time employed,Affordability,false
-H04984,Old Town,181141,1053,2,2,13,2,0.21,true,false,E,5,5,7,6,2/25/24,7,B04984,193348,35-44,1,low,false,Self-employed,Affordability,false
-H05003,Old Town,120000,904,2,1,9,2,0.18,false,false,F,5,5,7,6,3/2/24,47,B05003,131349,25-34,1,low,false,Self-employed,Space & Bedrooms,false
-H02372,Old Town,245260,2143,3,3,19,2,0.08,false,false,D,5,5,7,6,3/4/24,10,B02372,284556,35-44,2,medium,false,Full-time employed,Affordability,true
-H01121,Old Town,120000,823,2,2,60,2,0.12,false,false,A,5,5,7,6,3/5/24,3,B01121,130000,25-34,1,low,false,Full-time employed,Affordability,true
-H03582,Old Town,195358,1720,3,3,27,1,0.12,false,false,D,5,5,7,6,3/5/24,6,B03582,225962,35-44,2,low,false,Full-time employed,Affordability,false
-H06786,Old Town,160858,1197,2,2,7,0,0.15,true,false,C,5,5,7,6,3/5/24,10,B06786,176475,65+,1,low,false,Retired,Affordability,false
-H00898,Old Town,146723,800,2,2,11,2,0.2,false,false,E,5,5,7,6,3/5/24,21,B00898,168557,45-54,2,low,false,Self-employed,Space & Bedrooms,false
-H02622,Old Town,214036,1396,3,2,60,0,0.22,false,true,A,5,5,7,6,3/9/24,40,B02622,235965,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H02234,Old Town,193686,1868,3,3,26,1,0.2,false,false,D,5,5,7,6,3/15/24,2,B02234,219482,25-34,1,low,false,Full-time employed,Affordability,false
-H00490,Old Town,120000,1209,2,2,17,1,0.12,false,false,C,5,5,7,6,3/16/24,102,B00490,132162,25-34,1,low,false,Dual income,Space & Bedrooms,false
-H02675,Old Town,120000,1640,3,3,22,0,0.11,false,false,C,5,5,7,6,3/18/24,23,B02675,134208,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H07566,Old Town,166555,1631,3,3,26,2,0.18,false,false,C,5,5,7,6,3/19/24,11,B07566,186260,25-34,1,low,false,Full-time employed,Modern & Updated,false
-H06538,Old Town,290437,1669,3,3,22,1,0.14,true,false,E,5,5,7,6,3/22/24,18,B06538,336846,45-54,1,medium,false,Full-time employed,Affordability,false
-H03147,Old Town,146663,1250,2,2,16,1,0.19,false,false,E,5,5,7,6,4/2/24,5,B03147,154478,25-34,1,low,false,Full-time employed,Location & Schools,true
-H03515,Old Town,228243,1531,2,2,2,1,0.1,false,false,F,5,5,7,6,4/3/24,31,B03515,267989,35-44,1,low,false,Self-employed,Modern & Updated,false
-H06581,Old Town,124369,884,3,3,60,1,0.19,false,true,A,5,5,7,6,4/3/24,23,B06581,142497,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H04453,Old Town,120000,1137,2,2,34,0,0.12,false,true,D,5,5,7,6,4/5/24,46,B04453,139334,25-34,1,low,false,Full-time employed,Affordability,false
-H01158,Old Town,120000,800,2,2,5,1,0.17,false,false,E,5,5,7,6,4/10/24,41,B01158,138580,55-64,1,low,false,Full-time employed,Modern & Updated,false
-H07276,Old Town,222543,1748,3,3,3,0,0.18,true,true,F,5,5,7,6,4/10/24,15,B07276,254016,25-34,1,low,false,Full-time employed,Location & Schools,false
-H00229,Old Town,240636,1794,3,3,6,0,0.21,true,false,F,5,5,7,6,4/11/24,7,B00229,266935,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H00530,Old Town,135367,1041,1,1,18,1,0.24,false,false,E,5,5,7,6,4/12/24,38,B00530,142588,45-54,2,low,false,Full-time employed,Space & Bedrooms,false
-H03760,Old Town,284557,1601,2,2,26,2,0.12,true,true,E,5,5,7,6,4/12/24,44,B03760,331616,35-44,1,medium,false,Full-time employed,Affordability,false
-H05400,Old Town,226957,1822,4,3,14,1,0.15,false,false,D,5,5,7,6,4/13/24,2,B05400,256815,35-44,2,low,false,Full-time employed,Space & Bedrooms,false
-H04017,Old Town,227455,2108,3,3,16,1,0.09,false,false,D,5,5,7,6,4/21/24,6,B04017,246685,35-44,2,low,false,Full-time employed,Affordability,true
-H01686,Old Town,233515,1267,1,1,1,0,0.1,true,false,F,5,5,7,6,4/24/24,7,B01686,274725,65+,1,low,false,Self-employed,Investment,false
-H00384,Old Town,196166,1547,3,3,30,1,0.18,true,false,C,5,5,7,6,4/24/24,24,B00384,206080,35-44,3,low,true,Full-time employed,Location & Schools,false
-H07304,Old Town,192521,1917,4,4,60,1,0.12,true,true,B,5,5,7,6,4/25/24,1,B07304,203487,25-34,2,low,false,Self-employed,Space & Bedrooms,false
-H03545,Old Town,123193,1618,2,3,35,0,0.25,true,false,D,5,5,7,6,4/26/24,12,B03545,131246,35-44,1,low,false,Full-time employed,Modern & Updated,true
-H04634,Old Town,120000,860,2,2,15,2,0.12,false,false,E,5,5,7,6,4/27/24,5,B04634,141597,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H07673,Old Town,153400,1614,4,3,0,1,0.15,false,false,F,5,5,7,6,4/28/24,102,B07673,162024,35-44,2,low,false,Full-time employed,Space & Bedrooms,false
-H03206,Old Town,148461,1878,3,4,51,1,0.23,false,false,B,5,5,7,6,4/28/24,1,B03206,156756,65+,1,low,false,Retired,Affordability,false
-H06265,Old Town,399656,1768,3,3,3,1,0.19,true,true,F,5,5,7,6,5/2/24,43,B06265,430136,25-34,2,medium,false,Full-time employed,Location & Schools,false
-H07961,Old Town,244351,1726,2,2,1,0,0.11,false,true,F,5,5,7,6,5/6/24,36,B07961,270875,25-34,1,low,false,Full-time employed,Location & Schools,false
-H03204,Old Town,364990,2028,4,3,5,1,0.16,true,true,F,5,5,7,6,5/6/24,36,B03204,401708,45-54,4,medium,false,Full-time employed,Location & Schools,false
-H07783,Old Town,207204,1133,2,2,0,1,0.19,false,false,F,5,5,7,6,5/6/24,10,B07783,232209,35-44,2,low,false,Full-time employed,Location & Schools,true
-H01574,Old Town,212455,1265,1,2,37,0,0.15,true,true,C,5,5,7,6,5/6/24,17,B01574,242148,25-34,1,low,false,Full-time employed,Space & Bedrooms,true
-H07911,Old Town,264260,2125,3,3,4,2,0.15,true,false,F,5,5,7,6,5/8/24,19,B07911,294678,45-54,1,medium,false,Dual income,Space & Bedrooms,false
-H06574,Old Town,120000,800,1,1,28,0,0.14,true,false,C,5,5,7,6,5/9/24,21,B06574,130000,45-54,1,low,false,Full-time employed,Location & Schools,true
-H00552,Old Town,120000,800,1,1,12,1,0.09,true,false,E,5,5,7,6,5/11/24,18,B00552,130000,25-34,1,low,false,Dual income,Affordability,false
-H03335,Old Town,139324,1423,3,3,60,1,0.2,false,true,A,5,5,7,6,5/11/24,10,B03335,149703,35-44,2,low,false,Self-employed,Location & Schools,false
-H07097,Old Town,131368,1135,3,2,7,2,0.32,false,false,D,5,5,7,6,5/12/24,16,B07097,151782,45-54,2,low,false,Full-time employed,Affordability,false
-H00726,Old Town,120000,827,2,2,6,2,0.09,false,false,F,5,5,7,6,5/14/24,15,B00726,132416,25-34,1,low,false,Full-time employed,Location & Schools,false
-H05130,Old Town,160944,1663,3,3,23,1,0.15,true,false,C,5,5,7,6,5/14/24,1,B05130,174668,55-64,1,low,false,Full-time employed,Space & Bedrooms,false
-H01430,Old Town,231162,1604,2,2,23,1,0.21,true,false,E,5,5,7,6,5/15/24,13,B01430,251533,45-54,1,low,false,Self-employed,Affordability,false
-H00220,Old Town,124317,1424,2,2,60,2,0.14,false,true,B,5,5,7,6,5/18/24,35,B00220,133563,35-44,1,low,false,Dual income,Location & Schools,false
-H01167,Old Town,158553,1227,2,2,0,0,0.18,false,true,F,5,5,7,6,5/20/24,83,B01167,168510,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H03207,Old Town,191225,1237,2,2,21,1,0.11,false,true,F,5,5,7,6,5/21/24,30,B03207,210070,25-34,1,low,false,Full-time employed,Location & Schools,false
-H07840,Old Town,127469,1145,1,1,42,1,0.15,false,false,B,5,5,7,6,5/22/24,25,B07840,142087,45-54,1,low,false,Dual income,Location & Schools,false
-H07927,Old Town,120000,1256,3,3,4,1,0.13,false,false,F,5,5,7,6,5/22/24,71,B07927,135577,25-34,1,low,false,Full-time employed,Location & Schools,false
-H07495,Old Town,120000,1238,2,2,29,1,0.12,false,false,E,5,5,7,6,5/26/24,1,B07495,136276,25-34,1,low,false,Dual income,Affordability,false
-H05498,Old Town,120000,800,1,1,4,2,0.16,false,false,F,5,5,7,6,5/26/24,4,B05498,141369,55-64,1,low,false,Retired,Investment,false
-H05093,Old Town,127015,993,1,1,35,0,0.29,true,false,B,5,5,7,6,5/27/24,135,B05093,137799,25-34,1,low,false,Full-time employed,Low Maintenance,true
-H06040,Old Town,152435,1281,2,1,33,0,0.17,true,true,E,5,5,7,6,5/28/24,54,B06040,175523,35-44,1,low,false,Full-time employed,Space & Bedrooms,false
-H00796,Old Town,221602,1430,3,3,19,1,0.16,true,true,E,5,5,7,6,6/1/24,22,B00796,239363,35-44,1,low,false,Full-time employed,Low Maintenance,false
-H01241,Old Town,241119,1917,3,3,21,2,0.15,true,true,F,5,5,7,6,6/1/24,12,B01241,276550,35-44,1,low,false,Full-time employed,Affordability,false
-H06413,Old Town,243691,1556,3,3,5,1,0.2,false,false,E,5,5,7,6,6/1/24,30,B06413,285543,65+,1,medium,false,Retired,Low Maintenance,false
-H01786,Old Town,226563,1315,2,2,9,0,0.16,true,false,E,5,5,7,6,6/4/24,55,B01786,238251,55-64,1,low,false,Self-employed,Location & Schools,false
-H06236,Old Town,284545,1650,2,2,6,1,0.11,true,false,F,5,5,7,6,6/4/24,21,B06236,309614,25-34,1,medium,false,Full-time employed,Modern & Updated,false
-H07896,Old Town,120000,1216,2,2,20,1,0.18,false,false,D,5,5,7,6,6/4/24,54,B07896,134871,35-44,1,low,false,Full-time employed,Low Maintenance,false
-H04018,Old Town,373230,2634,4,4,60,2,0.16,false,true,A,5,5,7,6,6/8/24,18,B04018,416985,55-64,1,medium,false,Dual income,Investment,true
-H06942,Old Town,120000,800,1,1,53,0,0.21,true,false,A,5,5,7,6,6/8/24,26,B06942,130000,35-44,1,low,false,Self-employed,Affordability,false
-H02896,Old Town,392784,2267,5,5,15,2,0.16,true,true,F,5,5,7,6,6/8/24,66,B02896,450576,25-34,3,medium,true,Full-time employed,Location & Schools,false
-H01773,Old Town,122195,800,1,1,5,2,0.11,false,false,F,5,5,7,6,6/9/24,15,B01773,130000,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H05468,Old Town,120000,853,2,2,48,2,0.2,false,false,A,5,5,7,6,6/9/24,60,B05468,130000,35-44,1,low,false,Full-time employed,Space & Bedrooms,false
-H00428,Old Town,346211,2477,4,4,29,2,0.15,true,true,C,5,5,7,6,6/11/24,18,B00428,398777,25-34,2,medium,false,Full-time employed,Space & Bedrooms,false
-H02882,Old Town,198643,1655,3,3,15,0,0.18,true,false,D,5,5,7,6,6/12/24,23,B02882,223870,25-34,1,low,false,Self-employed,Space & Bedrooms,false
-H06648,Old Town,159900,1597,3,3,41,0,0.11,false,false,C,5,5,7,6,6/14/24,4,B06648,168302,35-44,1,low,false,Full-time employed,Affordability,false
-H07225,Old Town,120000,800,2,2,58,1,0.26,true,false,B,5,5,7,6,6/16/24,15,B07225,140873,55-64,1,low,false,Full-time employed,Location & Schools,false
-H01882,Old Town,237368,1545,2,3,26,0,0.11,true,true,E,5,5,7,6,6/16/24,5,B01882,262164,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H07874,Old Town,120000,974,1,1,4,2,0.13,false,false,F,5,5,7,6,6/17/24,26,B07874,130000,35-44,1,low,false,Dual income,Space & Bedrooms,false
-H05146,Old Town,206402,1934,3,4,13,2,0.14,false,true,E,5,5,7,6,6/18/24,5,B05146,221545,25-34,1,low,false,Full-time employed,Affordability,false
-H01231,Old Town,184886,1516,3,3,8,0,0.17,false,false,D,5,5,7,6,6/18/24,5,B01231,217875,25-34,1,low,false,Dual income,Affordability,false
-H04649,Old Town,170037,1073,1,1,30,1,0.15,true,false,D,5,5,7,6,6/19/24,13,B04649,192677,45-54,1,low,false,Self-employed,Affordability,false
-H06402,Old Town,165670,1030,2,2,24,1,0.21,false,false,B,5,5,7,6,6/20/24,48,B06402,188540,35-44,1,low,false,Full-time employed,Modern & Updated,false
-H07669,Old Town,141922,1322,1,2,48,1,0.1,false,false,A,5,5,7,6,6/21/24,63,B07669,160439,35-44,1,low,false,Self-employed,Space & Bedrooms,false
-H01061,Old Town,189392,2067,3,3,14,1,0.12,false,false,E,5,5,7,6,7/2/24,13,B01061,214789,55-64,2,low,false,Full-time employed,Location & Schools,false
-H04175,Old Town,120000,903,2,2,44,1,0.24,false,false,C,5,5,7,6,7/3/24,35,B04175,140033,25-34,1,low,false,Full-time employed,Affordability,false
-H03407,Old Town,120000,800,1,1,6,1,0.15,true,false,F,5,5,7,6,7/6/24,29,B03407,131404,25-34,1,low,false,Full-time employed,Location & Schools,false
-H05310,Old Town,350912,2941,5,5,1,1,0.24,false,false,F,5,5,7,6,7/8/24,8,B05310,372879,25-34,2,medium,false,Full-time employed,Affordability,false
-H00555,Old Town,167427,1552,2,2,23,1,0.19,false,false,D,5,5,7,6,7/10/24,6,B00555,193359,25-34,1,low,false,Full-time employed,Modern & Updated,false
-H02129,Old Town,120000,1032,2,2,19,0,0.1,false,false,D,5,5,7,6,7/11/24,18,B02129,131228,45-54,1,low,false,Dual income,Affordability,false
-H01351,Old Town,263418,1430,3,3,1,1,0.15,true,false,F,5,5,7,6,7/11/24,15,B01351,282752,45-54,4,medium,true,Full-time employed,Location & Schools,false
-H02861,Old Town,240423,1846,3,3,8,1,0.22,false,false,D,5,5,7,6,7/12/24,2,B02861,261958,45-54,2,low,false,Full-time employed,Location & Schools,true
-H04996,Old Town,190215,1200,2,2,33,1,0.14,false,true,D,5,5,7,6,7/12/24,24,B04996,209869,35-44,1,low,false,Dual income,Affordability,false
-H07970,Old Town,318545,2003,3,3,1,2,0.12,false,false,F,5,5,7,6,7/14/24,110,B07970,345964,35-44,3,medium,true,Full-time employed,Space & Bedrooms,false
-H02658,Old Town,120000,1296,3,3,60,1,0.15,false,false,A,5,5,7,6,7/16/24,58,B02658,139200,25-34,2,low,false,Full-time employed,Low Maintenance,false
-H06509,Old Town,286782,2276,2,2,1,2,0.15,false,false,F,5,5,7,6,7/16/24,8,B06509,310419,55-64,2,medium,false,Retired,Location & Schools,false
-H05930,Old Town,216719,1774,2,2,2,0,0.14,false,false,D,5,5,7,6,7/17/24,103,B05930,242336,55-64,1,low,false,Full-time employed,Modern & Updated,false
-H01672,Old Town,120000,1177,4,4,27,2,0.27,false,false,D,5,5,7,6,7/20/24,12,B01672,138964,25-34,2,low,false,Full-time employed,Affordability,false
-H02958,Old Town,262630,1324,2,3,1,1,0.15,true,true,F,5,5,7,6,7/26/24,27,B02958,278565,35-44,1,low,false,Dual income,Location & Schools,false
-H02462,Old Town,267693,1794,3,3,1,1,0.11,true,false,F,5,5,7,6,7/26/24,68,B02462,292617,35-44,2,medium,false,Dual income,Space & Bedrooms,false
-H06984,Old Town,152095,1510,2,2,6,1,0.15,false,false,E,5,5,7,6,7/27/24,22,B06984,165546,25-34,1,low,false,Self-employed,Investment,false
-H05877,Old Town,120000,800,2,2,48,2,0.12,false,true,C,5,5,7,6,8/2/24,1,B05877,139225,35-44,1,low,false,Full-time employed,Low Maintenance,false
-H02611,Old Town,159366,1340,1,1,32,1,0.16,false,false,C,5,5,7,6,8/3/24,19,B02611,170334,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H03898,Old Town,216341,1640,2,2,60,0,0.14,true,true,A,5,5,7,6,8/3/24,24,B03898,236232,25-34,1,low,false,Self-employed,Space & Bedrooms,false
-H01027,Old Town,120000,800,1,2,21,1,0.29,false,false,D,5,5,7,6,8/3/24,31,B01027,133028,35-44,1,low,false,Dual income,Affordability,false
-H03509,Old Town,120000,1147,2,2,5,1,0.21,false,false,E,5,5,7,6,8/4/24,48,B03509,137318,25-34,1,low,false,Full-time employed,Affordability,false
-H00869,Old Town,161232,1192,2,2,2,0,0.14,false,true,F,5,5,7,6,8/8/24,15,B00869,181658,55-64,3,low,false,Full-time employed,Modern & Updated,false
-H07592,Old Town,186489,1420,2,3,0,0,0.17,true,false,D,5,5,7,6,8/8/24,57,B07592,215901,25-34,1,low,false,Dual income,Space & Bedrooms,true
-H05228,Old Town,120000,928,2,2,10,2,0.14,false,false,F,5,5,7,6,8/9/24,6,B05228,130000,35-44,2,low,false,Full-time employed,Modern & Updated,false
-H03573,Old Town,149658,1647,1,1,26,2,0.21,false,false,D,5,5,7,6,8/10/24,12,B03573,158076,55-64,1,low,false,Full-time employed,Space & Bedrooms,false
-H06003,Old Town,120000,991,2,2,36,1,0.14,true,false,B,5,5,7,6,8/13/24,11,B06003,137912,35-44,1,low,false,Full-time employed,Investment,false
-H02245,Old Town,208968,1512,2,2,3,0,0.27,true,false,F,5,5,7,6,8/14/24,5,B02245,246240,45-54,2,low,false,Self-employed,Modern & Updated,true
-H05255,Old Town,264795,1706,2,2,3,0,0.16,false,false,E,5,5,7,6,8/14/24,133,B05255,298123,35-44,1,medium,false,Self-employed,Modern & Updated,false
-H03905,Old Town,302328,2325,4,4,4,2,0.1,false,false,E,5,5,7,6,8/15/24,31,B03905,330512,35-44,2,medium,false,Dual income,Space & Bedrooms,false
-H00184,Old Town,405319,2882,4,4,35,2,0.16,false,true,B,5,5,7,6,8/16/24,95,B00184,468283,35-44,3,medium,true,Dual income,Low Maintenance,false
-H03722,Old Town,131270,1503,3,3,2,1,0.12,false,false,F,5,5,7,6,8/16/24,3,B03722,146112,25-34,1,low,false,Full-time employed,Location & Schools,false
-H00772,Old Town,355962,2135,5,5,23,1,0.14,false,false,D,5,5,7,6,8/17/24,75,B00772,402063,35-44,2,medium,false,Dual income,Location & Schools,false
-H03624,Old Town,145454,1171,2,2,60,1,0.2,true,false,B,5,5,7,6,8/21/24,18,B03624,155818,25-34,1,low,false,Full-time employed,Location & Schools,false
-H03006,Old Town,180665,1677,4,3,0,1,0.1,false,false,F,5,5,7,6,8/22/24,24,B03006,195955,35-44,2,low,false,Self-employed,Affordability,false
-H06528,Old Town,120000,843,1,1,27,1,0.17,false,false,D,5,5,7,6,8/28/24,13,B06528,130498,35-44,1,low,false,Dual income,Affordability,true
-H04385,Old Town,120000,800,1,1,60,1,0.16,false,true,B,5,5,7,6,8/28/24,79,B04385,141142,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H07958,Old Town,176517,1537,2,2,17,0,0.18,false,false,D,5,5,7,6,9/1/24,90,B07958,194626,25-34,1,low,false,Full-time employed,Affordability,false
-H02536,Old Town,120000,800,1,1,1,2,0.14,false,false,E,5,5,7,6,9/2/24,24,B02536,135833,25-34,1,low,false,Full-time employed,Affordability,false
-H00815,Old Town,340470,2460,4,4,0,2,0.24,false,false,F,5,5,7,6,9/7/24,9,B00815,372591,45-54,3,medium,true,Full-time employed,Modern & Updated,false
-H00054,Old Town,120000,1333,3,3,40,0,0.23,false,false,C,5,5,7,6,9/12/24,18,B00054,132642,45-54,1,low,false,Full-time employed,Location & Schools,true
-H04621,Old Town,256204,2425,3,3,5,1,0.18,false,false,F,5,5,7,6,9/15/24,8,B04621,276065,25-34,2,low,false,Full-time employed,Space & Bedrooms,false
-H01051,Old Town,213531,1181,2,2,1,2,0.2,true,false,F,5,5,7,6,9/18/24,29,B01051,224208,55-64,1,low,false,Full-time employed,Modern & Updated,false
-H05707,Old Town,188456,1258,2,2,33,1,0.15,false,true,D,5,5,7,6,9/19/24,13,B05707,200394,65+,1,low,false,Retired,Location & Schools,false
-H06060,Old Town,285772,2015,3,3,23,2,0.2,true,true,F,5,5,7,6,9/20/24,125,B06060,305695,25-34,2,medium,false,Dual income,Affordability,false
-H05543,Old Town,207429,1507,2,2,1,0,0.17,false,false,E,5,5,7,6,9/21/24,13,B05543,239823,25-34,1,low,false,Full-time employed,Investment,false
-H07990,Old Town,160169,1128,1,1,35,1,0.15,true,false,B,5,5,7,6,9/22/24,37,B07990,179533,25-34,1,low,false,Full-time employed,Affordability,false
-H05658,Old Town,139832,2070,4,4,36,1,0.1,false,false,C,5,5,7,6,9/23/24,26,B05658,161778,25-34,2,low,false,Full-time employed,Space & Bedrooms,false
-H01979,Old Town,197967,1287,1,1,4,2,0.15,false,false,F,5,5,7,6,9/24/24,55,B01979,216186,35-44,1,low,false,Full-time employed,Modern & Updated,false
-H02785,Old Town,333766,2620,4,4,14,1,0.2,false,false,C,5,5,7,6,9/25/24,12,B02785,393431,35-44,4,medium,true,Full-time employed,Location & Schools,false
-H00892,Old Town,284358,2028,4,4,34,2,0.12,false,true,C,5,5,7,6,10/1/24,5,B00892,320200,55-64,4,medium,true,Full-time employed,Space & Bedrooms,false
-H02871,Old Town,271117,1824,2,2,0,2,0.18,false,false,E,5,5,7,6,10/1/24,61,B02871,288732,35-44,1,medium,false,Dual income,Location & Schools,false
-H05406,Old Town,222575,1819,4,4,21,1,0.12,false,true,D,5,5,7,6,10/2/24,15,B05406,240827,55-64,2,low,false,Full-time employed,Affordability,false
-H02219,Old Town,218356,1334,2,2,50,1,0.13,false,true,B,5,5,7,6,10/2/24,11,B02219,231129,25-34,1,low,false,Full-time employed,Location & Schools,false
-H07511,Old Town,144370,1629,3,3,42,0,0.15,true,false,C,5,5,7,6,10/4/24,6,B07511,167035,65+,1,low,false,Retired,Low Maintenance,false
-H06744,Old Town,276778,2332,4,4,31,1,0.16,false,false,C,5,5,7,6,10/5/24,39,B06744,295947,45-54,2,medium,false,Full-time employed,Modern & Updated,false
-H05521,Old Town,286931,1876,4,4,1,1,0.22,false,true,F,5,5,7,6,10/9/24,3,B05521,319138,35-44,2,medium,false,Self-employed,Space & Bedrooms,false
-H06259,Old Town,127101,1417,3,3,12,0,0.17,false,true,F,5,5,7,6,10/9/24,8,B06259,140648,25-34,1,low,false,Self-employed,Space & Bedrooms,false
-H02354,Old Town,120000,801,2,1,16,1,0.16,false,false,E,5,5,7,6,10/18/24,22,B02354,133989,25-34,1,low,false,Self-employed,Location & Schools,false
-H03198,Old Town,307020,2410,4,4,19,1,0.11,true,false,D,5,5,7,6,10/21/24,30,B03198,327802,25-34,1,medium,false,Full-time employed,Location & Schools,false
-H06174,Old Town,337348,2246,4,4,2,2,0.17,false,false,F,5,5,7,6,10/22/24,20,B06174,355421,35-44,4,medium,true,Full-time employed,Space & Bedrooms,false
-H01049,Old Town,187443,947,1,2,19,0,0.19,true,false,E,5,5,7,6,10/23/24,46,B01049,199182,45-54,1,low,false,Dual income,Location & Schools,false
-H02018,Old Town,175912,1187,3,3,28,2,0.16,false,true,E,5,5,7,6,10/24/24,80,B02018,205136,25-34,1,low,false,Dual income,Space & Bedrooms,false
-H02140,Old Town,239571,2259,5,4,17,2,0.21,false,false,E,5,5,7,6,10/25/24,29,B02140,267436,35-44,4,low,false,Full-time employed,Affordability,false
-H06665,Old Town,216251,1738,3,3,37,1,0.21,false,false,C,5,5,7,6,10/25/24,50,B06665,249953,35-44,1,low,false,Full-time employed,Location & Schools,false
-H00575,Old Town,287725,1778,4,4,0,1,0.16,false,false,F,5,5,7,6,10/26/24,30,B00575,323334,35-44,2,medium,false,Full-time employed,Affordability,false
-H03885,Old Town,120000,800,2,2,24,2,0.09,false,false,C,5,5,7,6,10/27/24,57,B03885,130000,25-34,1,low,false,Full-time employed,Location & Schools,false
-H04455,Old Town,168611,1384,3,3,42,0,0.15,false,true,C,5,5,7,6,11/2/24,31,B04455,193135,25-34,1,low,false,Full-time employed,Affordability,true
-H04886,Old Town,232378,1777,4,4,5,1,0.1,false,false,E,5,5,7,6,11/2/24,82,B04886,250205,25-34,2,low,false,Full-time employed,Low Maintenance,false
-H00281,Old Town,120000,1313,2,2,60,1,0.17,false,true,A,5,5,7,6,11/4/24,37,B00281,130000,25-34,1,low,false,Full-time employed,Space & Bedrooms,false
-H04109,Old Town,227723,1468,3,3,50,0,0.13,false,true,C,5,5,7,6,11/6/24,5,B04109,252465,25-34,1,low,false,Self-employed,Affordability,false
-H03706,Old Town,120000,1023,1,2,3,1,0.16,false,false,F,5,5,7,6,11/10/24,1,B03706,130000,25-34,1,low,false,Self-employed,Modern & Updated,false
-H07059,Old Town,120000,1367,1,2,60,0,0.08,false,true,B,5,5,7,6,11/13/24,1,B07059,140265,25-34,1,low,false,Full-time employed,Affordability,false
-H04396,Old Town,296961,2684,5,5,18,1,0.18,false,false,C,5,5,7,6,11/13/24,29,B04396,342306,45-54,5,medium,false,Dual income,Affordability,false
-H05765,Old Town,164870,1663,3,3,56,1,0.16,true,false,A,5,5,7,6,11/17/24,7,B05765,189794,55-64,3,low,false,Retired,Investment,false
-H02510,Old Town,240639,1654,3,3,25,0,0.22,true,true,D,5,5,7,6,11/18/24,80,B02510,262229,45-54,1,low,false,Full-time employed,Space & Bedrooms,false
-H06715,Old Town,120000,800,1,1,0,1,0.28,false,false,F,5,5,7,6,11/19/24,85,B06715,131298,35-44,1,low,false,Self-employed,Location & Schools,false
-H00199,Old Town,299795,2162,4,4,4,2,0.32,true,false,F,5,5,7,6,11/20/24,82,B00199,333335,45-54,2,medium,false,Self-employed,Modern & Updated,true
-H01554,Old Town,120000,982,2,2,6,1,0.12,false,false,E,5,5,7,6,11/22/24,17,B01554,139612,35-44,2,low,false,Self-employed,Affordability,false
-H03469,Old Town,138574,800,2,2,17,2,0.15,false,false,E,5,5,7,6,11/25/24,33,B03469,146161,35-44,1,low,false,Dual income,Affordability,false
-H02164,Old Town,167190,1250,2,2,0,1,0.15,false,false,F,5,5,7,6,11/26/24,4,B02164,184824,35-44,2,low,false,Dual income,Space & Bedrooms,false
-H01410,Old Town,120000,800,2,2,1,1,0.13,true,false,F,5,5,7,6,11/27/24,38,B01410,133694,25-34,1,low,false,Full-time employed,Affordability,false
-H01469,Old Town,287098,1971,3,3,3,2,0.29,false,false,E,5,5,7,6,11/27/24,59,B01469,301995,45-54,1,medium,false,Dual income,Location & Schools,false
-H02873,Old Town,207417,2092,3,3,60,1,0.16,false,false,A,5,5,7,6,12/5/24,34,B02873,230611,35-44,2,low,false,Full-time employed,Location & Schools,false
-H02488,Old Town,128055,1064,1,1,14,0,0.08,true,true,F,5,5,7,6,12/5/24,79,B02488,136140,25-34,1,low,false,Self-employed,Space & Bedrooms,false
-H02074,Old Town,120000,1350,2,2,40,1,0.19,false,true,D,5,5,7,6,12/6/24,24,B02074,135824,25-34,1,low,false,Full-time employed,Location & Schools,false
-H02075,Old Town,120000,800,2,2,1,2,0.17,true,false,F,5,5,7,6,12/10/24,115,B02075,130000,25-34,1,low,false,Full-time employed,Location & Schools,false
-H02055,Old Town,207778,1434,2,2,14,2,0.21,true,false,F,5,5,7,6,12/11/24,146,B02055,219385,55-64,1,low,false,Retired,Investment,true
-H01323,Old Town,293364,3009,5,4,23,3,0.19,false,false,C,5,5,7,6,12/11/24,82,B01323,339159,55-64,4,medium,false,Retired,Location & Schools,true
-H04287,Old Town,206657,1692,2,2,4,1,0.15,false,false,F,5,5,7,6,12/13/24,130,B04287,218694,45-54,1,low,false,Self-employed,Space & Bedrooms,true
-H03900,Old Town,256691,1587,3,3,2,1,0.21,true,false,E,5,5,7,6,12/15/24,4,B03900,270964,45-54,2,low,false,Dual income,Modern & Updated,false
+H00008,Old Town,170965,1482,2,2,60,1,0.1,False,False,A,5,5,7,6,2022-11-22,9,B00008,196382,55-64,1,low,False,Full-time employed,Modern & Updated,False
+H00013,Old Town,325712,2090,4,4,0,2,0.28,True,False,E,5,5,7,6,2022-09-23,158,B00013,343411,35-44,2,medium,False,Dual income,Space & Bedrooms,False
+H00054,Old Town,120000,1333,3,3,40,0,0.23,False,False,C,5,5,7,6,2024-09-12,18,B00054,132642,45-54,1,low,False,Full-time employed,Location & Schools,True
+H00081,Old Town,120000,1174,3,3,30,0,0.27,False,False,D,5,5,7,6,2022-03-27,37,B00081,130000,25-34,1,low,False,Dual income,Space & Bedrooms,False
+H00089,Old Town,159257,800,1,1,28,1,0.13,True,True,C,5,5,7,6,2022-05-11,18,B00089,175477,25-34,1,low,False,Full-time employed,Affordability,False
+H00116,Old Town,267202,2302,5,5,60,1,0.15,False,True,B,5,5,7,6,2023-09-25,74,B00116,293260,65+,2,medium,False,Retired,Location & Schools,False
+H00119,Old Town,120000,822,1,1,43,0,0.09,False,False,B,5,5,7,6,2023-01-26,76,B00119,133467,45-54,1,low,False,Dual income,Investment,False
+H00122,Old Town,150381,1544,2,2,5,0,0.11,False,False,F,5,5,7,6,2022-07-24,40,B00122,159933,45-54,1,low,False,Self-employed,Space & Bedrooms,False
+H00128,Old Town,168790,1202,3,3,28,1,0.17,False,False,C,5,5,7,6,2024-01-15,7,B00128,178726,25-34,1,low,False,Full-time employed,Affordability,False
+H00166,Old Town,120000,1192,2,2,24,1,0.07,False,False,E,5,5,7,6,2022-03-16,34,B00166,130000,55-64,2,low,False,Dual income,Investment,False
+H00184,Old Town,405319,2882,4,4,35,2,0.16,False,True,B,5,5,7,6,2024-08-16,95,B00184,468283,35-44,3,medium,True,Dual income,Low Maintenance,False
+H00192,Old Town,181637,1842,3,3,60,2,0.17,False,False,A,5,5,7,6,2023-01-22,43,B00192,209314,35-44,1,low,False,Dual income,Affordability,False
+H00198,Old Town,185994,1263,3,3,2,0,0.12,True,True,F,5,5,7,6,2023-03-26,91,B00198,217389,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H00199,Old Town,299795,2162,4,4,4,2,0.32,True,False,F,5,5,7,6,2024-11-20,82,B00199,333335,45-54,2,medium,False,Self-employed,Modern & Updated,True
+H00204,Old Town,175167,1320,2,2,19,1,0.13,False,False,D,5,5,7,6,2022-09-27,37,B00204,184906,35-44,1,low,False,Self-employed,Location & Schools,False
+H00220,Old Town,124317,1424,2,2,60,2,0.14,False,True,B,5,5,7,6,2024-05-18,35,B00220,133563,35-44,1,low,False,Dual income,Location & Schools,False
+H00229,Old Town,240636,1794,3,3,6,0,0.21,True,False,F,5,5,7,6,2024-04-11,7,B00229,266935,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H00250,Old Town,261555,2122,4,4,39,1,0.14,False,True,D,5,5,7,6,2022-03-03,15,B00250,293482,45-54,3,medium,True,Full-time employed,Space & Bedrooms,False
+H00253,Old Town,176605,1307,2,2,1,1,0.13,False,False,F,5,5,7,6,2023-06-13,42,B00253,202762,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H00265,Old Town,258118,2302,3,3,36,2,0.22,False,False,A,5,5,7,6,2023-04-12,104,B00265,294821,35-44,2,medium,False,Full-time employed,Affordability,False
+H00273,Old Town,159023,1556,2,2,16,1,0.13,False,False,D,5,5,7,6,2023-06-20,29,B00273,187102,55-64,1,low,False,Full-time employed,Affordability,False
+H00281,Old Town,120000,1313,2,2,60,1,0.17,False,True,A,5,5,7,6,2024-11-04,37,B00281,130000,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H00315,Old Town,304722,2084,3,4,1,2,0.18,True,False,F,5,5,7,6,2022-09-23,8,B00315,359258,45-54,2,medium,False,Full-time employed,Modern & Updated,False
+H00337,Old Town,141449,1241,2,2,19,1,0.18,False,False,D,5,5,7,6,2023-04-06,43,B00337,154194,25-34,1,low,False,Dual income,Modern & Updated,False
+H00352,Old Town,246903,1658,2,2,5,0,0.12,True,False,E,5,5,7,6,2023-02-23,1,B00352,269832,25-34,1,low,False,Self-employed,Space & Bedrooms,False
+H00377,Old Town,120000,1096,3,2,11,0,0.16,False,False,E,5,5,7,6,2023-07-04,8,B00377,135638,25-34,1,low,False,Full-time employed,Low Maintenance,False
+H00384,Old Town,196166,1547,3,3,30,1,0.18,True,False,C,5,5,7,6,2024-04-24,24,B00384,206080,35-44,3,low,True,Full-time employed,Location & Schools,False
+H00397,Old Town,181264,826,2,2,3,1,0.11,True,False,E,5,5,7,6,2022-03-19,10,B00397,207622,35-44,1,low,False,Self-employed,Affordability,False
+H00406,Old Town,120000,1485,3,3,49,1,0.17,False,False,C,5,5,7,6,2024-01-19,56,B00406,139197,45-54,2,low,False,Full-time employed,Affordability,False
+H00428,Old Town,346211,2477,4,4,29,2,0.15,True,True,C,5,5,7,6,2024-06-11,18,B00428,398777,25-34,2,medium,False,Full-time employed,Space & Bedrooms,False
+H00468,Old Town,120785,1110,1,1,60,2,0.21,False,True,C,5,5,7,6,2023-02-11,137,B00468,130678,25-34,1,low,False,Full-time employed,Location & Schools,False
+H00474,Old Town,228798,1932,3,3,19,2,0.15,False,False,D,5,5,7,6,2023-07-03,67,B00474,265310,25-34,1,low,False,Full-time employed,Modern & Updated,True
+H00490,Old Town,120000,1209,2,2,17,1,0.12,False,False,C,5,5,7,6,2024-03-16,102,B00490,132162,25-34,1,low,False,Dual income,Space & Bedrooms,False
+H00514,Old Town,297707,1567,3,3,40,2,0.12,True,True,D,5,5,7,6,2023-06-14,21,B00514,315976,35-44,2,medium,False,Self-employed,Investment,True
+H00524,Old Town,131694,1128,2,2,34,0,0.17,True,False,C,5,5,7,6,2023-01-25,16,B00524,150178,65+,1,low,False,Retired,Low Maintenance,False
+H00525,Old Town,120000,800,2,2,17,1,0.13,False,False,E,5,5,7,6,2023-04-13,17,B00525,140203,35-44,1,low,False,Full-time employed,Space & Bedrooms,False
+H00530,Old Town,135367,1041,1,1,18,1,0.24,False,False,E,5,5,7,6,2024-04-12,38,B00530,142588,45-54,2,low,False,Full-time employed,Space & Bedrooms,False
+H00537,Old Town,136380,1139,2,3,8,1,0.12,False,False,E,5,5,7,6,2023-09-03,39,B00537,160529,45-54,1,low,False,Full-time employed,Space & Bedrooms,False
+H00552,Old Town,120000,800,1,1,12,1,0.09,True,False,E,5,5,7,6,2024-05-11,18,B00552,130000,25-34,1,low,False,Dual income,Affordability,False
+H00555,Old Town,167427,1552,2,2,23,1,0.19,False,False,D,5,5,7,6,2024-07-10,6,B00555,193359,25-34,1,low,False,Full-time employed,Modern & Updated,False
+H00575,Old Town,287725,1778,4,4,0,1,0.16,False,False,F,5,5,7,6,2024-10-26,30,B00575,323334,35-44,2,medium,False,Full-time employed,Affordability,False
+H00595,Old Town,221208,1058,2,2,2,1,0.2,True,False,E,5,5,7,6,2023-08-25,42,B00595,255268,25-34,1,low,False,Self-employed,Modern & Updated,False
+H00615,Old Town,120000,849,2,2,25,1,0.15,False,False,D,5,5,7,6,2023-01-15,58,B00615,130000,25-34,1,low,False,Full-time employed,Affordability,False
+H00632,Old Town,186958,1461,4,3,29,0,0.09,True,False,D,5,5,7,6,2023-06-26,3,B00632,197101,35-44,5,low,False,Full-time employed,Location & Schools,False
+H00646,Old Town,226292,1975,3,3,19,1,0.12,False,False,D,5,5,7,6,2023-02-21,11,B00646,248991,25-34,1,low,False,Full-time employed,Affordability,False
+H00672,Old Town,215468,2126,3,3,3,2,0.11,False,False,F,5,5,7,6,2022-07-13,33,B00672,243859,35-44,2,low,False,Full-time employed,Modern & Updated,False
+H00680,Old Town,326376,2208,3,3,1,2,0.12,True,False,F,5,5,7,6,2024-01-24,71,B00680,358129,35-44,2,medium,False,Self-employed,Location & Schools,False
+H00717,Old Town,216997,2197,3,4,22,1,0.13,False,False,D,5,5,7,6,2022-01-10,84,B00717,244014,25-34,1,low,False,Dual income,Space & Bedrooms,False
+H00726,Old Town,120000,827,2,2,6,2,0.09,False,False,F,5,5,7,6,2024-05-14,15,B00726,132416,25-34,1,low,False,Full-time employed,Location & Schools,False
+H00736,Old Town,120000,938,1,1,24,0,0.1,False,False,E,5,5,7,6,2023-08-17,31,B00736,133750,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H00746,Old Town,168563,1414,2,2,13,0,0.31,False,False,E,5,5,7,6,2023-05-21,31,B00746,191204,25-34,1,low,False,Self-employed,Low Maintenance,False
+H00759,Old Town,282959,2337,5,5,32,2,0.1,False,False,C,5,5,7,6,2022-09-13,42,B00759,310592,35-44,3,medium,False,Self-employed,Space & Bedrooms,False
+H00768,Old Town,120000,800,1,1,60,0,0.24,False,False,A,5,5,7,6,2023-06-10,43,B00768,130000,25-34,1,low,False,Full-time employed,Low Maintenance,False
+H00772,Old Town,355962,2135,5,5,23,1,0.14,False,False,D,5,5,7,6,2024-08-17,75,B00772,402063,35-44,2,medium,False,Dual income,Location & Schools,False
+H00796,Old Town,221602,1430,3,3,19,1,0.16,True,True,E,5,5,7,6,2024-06-01,22,B00796,239363,35-44,1,low,False,Full-time employed,Low Maintenance,False
+H00812,Old Town,120000,929,1,1,18,1,0.15,False,False,E,5,5,7,6,2022-01-28,19,B00812,134780,65+,1,low,False,Retired,Low Maintenance,False
+H00815,Old Town,340470,2460,4,4,0,2,0.24,False,False,F,5,5,7,6,2024-09-07,9,B00815,372591,45-54,3,medium,True,Full-time employed,Modern & Updated,False
+H00854,Old Town,120000,800,1,1,7,1,0.12,True,False,F,5,5,7,6,2023-06-12,12,B00854,137224,25-34,1,low,False,Self-employed,Space & Bedrooms,True
+H00869,Old Town,161232,1192,2,2,2,0,0.14,False,True,F,5,5,7,6,2024-08-08,15,B00869,181658,55-64,3,low,False,Full-time employed,Modern & Updated,False
+H00892,Old Town,284358,2028,4,4,34,2,0.12,False,True,C,5,5,7,6,2024-10-01,5,B00892,320200,55-64,4,medium,True,Full-time employed,Space & Bedrooms,False
+H00893,Old Town,247517,1890,3,3,18,1,0.32,False,False,C,5,5,7,6,2022-07-18,75,B00893,274708,35-44,1,low,False,Self-employed,Affordability,True
+H00898,Old Town,146723,800,2,2,11,2,0.2,False,False,E,5,5,7,6,2024-03-05,21,B00898,168557,45-54,2,low,False,Self-employed,Space & Bedrooms,False
+H00906,Old Town,283401,2310,4,5,13,1,0.21,False,False,D,5,5,7,6,2023-07-20,1,B00906,312825,45-54,3,medium,True,Dual income,Modern & Updated,False
+H00921,Old Town,150077,1350,2,2,7,1,0.15,True,False,F,5,5,7,6,2022-09-19,43,B00921,169747,25-34,1,low,False,Full-time employed,Location & Schools,True
+H00923,Old Town,120000,1459,3,3,52,1,0.23,False,False,A,5,5,7,6,2023-05-18,24,B00923,140403,35-44,3,low,False,Full-time employed,Location & Schools,False
+H00932,Old Town,255530,1878,3,3,10,2,0.12,False,False,D,5,5,7,6,2023-07-04,50,B00932,283862,25-34,1,medium,False,Full-time employed,Affordability,False
+H00949,Old Town,164434,1657,3,3,10,1,0.15,False,False,D,5,5,7,6,2022-01-28,13,B00949,181986,25-34,1,low,False,Full-time employed,Modern & Updated,False
+H01003,Old Town,231694,1725,3,3,9,0,0.18,True,False,F,5,5,7,6,2022-04-10,31,B01003,259531,25-34,1,low,False,Full-time employed,Location & Schools,False
+H01008,Old Town,138092,915,1,1,11,2,0.29,True,False,E,5,5,7,6,2022-02-14,58,B01008,149427,45-54,1,low,False,Self-employed,Space & Bedrooms,False
+H01027,Old Town,120000,800,1,2,21,1,0.29,False,False,D,5,5,7,6,2024-08-03,31,B01027,133028,35-44,1,low,False,Dual income,Affordability,False
+H01028,Old Town,150004,1198,2,2,27,0,0.14,False,True,C,5,5,7,6,2023-10-19,13,B01028,172110,35-44,1,low,False,Full-time employed,Modern & Updated,False
+H01045,Old Town,156300,1000,2,2,3,1,0.09,False,False,F,5,5,7,6,2022-09-09,27,B01045,181247,35-44,1,low,False,Full-time employed,Space & Bedrooms,False
+H01049,Old Town,187443,947,1,2,19,0,0.19,True,False,E,5,5,7,6,2024-10-23,46,B01049,199182,45-54,1,low,False,Dual income,Location & Schools,False
+H01051,Old Town,213531,1181,2,2,1,2,0.2,True,False,F,5,5,7,6,2024-09-18,29,B01051,224208,55-64,1,low,False,Full-time employed,Modern & Updated,False
+H01061,Old Town,189392,2067,3,3,14,1,0.12,False,False,E,5,5,7,6,2024-07-02,13,B01061,214789,55-64,2,low,False,Full-time employed,Location & Schools,False
+H01084,Old Town,180750,1644,3,3,7,1,0.13,False,True,F,5,5,7,6,2023-01-19,9,B01084,205147,25-34,2,low,False,Dual income,Location & Schools,False
+H01103,Old Town,120000,1029,2,2,35,2,0.17,False,True,C,5,5,7,6,2023-12-04,2,B01103,135849,25-34,1,low,False,Full-time employed,Affordability,False
+H01118,Old Town,223124,1326,2,2,6,1,0.11,True,False,F,5,5,7,6,2023-06-24,21,B01118,242480,35-44,2,low,False,Full-time employed,Modern & Updated,False
+H01121,Old Town,120000,823,2,2,60,2,0.12,False,False,A,5,5,7,6,2024-03-05,3,B01121,130000,25-34,1,low,False,Full-time employed,Affordability,True
+H01123,Old Town,125364,800,1,1,13,2,0.07,False,False,E,5,5,7,6,2023-06-12,6,B01123,139308,35-44,1,low,False,Self-employed,Affordability,False
+H01137,Old Town,120000,800,1,2,3,1,0.15,False,False,F,5,5,7,6,2023-04-15,20,B01137,135839,25-34,1,low,False,Self-employed,Space & Bedrooms,False
+H01146,Old Town,120000,1192,1,1,12,0,0.28,False,False,E,5,5,7,6,2023-05-05,1,B01146,130268,45-54,1,low,False,Dual income,Location & Schools,False
+H01149,Old Town,120000,1207,3,3,29,2,0.22,False,False,C,5,5,7,6,2022-04-03,13,B01149,130593,35-44,2,low,False,Self-employed,Location & Schools,False
+H01150,Old Town,266313,1736,3,4,6,1,0.27,True,False,F,5,5,7,6,2022-02-12,18,B01150,307235,25-34,1,medium,False,Full-time employed,Location & Schools,False
+H01152,Old Town,261651,2045,4,4,11,1,0.21,False,False,C,5,5,7,6,2023-01-01,33,B01152,289745,55-64,2,medium,False,Full-time employed,Investment,False
+H01158,Old Town,120000,800,2,2,5,1,0.17,False,False,E,5,5,7,6,2024-04-10,41,B01158,138580,55-64,1,low,False,Full-time employed,Modern & Updated,False
+H01159,Old Town,173305,1123,1,1,34,0,0.14,True,False,C,5,5,7,6,2024-02-08,44,B01159,196427,35-44,2,low,False,Full-time employed,Modern & Updated,False
+H01167,Old Town,158553,1227,2,2,0,0,0.18,False,True,F,5,5,7,6,2024-05-20,83,B01167,168510,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H01196,Old Town,313601,2670,5,5,60,2,0.15,True,False,A,5,5,7,6,2022-11-18,86,B01196,360070,35-44,3,medium,False,Full-time employed,Affordability,False
+H01231,Old Town,184886,1516,3,3,8,0,0.17,False,False,D,5,5,7,6,2024-06-18,5,B01231,217875,25-34,1,low,False,Dual income,Affordability,False
+H01237,Old Town,169155,1049,2,2,22,0,0.16,True,False,E,5,5,7,6,2023-06-18,27,B01237,179844,35-44,1,low,False,Full-time employed,Affordability,False
+H01241,Old Town,241119,1917,3,3,21,2,0.15,True,True,F,5,5,7,6,2024-06-01,12,B01241,276550,35-44,1,low,False,Full-time employed,Affordability,False
+H01244,Old Town,259790,1733,3,3,5,0,0.15,True,False,E,5,5,7,6,2023-04-20,10,B01244,273049,35-44,1,low,False,Self-employed,Modern & Updated,False
+H01272,Old Town,255406,2307,4,4,55,2,0.13,True,False,A,5,5,7,6,2023-12-06,120,B01272,288356,45-54,2,medium,False,Self-employed,Space & Bedrooms,False
+H01306,Old Town,141800,1105,2,2,5,0,0.16,False,False,F,5,5,7,6,2023-01-12,18,B01306,151276,25-34,1,low,False,Full-time employed,Modern & Updated,False
+H01312,Old Town,123724,1244,2,2,4,1,0.23,True,False,F,5,5,7,6,2023-01-01,115,B01312,137572,35-44,1,low,False,Self-employed,Space & Bedrooms,False
+H01323,Old Town,293364,3009,5,4,23,3,0.19,False,False,C,5,5,7,6,2024-12-11,82,B01323,339159,55-64,4,medium,False,Retired,Location & Schools,True
+H01343,Old Town,262127,2002,4,4,3,1,0.2,True,False,F,5,5,7,6,2023-12-13,47,B01343,286700,25-34,1,medium,False,Full-time employed,Modern & Updated,False
+H01351,Old Town,263418,1430,3,3,1,1,0.15,True,False,F,5,5,7,6,2024-07-11,15,B01351,282752,45-54,4,medium,True,Full-time employed,Location & Schools,False
+H01356,Old Town,120000,800,1,1,30,1,0.18,True,False,D,5,5,7,6,2022-05-14,62,B01356,130000,35-44,1,low,False,Self-employed,Affordability,False
+H01373,Old Town,153517,991,1,1,24,1,0.06,False,True,E,5,5,7,6,2022-05-18,28,B01373,163535,45-54,1,low,False,Self-employed,Low Maintenance,False
+H01376,Old Town,120000,800,1,1,17,2,0.12,True,False,F,5,5,7,6,2023-06-08,29,B01376,136723,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H01407,Old Town,120000,1054,1,1,5,1,0.12,True,False,F,5,5,7,6,2022-04-05,2,B01407,131165,55-64,1,low,False,Retired,Affordability,False
+H01410,Old Town,120000,800,2,2,1,1,0.13,True,False,F,5,5,7,6,2024-11-27,38,B01410,133694,25-34,1,low,False,Full-time employed,Affordability,False
+H01430,Old Town,231162,1604,2,2,23,1,0.21,True,False,E,5,5,7,6,2024-05-15,13,B01430,251533,45-54,1,low,False,Self-employed,Affordability,False
+H01445,Old Town,285979,2270,5,5,9,1,0.25,False,False,E,5,5,7,6,2022-05-20,16,B01445,320584,35-44,3,medium,True,Self-employed,Modern & Updated,False
+H01448,Old Town,288828,2255,3,4,25,2,0.19,True,False,E,5,5,7,6,2023-09-03,11,B01448,326879,25-34,1,medium,False,Full-time employed,Location & Schools,False
+H01453,Old Town,208159,1497,2,2,60,0,0.13,True,False,A,5,5,7,6,2022-04-11,11,B01453,239638,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H01469,Old Town,287098,1971,3,3,3,2,0.29,False,False,E,5,5,7,6,2024-11-27,59,B01469,301995,45-54,1,medium,False,Dual income,Location & Schools,False
+H01473,Old Town,213623,1928,4,4,33,2,0.17,False,False,B,5,5,7,6,2022-07-05,14,B01473,229388,35-44,3,low,True,Self-employed,Investment,False
+H01500,Old Town,120000,1081,2,1,5,0,0.1,False,False,F,5,5,7,6,2022-11-13,1,B01500,130989,25-34,1,low,False,Dual income,Space & Bedrooms,False
+H01518,Old Town,194619,1599,3,3,10,1,0.25,True,False,E,5,5,7,6,2023-09-28,98,B01518,213120,45-54,2,low,False,Dual income,Location & Schools,True
+H01554,Old Town,120000,982,2,2,6,1,0.12,False,False,E,5,5,7,6,2024-11-22,17,B01554,139612,35-44,2,low,False,Self-employed,Affordability,False
+H01559,Old Town,313428,2630,6,5,52,1,0.18,False,True,B,5,5,7,6,2022-07-21,25,B01559,333318,25-34,3,medium,False,Dual income,Location & Schools,False
+H01574,Old Town,212455,1265,1,2,37,0,0.15,True,True,C,5,5,7,6,2024-05-06,17,B01574,242148,25-34,1,low,False,Full-time employed,Space & Bedrooms,True
+H01600,Old Town,120000,829,1,1,20,0,0.15,False,False,C,5,5,7,6,2023-09-06,23,B01600,139219,25-34,1,low,False,Dual income,Location & Schools,False
+H01611,Old Town,160518,1346,2,2,37,0,0.14,False,True,C,5,5,7,6,2023-10-13,19,B01611,184888,25-34,1,low,False,Full-time employed,Affordability,False
+H01642,Old Town,225365,1718,4,4,1,1,0.15,False,False,F,5,5,7,6,2022-07-17,17,B01642,262225,25-34,1,low,False,Full-time employed,Modern & Updated,False
+H01666,Old Town,162367,1251,3,3,56,2,0.2,True,False,B,5,5,7,6,2022-07-13,27,B01666,175209,25-34,1,low,False,Full-time employed,Space & Bedrooms,True
+H01672,Old Town,120000,1177,4,4,27,2,0.27,False,False,D,5,5,7,6,2024-07-20,12,B01672,138964,25-34,2,low,False,Full-time employed,Affordability,False
+H01673,Old Town,194227,1511,3,3,56,2,0.15,True,True,B,5,5,7,6,2023-12-12,10,B01673,209553,55-64,1,low,False,Full-time employed,Low Maintenance,True
+H01686,Old Town,233515,1267,1,1,1,0,0.1,True,False,F,5,5,7,6,2024-04-24,7,B01686,274725,65+,1,low,False,Self-employed,Investment,False
+H01736,Old Town,120000,800,1,1,42,0,0.1,False,False,A,5,5,7,6,2023-06-17,58,B01736,140599,55-64,1,low,False,Retired,Space & Bedrooms,False
+H01762,Old Town,259673,2030,2,3,16,1,0.2,False,False,D,5,5,7,6,2023-06-22,4,B01762,275495,35-44,1,low,False,Full-time employed,Space & Bedrooms,False
+H01773,Old Town,122195,800,1,1,5,2,0.11,False,False,F,5,5,7,6,2024-06-09,15,B01773,130000,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H01780,Old Town,283455,2111,3,3,4,2,0.16,False,False,E,5,5,7,6,2024-01-27,13,B01780,300749,35-44,3,medium,True,Dual income,Space & Bedrooms,False
+H01786,Old Town,226563,1315,2,2,9,0,0.16,True,False,E,5,5,7,6,2024-06-04,55,B01786,238251,55-64,1,low,False,Self-employed,Location & Schools,False
+H01849,Old Town,161335,1731,3,3,24,1,0.11,False,False,D,5,5,7,6,2023-05-18,55,B01849,185600,45-54,1,low,False,Dual income,Space & Bedrooms,False
+H01853,Old Town,295126,1991,4,4,19,1,0.17,False,False,D,5,5,7,6,2022-06-15,3,B01853,311860,35-44,3,medium,True,Dual income,Location & Schools,False
+H01854,Old Town,221756,1247,2,2,3,2,0.18,False,False,E,5,5,7,6,2022-05-15,70,B01854,258933,55-64,2,low,False,Dual income,Space & Bedrooms,False
+H01859,Old Town,133066,1386,2,2,1,1,0.09,False,False,E,5,5,7,6,2023-11-03,25,B01859,142545,55-64,1,low,False,Full-time employed,Investment,False
+H01874,Old Town,287366,2102,3,3,9,2,0.29,False,False,F,5,5,7,6,2022-05-03,48,B01874,316160,35-44,2,medium,False,Full-time employed,Location & Schools,False
+H01882,Old Town,237368,1545,2,3,26,0,0.11,True,True,E,5,5,7,6,2024-06-16,5,B01882,262164,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H01912,Old Town,120421,912,3,2,43,2,0.13,False,False,A,5,5,7,6,2022-08-18,38,B01912,136441,25-34,1,low,False,Full-time employed,Modern & Updated,False
+H01917,Old Town,170424,1341,2,2,12,0,0.14,True,False,F,5,5,7,6,2022-05-22,9,B01917,191765,35-44,1,low,False,Full-time employed,Space & Bedrooms,False
+H01963,Old Town,191207,800,2,2,8,1,0.11,True,False,D,5,5,7,6,2022-05-04,9,B01963,217059,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H01972,Old Town,120000,1246,1,1,53,2,0.14,False,False,A,5,5,7,6,2022-10-08,36,B01972,130000,25-34,1,low,False,Self-employed,Affordability,False
+H01979,Old Town,197967,1287,1,1,4,2,0.15,False,False,F,5,5,7,6,2024-09-24,55,B01979,216186,35-44,1,low,False,Full-time employed,Modern & Updated,False
+H01980,Old Town,323233,2245,3,3,2,1,0.12,True,False,D,5,5,7,6,2022-07-21,17,B01980,344251,35-44,2,medium,False,Full-time employed,Modern & Updated,False
+H02018,Old Town,175912,1187,3,3,28,2,0.16,False,True,E,5,5,7,6,2024-10-24,80,B02018,205136,25-34,1,low,False,Dual income,Space & Bedrooms,False
+H02041,Old Town,388826,2930,5,5,3,2,0.26,False,False,F,5,5,7,6,2022-03-16,9,B02041,421657,25-34,2,medium,False,Full-time employed,Space & Bedrooms,False
+H02045,Old Town,120000,1253,2,2,36,0,0.08,False,False,C,5,5,7,6,2022-11-24,79,B02045,131714,35-44,1,low,False,Full-time employed,Investment,False
+H02055,Old Town,207778,1434,2,2,14,2,0.21,True,False,F,5,5,7,6,2024-12-11,146,B02055,219385,55-64,1,low,False,Retired,Investment,True
+H02074,Old Town,120000,1350,2,2,40,1,0.19,False,True,D,5,5,7,6,2024-12-06,24,B02074,135824,25-34,1,low,False,Full-time employed,Location & Schools,False
+H02075,Old Town,120000,800,2,2,1,2,0.17,True,False,F,5,5,7,6,2024-12-10,115,B02075,130000,25-34,1,low,False,Full-time employed,Location & Schools,False
+H02076,Old Town,149677,940,1,1,12,1,0.18,False,False,E,5,5,7,6,2022-09-27,16,B02076,158821,35-44,1,low,False,Full-time employed,Affordability,True
+H02107,Old Town,189319,1111,2,2,45,1,0.12,True,True,B,5,5,7,6,2023-12-28,37,B02107,202247,25-34,2,low,False,Self-employed,Modern & Updated,False
+H02114,Old Town,132408,1633,2,2,60,1,0.14,False,False,A,5,5,7,6,2023-05-25,17,B02114,147657,55-64,1,low,False,Full-time employed,Investment,False
+H02120,Old Town,276769,2001,4,4,5,2,0.16,False,False,E,5,5,7,6,2023-02-10,14,B02120,317651,35-44,2,medium,False,Self-employed,Location & Schools,False
+H02129,Old Town,120000,1032,2,2,19,0,0.1,False,False,D,5,5,7,6,2024-07-11,18,B02129,131228,45-54,1,low,False,Dual income,Affordability,False
+H02136,Old Town,189735,1577,2,2,60,1,0.19,False,True,A,5,5,7,6,2023-05-21,41,B02136,211431,35-44,2,low,False,Full-time employed,Affordability,False
+H02140,Old Town,239571,2259,5,4,17,2,0.21,False,False,E,5,5,7,6,2024-10-25,29,B02140,267436,35-44,4,low,False,Full-time employed,Affordability,False
+H02164,Old Town,167190,1250,2,2,0,1,0.15,False,False,F,5,5,7,6,2024-11-26,4,B02164,184824,35-44,2,low,False,Dual income,Space & Bedrooms,False
+H02174,Old Town,182784,1139,2,2,2,2,0.11,False,False,F,5,5,7,6,2022-05-13,8,B02174,207462,35-44,1,low,False,Dual income,Modern & Updated,False
+H02176,Old Town,120000,800,1,1,6,0,0.11,False,False,C,5,5,7,6,2022-07-06,9,B02176,138422,45-54,1,low,False,Full-time employed,Investment,False
+H02187,Old Town,214660,1790,4,4,5,1,0.16,True,False,F,5,5,7,6,2023-01-03,29,B02187,250475,55-64,4,low,True,Self-employed,Location & Schools,False
+H02198,Old Town,268481,2069,4,4,0,1,0.18,True,False,F,5,5,7,6,2022-08-11,10,B02198,305879,25-34,2,medium,False,Full-time employed,Location & Schools,False
+H02208,Old Town,241901,1803,3,3,1,2,0.15,False,False,E,5,5,7,6,2023-03-09,45,B02208,270327,25-34,1,low,False,Full-time employed,Affordability,False
+H02219,Old Town,218356,1334,2,2,50,1,0.13,False,True,B,5,5,7,6,2024-10-02,11,B02219,231129,25-34,1,low,False,Full-time employed,Location & Schools,False
+H02234,Old Town,193686,1868,3,3,26,1,0.2,False,False,D,5,5,7,6,2024-03-15,2,B02234,219482,25-34,1,low,False,Full-time employed,Affordability,False
+H02237,Old Town,195872,1654,1,1,9,1,0.15,False,True,F,5,5,7,6,2022-07-25,20,B02237,217795,55-64,1,low,False,Full-time employed,Space & Bedrooms,True
+H02245,Old Town,208968,1512,2,2,3,0,0.27,True,False,F,5,5,7,6,2024-08-14,5,B02245,246240,45-54,2,low,False,Self-employed,Modern & Updated,True
+H02248,Old Town,140144,1290,3,3,13,2,0.09,True,False,F,5,5,7,6,2023-08-08,45,B02248,154543,55-64,1,low,False,Full-time employed,Space & Bedrooms,False
+H02255,Old Town,213845,1266,3,3,11,0,0.29,True,False,E,5,5,7,6,2023-03-09,34,B02255,229360,35-44,2,low,False,Full-time employed,Affordability,False
+H02263,Old Town,134985,800,1,1,27,1,0.13,False,True,E,5,5,7,6,2023-02-02,29,B02263,147726,25-34,1,low,False,Self-employed,Modern & Updated,False
+H02312,Old Town,190969,1372,2,2,21,0,0.18,False,False,E,5,5,7,6,2022-05-18,3,B02312,209758,25-34,1,low,False,Full-time employed,Affordability,False
+H02354,Old Town,120000,801,2,1,16,1,0.16,False,False,E,5,5,7,6,2024-10-18,22,B02354,133989,25-34,1,low,False,Self-employed,Location & Schools,False
+H02372,Old Town,245260,2143,3,3,19,2,0.08,False,False,D,5,5,7,6,2024-03-04,10,B02372,284556,35-44,2,medium,False,Full-time employed,Affordability,True
+H02382,Old Town,295520,1937,2,2,11,2,0.21,True,False,E,5,5,7,6,2022-09-21,15,B02382,319722,35-44,1,medium,False,Full-time employed,Affordability,False
+H02395,Old Town,379114,2795,5,5,39,2,0.14,True,False,C,5,5,7,6,2023-06-17,14,B02395,430640,45-54,4,medium,False,Self-employed,Affordability,False
+H02430,Old Town,223215,1392,2,2,0,1,0.17,True,False,E,5,5,7,6,2022-10-25,97,B02430,244625,35-44,2,low,False,Dual income,Space & Bedrooms,False
+H02444,Old Town,185280,1073,2,2,51,1,0.22,True,True,D,5,5,7,6,2023-07-23,22,B02444,214026,35-44,1,low,False,Full-time employed,Space & Bedrooms,False
+H02462,Old Town,267693,1794,3,3,1,1,0.11,True,False,F,5,5,7,6,2024-07-26,68,B02462,292617,35-44,2,medium,False,Dual income,Space & Bedrooms,False
+H02476,Old Town,289613,2113,4,4,38,1,0.15,False,True,C,5,5,7,6,2022-08-07,16,B02476,323178,25-34,2,medium,False,Full-time employed,Affordability,False
+H02482,Old Town,129865,806,2,2,8,2,0.11,False,False,E,5,5,7,6,2022-06-01,10,B02482,142408,25-34,1,low,False,Full-time employed,Location & Schools,False
+H02488,Old Town,128055,1064,1,1,14,0,0.08,True,True,F,5,5,7,6,2024-12-05,79,B02488,136140,25-34,1,low,False,Self-employed,Space & Bedrooms,False
+H02498,Old Town,316604,2139,3,4,44,2,0.11,False,True,C,5,5,7,6,2022-06-06,38,B02498,352309,45-54,2,medium,False,Full-time employed,Modern & Updated,False
+H02507,Old Town,206578,1742,3,3,53,1,0.17,False,False,B,5,5,7,6,2023-06-17,18,B02507,235215,25-34,2,low,False,Full-time employed,Location & Schools,False
+H02509,Old Town,199721,1548,3,3,3,0,0.16,False,False,F,5,5,7,6,2022-01-09,1,B02509,232183,35-44,2,low,False,Full-time employed,Affordability,False
+H02510,Old Town,240639,1654,3,3,25,0,0.22,True,True,D,5,5,7,6,2024-11-18,80,B02510,262229,45-54,1,low,False,Full-time employed,Space & Bedrooms,False
+H02512,Old Town,246575,1855,2,2,0,1,0.17,False,False,E,5,5,7,6,2024-01-07,138,B02512,280757,45-54,2,medium,False,Dual income,Investment,False
+H02536,Old Town,120000,800,1,1,1,2,0.14,False,False,E,5,5,7,6,2024-09-02,24,B02536,135833,25-34,1,low,False,Full-time employed,Affordability,False
+H02543,Old Town,139502,1713,3,2,60,0,0.14,False,True,A,5,5,7,6,2023-07-27,10,B02543,153512,25-34,1,low,False,Full-time employed,Investment,False
+H02582,Old Town,120000,1247,2,2,14,0,0.13,False,False,E,5,5,7,6,2022-08-18,7,B02582,130430,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H02611,Old Town,159366,1340,1,1,32,1,0.16,False,False,C,5,5,7,6,2024-08-03,19,B02611,170334,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H02619,Old Town,306236,2420,5,5,30,1,0.11,False,True,C,5,5,7,6,2023-05-18,7,B02619,361274,35-44,3,medium,True,Dual income,Modern & Updated,False
+H02622,Old Town,214036,1396,3,2,60,0,0.22,False,True,A,5,5,7,6,2024-03-09,40,B02622,235965,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H02658,Old Town,120000,1296,3,3,60,1,0.15,False,False,A,5,5,7,6,2024-07-16,58,B02658,139200,25-34,2,low,False,Full-time employed,Low Maintenance,False
+H02662,Old Town,120000,1337,2,2,20,0,0.14,False,False,D,5,5,7,6,2022-07-12,1,B02662,136497,45-54,2,low,False,Self-employed,Modern & Updated,False
+H02675,Old Town,120000,1640,3,3,22,0,0.11,False,False,C,5,5,7,6,2024-03-18,23,B02675,134208,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H02682,Old Town,273368,1934,3,3,14,1,0.19,False,False,E,5,5,7,6,2022-12-23,54,B02682,316590,25-34,1,medium,False,Self-employed,Modern & Updated,False
+H02719,Old Town,133095,1573,3,3,60,0,0.13,False,False,A,5,5,7,6,2024-02-18,55,B02719,151449,25-34,1,low,False,Dual income,Affordability,False
+H02721,Old Town,120000,879,2,2,17,2,0.2,True,True,E,5,5,7,6,2022-05-09,70,B02721,130000,35-44,2,low,False,Dual income,Location & Schools,False
+H02758,Old Town,276520,2119,3,3,17,2,0.22,False,False,D,5,5,7,6,2023-10-25,7,B02758,321428,35-44,4,medium,True,Dual income,Space & Bedrooms,False
+H02782,Old Town,247461,1637,4,4,60,2,0.2,True,True,A,5,5,7,6,2022-08-23,31,B02782,273818,25-34,2,low,False,Full-time employed,Space & Bedrooms,False
+H02785,Old Town,333766,2620,4,4,14,1,0.2,False,False,C,5,5,7,6,2024-09-25,12,B02785,393431,35-44,4,medium,True,Full-time employed,Location & Schools,False
+H02826,Old Town,156170,1005,2,2,14,1,0.09,False,False,D,5,5,7,6,2023-07-11,1,B02826,167090,35-44,1,low,False,Dual income,Affordability,False
+H02861,Old Town,240423,1846,3,3,8,1,0.22,False,False,D,5,5,7,6,2024-07-12,2,B02861,261958,45-54,2,low,False,Full-time employed,Location & Schools,True
+H02871,Old Town,271117,1824,2,2,0,2,0.18,False,False,E,5,5,7,6,2024-10-01,61,B02871,288732,35-44,1,medium,False,Dual income,Location & Schools,False
+H02873,Old Town,207417,2092,3,3,60,1,0.16,False,False,A,5,5,7,6,2024-12-05,34,B02873,230611,35-44,2,low,False,Full-time employed,Location & Schools,False
+H02882,Old Town,198643,1655,3,3,15,0,0.18,True,False,D,5,5,7,6,2024-06-12,23,B02882,223870,25-34,1,low,False,Self-employed,Space & Bedrooms,False
+H02890,Old Town,120000,800,2,2,19,1,0.18,False,False,E,5,5,7,6,2022-06-05,131,B02890,141260,35-44,1,low,False,Self-employed,Modern & Updated,False
+H02896,Old Town,392784,2267,5,5,15,2,0.16,True,True,F,5,5,7,6,2024-06-08,66,B02896,450576,25-34,3,medium,True,Full-time employed,Location & Schools,False
+H02918,Old Town,157496,1232,1,1,22,1,0.18,False,False,E,5,5,7,6,2022-02-22,94,B02918,184002,25-34,1,low,False,Full-time employed,Affordability,False
+H02958,Old Town,262630,1324,2,3,1,1,0.15,True,True,F,5,5,7,6,2024-07-26,27,B02958,278565,35-44,1,low,False,Dual income,Location & Schools,False
+H02965,Old Town,170051,1326,3,3,9,0,0.18,False,False,F,5,5,7,6,2022-06-03,28,B02965,180994,25-34,1,low,False,Full-time employed,Affordability,False
+H02977,Old Town,166087,1204,3,3,36,0,0.09,True,True,E,5,5,7,6,2022-07-23,9,B02977,190816,25-34,2,low,False,Full-time employed,Location & Schools,False
+H02990,Old Town,198593,1657,4,4,30,0,0.21,False,False,B,5,5,7,6,2023-07-26,20,B02990,226138,25-34,2,low,False,Self-employed,Location & Schools,False
+H02996,Old Town,120000,1064,1,1,50,1,0.13,False,False,B,5,5,7,6,2022-04-12,54,B02996,140385,55-64,1,low,False,Self-employed,Affordability,False
+H03000,Old Town,207844,1946,3,4,4,1,0.12,False,False,F,5,5,7,6,2022-06-27,14,B03000,243369,55-64,3,low,True,Retired,Modern & Updated,False
+H03006,Old Town,180665,1677,4,3,0,1,0.1,False,False,F,5,5,7,6,2024-08-22,24,B03006,195955,35-44,2,low,False,Self-employed,Affordability,False
+H03076,Old Town,244378,2159,3,3,20,1,0.16,False,False,F,5,5,7,6,2022-02-08,13,B03076,262399,35-44,2,low,False,Full-time employed,Space & Bedrooms,False
+H03082,Old Town,120000,896,1,1,31,0,0.13,False,False,B,5,5,7,6,2023-04-13,19,B03082,131587,25-34,1,low,False,Full-time employed,Space & Bedrooms,True
+H03094,Old Town,345754,1864,3,2,17,1,0.16,True,True,E,5,5,7,6,2022-09-11,26,B03094,382548,25-34,1,medium,False,Full-time employed,Space & Bedrooms,False
+H03116,Old Town,156794,1684,3,3,1,1,0.12,False,False,F,5,5,7,6,2023-01-04,71,B03116,177046,25-34,1,low,False,Dual income,Affordability,False
+H03130,Old Town,120000,996,3,3,40,1,0.11,False,False,C,5,5,7,6,2022-11-09,15,B03130,139147,35-44,1,low,False,Dual income,Low Maintenance,False
+H03147,Old Town,146663,1250,2,2,16,1,0.19,False,False,E,5,5,7,6,2024-04-02,5,B03147,154478,25-34,1,low,False,Full-time employed,Location & Schools,True
+H03178,Old Town,307595,2058,3,3,6,1,0.09,False,False,E,5,5,7,6,2022-03-14,45,B03178,328969,25-34,1,medium,False,Full-time employed,Affordability,False
+H03198,Old Town,307020,2410,4,4,19,1,0.11,True,False,D,5,5,7,6,2024-10-21,30,B03198,327802,25-34,1,medium,False,Full-time employed,Location & Schools,False
+H03204,Old Town,364990,2028,4,3,5,1,0.16,True,True,F,5,5,7,6,2024-05-06,36,B03204,401708,45-54,4,medium,False,Full-time employed,Location & Schools,False
+H03206,Old Town,148461,1878,3,4,51,1,0.23,False,False,B,5,5,7,6,2024-04-28,1,B03206,156756,65+,1,low,False,Retired,Affordability,False
+H03207,Old Town,191225,1237,2,2,21,1,0.11,False,True,F,5,5,7,6,2024-05-21,30,B03207,210070,25-34,1,low,False,Full-time employed,Location & Schools,False
+H03226,Old Town,126481,1716,3,3,40,0,0.18,True,False,C,5,5,7,6,2023-04-16,48,B03226,143572,55-64,1,low,False,Full-time employed,Location & Schools,False
+H03249,Old Town,142298,1671,3,3,33,1,0.06,False,False,C,5,5,7,6,2022-06-07,2,B03249,164474,35-44,2,low,False,Self-employed,Location & Schools,False
+H03260,Old Town,120000,1011,3,2,18,0,0.16,False,False,D,5,5,7,6,2023-11-12,63,B03260,134745,65+,1,low,False,Full-time employed,Investment,False
+H03275,Old Town,120000,800,1,1,55,1,0.17,True,False,A,5,5,7,6,2022-06-12,65,B03275,130000,45-54,2,low,False,Full-time employed,Modern & Updated,False
+H03277,Old Town,154197,853,1,1,3,2,0.14,False,False,F,5,5,7,6,2022-09-14,40,B03277,173427,35-44,1,low,False,Dual income,Location & Schools,False
+H03283,Old Town,236948,2118,3,3,60,1,0.2,False,True,B,5,5,7,6,2022-05-21,39,B03283,259610,35-44,1,low,False,Full-time employed,Space & Bedrooms,False
+H03284,Old Town,120000,800,3,2,16,1,0.17,False,False,C,5,5,7,6,2023-01-11,128,B03284,131857,25-34,2,low,False,Full-time employed,Modern & Updated,False
+H03292,Old Town,203278,2110,4,4,3,1,0.22,False,False,F,5,5,7,6,2022-04-01,39,B03292,239288,55-64,1,low,False,Self-employed,Location & Schools,False
+H03335,Old Town,139324,1423,3,3,60,1,0.2,False,True,A,5,5,7,6,2024-05-11,10,B03335,149703,35-44,2,low,False,Self-employed,Location & Schools,False
+H03341,Old Town,150121,1616,3,3,15,1,0.13,False,False,E,5,5,7,6,2024-01-20,38,B03341,164590,55-64,1,low,False,Dual income,Affordability,False
+H03386,Old Town,120000,800,1,1,47,1,0.21,False,False,A,5,5,7,6,2022-07-10,16,B03386,138692,35-44,1,low,False,Full-time employed,Modern & Updated,False
+H03392,Old Town,156725,1337,2,2,17,0,0.14,True,False,E,5,5,7,6,2023-06-12,40,B03392,166997,45-54,1,low,False,Full-time employed,Space & Bedrooms,False
+H03393,Old Town,137572,1335,3,3,6,1,0.3,False,False,F,5,5,7,6,2023-05-08,70,B03393,153736,35-44,1,low,False,Full-time employed,Investment,False
+H03398,Old Town,120000,800,1,1,10,1,0.14,False,False,E,5,5,7,6,2022-01-07,14,B03398,130000,25-34,1,low,False,Full-time employed,Location & Schools,False
+H03407,Old Town,120000,800,1,1,6,1,0.15,True,False,F,5,5,7,6,2024-07-06,29,B03407,131404,25-34,1,low,False,Full-time employed,Location & Schools,False
+H03425,Old Town,125868,1467,3,3,48,2,0.18,True,False,B,5,5,7,6,2023-07-05,37,B03425,142371,25-34,2,low,False,Dual income,Space & Bedrooms,False
+H03429,Old Town,120000,800,1,1,60,0,0.12,False,False,A,5,5,7,6,2023-05-12,28,B03429,132674,65+,1,low,False,Retired,Location & Schools,True
+H03469,Old Town,138574,800,2,2,17,2,0.15,False,False,E,5,5,7,6,2024-11-25,33,B03469,146161,35-44,1,low,False,Dual income,Affordability,False
+H03475,Old Town,167891,1693,3,3,21,1,0.15,False,False,D,5,5,7,6,2023-08-25,9,B03475,184302,25-34,1,low,False,Full-time employed,Affordability,False
+H03493,Old Town,125922,1131,3,2,24,1,0.29,True,False,D,5,5,7,6,2022-09-16,42,B03493,143411,35-44,2,low,False,Full-time employed,Affordability,False
+H03494,Old Town,177210,2172,3,3,54,2,0.19,False,False,B,5,5,7,6,2022-08-18,42,B03494,200340,25-34,1,low,False,Full-time employed,Modern & Updated,False
+H03497,Old Town,153118,1401,2,2,13,0,0.19,False,False,E,5,5,7,6,2022-07-24,12,B03497,176244,35-44,1,low,False,Self-employed,Location & Schools,False
+H03498,Old Town,120000,800,1,1,8,1,0.21,False,False,C,5,5,7,6,2022-09-27,6,B03498,130000,35-44,1,low,False,Full-time employed,Location & Schools,False
+H03505,Old Town,246343,1555,3,3,44,1,0.18,True,True,C,5,5,7,6,2023-08-06,87,B03505,280775,65+,1,medium,False,Retired,Location & Schools,False
+H03509,Old Town,120000,1147,2,2,5,1,0.21,False,False,E,5,5,7,6,2024-08-04,48,B03509,137318,25-34,1,low,False,Full-time employed,Affordability,False
+H03515,Old Town,228243,1531,2,2,2,1,0.1,False,False,F,5,5,7,6,2024-04-03,31,B03515,267989,35-44,1,low,False,Self-employed,Modern & Updated,False
+H03545,Old Town,123193,1618,2,3,35,0,0.25,True,False,D,5,5,7,6,2024-04-26,12,B03545,131246,35-44,1,low,False,Full-time employed,Modern & Updated,True
+H03570,Old Town,120000,800,2,1,42,1,0.19,False,False,B,5,5,7,6,2023-06-18,4,B03570,130064,25-34,1,low,False,Full-time employed,Location & Schools,False
+H03573,Old Town,149658,1647,1,1,26,2,0.21,False,False,D,5,5,7,6,2024-08-10,12,B03573,158076,55-64,1,low,False,Full-time employed,Space & Bedrooms,False
+H03575,Old Town,285807,2541,4,4,1,2,0.13,False,False,F,5,5,7,6,2022-03-23,13,B03575,317114,25-34,1,medium,False,Dual income,Affordability,False
+H03582,Old Town,195358,1720,3,3,27,1,0.12,False,False,D,5,5,7,6,2024-03-05,6,B03582,225962,35-44,2,low,False,Full-time employed,Affordability,False
+H03584,Old Town,120000,846,2,2,52,1,0.17,False,False,A,5,5,7,6,2022-10-03,59,B03584,141497,35-44,2,low,False,Full-time employed,Location & Schools,False
+H03618,Old Town,182214,1520,3,3,13,1,0.18,True,False,F,5,5,7,6,2023-09-22,106,B03618,208166,55-64,1,low,False,Dual income,Modern & Updated,False
+H03624,Old Town,145454,1171,2,2,60,1,0.2,True,False,B,5,5,7,6,2024-08-21,18,B03624,155818,25-34,1,low,False,Full-time employed,Location & Schools,False
+H03628,Old Town,214362,1777,3,3,4,1,0.17,False,False,E,5,5,7,6,2022-03-17,22,B03628,229146,55-64,2,low,False,Retired,Space & Bedrooms,False
+H03667,Old Town,195859,1502,2,2,42,1,0.1,True,False,A,5,5,7,6,2022-05-17,16,B03667,206281,25-34,1,low,False,Dual income,Affordability,False
+H03704,Old Town,129956,1029,2,2,7,2,0.11,False,False,E,5,5,7,6,2022-09-04,30,B03704,151749,25-34,1,low,False,Self-employed,Modern & Updated,False
+H03706,Old Town,120000,1023,1,2,3,1,0.16,False,False,F,5,5,7,6,2024-11-10,1,B03706,130000,25-34,1,low,False,Self-employed,Modern & Updated,False
+H03722,Old Town,131270,1503,3,3,2,1,0.12,False,False,F,5,5,7,6,2024-08-16,3,B03722,146112,25-34,1,low,False,Full-time employed,Location & Schools,False
+H03750,Old Town,268175,1827,3,4,11,2,0.17,False,False,F,5,5,7,6,2024-02-16,11,B03750,290001,35-44,1,medium,False,Full-time employed,Location & Schools,False
+H03751,Old Town,120309,1086,3,2,60,0,0.19,True,True,B,5,5,7,6,2022-07-28,15,B03751,130000,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H03760,Old Town,284557,1601,2,2,26,2,0.12,True,True,E,5,5,7,6,2024-04-12,44,B03760,331616,35-44,1,medium,False,Full-time employed,Affordability,False
+H03780,Old Town,120000,800,1,1,51,2,0.1,False,False,A,5,5,7,6,2022-07-11,8,B03780,131706,25-34,1,low,False,Self-employed,Space & Bedrooms,False
+H03829,Old Town,236938,1650,3,3,11,1,0.13,False,False,D,5,5,7,6,2022-04-18,22,B03829,277997,45-54,2,low,False,Dual income,Affordability,False
+H03860,Old Town,171207,1371,2,2,22,0,0.13,True,False,E,5,5,7,6,2022-04-10,6,B03860,190088,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H03878,Old Town,285431,2100,4,4,26,2,0.07,False,False,D,5,5,7,6,2022-01-19,93,B03878,312745,35-44,1,medium,False,Self-employed,Low Maintenance,False
+H03885,Old Town,120000,800,2,2,24,2,0.09,False,False,C,5,5,7,6,2024-10-27,57,B03885,130000,25-34,1,low,False,Full-time employed,Location & Schools,False
+H03898,Old Town,216341,1640,2,2,60,0,0.14,True,True,A,5,5,7,6,2024-08-03,24,B03898,236232,25-34,1,low,False,Self-employed,Space & Bedrooms,False
+H03900,Old Town,256691,1587,3,3,2,1,0.21,True,False,E,5,5,7,6,2024-12-15,4,B03900,270964,45-54,2,low,False,Dual income,Modern & Updated,False
+H03905,Old Town,302328,2325,4,4,4,2,0.1,False,False,E,5,5,7,6,2024-08-15,31,B03905,330512,35-44,2,medium,False,Dual income,Space & Bedrooms,False
+H03942,Old Town,253650,1758,2,2,12,1,0.22,True,False,F,5,5,7,6,2023-01-22,85,B03942,293279,35-44,1,medium,False,Full-time employed,Space & Bedrooms,False
+H03952,Old Town,142429,1031,2,2,60,2,0.3,True,False,A,5,5,7,6,2023-06-16,63,B03952,157243,25-34,1,low,False,Full-time employed,Affordability,False
+H03956,Old Town,142315,1318,2,2,6,2,0.13,False,False,E,5,5,7,6,2022-07-12,2,B03956,149683,25-34,1,low,False,Full-time employed,Location & Schools,False
+H03981,Old Town,289274,2057,3,3,48,2,0.08,True,False,A,5,5,7,6,2022-05-16,27,B03981,311407,65+,1,medium,False,Retired,Investment,False
+H03990,Old Town,120000,800,1,1,22,0,0.11,False,False,E,5,5,7,6,2023-04-07,66,B03990,138832,35-44,2,low,False,Dual income,Affordability,False
+H04017,Old Town,227455,2108,3,3,16,1,0.09,False,False,D,5,5,7,6,2024-04-21,6,B04017,246685,35-44,2,low,False,Full-time employed,Affordability,True
+H04018,Old Town,373230,2634,4,4,60,2,0.16,False,True,A,5,5,7,6,2024-06-08,18,B04018,416985,55-64,1,medium,False,Dual income,Investment,True
+H04041,Old Town,190004,1097,2,2,1,2,0.18,False,False,F,5,5,7,6,2023-06-26,50,B04041,205851,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H04049,Old Town,209074,1546,2,2,21,1,0.22,False,False,E,5,5,7,6,2023-03-20,7,B04049,227639,55-64,1,low,False,Retired,Modern & Updated,False
+H04059,Old Town,225341,1516,3,3,7,1,0.18,False,False,E,5,5,7,6,2022-12-12,10,B04059,259202,25-34,2,low,False,Dual income,Modern & Updated,False
+H04065,Old Town,126531,891,2,1,1,2,0.14,False,False,F,5,5,7,6,2023-11-03,8,B04065,134586,55-64,2,low,False,Retired,Affordability,False
+H04070,Old Town,275418,1339,2,2,30,0,0.2,True,False,A,5,5,7,6,2022-06-27,15,B04070,313323,55-64,1,medium,False,Retired,Location & Schools,False
+H04089,Old Town,158120,800,1,1,1,0,0.26,True,False,F,5,5,7,6,2022-11-02,49,B04089,183054,55-64,1,low,False,Full-time employed,Low Maintenance,False
+H04109,Old Town,227723,1468,3,3,50,0,0.13,False,True,C,5,5,7,6,2024-11-06,5,B04109,252465,25-34,1,low,False,Self-employed,Affordability,False
+H04144,Old Town,181450,1578,3,3,30,1,0.13,True,True,D,5,5,7,6,2023-11-08,4,B04144,196324,65+,1,low,False,Dual income,Location & Schools,False
+H04158,Old Town,259365,2417,5,5,60,1,0.11,False,True,B,5,5,7,6,2022-02-08,12,B04158,286150,65+,2,medium,False,Retired,Location & Schools,False
+H04175,Old Town,120000,903,2,2,44,1,0.24,False,False,C,5,5,7,6,2024-07-03,35,B04175,140033,25-34,1,low,False,Full-time employed,Affordability,False
+H04192,Old Town,198644,1078,1,2,9,1,0.09,True,True,F,5,5,7,6,2023-11-15,47,B04192,213235,65+,1,low,False,Retired,Low Maintenance,False
+H04201,Old Town,156188,1907,2,2,46,1,0.21,False,False,C,5,5,7,6,2023-02-25,13,B04201,181057,25-34,1,low,False,Self-employed,Location & Schools,False
+H04223,Old Town,218273,1596,3,3,9,1,0.25,False,False,E,5,5,7,6,2022-06-13,4,B04223,238378,35-44,1,low,False,Full-time employed,Location & Schools,False
+H04262,Old Town,210960,1380,3,2,28,0,0.21,True,False,D,5,5,7,6,2023-07-08,16,B04262,247982,35-44,1,low,False,Full-time employed,Investment,False
+H04287,Old Town,206657,1692,2,2,4,1,0.15,False,False,F,5,5,7,6,2024-12-13,130,B04287,218694,45-54,1,low,False,Self-employed,Space & Bedrooms,True
+H04314,Old Town,158342,1633,3,2,5,0,0.14,False,False,F,5,5,7,6,2023-11-24,2,B04314,167646,45-54,3,low,True,Full-time employed,Affordability,False
+H04378,Old Town,287188,1922,3,3,60,2,0.14,True,False,A,5,5,7,6,2023-01-24,46,B04378,316742,35-44,1,medium,False,Full-time employed,Affordability,False
+H04385,Old Town,120000,800,1,1,60,1,0.16,False,True,B,5,5,7,6,2024-08-28,79,B04385,141142,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H04396,Old Town,296961,2684,5,5,18,1,0.18,False,False,C,5,5,7,6,2024-11-13,29,B04396,342306,45-54,5,medium,False,Dual income,Affordability,False
+H04441,Old Town,121277,998,2,2,8,1,0.18,False,False,D,5,5,7,6,2022-12-28,23,B04441,139584,25-34,1,low,False,Full-time employed,Location & Schools,False
+H04442,Old Town,186199,1244,2,2,33,1,0.21,False,False,C,5,5,7,6,2023-06-05,20,B04442,197644,25-34,2,low,False,Full-time employed,Location & Schools,False
+H04453,Old Town,120000,1137,2,2,34,0,0.12,False,True,D,5,5,7,6,2024-04-05,46,B04453,139334,25-34,1,low,False,Full-time employed,Affordability,False
+H04455,Old Town,168611,1384,3,3,42,0,0.15,False,True,C,5,5,7,6,2024-11-02,31,B04455,193135,25-34,1,low,False,Full-time employed,Affordability,True
+H04470,Old Town,328905,2361,4,4,25,1,0.11,True,False,D,5,5,7,6,2022-11-09,53,B04470,381639,45-54,2,medium,False,Full-time employed,Modern & Updated,False
+H04518,Old Town,382671,2433,4,3,15,2,0.2,False,True,E,5,5,7,6,2023-11-02,12,B04518,409137,35-44,2,medium,False,Dual income,Space & Bedrooms,False
+H04521,Old Town,120000,800,3,2,2,0,0.13,False,False,E,5,5,7,6,2023-04-09,16,B04521,130000,25-34,1,low,False,Full-time employed,Modern & Updated,False
+H04523,Old Town,120000,834,2,2,5,1,0.1,False,False,D,5,5,7,6,2022-11-21,42,B04523,132316,25-34,2,low,False,Full-time employed,Space & Bedrooms,False
+H04554,Old Town,154461,1030,3,3,10,2,0.1,True,False,E,5,5,7,6,2023-10-10,58,B04554,181495,25-34,3,low,False,Dual income,Investment,False
+H04563,Old Town,147210,1438,2,2,10,2,0.2,False,False,E,5,5,7,6,2023-04-10,29,B04563,156847,65+,1,low,False,Retired,Investment,False
+H04566,Old Town,120000,1016,1,1,3,1,0.18,False,False,E,5,5,7,6,2024-02-15,44,B04566,130046,35-44,1,low,False,Full-time employed,Space & Bedrooms,True
+H04570,Old Town,154463,1626,3,3,20,2,0.12,False,False,D,5,5,7,6,2023-05-22,180,B04570,168940,25-34,2,low,False,Full-time employed,Space & Bedrooms,False
+H04606,Old Town,168898,1657,2,2,13,0,0.08,False,False,E,5,5,7,6,2022-05-01,5,B04606,181254,25-34,1,low,False,Full-time employed,Location & Schools,False
+H04607,Old Town,190291,1158,2,2,0,0,0.26,False,False,F,5,5,7,6,2023-05-16,32,B04607,210895,35-44,1,low,False,Full-time employed,Space & Bedrooms,False
+H04618,Old Town,158568,1304,2,2,38,1,0.12,False,True,D,5,5,7,6,2023-04-27,21,B04618,173915,45-54,2,low,False,Full-time employed,Space & Bedrooms,False
+H04620,Old Town,120000,800,1,1,60,0,0.12,False,True,C,5,5,7,6,2023-02-04,29,B04620,130000,25-34,1,low,False,Full-time employed,Affordability,False
+H04621,Old Town,256204,2425,3,3,5,1,0.18,False,False,F,5,5,7,6,2024-09-15,8,B04621,276065,25-34,2,low,False,Full-time employed,Space & Bedrooms,False
+H04634,Old Town,120000,860,2,2,15,2,0.12,False,False,E,5,5,7,6,2024-04-27,5,B04634,141597,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H04643,Old Town,245505,1986,3,3,26,2,0.14,False,True,E,5,5,7,6,2023-04-27,1,B04643,278642,45-54,3,low,False,Self-employed,Location & Schools,False
+H04649,Old Town,170037,1073,1,1,30,1,0.15,True,False,D,5,5,7,6,2024-06-19,13,B04649,192677,45-54,1,low,False,Self-employed,Affordability,False
+H04654,Old Town,230657,1380,2,3,0,1,0.1,False,False,F,5,5,7,6,2023-01-12,68,B04654,263790,55-64,2,low,False,Retired,Location & Schools,False
+H04657,Old Town,120000,1664,3,3,35,1,0.17,False,False,C,5,5,7,6,2023-02-09,20,B04657,135822,45-54,2,low,False,Full-time employed,Space & Bedrooms,False
+H04668,Old Town,204459,1735,2,2,8,2,0.14,False,False,F,5,5,7,6,2022-04-26,27,B04668,234923,35-44,1,low,False,Full-time employed,Space & Bedrooms,False
+H04672,Old Town,188211,1746,3,3,6,1,0.08,True,False,F,5,5,7,6,2023-05-20,19,B04672,220232,35-44,2,low,False,Dual income,Affordability,False
+H04676,Old Town,120000,1133,3,3,44,1,0.09,False,False,B,5,5,7,6,2023-09-02,9,B04676,137416,35-44,3,low,True,Full-time employed,Investment,False
+H04696,Old Town,237318,2134,4,4,0,2,0.11,False,False,F,5,5,7,6,2022-04-16,1,B04696,259851,45-54,3,low,True,Self-employed,Location & Schools,False
+H04728,Old Town,191214,1605,3,3,50,0,0.13,False,True,B,5,5,7,6,2024-02-21,47,B04728,202717,45-54,4,low,False,Full-time employed,Affordability,False
+H04755,Old Town,120000,990,1,1,19,1,0.16,False,False,D,5,5,7,6,2023-06-01,40,B04755,130000,45-54,1,low,False,Full-time employed,Affordability,False
+H04756,Old Town,120000,1083,2,2,17,1,0.15,False,False,C,5,5,7,6,2023-05-28,61,B04756,130000,25-34,1,low,False,Full-time employed,Location & Schools,False
+H04767,Old Town,344612,2302,4,3,15,1,0.1,True,False,D,5,5,7,6,2023-06-21,2,B04767,384999,25-34,1,medium,False,Full-time employed,Space & Bedrooms,False
+H04787,Old Town,154047,800,1,1,60,1,0.17,True,True,A,5,5,7,6,2022-06-10,28,B04787,174836,25-34,1,low,False,Full-time employed,Affordability,False
+H04810,Old Town,182732,2014,4,4,8,1,0.16,False,False,F,5,5,7,6,2023-05-05,3,B04810,214094,25-34,2,low,False,Dual income,Location & Schools,False
+H04812,Old Town,177771,1249,2,3,10,1,0.13,False,False,F,5,5,7,6,2022-07-21,62,B04812,206667,35-44,1,low,False,Dual income,Affordability,False
+H04819,Old Town,197655,1700,4,4,53,0,0.11,False,True,C,5,5,7,6,2023-06-02,18,B04819,217281,25-34,2,low,False,Dual income,Affordability,False
+H04860,Old Town,120000,915,2,2,16,1,0.18,False,False,F,5,5,7,6,2023-06-13,10,B04860,130000,25-34,1,low,False,Full-time employed,Location & Schools,False
+H04886,Old Town,232378,1777,4,4,5,1,0.1,False,False,E,5,5,7,6,2024-11-02,82,B04886,250205,25-34,2,low,False,Full-time employed,Low Maintenance,False
+H04911,Old Town,232526,1849,2,3,33,1,0.14,False,False,B,5,5,7,6,2024-02-09,1,B04911,252461,35-44,1,low,False,Self-employed,Space & Bedrooms,False
+H04924,Old Town,120000,800,2,2,21,2,0.25,False,False,D,5,5,7,6,2022-11-26,49,B04924,136144,65+,1,low,False,Retired,Location & Schools,False
+H04943,Old Town,198149,2201,4,4,41,1,0.19,False,False,B,5,5,7,6,2023-04-19,17,B04943,221697,25-34,2,low,False,Full-time employed,Modern & Updated,False
+H04950,Old Town,245046,1407,2,2,10,1,0.14,True,False,D,5,5,7,6,2023-09-19,13,B04950,264774,45-54,2,low,False,Full-time employed,Affordability,False
+H04972,Old Town,193730,1910,4,4,4,2,0.15,False,False,F,5,5,7,6,2023-08-10,70,B04972,224891,25-34,1,low,False,Full-time employed,Investment,True
+H04984,Old Town,181141,1053,2,2,13,2,0.21,True,False,E,5,5,7,6,2024-02-25,7,B04984,193348,35-44,1,low,False,Self-employed,Affordability,False
+H04996,Old Town,190215,1200,2,2,33,1,0.14,False,True,D,5,5,7,6,2024-07-12,24,B04996,209869,35-44,1,low,False,Dual income,Affordability,False
+H05003,Old Town,120000,904,2,1,9,2,0.18,False,False,F,5,5,7,6,2024-03-02,47,B05003,131349,25-34,1,low,False,Self-employed,Space & Bedrooms,False
+H05005,Old Town,231685,1326,2,2,21,2,0.14,True,False,C,5,5,7,6,2022-01-27,35,B05005,253683,45-54,1,low,False,Full-time employed,Affordability,False
+H05008,Old Town,192954,825,1,1,7,2,0.1,False,False,F,5,5,7,6,2024-02-03,97,B05008,214794,45-54,1,low,False,Retired,Low Maintenance,False
+H05020,Old Town,230196,1858,3,3,50,1,0.17,True,False,A,5,5,7,6,2022-09-07,5,B05020,258391,65+,1,low,False,Retired,Low Maintenance,False
+H05083,Old Town,188833,1351,3,2,30,1,0.25,False,False,B,5,5,7,6,2022-06-06,28,B05083,212428,35-44,1,low,False,Full-time employed,Space & Bedrooms,False
+H05093,Old Town,127015,993,1,1,35,0,0.29,True,False,B,5,5,7,6,2024-05-27,135,B05093,137799,25-34,1,low,False,Full-time employed,Low Maintenance,True
+H05097,Old Town,152268,1445,2,2,56,1,0.15,False,False,A,5,5,7,6,2022-12-18,1,B05097,172197,55-64,1,low,False,Full-time employed,Space & Bedrooms,False
+H05112,Old Town,224034,1607,3,3,19,0,0.13,True,False,C,5,5,7,6,2022-09-18,16,B05112,256131,55-64,2,low,False,Dual income,Investment,False
+H05130,Old Town,160944,1663,3,3,23,1,0.15,True,False,C,5,5,7,6,2024-05-14,1,B05130,174668,55-64,1,low,False,Full-time employed,Space & Bedrooms,False
+H05146,Old Town,206402,1934,3,4,13,2,0.14,False,True,E,5,5,7,6,2024-06-18,5,B05146,221545,25-34,1,low,False,Full-time employed,Affordability,False
+H05148,Old Town,120000,800,1,1,5,1,0.16,True,False,F,5,5,7,6,2022-10-15,1,B05148,130311,25-34,1,low,False,Dual income,Space & Bedrooms,False
+H05177,Old Town,120000,800,1,1,21,0,0.29,False,False,D,5,5,7,6,2023-08-02,6,B05177,133286,25-34,1,low,False,Full-time employed,Affordability,False
+H05209,Old Town,201689,2038,3,3,21,2,0.12,False,False,D,5,5,7,6,2023-06-01,36,B05209,213300,35-44,3,low,False,Full-time employed,Modern & Updated,False
+H05228,Old Town,120000,928,2,2,10,2,0.14,False,False,F,5,5,7,6,2024-08-09,6,B05228,130000,35-44,2,low,False,Full-time employed,Modern & Updated,False
+H05248,Old Town,120000,929,2,1,10,1,0.12,False,False,F,5,5,7,6,2023-04-10,82,B05248,131691,45-54,2,low,False,Dual income,Affordability,False
+H05255,Old Town,264795,1706,2,2,3,0,0.16,False,False,E,5,5,7,6,2024-08-14,133,B05255,298123,35-44,1,medium,False,Self-employed,Modern & Updated,False
+H05260,Old Town,120000,818,1,1,2,2,0.1,False,False,E,5,5,7,6,2023-06-16,41,B05260,141077,35-44,1,low,False,Dual income,Affordability,False
+H05269,Old Town,306872,2029,3,3,7,2,0.13,True,False,D,5,5,7,6,2023-07-06,71,B05269,342576,35-44,1,medium,False,Dual income,Location & Schools,False
+H05284,Old Town,244861,2080,4,4,16,1,0.14,True,False,E,5,5,7,6,2023-02-20,25,B05284,259167,25-34,2,low,False,Self-employed,Affordability,False
+H05304,Old Town,120000,855,1,1,17,1,0.1,True,False,E,5,5,7,6,2022-05-02,54,B05304,135625,55-64,1,low,False,Retired,Space & Bedrooms,True
+H05309,Old Town,262207,1842,3,3,16,1,0.08,False,False,C,5,5,7,6,2023-10-25,17,B05309,277146,25-34,1,low,False,Full-time employed,Location & Schools,False
+H05310,Old Town,350912,2941,5,5,1,1,0.24,False,False,F,5,5,7,6,2024-07-08,8,B05310,372879,25-34,2,medium,False,Full-time employed,Affordability,False
+H05359,Old Town,120000,966,3,2,43,1,0.13,False,False,B,5,5,7,6,2023-04-15,10,B05359,130000,25-34,2,low,False,Dual income,Space & Bedrooms,False
+H05390,Old Town,351370,2465,4,4,0,1,0.14,True,False,F,5,5,7,6,2022-02-12,60,B05390,383478,55-64,3,medium,True,Full-time employed,Space & Bedrooms,False
+H05393,Old Town,120000,1181,2,2,5,1,0.13,False,False,E,5,5,7,6,2023-04-06,1,B05393,133639,35-44,2,low,False,Self-employed,Location & Schools,False
+H05400,Old Town,226957,1822,4,3,14,1,0.15,False,False,D,5,5,7,6,2024-04-13,2,B05400,256815,35-44,2,low,False,Full-time employed,Space & Bedrooms,False
+H05406,Old Town,222575,1819,4,4,21,1,0.12,False,True,D,5,5,7,6,2024-10-02,15,B05406,240827,55-64,2,low,False,Full-time employed,Affordability,False
+H05438,Old Town,176171,1543,2,2,6,1,0.16,False,False,F,5,5,7,6,2023-07-02,2,B05438,207141,25-34,1,low,False,Full-time employed,Affordability,False
+H05440,Old Town,238304,1400,3,3,0,2,0.29,False,False,F,5,5,7,6,2022-11-26,37,B05440,272260,25-34,1,low,False,Self-employed,Space & Bedrooms,True
+H05468,Old Town,120000,853,2,2,48,2,0.2,False,False,A,5,5,7,6,2024-06-09,60,B05468,130000,35-44,1,low,False,Full-time employed,Space & Bedrooms,False
+H05469,Old Town,120000,800,1,1,4,0,0.11,False,False,E,5,5,7,6,2023-09-20,48,B05469,131634,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H05498,Old Town,120000,800,1,1,4,2,0.16,False,False,F,5,5,7,6,2024-05-26,4,B05498,141369,55-64,1,low,False,Retired,Investment,False
+H05513,Old Town,268774,1832,2,2,33,2,0.18,True,True,C,5,5,7,6,2022-09-08,18,B05513,290212,25-34,1,medium,False,Full-time employed,Space & Bedrooms,False
+H05521,Old Town,286931,1876,4,4,1,1,0.22,False,True,F,5,5,7,6,2024-10-09,3,B05521,319138,35-44,2,medium,False,Self-employed,Space & Bedrooms,False
+H05538,Old Town,169495,1525,1,2,30,1,0.29,True,False,C,5,5,7,6,2022-05-23,90,B05538,190975,25-34,1,low,False,Full-time employed,Affordability,False
+H05543,Old Town,207429,1507,2,2,1,0,0.17,False,False,E,5,5,7,6,2024-09-21,13,B05543,239823,25-34,1,low,False,Full-time employed,Investment,False
+H05555,Old Town,120000,1332,2,2,30,1,0.19,False,False,C,5,5,7,6,2023-06-03,106,B05555,133791,45-54,3,low,True,Full-time employed,Space & Bedrooms,False
+H05569,Old Town,211538,2416,4,4,36,2,0.09,False,False,C,5,5,7,6,2022-03-23,127,B05569,242772,35-44,3,low,True,Full-time employed,Space & Bedrooms,False
+H05607,Old Town,152903,1075,2,2,12,2,0.13,False,False,E,5,5,7,6,2023-10-17,24,B05607,172181,25-34,1,low,False,Full-time employed,Modern & Updated,False
+H05608,Old Town,299208,1436,2,2,0,0,0.22,True,False,F,5,5,7,6,2022-07-03,5,B05608,326491,45-54,1,medium,False,Full-time employed,Affordability,False
+H05616,Old Town,300209,1943,3,3,8,1,0.13,True,False,F,5,5,7,6,2022-05-03,42,B05616,333772,35-44,1,medium,False,Full-time employed,Modern & Updated,False
+H05617,Old Town,205368,1792,3,3,30,1,0.25,True,False,C,5,5,7,6,2023-10-26,64,B05617,226009,45-54,1,low,False,Full-time employed,Affordability,False
+H05626,Old Town,194419,1637,2,2,12,1,0.21,True,False,E,5,5,7,6,2022-01-25,25,B05626,208879,55-64,1,low,False,Retired,Affordability,False
+H05638,Old Town,308666,2406,4,4,5,1,0.15,True,False,F,5,5,7,6,2022-05-24,34,B05638,363802,35-44,3,medium,False,Full-time employed,Affordability,False
+H05658,Old Town,139832,2070,4,4,36,1,0.1,False,False,C,5,5,7,6,2024-09-23,26,B05658,161778,25-34,2,low,False,Full-time employed,Space & Bedrooms,False
+H05668,Old Town,120000,800,1,1,0,0,0.21,False,False,F,5,5,7,6,2023-05-11,30,B05668,138651,35-44,1,low,False,Full-time employed,Modern & Updated,False
+H05671,Old Town,120000,919,1,1,14,2,0.12,False,False,E,5,5,7,6,2023-10-15,85,B05671,138035,25-34,1,low,False,Full-time employed,Modern & Updated,False
+H05707,Old Town,188456,1258,2,2,33,1,0.15,False,True,D,5,5,7,6,2024-09-19,13,B05707,200394,65+,1,low,False,Retired,Location & Schools,False
+H05741,Old Town,125668,1411,1,1,22,0,0.21,False,False,D,5,5,7,6,2022-03-08,13,B05741,133005,25-34,1,low,False,Full-time employed,Affordability,False
+H05743,Old Town,326094,2413,4,4,12,2,0.11,True,False,E,5,5,7,6,2023-09-04,6,B05743,364253,55-64,2,medium,False,Full-time employed,Affordability,False
+H05765,Old Town,164870,1663,3,3,56,1,0.16,True,False,A,5,5,7,6,2024-11-17,7,B05765,189794,55-64,3,low,False,Retired,Investment,False
+H05821,Old Town,170864,1628,4,4,40,0,0.24,False,False,A,5,5,7,6,2022-06-05,15,B05821,196346,25-34,2,low,False,Dual income,Affordability,False
+H05837,Old Town,129351,950,1,1,0,0,0.1,False,False,E,5,5,7,6,2023-05-07,21,B05837,146360,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H05845,Old Town,192251,2074,3,3,46,2,0.2,False,False,B,5,5,7,6,2023-05-27,10,B05845,221591,25-34,2,low,False,Full-time employed,Space & Bedrooms,False
+H05853,Old Town,220508,1863,4,4,0,1,0.27,False,False,F,5,5,7,6,2023-05-03,24,B05853,254911,25-34,1,low,False,Full-time employed,Modern & Updated,False
+H05854,Old Town,131725,928,2,1,25,1,0.1,False,False,C,5,5,7,6,2022-07-27,21,B05854,150541,25-34,1,low,False,Self-employed,Space & Bedrooms,False
+H05877,Old Town,120000,800,2,2,48,2,0.12,False,True,C,5,5,7,6,2024-08-02,1,B05877,139225,35-44,1,low,False,Full-time employed,Low Maintenance,False
+H05930,Old Town,216719,1774,2,2,2,0,0.14,False,False,D,5,5,7,6,2024-07-17,103,B05930,242336,55-64,1,low,False,Full-time employed,Modern & Updated,False
+H05944,Old Town,359398,3135,4,5,3,3,0.12,False,False,F,5,5,7,6,2022-09-15,74,B05944,386470,25-34,1,medium,False,Dual income,Location & Schools,False
+H05966,Old Town,228971,1823,3,3,3,2,0.23,False,False,F,5,5,7,6,2022-10-10,4,B05966,253166,55-64,2,low,False,Retired,Location & Schools,False
+H05974,Old Town,270190,2048,3,4,3,2,0.19,False,False,E,5,5,7,6,2022-07-24,10,B05974,315064,45-54,1,medium,False,Full-time employed,Modern & Updated,False
+H06003,Old Town,120000,991,2,2,36,1,0.14,True,False,B,5,5,7,6,2024-08-13,11,B06003,137912,35-44,1,low,False,Full-time employed,Investment,False
+H06022,Old Town,138035,1232,1,1,54,1,0.11,False,True,B,5,5,7,6,2023-05-28,128,B06022,147061,25-34,1,low,False,Full-time employed,Affordability,False
+H06023,Old Town,191104,2004,3,4,0,1,0.12,True,False,F,5,5,7,6,2022-10-12,69,B06023,213954,35-44,1,low,False,Self-employed,Modern & Updated,False
+H06027,Old Town,151794,1259,3,3,5,1,0.16,False,False,E,5,5,7,6,2023-07-13,18,B06027,176784,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H06038,Old Town,193736,1734,3,3,10,1,0.16,False,False,E,5,5,7,6,2023-05-06,24,B06038,216407,35-44,1,low,False,Self-employed,Space & Bedrooms,False
+H06040,Old Town,152435,1281,2,1,33,0,0.17,True,True,E,5,5,7,6,2024-05-28,54,B06040,175523,35-44,1,low,False,Full-time employed,Space & Bedrooms,False
+H06055,Old Town,120000,1185,2,2,54,1,0.2,False,False,A,5,5,7,6,2024-01-23,13,B06055,130991,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H06059,Old Town,221415,2339,3,3,31,1,0.12,False,False,D,5,5,7,6,2022-01-16,2,B06059,241629,25-34,1,low,False,Full-time employed,Affordability,False
+H06060,Old Town,285772,2015,3,3,23,2,0.2,True,True,F,5,5,7,6,2024-09-20,125,B06060,305695,25-34,2,medium,False,Dual income,Affordability,False
+H06098,Old Town,161448,1182,2,2,11,0,0.22,True,False,D,5,5,7,6,2023-08-01,34,B06098,185764,45-54,1,low,False,Self-employed,Location & Schools,False
+H06100,Old Town,285284,1857,3,3,34,2,0.08,False,True,D,5,5,7,6,2023-02-24,34,B06100,315524,25-34,2,medium,False,Full-time employed,Location & Schools,False
+H06144,Old Town,267322,2578,4,4,27,2,0.1,False,False,C,5,5,7,6,2022-12-17,1,B06144,294587,45-54,1,medium,False,Self-employed,Modern & Updated,False
+H06160,Old Town,326510,2704,3,3,4,1,0.12,False,False,F,5,5,7,6,2023-09-10,6,B06160,344463,45-54,3,medium,True,Full-time employed,Space & Bedrooms,False
+H06174,Old Town,337348,2246,4,4,2,2,0.17,False,False,F,5,5,7,6,2024-10-22,20,B06174,355421,35-44,4,medium,True,Full-time employed,Space & Bedrooms,False
+H06198,Old Town,120000,810,1,1,32,1,0.28,True,False,C,5,5,7,6,2022-08-06,51,B06198,133901,55-64,1,low,False,Full-time employed,Space & Bedrooms,False
+H06236,Old Town,284545,1650,2,2,6,1,0.11,True,False,F,5,5,7,6,2024-06-04,21,B06236,309614,25-34,1,medium,False,Full-time employed,Modern & Updated,False
+H06239,Old Town,120000,979,2,2,48,0,0.14,False,False,A,5,5,7,6,2023-09-01,46,B06239,130000,35-44,1,low,False,Full-time employed,Space & Bedrooms,False
+H06240,Old Town,161666,1056,2,1,31,1,0.11,False,True,E,5,5,7,6,2023-04-27,72,B06240,189270,25-34,1,low,False,Self-employed,Space & Bedrooms,False
+H06259,Old Town,127101,1417,3,3,12,0,0.17,False,True,F,5,5,7,6,2024-10-09,8,B06259,140648,25-34,1,low,False,Self-employed,Space & Bedrooms,False
+H06262,Old Town,120000,1419,2,2,49,0,0.25,False,False,A,5,5,7,6,2023-03-17,12,B06262,130423,25-34,1,low,False,Full-time employed,Affordability,True
+H06265,Old Town,399656,1768,3,3,3,1,0.19,True,True,F,5,5,7,6,2024-05-02,43,B06265,430136,25-34,2,medium,False,Full-time employed,Location & Schools,False
+H06279,Old Town,128804,1663,3,3,9,2,0.12,False,False,F,5,5,7,6,2022-02-27,7,B06279,135883,35-44,3,low,False,Full-time employed,Location & Schools,False
+H06287,Old Town,120000,800,2,2,34,1,0.15,True,False,B,5,5,7,6,2023-09-22,40,B06287,130000,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H06295,Old Town,208099,1478,3,2,14,0,0.15,True,False,E,5,5,7,6,2023-01-15,40,B06295,224298,55-64,2,low,False,Full-time employed,Space & Bedrooms,True
+H06296,Old Town,199433,1893,4,3,4,1,0.15,False,False,E,5,5,7,6,2023-02-16,28,B06296,226356,65+,1,low,False,Dual income,Modern & Updated,True
+H06370,Old Town,153756,1541,3,3,1,1,0.09,False,False,E,5,5,7,6,2022-04-02,41,B06370,169407,65+,1,low,False,Retired,Low Maintenance,False
+H06380,Old Town,170306,1555,3,3,19,1,0.13,True,False,D,5,5,7,6,2023-02-28,49,B06380,199962,25-34,1,low,False,Full-time employed,Modern & Updated,False
+H06400,Old Town,237718,1753,2,3,8,0,0.21,True,False,F,5,5,7,6,2022-03-28,96,B06400,262559,35-44,1,low,False,Dual income,Affordability,False
+H06402,Old Town,165670,1030,2,2,24,1,0.21,False,False,B,5,5,7,6,2024-06-20,48,B06402,188540,35-44,1,low,False,Full-time employed,Modern & Updated,False
+H06404,Old Town,182714,1998,2,2,27,2,0.15,False,False,D,5,5,7,6,2022-03-21,52,B06404,215600,45-54,1,low,False,Self-employed,Space & Bedrooms,False
+H06406,Old Town,120000,800,1,1,3,0,0.07,False,False,E,5,5,7,6,2022-12-19,56,B06406,139287,65+,1,low,False,Retired,Affordability,False
+H06413,Old Town,243691,1556,3,3,5,1,0.2,False,False,E,5,5,7,6,2024-06-01,30,B06413,285543,65+,1,medium,False,Retired,Low Maintenance,False
+H06433,Old Town,120000,1237,3,3,29,0,0.11,True,False,C,5,5,7,6,2023-08-10,25,B06433,132778,25-34,1,low,False,Full-time employed,Location & Schools,False
+H06451,Old Town,120000,800,1,1,5,1,0.13,False,False,F,5,5,7,6,2023-08-03,34,B06451,131635,25-34,1,low,False,Dual income,Affordability,False
+H06509,Old Town,286782,2276,2,2,1,2,0.15,False,False,F,5,5,7,6,2024-07-16,8,B06509,310419,55-64,2,medium,False,Retired,Location & Schools,False
+H06513,Old Town,158375,1780,4,3,60,2,0.16,False,True,A,5,5,7,6,2022-04-18,9,B06513,169030,25-34,2,low,False,Full-time employed,Low Maintenance,False
+H06517,Old Town,120000,827,2,2,21,1,0.14,False,False,E,5,5,7,6,2023-03-22,76,B06517,140774,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H06528,Old Town,120000,843,1,1,27,1,0.17,False,False,D,5,5,7,6,2024-08-28,13,B06528,130498,35-44,1,low,False,Dual income,Affordability,True
+H06530,Old Town,120000,1086,1,1,53,1,0.17,False,True,C,5,5,7,6,2023-02-19,18,B06530,130000,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H06538,Old Town,290437,1669,3,3,22,1,0.14,True,False,E,5,5,7,6,2024-03-22,18,B06538,336846,45-54,1,medium,False,Full-time employed,Affordability,False
+H06574,Old Town,120000,800,1,1,28,0,0.14,True,False,C,5,5,7,6,2024-05-09,21,B06574,130000,45-54,1,low,False,Full-time employed,Location & Schools,True
+H06581,Old Town,124369,884,3,3,60,1,0.19,False,True,A,5,5,7,6,2024-04-03,23,B06581,142497,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H06594,Old Town,240080,2029,2,2,31,1,0.1,False,False,C,5,5,7,6,2023-07-12,32,B06594,259088,55-64,2,low,False,Retired,Modern & Updated,False
+H06611,Old Town,272818,2453,4,4,4,1,0.21,False,False,D,5,5,7,6,2022-01-04,4,B06611,295326,35-44,4,medium,True,Full-time employed,Location & Schools,False
+H06644,Old Town,265670,1938,3,3,6,1,0.12,False,False,E,5,5,7,6,2023-08-11,6,B06644,303871,35-44,2,medium,False,Dual income,Affordability,False
+H06647,Old Town,374820,2590,4,4,3,1,0.2,True,False,F,5,5,7,6,2023-11-04,9,B06647,398079,55-64,4,medium,True,Retired,Location & Schools,False
+H06648,Old Town,159900,1597,3,3,41,0,0.11,False,False,C,5,5,7,6,2024-06-14,4,B06648,168302,35-44,1,low,False,Full-time employed,Affordability,False
+H06650,Old Town,120000,800,1,1,13,1,0.17,True,False,D,5,5,7,6,2022-01-19,18,B06650,136748,45-54,1,low,False,Self-employed,Location & Schools,False
+H06652,Old Town,120000,800,2,1,2,1,0.19,False,False,F,5,5,7,6,2023-02-06,39,B06652,133528,35-44,1,low,False,Full-time employed,Affordability,False
+H06665,Old Town,216251,1738,3,3,37,1,0.21,False,False,C,5,5,7,6,2024-10-25,50,B06665,249953,35-44,1,low,False,Full-time employed,Location & Schools,False
+H06676,Old Town,120000,815,2,2,51,1,0.18,False,False,B,5,5,7,6,2022-06-21,44,B06676,130000,25-34,1,low,False,Full-time employed,Location & Schools,False
+H06683,Old Town,288497,1928,3,3,4,2,0.24,False,False,E,5,5,7,6,2022-05-15,18,B06683,317813,25-34,1,medium,False,Full-time employed,Location & Schools,False
+H06715,Old Town,120000,800,1,1,0,1,0.28,False,False,F,5,5,7,6,2024-11-19,85,B06715,131298,35-44,1,low,False,Self-employed,Location & Schools,False
+H06744,Old Town,276778,2332,4,4,31,1,0.16,False,False,C,5,5,7,6,2024-10-05,39,B06744,295947,45-54,2,medium,False,Full-time employed,Modern & Updated,False
+H06757,Old Town,172358,1379,2,2,52,2,0.08,False,True,B,5,5,7,6,2023-09-17,6,B06757,200598,35-44,2,low,False,Full-time employed,Affordability,False
+H06769,Old Town,199028,1626,2,2,13,0,0.09,False,False,E,5,5,7,6,2022-09-04,7,B06769,215615,25-34,1,low,False,Full-time employed,Location & Schools,False
+H06772,Old Town,254500,1727,3,3,17,2,0.17,True,False,E,5,5,7,6,2023-12-17,13,B06772,283634,45-54,3,medium,False,Full-time employed,Low Maintenance,False
+H06786,Old Town,160858,1197,2,2,7,0,0.15,True,False,C,5,5,7,6,2024-03-05,10,B06786,176475,65+,1,low,False,Retired,Affordability,False
+H06789,Old Town,172784,1210,1,1,5,0,0.18,True,False,E,5,5,7,6,2023-05-08,9,B06789,189912,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H06819,Old Town,171245,1645,3,2,45,2,0.15,True,False,C,5,5,7,6,2023-08-01,1,B06819,192502,45-54,3,low,True,Full-time employed,Space & Bedrooms,False
+H06875,Old Town,120000,1353,3,3,42,1,0.09,False,False,B,5,5,7,6,2022-10-22,45,B06875,131633,25-34,1,low,False,Full-time employed,Space & Bedrooms,False
+H06896,Old Town,206610,1817,3,3,42,1,0.08,False,False,C,5,5,7,6,2022-09-11,96,B06896,219798,35-44,3,low,True,Full-time employed,Space & Bedrooms,False
+H06909,Old Town,246433,1985,3,3,24,2,0.11,False,False,D,5,5,7,6,2022-08-12,42,B06909,260280,35-44,3,low,True,Self-employed,Location & Schools,True
+H06942,Old Town,120000,800,1,1,53,0,0.21,True,False,A,5,5,7,6,2024-06-08,26,B06942,130000,35-44,1,low,False,Self-employed,Affordability,False
+H06949,Old Town,120000,1166,2,2,42,2,0.17,False,False,A,5,5,7,6,2022-02-10,23,B06949,130000,55-64,2,low,False,Dual income,Affordability,False
+H06967,Old Town,120000,1356,3,3,27,0,0.12,False,False,E,5,5,7,6,2022-05-20,180,B06967,133689,35-44,2,low,False,Self-employed,Low Maintenance,False
+H06984,Old Town,152095,1510,2,2,6,1,0.15,False,False,E,5,5,7,6,2024-07-27,22,B06984,165546,25-34,1,low,False,Self-employed,Investment,False
+H06985,Old Town,249835,2137,3,3,60,2,0.13,False,False,A,5,5,7,6,2022-10-28,47,B06985,288067,55-64,3,medium,True,Full-time employed,Location & Schools,False
+H07003,Old Town,120000,800,1,2,45,1,0.07,False,False,B,5,5,7,6,2022-06-16,15,B07003,130000,45-54,1,low,False,Dual income,Modern & Updated,False
+H07016,Old Town,173942,1695,3,3,4,0,0.24,True,False,E,5,5,7,6,2023-07-27,6,B07016,195279,25-34,1,low,False,Full-time employed,Space & Bedrooms,True
+H07036,Old Town,139689,1126,3,3,4,0,0.17,False,False,F,5,5,7,6,2024-01-16,24,B07036,147690,45-54,1,low,False,Self-employed,Affordability,True
+H07051,Old Town,296085,1981,3,3,2,2,0.12,True,False,E,5,5,7,6,2023-02-04,98,B07051,342247,65+,1,medium,False,Self-employed,Investment,False
+H07059,Old Town,120000,1367,1,2,60,0,0.08,False,True,B,5,5,7,6,2024-11-13,1,B07059,140265,25-34,1,low,False,Full-time employed,Affordability,False
+H07097,Old Town,131368,1135,3,2,7,2,0.32,False,False,D,5,5,7,6,2024-05-12,16,B07097,151782,45-54,2,low,False,Full-time employed,Affordability,False
+H07100,Old Town,120000,912,2,2,22,2,0.11,False,False,C,5,5,7,6,2023-05-05,96,B07100,131211,65+,1,low,False,Retired,Low Maintenance,False
+H07109,Old Town,120000,1043,2,2,42,1,0.12,False,False,C,5,5,7,6,2022-08-06,35,B07109,139172,35-44,1,low,False,Full-time employed,Location & Schools,False
+H07124,Old Town,303363,1981,3,3,3,1,0.17,False,False,E,5,5,7,6,2022-11-28,27,B07124,345856,55-64,1,medium,False,Self-employed,Location & Schools,False
+H07137,Old Town,297014,1996,4,4,6,2,0.13,True,False,E,5,5,7,6,2022-03-24,50,B07137,323308,25-34,1,medium,False,Full-time employed,Affordability,True
+H07154,Old Town,240021,1552,2,3,4,0,0.15,False,False,F,5,5,7,6,2022-05-07,138,B07154,268641,35-44,1,low,False,Full-time employed,Location & Schools,False
+H07167,Old Town,240844,1829,3,3,22,1,0.14,False,False,D,5,5,7,6,2024-01-23,125,B07167,254536,25-34,1,low,False,Dual income,Location & Schools,False
+H07172,Old Town,219352,2036,3,3,2,2,0.12,True,False,F,5,5,7,6,2023-06-15,25,B07172,230528,35-44,2,low,False,Self-employed,Modern & Updated,True
+H07225,Old Town,120000,800,2,2,58,1,0.26,True,False,B,5,5,7,6,2024-06-16,15,B07225,140873,55-64,1,low,False,Full-time employed,Location & Schools,False
+H07227,Old Town,363168,2476,5,5,1,1,0.18,True,False,F,5,5,7,6,2023-10-14,14,B07227,384895,65+,1,medium,False,Dual income,Affordability,False
+H07238,Old Town,144243,1258,2,1,38,1,0.16,False,False,A,5,5,7,6,2022-05-01,17,B07238,159788,25-34,1,low,False,Full-time employed,Modern & Updated,False
+H07248,Old Town,198751,1899,2,3,21,1,0.13,False,False,E,5,5,7,6,2022-07-16,3,B07248,222282,35-44,1,low,False,Full-time employed,Space & Bedrooms,False
+H07251,Old Town,176887,1169,2,2,9,2,0.16,False,False,D,5,5,7,6,2023-11-28,47,B07251,203009,55-64,2,low,False,Retired,Modern & Updated,False
+H07276,Old Town,222543,1748,3,3,3,0,0.18,True,True,F,5,5,7,6,2024-04-10,15,B07276,254016,25-34,1,low,False,Full-time employed,Location & Schools,False
+H07290,Old Town,314489,2325,3,3,4,2,0.16,True,False,F,5,5,7,6,2022-02-22,39,B07290,359085,35-44,2,medium,False,Full-time employed,Affordability,False
+H07304,Old Town,192521,1917,4,4,60,1,0.12,True,True,B,5,5,7,6,2024-04-25,1,B07304,203487,25-34,2,low,False,Self-employed,Space & Bedrooms,False
+H07307,Old Town,144611,1207,2,2,30,1,0.16,False,False,D,5,5,7,6,2022-08-23,14,B07307,162691,25-34,1,low,False,Self-employed,Space & Bedrooms,False
+H07332,Old Town,150455,1452,3,3,60,0,0.14,True,False,A,5,5,7,6,2022-12-18,11,B07332,160233,35-44,1,low,False,Full-time employed,Location & Schools,False
+H07360,Old Town,257030,1795,3,3,22,2,0.13,True,False,E,5,5,7,6,2022-11-04,27,B07360,289928,45-54,2,medium,False,Retired,Space & Bedrooms,False
+H07364,Old Town,120000,1174,1,1,47,1,0.18,False,True,B,5,5,7,6,2023-10-28,7,B07364,130000,25-34,1,low,False,Full-time employed,Affordability,False
+H07398,Old Town,253158,1712,3,3,12,0,0.12,False,False,D,5,5,7,6,2022-09-02,96,B07398,274194,45-54,2,low,False,Retired,Affordability,False
+H07436,Old Town,187056,2099,4,4,52,2,0.1,False,False,A,5,5,7,6,2023-11-15,21,B07436,211100,35-44,2,low,False,Full-time employed,Space & Bedrooms,False
+H07455,Old Town,342693,2420,4,4,3,1,0.23,False,False,F,5,5,7,6,2023-06-14,39,B07455,395741,35-44,4,medium,True,Dual income,Space & Bedrooms,False
+H07467,Old Town,208224,943,1,2,6,1,0.14,True,False,F,5,5,7,6,2022-07-01,26,B07467,223051,25-34,1,low,False,Full-time employed,Modern & Updated,False
+H07473,Old Town,195942,1374,3,2,0,2,0.11,False,False,E,5,5,7,6,2023-09-04,8,B07473,225087,25-34,1,low,False,Dual income,Modern & Updated,False
+H07479,Old Town,368665,2774,5,4,29,1,0.12,False,True,C,5,5,7,6,2022-07-08,1,B07479,424846,35-44,1,medium,False,Full-time employed,Location & Schools,True
+H07495,Old Town,120000,1238,2,2,29,1,0.12,False,False,E,5,5,7,6,2024-05-26,1,B07495,136276,25-34,1,low,False,Dual income,Affordability,False
+H07498,Old Town,164929,800,1,1,57,1,0.21,True,True,B,5,5,7,6,2022-09-15,39,B07498,177074,35-44,1,low,False,Self-employed,Location & Schools,False
+H07502,Old Town,120000,1201,3,3,4,0,0.13,False,False,F,5,5,7,6,2023-06-22,34,B07502,140342,45-54,1,low,False,Full-time employed,Affordability,False
+H07511,Old Town,144370,1629,3,3,42,0,0.15,True,False,C,5,5,7,6,2024-10-04,6,B07511,167035,65+,1,low,False,Retired,Low Maintenance,False
+H07535,Old Town,277607,1977,3,3,6,2,0.15,True,False,F,5,5,7,6,2023-06-13,14,B07535,302400,55-64,3,medium,True,Dual income,Space & Bedrooms,False
+H07566,Old Town,166555,1631,3,3,26,2,0.18,False,False,C,5,5,7,6,2024-03-19,11,B07566,186260,25-34,1,low,False,Full-time employed,Modern & Updated,False
+H07592,Old Town,186489,1420,2,3,0,0,0.17,True,False,D,5,5,7,6,2024-08-08,57,B07592,215901,25-34,1,low,False,Dual income,Space & Bedrooms,True
+H07594,Old Town,292787,1788,2,3,4,2,0.17,True,False,F,5,5,7,6,2022-08-10,5,B07594,326324,25-34,1,medium,False,Dual income,Space & Bedrooms,False
+H07621,Old Town,130352,1454,2,2,46,1,0.23,False,False,B,5,5,7,6,2023-06-24,92,B07621,137835,35-44,1,low,False,Dual income,Modern & Updated,False
+H07627,Old Town,238766,2215,4,4,17,1,0.3,False,True,F,5,5,7,6,2022-02-06,45,B07627,277378,25-34,1,low,False,Self-employed,Affordability,False
+H07669,Old Town,141922,1322,1,2,48,1,0.1,False,False,A,5,5,7,6,2024-06-21,63,B07669,160439,35-44,1,low,False,Self-employed,Space & Bedrooms,False
+H07673,Old Town,153400,1614,4,3,0,1,0.15,False,False,F,5,5,7,6,2024-04-28,102,B07673,162024,35-44,2,low,False,Full-time employed,Space & Bedrooms,False
+H07690,Old Town,120000,803,2,2,8,1,0.19,False,False,F,5,5,7,6,2022-08-06,28,B07690,130000,45-54,1,low,False,Self-employed,Affordability,False
+H07692,Old Town,120000,800,1,1,13,2,0.09,False,False,E,5,5,7,6,2022-07-03,123,B07692,138068,25-34,1,low,False,Self-employed,Affordability,False
+H07710,Old Town,328998,2554,5,4,0,2,0.17,False,False,E,5,5,7,6,2023-06-14,4,B07710,387683,45-54,3,medium,True,Full-time employed,Location & Schools,False
+H07758,Old Town,120000,897,2,2,45,1,0.15,True,False,A,5,5,7,6,2023-04-01,76,B07758,132972,25-34,1,low,False,Self-employed,Affordability,False
+H07759,Old Town,281961,2080,3,3,8,2,0.17,False,False,E,5,5,7,6,2022-05-15,63,B07759,314266,65+,1,medium,False,Retired,Modern & Updated,False
+H07779,Old Town,120000,1059,2,2,23,2,0.16,False,False,D,5,5,7,6,2023-03-01,32,B07779,139777,55-64,1,low,False,Self-employed,Modern & Updated,False
+H07783,Old Town,207204,1133,2,2,0,1,0.19,False,False,F,5,5,7,6,2024-05-06,10,B07783,232209,35-44,2,low,False,Full-time employed,Location & Schools,True
+H07808,Old Town,120000,800,2,2,17,0,0.2,True,False,E,5,5,7,6,2022-05-14,25,B07808,130589,25-34,1,low,False,Dual income,Low Maintenance,False
+H07826,Old Town,120000,800,2,1,25,0,0.17,False,False,C,5,5,7,6,2022-03-03,28,B07826,132918,25-34,1,low,False,Full-time employed,Location & Schools,False
+H07834,Old Town,195661,1786,3,3,23,1,0.21,True,False,C,5,5,7,6,2022-05-20,74,B07834,213814,35-44,1,low,False,Full-time employed,Location & Schools,False
+H07840,Old Town,127469,1145,1,1,42,1,0.15,False,False,B,5,5,7,6,2024-05-22,25,B07840,142087,45-54,1,low,False,Dual income,Location & Schools,False
+H07847,Old Town,231103,1876,3,2,12,1,0.11,False,False,D,5,5,7,6,2022-08-07,7,B07847,264672,45-54,1,low,False,Self-employed,Modern & Updated,False
+H07871,Old Town,151810,2155,4,4,34,1,0.3,False,False,C,5,5,7,6,2023-12-03,20,B07871,166663,25-34,2,low,False,Full-time employed,Location & Schools,True
+H07874,Old Town,120000,974,1,1,4,2,0.13,False,False,F,5,5,7,6,2024-06-17,26,B07874,130000,35-44,1,low,False,Dual income,Space & Bedrooms,False
+H07884,Old Town,148102,1732,3,3,22,1,0.1,False,False,D,5,5,7,6,2022-11-21,3,B07884,172320,25-34,1,low,False,Dual income,Modern & Updated,False
+H07896,Old Town,120000,1216,2,2,20,1,0.18,False,False,D,5,5,7,6,2024-06-04,54,B07896,134871,35-44,1,low,False,Full-time employed,Low Maintenance,False
+H07900,Old Town,198405,1569,3,3,9,2,0.18,True,True,F,5,5,7,6,2023-03-15,76,B07900,222781,35-44,2,low,False,Full-time employed,Affordability,False
+H07911,Old Town,264260,2125,3,3,4,2,0.15,True,False,F,5,5,7,6,2024-05-08,19,B07911,294678,45-54,1,medium,False,Dual income,Space & Bedrooms,False
+H07927,Old Town,120000,1256,3,3,4,1,0.13,False,False,F,5,5,7,6,2024-05-22,71,B07927,135577,25-34,1,low,False,Full-time employed,Location & Schools,False
+H07928,Old Town,227315,1813,3,3,4,2,0.17,False,False,E,5,5,7,6,2022-08-20,3,B07928,254422,35-44,3,low,False,Full-time employed,Space & Bedrooms,False
+H07955,Old Town,262557,1943,3,3,25,2,0.14,True,False,C,5,5,7,6,2023-03-28,7,B07955,283353,55-64,1,medium,False,Retired,Modern & Updated,True
+H07958,Old Town,176517,1537,2,2,17,0,0.18,False,False,D,5,5,7,6,2024-09-01,90,B07958,194626,25-34,1,low,False,Full-time employed,Affordability,False
+H07961,Old Town,244351,1726,2,2,1,0,0.11,False,True,F,5,5,7,6,2024-05-06,36,B07961,270875,25-34,1,low,False,Full-time employed,Location & Schools,False
+H07970,Old Town,318545,2003,3,3,1,2,0.12,False,False,F,5,5,7,6,2024-07-14,110,B07970,345964,35-44,3,medium,True,Full-time employed,Space & Bedrooms,False
+H07990,Old Town,160169,1128,1,1,35,1,0.15,True,False,B,5,5,7,6,2024-09-22,37,B07990,179533,25-34,1,low,False,Full-time employed,Affordability,False

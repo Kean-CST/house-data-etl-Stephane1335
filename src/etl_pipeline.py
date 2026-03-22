@@ -47,16 +47,34 @@ def extract(spark: SparkSession, csv_path: str) -> DataFrame:
     if not Path(csv_path).exists():
         raise FileNotFoundError(f"Input file not found at: {csv_path}")
 
-    print(f"Extracting data from {csv_path}...")
+    print(f"Extracting and formatting data from {csv_path}...")
     
-    # We use inferSchema=True so Spark automatically detects types 
-    # (Integer for price, Date for sale_date, Boolean for has_pool, etc.)
-    return (
+    # 1. Initial load with schema inference
+    # We set dateFormat to handle the source 'M/d/yy' (e.g., 6/23/23)
+    df = (
         spark.read.format("csv")
         .option("header", "true")
         .option("inferSchema", "true")
+        .option("dateFormat", "M/d/yy") 
         .load(csv_path)
     )
+
+    # 2. Harmonize data formats to match the "Expected" dictionary strings
+    for col_name, dtype in df.dtypes:
+        # Format Booleans: 'true' -> 'True'
+        if dtype == "boolean":
+            df = df.withColumn(col_name, F.initcap(F.col(col_name).cast("string")))
+        
+        # Format Dates: '6/23/23' -> '2023-06-23'
+        elif dtype == "date":
+            df = df.withColumn(col_name, F.date_format(F.col(col_name), "yyyy-MM-dd"))
+        
+        # Optional: Ensure decimals like lot_size_acres show trailing zeros if needed
+        # (e.g., '0.12' remains '0.12' instead of potentially rounding or changing)
+        elif "double" in dtype or "decimal" in dtype:
+            df = df.withColumn(col_name, F.col(col_name).cast("string"))
+
+    return df
 
 
 def transform(df: DataFrame) -> dict[str, DataFrame]:
@@ -68,7 +86,7 @@ def transform(df: DataFrame) -> dict[str, DataFrame]:
 
     for hood in NEIGHBORHOODS:
         # 1. Filter the data for this specific neighborhood
-        hood_df = df.filter(F.col("neighborhood") == hood)
+        hood_df = df.filter(F.col("neighborhood") == hood).orderBy("house_id")  # Optional: order by house_id for consistency
         
         # 2. Define paths
         # temp_path is where Spark writes its directory
@@ -81,7 +99,11 @@ def transform(df: DataFrame) -> dict[str, DataFrame]:
         print(f"Transforming and saving data for: {hood}")
         (
             hood_df.coalesce(1)
-            .write.csv(str(temp_path), header=True, mode="overwrite")
+            .write.mode("overwrite")
+            .option("header", "true")
+            .option("dateFormat", "yyyy-MM-dd")
+            .option("booleanFormat", "True/False") 
+            .csv(str(temp_path))
         )
         
         # 4. Clean up: Move the part file out and rename it, then delete the temp folder
